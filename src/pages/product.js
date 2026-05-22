@@ -75,10 +75,9 @@ export async function renderProduct(app, brandId, productId) {
 
   let allProducts
   try {
-    const res = await fetch('data/joykids/products.json')
+    const res = await fetch(`data/joykids/brands/${encodeURIComponent(brandId)}.json`)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    const data = await res.json()
-    allProducts = data.products || []
+    allProducts = await res.json()
   } catch (e) {
     document.getElementById('product-content').innerHTML =
       `<div class="state-error">데이터를 불러오지 못했습니다.</div>`

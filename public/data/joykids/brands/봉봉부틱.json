@@ -1,0 +1,89 @@
+[
+  {
+    "id": "775725",
+    "brand": "봉봉부틱",
+    "name": "봉봉부틱.M퓨어가디건",
+    "colors": "아이보리",
+    "size_range": "FREE",
+    "product_url": "https://joykids.kr/product/detail.html?product_no=775725&cate_no=491&display_group=1",
+    "thumbnail_url": "https://joykids.kr/web/product/medium/202605/mo0521/mo0521-051.jpg",
+    "thumbnail_local": "output/images/20260522/thumb/775725.jpg",
+    "price_original": 62400,
+    "price_sale": 40000,
+    "mfg_date": "2026-05-21",
+    "size_options": [
+      {
+        "name": "-------------------",
+        "add_price": 0
+      },
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0521/mo0521-051.jpg",
+        "local": "output/images/20260522/detail/775725_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "775724",
+    "brand": "봉봉부틱",
+    "name": "봉봉부틱.M오픈셔츠",
+    "colors": "아이보리",
+    "size_range": "FREE",
+    "product_url": "https://joykids.kr/product/detail.html?product_no=775724&cate_no=491&display_group=1",
+    "thumbnail_url": "https://joykids.kr/web/product/medium/202605/mo0521/mo0521-050.jpg",
+    "thumbnail_local": "output/images/20260522/thumb/775724.jpg",
+    "price_original": 52800,
+    "price_sale": 34000,
+    "mfg_date": "2026-05-21",
+    "size_options": [
+      {
+        "name": "-------------------",
+        "add_price": 0
+      },
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0521/mo0521-050.jpg",
+        "local": "output/images/20260522/detail/775724_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "775723",
+    "brand": "봉봉부틱",
+    "name": "봉봉부틱.M메이스커트",
+    "colors": "하늘/연두",
+    "size_range": "FREE",
+    "product_url": "https://joykids.kr/product/detail.html?product_no=775723&cate_no=491&display_group=1",
+    "thumbnail_url": "https://joykids.kr/web/product/medium/202605/mo0521/mo0521-049.jpg",
+    "thumbnail_local": "output/images/20260522/thumb/775723.jpg",
+    "price_original": 38400,
+    "price_sale": 25000,
+    "mfg_date": "2026-05-21",
+    "size_options": [
+      {
+        "name": "-------------------",
+        "add_price": 0
+      },
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0521/mo0521-049.jpg",
+        "local": "output/images/20260522/detail/775723_01.jpg"
+      }
+    ]
+  }
+]

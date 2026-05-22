@@ -62,21 +62,18 @@ export async function renderBrand(app, brandId) {
     location.hash = '#/'
   })
 
-  let allProducts
+  let products
   try {
-    const res = await fetch('data/joykids/products.json')
+    const res = await fetch(`data/joykids/brands/${encodeURIComponent(brandId)}.json`)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    const data = await res.json()
-    allProducts = data.products || []
+    products = await res.json()
   } catch (e) {
     document.getElementById('product-grid').innerHTML =
       `<div class="state-error" style="grid-column:1/-1">데이터를 불러오지 못했습니다.</div>`
     return
   }
 
-  const products = allProducts
-    .filter(p => p.brand === brandId)
-    .sort((a, b) => {
+  products = products.sort((a, b) => {
       const da = a.mfg_date || ''
       const db = b.mfg_date || ''
       return db.localeCompare(da)
