@@ -1,0 +1,96 @@
+[
+  {
+    "id": "이니키즈",
+    "name": "이니키즈",
+    "total": 60,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-124.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-123.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-122.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "스튜디오엠",
+    "name": "스튜디오엠",
+    "total": 35,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-157.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-156.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-156.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "미라이키",
+    "name": "미라이키",
+    "total": 24,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-059.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-058.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-057.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "코이코야",
+    "name": "코이코야",
+    "total": 13,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-024.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-023.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-022.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "릴라",
+    "name": "릴라",
+    "total": 11,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-035.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-034.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-033.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "코코방",
+    "name": "코코방",
+    "total": 10,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-010.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-009.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-008.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "플로",
+    "name": "플로",
+    "total": 5,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-064.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-063.jpg",
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-062.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  },
+  {
+    "id": "마이마이",
+    "name": "마이마이",
+    "total": 1,
+    "crawled_at": "2026-05-22T16:47:02",
+    "preview_thumbnails": [
+      "https://joykids.kr/web/product/medium/202605/mo0522/mo0522-011.jpg"
+    ],
+    "data_path": "joykids/products.json"
+  }
+]
