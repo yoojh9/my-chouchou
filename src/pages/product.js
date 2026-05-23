@@ -1,3 +1,5 @@
+const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
+
 function formatPrice(n) {
   return Number(n).toLocaleString('ko-KR') + '원'
 }
@@ -14,29 +16,29 @@ function openLightbox(imgSrc) {
 }
 
 function detailImageHTML(imgObj, idx) {
-  const localPath = imgObj.local
-  const remoteUrl = imgObj.url || ''
-
-  // Try local path first; fallback to remote URL on error
-  const src = localPath
-    ? `images/${localPath.replace(/^.*?images\//, '')}`
-    : remoteUrl
-
-  const fallback = remoteUrl
-    ? `if(this.src!=='${remoteUrl}'){this.src='${remoteUrl}'}`
-    : `this.style.display='none'`
+  const src = imgObj.url || ''
+  if (!src) return ''
 
   return `
-    <div class="product-detail__img-wrap img-placeholder">
+    <div class="product-detail__img-wrap skeleton" data-img-wrap>
       <img class="product-detail__img"
         src="${src}"
         alt="상세 이미지 ${idx + 1}"
         loading="${idx === 0 ? 'eager' : 'lazy'}"
-        data-full="${remoteUrl || src}"
-        onerror="${fallback}"
+        data-full="${src}"
+        onload="this.classList.add('is-loaded');this.closest('[data-img-wrap]').classList.remove('skeleton')"
+        onerror="this.closest('[data-img-wrap]').classList.add('is-error');this.closest('[data-img-wrap]').classList.remove('skeleton');this.remove()"
       >
-    </div>
-  `
+    </div>`
+}
+
+function attachImageSkeletonCleanup(container) {
+  container.querySelectorAll('[data-img-wrap] img').forEach(img => {
+    if (img.complete && img.naturalWidth) {
+      img.classList.add('is-loaded')
+      img.closest('[data-img-wrap]').classList.remove('skeleton')
+    }
+  })
 }
 
 function sizeTagsHTML(sizeOptions) {
@@ -54,20 +56,19 @@ function sizeTagsHTML(sizeOptions) {
     <div class="product-detail__sizes">
       <div class="product-detail__sizes-title">사이즈</div>
       <div class="product-detail__size-tags">${tags}</div>
-    </div>
-  `
+    </div>`
 }
 
 export async function renderProduct(app, brandId, productId) {
   app.innerHTML = `
     <div class="header">
-      <button class="header__back" id="back-btn" aria-label="뒤로가기">←</button>
-      <span class="header__title">상품 정보</span>
+      <button class="header__back" id="back-btn" aria-label="뒤로가기">
+        ${BACK_SVG}${brandId}
+      </button>
     </div>
-    <div id="product-content" style="padding-bottom:16px">
+    <div id="product-content" style="padding-bottom:32px">
       <div class="state-empty">불러오는 중...</div>
-    </div>
-  `
+    </div>`
 
   document.getElementById('back-btn').addEventListener('click', () => {
     location.hash = `#/brand/${encodeURIComponent(brandId)}`
@@ -75,7 +76,7 @@ export async function renderProduct(app, brandId, productId) {
 
   let allProducts
   try {
-    const res = await fetch(`data/joykids/brands/${encodeURIComponent(brandId)}.json`)
+    const res = await fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     allProducts = await res.json()
   } catch (e) {
@@ -92,52 +93,55 @@ export async function renderProduct(app, brandId, productId) {
     return
   }
 
-  document.querySelector('.header__title').textContent = product.name
+  const displayName = (() => {
+    const n = product.name || ''
+    const dotIdx = n.indexOf('.')
+    return dotIdx !== -1 ? n.slice(dotIdx + 1).trim() : n
+  })()
+
+  const salePrice = product.price_sale
+  const originalPrice = product.price_original
+  const hasDiscount = originalPrice && originalPrice > salePrice
+  const discountPct = hasDiscount ? Math.round((1 - salePrice / originalPrice) * 100) : 0
 
   const detailImages = product.detail_images || []
   const imagesHTML = detailImages.length
     ? detailImages.map((img, i) => detailImageHTML(img, i)).join('')
-    : `<div style="padding:32px;text-align:center;color:#bbb">이미지 없음</div>`
-
-  const orig = product.price_original
-  const sale = product.price_sale
-  const originalPriceHTML = orig && orig !== sale
-    ? `<span class="product-detail__price-original">${formatPrice(orig)}</span>`
-    : ''
+    : `<div style="padding:48px;text-align:center;color:#bbb;font-size:14px">이미지 없음</div>`
 
   content.innerHTML = `
-    <div class="product-detail__images">${imagesHTML}</div>
     <div class="product-detail__info">
-      <div class="product-detail__name">${product.name}</div>
+      <div class="product-detail__brand">${brandId}</div>
+      <div class="product-detail__name">${displayName}</div>
       <div class="product-detail__prices">
-        <span class="product-detail__price-sale">${formatPrice(sale)}</span>
-        ${originalPriceHTML}
+        <span class="product-detail__price-sale">${formatPrice(salePrice)}</span>
+        ${hasDiscount ? `<span class="product-detail__price-original">${formatPrice(originalPrice)}</span>` : ''}
+        ${hasDiscount ? `<span class="product-detail__discount-label">-${discountPct}%</span>` : ''}
       </div>
+      <div class="product-detail__divider"></div>
       <div class="product-detail__meta">
         ${product.colors ? `
           <div class="product-detail__meta-row">
             <span class="product-detail__meta-label">색상</span>
             <span class="product-detail__meta-value">${product.colors}</span>
-          </div>
-        ` : ''}
+          </div>` : ''}
         ${product.size_range ? `
           <div class="product-detail__meta-row">
             <span class="product-detail__meta-label">사이즈</span>
             <span class="product-detail__meta-value">${product.size_range}</span>
-          </div>
-        ` : ''}
+          </div>` : ''}
         ${product.mfg_date ? `
           <div class="product-detail__meta-row">
             <span class="product-detail__meta-label">입고일</span>
             <span class="product-detail__meta-value">${product.mfg_date}</span>
-          </div>
-        ` : ''}
+          </div>` : ''}
       </div>
       ${sizeTagsHTML(product.size_options)}
     </div>
-  `
+    <div class="product-detail__images">${imagesHTML}</div>`
 
-  // Lightbox on image click
+  attachImageSkeletonCleanup(content)
+
   content.addEventListener('click', e => {
     const img = e.target.closest('.product-detail__img')
     if (!img) return

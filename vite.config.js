@@ -1,3 +1,3 @@
 export default {
-  base: "/kids-catalog/",
+  base: "/my-shushu",
 };

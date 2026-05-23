@@ -4,7 +4,7 @@ function formatDate(iso) {
   if (isNaN(d)) return iso.slice(0, 10)
   const m = d.getMonth() + 1
   const day = d.getDate()
-  return `${m}/${day} 업데이트`
+  return `${m}/${day}`
 }
 
 function skeletonCards() {
@@ -19,39 +19,59 @@ function skeletonCards() {
 
 function brandCardHTML(brand) {
   const previews = brand.preview_thumbnails || []
-  const previewImgs = Array.from({ length: 3 }, (_, i) => {
-    const url = previews[i]
-    if (url) {
-      return `<img class="brand-card__preview-img" src="${url}" alt="" loading="lazy" onerror="this.style.display='none'">`
-    }
-    return `<div class="brand-card__preview-placeholder"></div>`
-  }).join('')
+
+  let previewHTML
+  if (previews.length >= 3) {
+    previewHTML = `
+      <div class="brand-card__mosaic">
+        <div class="brand-card__mosaic-main">
+          <img src="${previews[0]}" alt="" loading="lazy" onerror="this.parentElement.style.background='#ede8e2'">
+        </div>
+        <div class="brand-card__mosaic-side">
+          <div class="brand-card__mosaic-cell">
+            <img src="${previews[1]}" alt="" loading="lazy" onerror="this.parentElement.style.background='#ede8e2'">
+          </div>
+          <div class="brand-card__mosaic-cell">
+            <img src="${previews[2]}" alt="" loading="lazy" onerror="this.parentElement.style.background='#ede8e2'">
+          </div>
+        </div>
+      </div>`
+  } else if (previews.length > 0) {
+    previewHTML = `
+      <div class="brand-card__thumbs">
+        ${previews.map(url => `
+          <div class="brand-card__thumb-cell">
+            <img src="${url}" alt="" loading="lazy" onerror="this.parentElement.style.background='#ede8e2'">
+          </div>`).join('')}
+      </div>`
+  } else {
+    previewHTML = `<div class="brand-card__no-preview"></div>`
+  }
 
   return `
     <div class="brand-card" data-brand="${encodeURIComponent(brand.id)}" role="button" tabindex="0">
-      <div class="brand-card__previews">${previewImgs}</div>
+      ${previewHTML}
       <div class="brand-card__info">
         <div class="brand-card__name">${brand.name}</div>
         <div class="brand-card__meta">
-          <span class="brand-card__count">${brand.total}개 상품</span>
-          <span>${formatDate(brand.crawled_at)}</span>
+          <span class="brand-card__count">${brand.total}개</span>
+          <span class="brand-card__date">${formatDate(brand.crawled_at)}</span>
         </div>
       </div>
-    </div>
-  `
+    </div>`
 }
 
 export async function renderHome(app) {
   app.innerHTML = `
-    <div class="header">
-      <span class="header__title">아동복 도매 카탈로그</span>
+    <div class="home-header">
+      <div class="home-header__logo">마이슈슈</div>
+      <div class="home-header__sub">아동복 도매 카탈로그</div>
     </div>
     <div class="page">
       <div class="brand-grid" id="brand-grid">
         ${skeletonCards()}
       </div>
-    </div>
-  `
+    </div>`
 
   let brands
   try {
@@ -73,19 +93,17 @@ export async function renderHome(app) {
   const grid = document.getElementById('brand-grid')
   grid.innerHTML = brands.map(brandCardHTML).join('')
 
-  grid.addEventListener('click', e => {
+  grid.addEventListener('click', (e) => {
     const card = e.target.closest('.brand-card')
     if (!card) return
-    const brandId = card.dataset.brand
-    location.hash = `#/brand/${brandId}`
+    location.hash = `#/brand/${card.dataset.brand}`
   })
 
-  grid.addEventListener('keydown', e => {
+  grid.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' || e.key === ' ') {
       const card = e.target.closest('.brand-card')
       if (!card) return
-      const brandId = card.dataset.brand
-      location.hash = `#/brand/${brandId}`
+      location.hash = `#/brand/${card.dataset.brand}`
     }
   })
 }
