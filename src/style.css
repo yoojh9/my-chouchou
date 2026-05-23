@@ -322,17 +322,25 @@ html, body {
 }
 
 .product-card:nth-child(1)  { animation-delay:  20ms; }
-.product-card:nth-child(2)  { animation-delay:  55ms; }
-.product-card:nth-child(3)  { animation-delay:  90ms; }
-.product-card:nth-child(4)  { animation-delay: 125ms; }
-.product-card:nth-child(5)  { animation-delay: 160ms; }
-.product-card:nth-child(6)  { animation-delay: 195ms; }
-.product-card:nth-child(7)  { animation-delay: 230ms; }
-.product-card:nth-child(8)  { animation-delay: 265ms; }
-.product-card:nth-child(9)  { animation-delay: 300ms; }
-.product-card:nth-child(10) { animation-delay: 335ms; }
-.product-card:nth-child(11) { animation-delay: 370ms; }
-.product-card:nth-child(12) { animation-delay: 405ms; }
+.product-card:nth-child(2)  { animation-delay:  50ms; }
+.product-card:nth-child(3)  { animation-delay:  80ms; }
+.product-card:nth-child(4)  { animation-delay: 110ms; }
+.product-card:nth-child(5)  { animation-delay: 140ms; }
+.product-card:nth-child(6)  { animation-delay: 170ms; }
+.product-card:nth-child(7)  { animation-delay: 200ms; }
+.product-card:nth-child(8)  { animation-delay: 230ms; }
+.product-card:nth-child(9)  { animation-delay: 260ms; }
+.product-card:nth-child(10) { animation-delay: 290ms; }
+.product-card:nth-child(11) { animation-delay: 320ms; }
+.product-card:nth-child(12) { animation-delay: 350ms; }
+.product-card:nth-child(13) { animation-delay: 380ms; }
+.product-card:nth-child(14) { animation-delay: 410ms; }
+.product-card:nth-child(15) { animation-delay: 440ms; }
+.product-card:nth-child(16) { animation-delay: 470ms; }
+.product-card:nth-child(17) { animation-delay: 500ms; }
+.product-card:nth-child(18) { animation-delay: 530ms; }
+.product-card:nth-child(19) { animation-delay: 560ms; }
+.product-card:nth-child(20) { animation-delay: 590ms; }
 
 .product-card:active {
   transform: scale(0.97);

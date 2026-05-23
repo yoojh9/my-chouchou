@@ -99,11 +99,6 @@ export async function renderProduct(app, brandId, productId) {
     return dotIdx !== -1 ? n.slice(dotIdx + 1).trim() : n
   })()
 
-  const salePrice = product.price_sale
-  const originalPrice = product.price_original
-  const hasDiscount = originalPrice && originalPrice > salePrice
-  const discountPct = hasDiscount ? Math.round((1 - salePrice / originalPrice) * 100) : 0
-
   const detailImages = product.detail_images || []
   const imagesHTML = detailImages.length
     ? detailImages.map((img, i) => detailImageHTML(img, i)).join('')
@@ -114,9 +109,7 @@ export async function renderProduct(app, brandId, productId) {
       <div class="product-detail__brand">${brandId}</div>
       <div class="product-detail__name">${displayName}</div>
       <div class="product-detail__prices">
-        <span class="product-detail__price-sale">${formatPrice(salePrice)}</span>
-        ${hasDiscount ? `<span class="product-detail__price-original">${formatPrice(originalPrice)}</span>` : ''}
-        ${hasDiscount ? `<span class="product-detail__discount-label">-${discountPct}%</span>` : ''}
+        <span class="product-detail__price-sale">${formatPrice(product.price_original)}</span>
       </div>
       <div class="product-detail__divider"></div>
       <div class="product-detail__meta">

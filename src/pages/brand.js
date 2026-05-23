@@ -11,7 +11,7 @@ function stripBrandPrefix(name) {
 }
 
 function skeletonCards() {
-  return Array.from({ length: 12 }, () => `
+  return Array.from({ length: 6 }, () => `
     <div class="product-card-skeleton">
       <div class="product-card-skeleton__thumb skeleton"></div>
       <div class="product-card-skeleton__line skeleton"></div>
@@ -32,7 +32,7 @@ function productCardHTML(product, brandId) {
           src="${thumbUrl}"
           alt="${name}"
           loading="lazy"
-          onerror="this.src=''"
+          onerror="this.style.opacity='0'"
         >
       </div>
       <div class="product-card__info">
