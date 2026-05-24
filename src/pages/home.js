@@ -62,7 +62,7 @@ function brandCardHTML(brand) {
         <div class="brand-card__name">${brand.name}</div>
         <div class="brand-card__meta">
           <span class="brand-card__count">${brand.total}개</span>
-          <span class="brand-card__date">${formatDate(brand.crawled_at)}</span>
+          <span class="brand-card__date">${formatDate(brand.latest_mfg_date)}</span>
         </div>
       </div>
     </div>`;
