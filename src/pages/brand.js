@@ -5,10 +5,6 @@ function formatPrice(n) {
   return Number(n).toLocaleString('ko-KR') + '원'
 }
 
-function stripBrandPrefix(name) {
-  const dotIdx = name.indexOf('.')
-  return dotIdx !== -1 ? name.slice(dotIdx + 1).trim() : name
-}
 
 function skeletonCards() {
   return Array.from({ length: 6 }, () => `
@@ -21,7 +17,7 @@ function skeletonCards() {
 
 function productCardHTML(product, brandId, soldoutIds) {
   const thumbUrl = product.thumbnail_url || ''
-  const name = stripBrandPrefix(product.name || '상품명 없음')
+  const name = product.name || '상품명 없음'
   const pid = encodeURIComponent(product.id)
   const bid = encodeURIComponent(brandId)
   const isSoldout = soldoutIds.has(String(product.id))

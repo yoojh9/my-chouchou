@@ -98,11 +98,7 @@ export async function renderProduct(app, brandId, productId) {
     return
   }
 
-  const displayName = (() => {
-    const n = product.name || ''
-    const dotIdx = n.indexOf('.')
-    return dotIdx !== -1 ? n.slice(dotIdx + 1).trim() : n
-  })()
+  const displayName = product.name || ''
 
   const detailImages = product.detail_images || []
   const imagesHTML = detailImages.length
