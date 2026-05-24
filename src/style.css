@@ -403,6 +403,36 @@ html, body {
   text-align: right;
 }
 
+/* ── Soldout ── */
+.product-card--soldout .product-card__thumb {
+  opacity: 0.4;
+}
+
+.soldout-badge {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--white);
+  background: rgba(25, 23, 20, 0.45);
+  letter-spacing: 0.5px;
+}
+
+.soldout-label {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--white);
+  background: var(--ink);
+  letter-spacing: 0.5px;
+}
+
 /* Skeleton for product card */
 .product-card-skeleton {
   background: var(--white);

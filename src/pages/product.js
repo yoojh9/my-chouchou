@@ -74,11 +74,15 @@ export async function renderProduct(app, brandId, productId) {
     location.hash = `#/brand/${encodeURIComponent(brandId)}`
   })
 
-  let allProducts
+  let allProducts, soldoutIds
   try {
-    const res = await fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`)
-    if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    allProducts = await res.json()
+    const [productsRes, soldoutRes] = await Promise.all([
+      fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`),
+      fetch('data/soldout.json'),
+    ])
+    if (!productsRes.ok) throw new Error(`HTTP ${productsRes.status}`)
+    allProducts = await productsRes.json()
+    soldoutIds = new Set((soldoutRes.ok ? await soldoutRes.json() : []).map(String))
   } catch (e) {
     document.getElementById('product-content').innerHTML =
       `<div class="state-error">데이터를 불러오지 못했습니다.</div>`
@@ -86,6 +90,7 @@ export async function renderProduct(app, brandId, productId) {
   }
 
   const product = allProducts.find(p => String(p.id) === String(productId))
+  const isSoldout = soldoutIds.has(String(productId))
   const content = document.getElementById('product-content')
 
   if (!product) {
@@ -108,6 +113,7 @@ export async function renderProduct(app, brandId, productId) {
     <div class="product-detail__info">
       <div class="product-detail__brand">${brandId}</div>
       <div class="product-detail__name">${displayName}</div>
+      ${isSoldout ? '<div class="soldout-label">품절</div>' : ''}
       <div class="product-detail__prices">
         <span class="product-detail__price-sale">${formatPrice(product.price_original)}</span>
       </div>

@@ -1,14 +1,194 @@
 [
   {
+    "id": "블랙핑크",
+    "name": "블랙핑크",
+    "site": "i54",
+    "total": 117,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-117.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-116.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-115.jpg"
+    ]
+  },
+  {
     "id": "이니키즈",
     "name": "이니키즈",
     "site": "i54",
-    "total": 60,
-    "crawled_at": "2026-05-23T23:59:51",
+    "total": 106,
+    "crawled_at": "2026-05-24T09:30:08",
     "preview_thumbnails": [
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-124.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-123.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-122.jpg"
+    ]
+  },
+  {
+    "id": "도미니코",
+    "name": "도미니코",
+    "site": "i54",
+    "total": 75,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-158.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-157.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-156.jpg"
+    ]
+  },
+  {
+    "id": "디세인트",
+    "name": "디세인트",
+    "site": "i54",
+    "total": 74,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-045.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-044.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-043.jpg"
+    ]
+  },
+  {
+    "id": "지안클로버",
+    "name": "지안클로버",
+    "site": "i54",
+    "total": 56,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-334.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-333.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-332.jpg"
+    ]
+  },
+  {
+    "id": "보니토",
+    "name": "보니토",
+    "site": "i54",
+    "total": 54,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-259.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-258.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-257.jpg"
+    ]
+  },
+  {
+    "id": "크림빵",
+    "name": "크림빵",
+    "site": "i54",
+    "total": 52,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-083.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-082.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-081.jpg"
+    ]
+  },
+  {
+    "id": "소예",
+    "name": "소예",
+    "site": "i54",
+    "total": 51,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-284.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-283.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-282.jpg"
+    ]
+  },
+  {
+    "id": "아젤리아",
+    "name": "아젤리아",
+    "site": "i54",
+    "total": 50,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-214.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-213.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-212.jpg"
+    ]
+  },
+  {
+    "id": "조이엘로",
+    "name": "조이엘로",
+    "site": "i54",
+    "total": 50,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-205.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-204.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-203.jpg"
+    ]
+  },
+  {
+    "id": "마마스파파",
+    "name": "마마스파파",
+    "site": "i54",
+    "total": 46,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-165.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-164.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-163.jpg"
+    ]
+  },
+  {
+    "id": "베러제이",
+    "name": "베러제이",
+    "site": "i54",
+    "total": 45,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-087.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-086.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-085.jpg"
+    ]
+  },
+  {
+    "id": "몽베베",
+    "name": "몽베베",
+    "site": "i54",
+    "total": 42,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-101.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-100.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-099.jpg"
+    ]
+  },
+  {
+    "id": "엘리몰리",
+    "name": "엘리몰리",
+    "site": "i54",
+    "total": 40,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-259.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-258.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-257.jpg"
+    ]
+  },
+  {
+    "id": "러블리아",
+    "name": "러블리아",
+    "site": "i54",
+    "total": 38,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-059.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-058.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-057.jpg"
+    ]
+  },
+  {
+    "id": "리우리우",
+    "name": "리우리우",
+    "site": "i54",
+    "total": 38,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-233.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-232.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-231.jpg"
     ]
   },
   {
@@ -24,6 +204,90 @@
     ]
   },
   {
+    "id": "미소",
+    "name": "미소",
+    "site": "i54",
+    "total": 33,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-218.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-217.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-216.jpg"
+    ]
+  },
+  {
+    "id": "토니",
+    "name": "토니",
+    "site": "i54",
+    "total": 33,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-106.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-105.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-104.jpg"
+    ]
+  },
+  {
+    "id": "우리두리",
+    "name": "우리두리",
+    "site": "i54",
+    "total": 31,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-042.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-041.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-040.jpg"
+    ]
+  },
+  {
+    "id": "허니팟JR",
+    "name": "허니팟JR",
+    "site": "i54",
+    "total": 31,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-150.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-149.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-148.jpg"
+    ]
+  },
+  {
+    "id": "오호",
+    "name": "오호",
+    "site": "i54",
+    "total": 30,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-107.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-106.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-105.jpg"
+    ]
+  },
+  {
+    "id": "오뜨베베",
+    "name": "오뜨베베",
+    "site": "i54",
+    "total": 29,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-219.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-218.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-217.jpg"
+    ]
+  },
+  {
+    "id": "나비",
+    "name": "나비",
+    "site": "i54",
+    "total": 26,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-026.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-025.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-024.jpg"
+    ]
+  },
+  {
     "id": "미라이키",
     "name": "미라이키",
     "site": "i54",
@@ -33,6 +297,282 @@
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-059.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-058.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-057.jpg"
+    ]
+  },
+  {
+    "id": "미미상회",
+    "name": "미미상회",
+    "site": "i54",
+    "total": 24,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-024.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-023.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-022.jpg"
+    ]
+  },
+  {
+    "id": "주주아",
+    "name": "주주아",
+    "site": "i54",
+    "total": 24,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-081.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-080.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-079.jpg"
+    ]
+  },
+  {
+    "id": "푸이푸이",
+    "name": "푸이푸이",
+    "site": "i54",
+    "total": 24,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-158.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-157.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-156.jpg"
+    ]
+  },
+  {
+    "id": "슈크림",
+    "name": "슈크림",
+    "site": "i54",
+    "total": 23,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-120.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-119.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-118.jpg"
+    ]
+  },
+  {
+    "id": "더메이",
+    "name": "더메이",
+    "site": "i54",
+    "total": 22,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-157.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-156.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-155.jpg"
+    ]
+  },
+  {
+    "id": "아이짱",
+    "name": "아이짱",
+    "site": "i54",
+    "total": 22,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-152.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-151.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-150.jpg"
+    ]
+  },
+  {
+    "id": "러빈",
+    "name": "러빈",
+    "site": "i54",
+    "total": 21,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-173.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-172.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-171.jpg"
+    ]
+  },
+  {
+    "id": "미니멜로",
+    "name": "미니멜로",
+    "site": "i54",
+    "total": 19,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-117.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-116.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-115.jpg"
+    ]
+  },
+  {
+    "id": "버니파우더",
+    "name": "버니파우더",
+    "site": "i54",
+    "total": 19,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-038.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-037.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-036.jpg"
+    ]
+  },
+  {
+    "id": "이지아이",
+    "name": "이지아이",
+    "site": "i54",
+    "total": 19,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-141.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-140.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-139.jpg"
+    ]
+  },
+  {
+    "id": "헤이",
+    "name": "헤이",
+    "site": "i54",
+    "total": 19,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-034.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-033.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-032.jpg"
+    ]
+  },
+  {
+    "id": "더고구마",
+    "name": "더고구마",
+    "site": "i54",
+    "total": 18,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-077.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-076.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-075.jpg"
+    ]
+  },
+  {
+    "id": "어반래빗",
+    "name": "어반래빗",
+    "site": "i54",
+    "total": 18,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-018.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-017.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-016.jpg"
+    ]
+  },
+  {
+    "id": "데일리샵",
+    "name": "데일리샵",
+    "site": "i54",
+    "total": 17,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-007.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-006.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-083.jpg"
+    ]
+  },
+  {
+    "id": "마이베베",
+    "name": "마이베베",
+    "site": "i54",
+    "total": 17,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-051.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-050.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-049.jpg"
+    ]
+  },
+  {
+    "id": "철수와영희",
+    "name": "철수와영희",
+    "site": "i54",
+    "total": 17,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-098.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-097.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-096.jpg"
+    ]
+  },
+  {
+    "id": "퐁듀",
+    "name": "퐁듀",
+    "site": "i54",
+    "total": 17,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-043.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-042.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-041.jpg"
+    ]
+  },
+  {
+    "id": "꼼마제이",
+    "name": "꼼마제이",
+    "site": "i54",
+    "total": 16,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-350.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-349.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-348.jpg"
+    ]
+  },
+  {
+    "id": "오와",
+    "name": "오와",
+    "site": "i54",
+    "total": 16,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-366.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-365.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-364.jpg"
+    ]
+  },
+  {
+    "id": "오누",
+    "name": "오누",
+    "site": "i54",
+    "total": 15,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-135.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-134.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-133.jpg"
+    ]
+  },
+  {
+    "id": "쿠도스",
+    "name": "쿠도스",
+    "site": "i54",
+    "total": 15,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-015.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-014.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-013.jpg"
+    ]
+  },
+  {
+    "id": "티제이",
+    "name": "티제이",
+    "site": "i54",
+    "total": 15,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-120.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-119.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-118.jpg"
+    ]
+  },
+  {
+    "id": "르베브",
+    "name": "르베브",
+    "site": "i54",
+    "total": 14,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-273.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-272.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-271.jpg"
     ]
   },
   {
@@ -48,6 +588,42 @@
     ]
   },
   {
+    "id": "비엔어비엔",
+    "name": "비엔어비엔",
+    "site": "i54",
+    "total": 12,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-163.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-162.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-161.jpg"
+    ]
+  },
+  {
+    "id": "애플민트",
+    "name": "애플민트",
+    "site": "i54",
+    "total": 12,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-059.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-058.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-057.jpg"
+    ]
+  },
+  {
+    "id": "키들리",
+    "name": "키들리",
+    "site": "i54",
+    "total": 12,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-143.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-142.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-141.jpg"
+    ]
+  },
+  {
     "id": "릴라",
     "name": "릴라",
     "site": "i54",
@@ -57,6 +633,54 @@
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-035.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-034.jpg",
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-033.jpg"
+    ]
+  },
+  {
+    "id": "아이러브지저스",
+    "name": "아이러브지저스",
+    "site": "i54",
+    "total": 11,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-057.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-056.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-055.jpg"
+    ]
+  },
+  {
+    "id": "애플스마일",
+    "name": "애플스마일",
+    "site": "i54",
+    "total": 11,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-383.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-382.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-381.jpg"
+    ]
+  },
+  {
+    "id": "플라워제이",
+    "name": "플라워제이",
+    "site": "i54",
+    "total": 11,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-011.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-010.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-009.jpg"
+    ]
+  },
+  {
+    "id": "미뇽",
+    "name": "미뇽",
+    "site": "i54",
+    "total": 10,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-119.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-118.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-117.jpg"
     ]
   },
   {
@@ -72,6 +696,234 @@
     ]
   },
   {
+    "id": "폼",
+    "name": "폼",
+    "site": "i54",
+    "total": 10,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-168.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-167.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-166.jpg"
+    ]
+  },
+  {
+    "id": "스엔스텔라",
+    "name": "스엔스텔라",
+    "site": "i54",
+    "total": 9,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-182.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-181.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-180.jpg"
+    ]
+  },
+  {
+    "id": "듀디",
+    "name": "듀디",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-125.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-124.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-123.jpg"
+    ]
+  },
+  {
+    "id": "미들네임",
+    "name": "미들네임",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-185.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-184.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-183.jpg"
+    ]
+  },
+  {
+    "id": "봉봉부틱",
+    "name": "봉봉부틱",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-051.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-050.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-049.jpg"
+    ]
+  },
+  {
+    "id": "빛나는구름",
+    "name": "빛나는구름",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-130.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-129.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-128.jpg"
+    ]
+  },
+  {
+    "id": "아오유",
+    "name": "아오유",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-226.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-225.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-224.jpg"
+    ]
+  },
+  {
+    "id": "아이언더스탠드",
+    "name": "아이언더스탠드",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-146.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-145.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-144.jpg"
+    ]
+  },
+  {
+    "id": "어썸베베",
+    "name": "어썸베베",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-059.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-058.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-057.jpg"
+    ]
+  },
+  {
+    "id": "에끌레어",
+    "name": "에끌레어",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-190.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-189.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-188.jpg"
+    ]
+  },
+  {
+    "id": "옐로우팩토리",
+    "name": "옐로우팩토리",
+    "site": "i54",
+    "total": 8,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-267.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-266.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-265.jpg"
+    ]
+  },
+  {
+    "id": "라스텔라",
+    "name": "라스텔라",
+    "site": "i54",
+    "total": 7,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-085.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-084.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-112.jpg"
+    ]
+  },
+  {
+    "id": "제이룸",
+    "name": "제이룸",
+    "site": "i54",
+    "total": 7,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-018.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-017.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-016.jpg"
+    ]
+  },
+  {
+    "id": "꿈베비",
+    "name": "꿈베비",
+    "site": "i54",
+    "total": 6,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-273.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-272.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-271.jpg"
+    ]
+  },
+  {
+    "id": "모란",
+    "name": "모란",
+    "site": "i54",
+    "total": 6,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-164.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-163.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-162.jpg"
+    ]
+  },
+  {
+    "id": "미끼",
+    "name": "미끼",
+    "site": "i54",
+    "total": 6,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-372.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-371.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-370.jpg"
+    ]
+  },
+  {
+    "id": "큐큐",
+    "name": "큐큐",
+    "site": "i54",
+    "total": 6,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-131.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-130.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-129.jpg"
+    ]
+  },
+  {
+    "id": "라임앤블루",
+    "name": "라임앤블루",
+    "site": "i54",
+    "total": 5,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-170.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-169.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-168.jpg"
+    ]
+  },
+  {
+    "id": "마르디엠버",
+    "name": "마르디엠버",
+    "site": "i54",
+    "total": 5,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-278.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-277.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-276.jpg"
+    ]
+  },
+  {
     "id": "플로",
     "name": "플로",
     "site": "i54",
@@ -84,6 +936,122 @@
     ]
   },
   {
+    "id": "레브",
+    "name": "레브",
+    "site": "i54",
+    "total": 4,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-055.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-054.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-053.jpg"
+    ]
+  },
+  {
+    "id": "에이트리",
+    "name": "에이트리",
+    "site": "i54",
+    "total": 4,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-180.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-179.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-178.jpg"
+    ]
+  },
+  {
+    "id": "밀로미니",
+    "name": "밀로미니",
+    "site": "i54",
+    "total": 3,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-048.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-047.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-046.jpg"
+    ]
+  },
+  {
+    "id": "바이에이치",
+    "name": "바이에이치",
+    "site": "i54",
+    "total": 3,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-046.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-045.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-044.jpg"
+    ]
+  },
+  {
+    "id": "키치키치",
+    "name": "키치키치",
+    "site": "i54",
+    "total": 3,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-088.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-087.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-086.jpg"
+    ]
+  },
+  {
+    "id": "하모니",
+    "name": "하모니",
+    "site": "i54",
+    "total": 3,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-109.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-108.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-107.jpg"
+    ]
+  },
+  {
+    "id": "호두아이",
+    "name": "호두아이",
+    "site": "i54",
+    "total": 3,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-021.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-020.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-019.jpg"
+    ]
+  },
+  {
+    "id": "돌핀",
+    "name": "돌핀",
+    "site": "i54",
+    "total": 2,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-122.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-121.jpg"
+    ]
+  },
+  {
+    "id": "제니베이직",
+    "name": "제니베이직",
+    "site": "i54",
+    "total": 2,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-216.jpg",
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-215.jpg"
+    ]
+  },
+  {
+    "id": "다원JR",
+    "name": "다원JR",
+    "site": "i54",
+    "total": 1,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-054.jpg"
+    ]
+  },
+  {
     "id": "마이마이",
     "name": "마이마이",
     "site": "i54",
@@ -91,6 +1059,26 @@
     "crawled_at": "2026-05-23T23:59:51",
     "preview_thumbnails": [
       "https://i54.co.kr/web/product/medium/202605/mo0522/mo0522-011.jpg"
+    ]
+  },
+  {
+    "id": "파파",
+    "name": "파파",
+    "site": "i54",
+    "total": 1,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-019.jpg"
+    ]
+  },
+  {
+    "id": "피넛앤버터",
+    "name": "피넛앤버터",
+    "site": "i54",
+    "total": 1,
+    "crawled_at": "2026-05-24T09:30:08",
+    "preview_thumbnails": [
+      "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-068.jpg"
     ]
   }
 ]

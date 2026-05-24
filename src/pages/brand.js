@@ -19,14 +19,15 @@ function skeletonCards() {
     </div>`).join('')
 }
 
-function productCardHTML(product, brandId) {
+function productCardHTML(product, brandId, soldoutIds) {
   const thumbUrl = product.thumbnail_url || ''
   const name = stripBrandPrefix(product.name || '상품명 없음')
   const pid = encodeURIComponent(product.id)
   const bid = encodeURIComponent(brandId)
+  const isSoldout = soldoutIds.has(String(product.id))
 
   return `
-    <div class="product-card" data-href="#/product/${bid}/${pid}" role="button" tabindex="0">
+    <div class="product-card${isSoldout ? ' product-card--soldout' : ''}" data-href="#/product/${bid}/${pid}" role="button" tabindex="0">
       <div class="product-card__thumb-wrap">
         <img class="product-card__thumb"
           src="${thumbUrl}"
@@ -34,6 +35,7 @@ function productCardHTML(product, brandId) {
           loading="lazy"
           onerror="this.style.opacity='0'"
         >
+        ${isSoldout ? '<div class="soldout-badge">품절</div>' : ''}
       </div>
       <div class="product-card__info">
         <div class="product-card__name">${name}</div>
@@ -64,11 +66,15 @@ export async function renderBrand(app, brandId) {
     location.hash = '#/'
   })
 
-  let products
+  let products, soldoutIds
   try {
-    const res = await fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`)
-    if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    products = await res.json()
+    const [productsRes, soldoutRes] = await Promise.all([
+      fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`),
+      fetch('data/soldout.json'),
+    ])
+    if (!productsRes.ok) throw new Error(`HTTP ${productsRes.status}`)
+    products = await productsRes.json()
+    soldoutIds = new Set((soldoutRes.ok ? await soldoutRes.json() : []).map(String))
   } catch (e) {
     document.getElementById('product-grid').innerHTML =
       `<div class="state-error" style="grid-column:1/-1">데이터를 불러오지 못했습니다.</div>`
@@ -90,7 +96,7 @@ export async function renderBrand(app, brandId) {
   function renderMore() {
     const batch = products.slice(shown, shown + PAGE_SIZE)
     batch.forEach(p => {
-      grid.insertAdjacentHTML('beforeend', productCardHTML(p, brandId))
+      grid.insertAdjacentHTML('beforeend', productCardHTML(p, brandId, soldoutIds))
     })
     shown += batch.length
     loadMoreBtn.style.display = shown < products.length ? 'block' : 'none'
