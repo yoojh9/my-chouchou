@@ -204,7 +204,7 @@ export async function renderBrand(app, brandId) {
     if (sizeCard) { openSizeCharts(sizeCard); return }
     const card = e.target.closest('[data-href]')
     if (!card) return
-    window.open(card.dataset.href, '_blank')
+    location.hash = card.dataset.href
   })
 
   grid.addEventListener('keydown', e => {
@@ -213,7 +213,7 @@ export async function renderBrand(app, brandId) {
       if (sizeCard) { openSizeCharts(sizeCard); return }
       const card = e.target.closest('[data-href]')
       if (!card) return
-      window.open(card.dataset.href, '_blank')
+      location.hash = card.dataset.href
     }
   })
 }
