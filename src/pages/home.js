@@ -4,7 +4,7 @@ function formatDate(iso) {
   if (isNaN(d)) return iso.slice(0, 10);
   const m = d.getMonth() + 1;
   const day = d.getDate();
-  return `${m}/${day}`;
+  return `${m}/${day} 업데이트`;
 }
 
 function skeletonCards() {
