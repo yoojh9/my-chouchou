@@ -476,6 +476,25 @@ html, body {
   letter-spacing: -0.3px;
 }
 
+.product-card__sizes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  margin-top: 5px;
+}
+
+.product-card__size-chip {
+  font-size: 9.5px;
+  font-weight: 600;
+  color: var(--gray);
+  background: var(--muted);
+  padding: 2px 5px;
+  border-radius: 3px;
+  letter-spacing: -0.1px;
+  line-height: 1.4;
+}
+
+
 .product-card__color {
   font-size: 10.5px;
   color: var(--gray);

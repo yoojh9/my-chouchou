@@ -73,6 +73,20 @@ async function findSizeChart(brandId) {
   return null
 }
 
+function sizeChipsHTML(product) {
+  const opts = (product.size_options || [])
+    .map(o => o.name)
+    .filter(n => n && !/^-+$/.test(n))
+
+  if (opts.length && opts.length <= 7) {
+    return `<div class="product-card__sizes">${opts.map(s => `<span class="product-card__size-chip">${s}</span>`).join('')}</div>`
+  }
+  if (product.size_range) {
+    return `<div class="product-card__sizes"><span class="product-card__size-chip">${product.size_range}</span></div>`
+  }
+  return ''
+}
+
 function productCardHTML(product, brandId, soldoutIds) {
   const thumbUrl = product.thumbnail_url || ''
   const name = product.name || '상품명 없음'
@@ -93,6 +107,7 @@ function productCardHTML(product, brandId, soldoutIds) {
       </div>
       <div class="product-card__info">
         <div class="product-card__name">${name}</div>
+        ${sizeChipsHTML(product)}
         <div class="product-card__bottom">
           <span class="product-card__price">${formatPrice(product.price_original)}</span>
           ${product.colors ? `<span class="product-card__color">${product.colors}</span>` : ''}
