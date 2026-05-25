@@ -2706,7 +2706,7 @@
     "id": "1432284",
     "brand": "베러제이",
     "name": "베러제이.써클볼캡",
-    "colors": "4색상",
+    "colors": "그린/블랙/소라/오렌지",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B2%A0%EB%9F%AC%EC%A0%9C%EC%9D%B4%EC%8D%A8%ED%81%B4%EB%B3%BC%EC%BA%A14%EC%83%89%EC%83%81free/1432284/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-044.jpg",
@@ -2718,7 +2718,12 @@
       {
         "name": "FREE",
         "add_price": 0,
-        "colors": []
+        "colors": [
+          "그린",
+          "블랙",
+          "소라",
+          "오렌지"
+        ]
       }
     ],
     "detail_images": [
@@ -2740,7 +2745,7 @@
     "id": "1432283",
     "brand": "베러제이",
     "name": "베러제이.베러베니",
-    "colors": "5색상",
+    "colors": "크림/살구/민트/블루/블랙",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B2%A0%EB%9F%AC%EC%A0%9C%EC%9D%B4%EB%B2%A0%EB%9F%AC%EB%B2%A0%EB%8B%885%EC%83%89%EC%83%81free/1432283/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-043.jpg",
@@ -2752,7 +2757,13 @@
       {
         "name": "FREE",
         "add_price": 0,
-        "colors": []
+        "colors": [
+          "크림",
+          "살구",
+          "민트",
+          "블루",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [

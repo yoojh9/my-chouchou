@@ -265,7 +265,7 @@
     "id": "1432176",
     "brand": "도미니코",
     "name": "도미니코.페이즐리왕에코백",
-    "colors": "4색상",
+    "colors": "아이보리/옐로우/블루/환타",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%ED%8E%98%EC%9D%B4%EC%A6%90%EB%A6%AC%EC%99%95%EC%97%90%EC%BD%94%EB%B0%B14%EC%83%89%EC%83%81free/1432176/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-152.jpg",
@@ -277,7 +277,12 @@
       {
         "name": "FREE",
         "add_price": 0,
-        "colors": []
+        "colors": [
+          "아이보리",
+          "옐로우",
+          "블루",
+          "환타"
+        ]
       }
     ],
     "detail_images": [
@@ -1343,7 +1348,7 @@
     "id": "1432150",
     "brand": "도미니코",
     "name": "도미니코.브런치보냉백",
-    "colors": "5색상",
+    "colors": "바게트/크루아상/머핀/초코도넛/식빵",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EB%B8%8C%EB%9F%B0%EC%B9%98%EB%B3%B4%EB%83%89%EB%B0%B15%EC%83%89%EC%83%81free/1432150/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-126.jpg",
@@ -1355,7 +1360,13 @@
       {
         "name": "FREE",
         "add_price": 0,
-        "colors": []
+        "colors": [
+          "바게트",
+          "크루아상",
+          "머핀",
+          "초코도넛",
+          "식빵"
+        ]
       }
     ],
     "detail_images": [

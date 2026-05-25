@@ -3808,7 +3808,7 @@
     "id": "1431945",
     "brand": "보니토",
     "name": "보니토.(모델)나이스웨더캡",
-    "colors": "4색상",
+    "colors": "브라운/블루/레드/검정",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EB%82%98%EC%9D%B4%EC%8A%A4%EC%9B%A8%EB%8D%94%EC%BA%A14%EC%83%89%EC%83%81free/1431945/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-206.jpg",
@@ -3820,7 +3820,12 @@
       {
         "name": "FREE",
         "add_price": 0,
-        "colors": []
+        "colors": [
+          "브라운",
+          "블루",
+          "레드",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
