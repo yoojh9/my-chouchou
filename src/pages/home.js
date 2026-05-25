@@ -127,6 +127,15 @@ export async function renderHome(app) {
     `<span class="scroll-index__item" data-section="${s}">${s}</span>`
   ).join("")
 
+  // 인덱스를 #app 오른쪽 엣지 기준으로 위치 조정 (스크롤바 겹침 방지)
+  function positionIndex() {
+    if (!indexEl.isConnected) { window.removeEventListener("resize", positionIndex); return }
+    const appRight = document.getElementById("app").getBoundingClientRect().right
+    indexEl.style.right = Math.max(4, window.innerWidth - appRight + 4) + "px"
+  }
+  positionIndex()
+  window.addEventListener("resize", positionIndex, { passive: true })
+
   // 스크롤 시 현재 섹션 하이라이트
   function updateActive() {
     if (!list.isConnected) {
@@ -144,12 +153,29 @@ export async function renderHome(app) {
   window.addEventListener("scroll", updateActive, { passive: true })
   updateActive()
 
+  // 플로팅 버블 (드래그 중 현재 글자 표시)
+  const bubble = document.createElement("div")
+  bubble.className = "scroll-index__bubble"
+  document.getElementById("app").appendChild(bubble)
+
+  let bubbleTimer = null
+  let dragSection = null
+
+  function showBubble(text) {
+    clearTimeout(bubbleTimer)
+    bubble.textContent = text
+    bubble.classList.add("scroll-index__bubble--visible")
+  }
+  function hideBubble() {
+    bubbleTimer = setTimeout(() => bubble.classList.remove("scroll-index__bubble--visible"), 120)
+  }
+
   // 인덱스 클릭
-  function scrollToSection(key) {
+  function scrollToSection(key, instant = false) {
     const target = list.querySelector(`[data-section="${key}"]`)
     if (!target) return
     const top = target.getBoundingClientRect().top + window.scrollY - 8
-    window.scrollTo({ top, behavior: "smooth" })
+    window.scrollTo({ top, behavior: instant ? "instant" : "smooth" })
   }
 
   indexEl.addEventListener("click", e => {
@@ -157,14 +183,32 @@ export async function renderHome(app) {
     if (item) scrollToSection(item.dataset.section)
   })
 
-  // 모바일: 인덱스 위에서 드래그
+  // 모바일: 드래그
+  indexEl.addEventListener("touchstart", e => {
+    const item = e.target.closest(".scroll-index__item")
+    if (!item) return
+    dragSection = item.dataset.section
+    showBubble(dragSection)
+  }, { passive: true })
+
   indexEl.addEventListener("touchmove", e => {
     e.preventDefault()
     const touch = e.touches[0]
     const el = document.elementFromPoint(touch.clientX, touch.clientY)
     const item = el?.closest(".scroll-index__item")
-    if (item) scrollToSection(item.dataset.section)
+    if (!item) return
+    const key = item.dataset.section
+    if (key === dragSection) return
+    dragSection = key
+    showBubble(key)
+    navigator.vibrate?.(6)
+    scrollToSection(key, true)
   }, { passive: false })
+
+  indexEl.addEventListener("touchend", () => {
+    dragSection = null
+    hideBubble()
+  })
 
   // 브랜드 카드 클릭
   list.addEventListener("click", e => {

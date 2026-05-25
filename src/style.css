@@ -119,7 +119,7 @@ html, body {
 }
 
 .page--indexed {
-  padding-right: 28px;
+  padding-right: 40px;
 }
 
 /* ── Brand section ── */
@@ -161,11 +161,11 @@ html, body {
   line-height: 1;
   color: var(--gray);
   cursor: pointer;
-  padding: 3px 6px;
+  padding: 4px 8px;
   border-radius: 4px;
   user-select: none;
   text-align: center;
-  min-width: 22px;
+  min-width: 26px;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -173,6 +173,32 @@ html, body {
   color: var(--accent);
   font-weight: 700;
   background: var(--accent-bg);
+}
+
+.scroll-index__bubble {
+  position: fixed;
+  right: 52px;
+  top: 50%;
+  transform: translateY(-50%) scale(0.7);
+  width: 52px;
+  height: 52px;
+  background: var(--ink);
+  color: var(--cream);
+  border-radius: 14px 14px 14px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 700;
+  z-index: 200;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.12s, transform 0.12s;
+}
+
+.scroll-index__bubble--visible {
+  opacity: 1;
+  transform: translateY(-50%) scale(1);
 }
 
 /* ── Skeleton shimmer ── */
