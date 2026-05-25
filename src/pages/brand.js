@@ -15,6 +15,64 @@ function skeletonCards() {
     </div>`).join('')
 }
 
+function sizeChartCardHTML(urls) {
+  const encoded = encodeURIComponent(JSON.stringify(urls))
+  const label = urls.length > 1 ? `사이즈표 (${urls.length}장)` : '사이즈표'
+  return `
+    <div class="product-card size-chart-card" data-size-charts="${encoded}" role="button" tabindex="0">
+      <div class="product-card__thumb-wrap">
+        <img class="product-card__thumb"
+          src="${urls[0]}"
+          alt="사이즈표"
+          loading="lazy"
+          onerror="this.style.opacity='0'"
+        >
+      </div>
+      <div class="product-card__info">
+        <div class="product-card__name">${label}</div>
+        <div class="product-card__bottom">
+          <span class="product-card__price" style="color:#888;font-size:0.8em">클릭하여 크게 보기</span>
+        </div>
+      </div>
+    </div>`
+}
+
+function probeImage(url) {
+  return new Promise(resolve => {
+    const img = new Image()
+    img.onload = () => resolve(url)
+    img.onerror = () => resolve(null)
+    img.src = url
+  })
+}
+
+async function findSizeChart(brandId) {
+  const exts = ['jpg', 'jpeg', 'png', 'webp']
+  const norms = [brandId, brandId.normalize('NFD')]
+
+  for (const name of norms) {
+    const base = `data/size-charts/${name}`
+
+    for (const ext of exts) {
+      const url = await probeImage(`${base}.${ext}`)
+      if (url) return [url]
+    }
+
+    const results = []
+    for (let n = 1; n <= 10; n++) {
+      let found = null
+      for (const ext of exts) {
+        const url = await probeImage(`${base}_${n}.${ext}`)
+        if (url) { found = url; break }
+      }
+      if (!found) break
+      results.push(found)
+    }
+    if (results.length) return results
+  }
+  return null
+}
+
 function productCardHTML(product, brandId, soldoutIds) {
   const thumbUrl = product.thumbnail_url || ''
   const name = product.name || '상품명 없음'
@@ -62,12 +120,14 @@ export async function renderBrand(app, brandId) {
     location.hash = '#/'
   })
 
-  let products, soldoutIds
+  let products, soldoutIds, sizeChartUrl
   try {
-    const [productsRes, soldoutRes] = await Promise.all([
+    const [productsRes, soldoutRes, sizeChart] = await Promise.all([
       fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`),
       fetch('data/soldout.json'),
+      findSizeChart(brandId),
     ])
+    sizeChartUrl = sizeChart
     if (!productsRes.ok) throw new Error(`HTTP ${productsRes.status}`)
     products = await productsRes.json()
     soldoutIds = new Set((soldoutRes.ok ? await soldoutRes.json() : []).map(String))
@@ -99,21 +159,46 @@ export async function renderBrand(app, brandId) {
   }
 
   grid.innerHTML = ''
+  if (sizeChartUrl) {
+    grid.insertAdjacentHTML('beforeend', sizeChartCardHTML(sizeChartUrl))
+  }
   renderMore()
 
   loadMoreBtn.addEventListener('click', renderMore)
 
+  function openSizeCharts(card) {
+    const urls = JSON.parse(decodeURIComponent(card.dataset.sizeCharts))
+    const modal = document.createElement('div')
+    modal.className = 'sizechart-modal'
+    modal.innerHTML = `
+      <button class="sizechart-modal__close" aria-label="닫기">✕</button>
+      <div class="sizechart-modal__inner">
+        ${urls.map(u => `<img class="sizechart-modal__img" src="${u}" alt="사이즈표">`).join('')}
+      </div>`
+    document.body.appendChild(modal)
+    const close = () => modal.remove()
+    modal.querySelector('.sizechart-modal__close').addEventListener('click', close)
+    modal.addEventListener('click', e => { if (e.target === modal) close() })
+    document.addEventListener('keydown', function esc(e) {
+      if (e.key === 'Escape') { close(); document.removeEventListener('keydown', esc) }
+    })
+  }
+
   grid.addEventListener('click', e => {
+    const sizeCard = e.target.closest('[data-size-charts]')
+    if (sizeCard) { openSizeCharts(sizeCard); return }
     const card = e.target.closest('[data-href]')
     if (!card) return
-    location.hash = card.dataset.href
+    window.open(card.dataset.href, '_blank')
   })
 
   grid.addEventListener('keydown', e => {
     if (e.key === 'Enter' || e.key === ' ') {
+      const sizeCard = e.target.closest('[data-size-charts]')
+      if (sizeCard) { openSizeCharts(sizeCard); return }
       const card = e.target.closest('[data-href]')
       if (!card) return
-      location.hash = card.dataset.href
+      window.open(card.dataset.href, '_blank')
     }
   })
 }
