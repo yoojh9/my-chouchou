@@ -96,8 +96,12 @@ export async function renderHome(app) {
     return;
   }
 
+  const sorted = [...brands].sort((a, b) =>
+    a.name.localeCompare(b.name, "ko")
+  );
+
   const grid = document.getElementById("brand-grid");
-  grid.innerHTML = brands.map(brandCardHTML).join("");
+  grid.innerHTML = sorted.map(brandCardHTML).join("");
 
   grid.addEventListener("click", (e) => {
     const card = e.target.closest(".brand-card");
