@@ -3,7 +3,7 @@
     "id": "1431758",
     "brand": "파파",
     "name": "파파.새콤나시",
-    "colors": "6색상",
+    "colors": "화이트/그레이/연핑크/노랑/그린/퍼플",
     "size_range": "90~130",
     "product_url": "https://i54.co.kr/product/%ED%8C%8C%ED%8C%8C%EC%83%88%EC%BD%A4%EB%82%98%EC%8B%9C6%EC%83%89%EC%83%8190130/1431758/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-019.jpg",
@@ -13,28 +13,64 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "90",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "연핑크",
+          "노랑",
+          "그린",
+          "퍼플"
+        ]
       },
       {
         "name": "100",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "연핑크",
+          "노랑",
+          "그린",
+          "퍼플"
+        ]
       },
       {
         "name": "110",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "연핑크",
+          "노랑",
+          "그린",
+          "퍼플"
+        ]
       },
       {
         "name": "120",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "연핑크",
+          "노랑",
+          "그린",
+          "퍼플"
+        ]
       },
       {
         "name": "130",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "연핑크",
+          "노랑",
+          "그린",
+          "퍼플"
+        ]
       }
     ],
     "detail_images": [

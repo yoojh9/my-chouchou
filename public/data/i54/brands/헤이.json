@@ -60,7 +60,7 @@
     "id": "1432057",
     "brand": "헤이",
     "name": "헤이.동그리팬츠",
-    "colors": "4색상",
+    "colors": "블루/핑크/오렌지/옐로우",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%97%A4%EC%9D%B4%EB%8F%99%EA%B7%B8%EB%A6%AC%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81xsxl/1432057/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-033.jpg",
@@ -70,28 +70,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "오렌지",
+          "옐로우"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "오렌지",
+          "옐로우"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "오렌지",
+          "옐로우"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "오렌지",
+          "옐로우"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "오렌지",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -325,7 +351,7 @@
     "id": "1432052",
     "brand": "헤이",
     "name": "헤이.컬러티셔츠",
-    "colors": "4색상",
+    "colors": "퍼플/오렌지/오트밀/그린",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%97%A4%EC%9D%B4%EC%BB%AC%EB%9F%AC%ED%8B%B0%EC%85%94%EC%B8%A04%EC%83%89%EC%83%81xsxl/1432052/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-028.jpg",
@@ -335,28 +361,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "오트밀",
+          "그린"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "오트밀",
+          "그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "오트밀",
+          "그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "오트밀",
+          "그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "오트밀",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -484,7 +536,7 @@
     "id": "1432049",
     "brand": "헤이",
     "name": "헤이.젤리나시",
-    "colors": "4색상",
+    "colors": "소라/옐로우/그린/핑크",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%97%A4%EC%9D%B4%EC%A0%A4%EB%A6%AC%EB%82%98%EC%8B%9C4%EC%83%89%EC%83%81xsxl/1432049/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-025.jpg",
@@ -494,28 +546,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "옐로우",
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "옐로우",
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "옐로우",
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "옐로우",
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "옐로우",
+          "그린",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -965,7 +1043,7 @@
     "id": "1432040",
     "brand": "헤이",
     "name": "헤이.린넨후들팬츠",
-    "colors": "4색상",
+    "colors": "옐로우/핑크/아이보리/애플그린",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%97%A4%EC%9D%B4%EB%A6%B0%EB%84%A8%ED%9B%84%EB%93%A4%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81xsxl/1432040/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-016.jpg",
@@ -975,28 +1053,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "핑크",
+          "아이보리",
+          "애플그린"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "핑크",
+          "아이보리",
+          "애플그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "핑크",
+          "아이보리",
+          "애플그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "핑크",
+          "아이보리",
+          "애플그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "핑크",
+          "아이보리",
+          "애플그린"
+        ]
       }
     ],
     "detail_images": [

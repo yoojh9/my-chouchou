@@ -738,7 +738,7 @@
     "id": "1433974",
     "brand": "미니멜로",
     "name": "미니멜로.스티치반팔",
-    "colors": "4색상",
+    "colors": "더스티민트/로즈베이지/베이지/청",
     "size_range": "XS~L",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EB%8B%88%EB%A9%9C%EB%A1%9C%EC%8A%A4%ED%8B%B0%EC%B9%98%EB%B0%98%ED%8C%944%EC%83%89%EC%83%81xsl/1433974/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-102.jpg",
@@ -748,24 +748,44 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "더스티민트",
+          "로즈베이지",
+          "베이지",
+          "청"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "더스티민트",
+          "로즈베이지",
+          "베이지",
+          "청"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "더스티민트",
+          "로즈베이지",
+          "베이지",
+          "청"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "더스티민트",
+          "로즈베이지",
+          "베이지",
+          "청"
+        ]
       }
     ],
     "detail_images": [
@@ -787,7 +807,7 @@
     "id": "1433973",
     "brand": "미니멜로",
     "name": "미니멜로.므므와이드반팔티",
-    "colors": "6색상",
+    "colors": "아이보리/라임/메론/올리브/메란지/차콜",
     "size_range": "XS~L",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EB%8B%88%EB%A9%9C%EB%A1%9C%EB%AF%80%EB%AF%80%EC%99%80%EC%9D%B4%EB%93%9C%EB%B0%98%ED%8C%94%ED%8B%B06%EC%83%89%EC%83%81xsl/1433973/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-101.jpg",
@@ -797,24 +817,52 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라임",
+          "메론",
+          "올리브",
+          "메란지",
+          "차콜"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라임",
+          "메론",
+          "올리브",
+          "메란지",
+          "차콜"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라임",
+          "메론",
+          "올리브",
+          "메란지",
+          "차콜"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라임",
+          "메론",
+          "올리브",
+          "메란지",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -836,7 +884,7 @@
     "id": "1433972",
     "brand": "미니멜로",
     "name": "미니멜로.므므소프트골지탱크",
-    "colors": "4색상",
+    "colors": "베이지/베이비블루/플러쉬핑크/페일옐로우",
     "size_range": "XS~L",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EB%8B%88%EB%A9%9C%EB%A1%9C%EB%AF%80%EB%AF%80%EC%86%8C%ED%94%84%ED%8A%B8%EA%B3%A8%EC%A7%80%ED%83%B1%ED%81%AC4%EC%83%89%EC%83%81xsl/1433972/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-100.jpg",
@@ -846,24 +894,44 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "베이비블루",
+          "플러쉬핑크",
+          "페일옐로우"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "베이비블루",
+          "플러쉬핑크",
+          "페일옐로우"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "베이비블루",
+          "플러쉬핑크",
+          "페일옐로우"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "베이비블루",
+          "플러쉬핑크",
+          "페일옐로우"
+        ]
       }
     ],
     "detail_images": [

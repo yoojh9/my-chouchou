@@ -56,7 +56,7 @@
     "id": "1434302",
     "brand": "밀로미니",
     "name": "밀로미니.기획)쫀드기플리츠상하",
-    "colors": "5색상",
+    "colors": "아이보리/핑크/민트/백멜/차콜",
     "size_range": "90~130",
     "product_url": "https://i54.co.kr/product/%EB%B0%80%EB%A1%9C%EB%AF%B8%EB%8B%88%EA%B8%B0%ED%9A%8D%EC%AB%80%EB%93%9C%EA%B8%B0%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%83%81%ED%95%985%EC%83%89%EC%83%8190130/1434302/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-047.jpg",
@@ -66,28 +66,59 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "90",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "민트",
+          "백멜",
+          "차콜"
+        ]
       },
       {
         "name": "100",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "민트",
+          "백멜",
+          "차콜"
+        ]
       },
       {
         "name": "110",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "민트",
+          "백멜",
+          "차콜"
+        ]
       },
       {
         "name": "120",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "민트",
+          "백멜",
+          "차콜"
+        ]
       },
       {
         "name": "130",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "민트",
+          "백멜",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [

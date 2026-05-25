@@ -13,12 +13,9 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "동물핀&똑딱핀&끈세트",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -77,7 +74,7 @@
     "id": "1433403",
     "brand": "마마스파파",
     "name": "마마스파파.토슈즈키링",
-    "colors": "5색상",
+    "colors": "라벤더/레드/살구/연핑크/화이트",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A7%88%EC%8A%A4%ED%8C%8C%ED%8C%8C%ED%86%A0%EC%8A%88%EC%A6%88%ED%82%A4%EB%A7%815%EC%83%89%EC%83%81free/1433403/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-163.jpg",
@@ -87,12 +84,15 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "레드",
+          "살구",
+          "연핑크",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [

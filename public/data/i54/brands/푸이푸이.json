@@ -3,7 +3,7 @@
     "id": "1433578",
     "brand": "푸이푸이",
     "name": "푸이푸이.하프팬츠",
-    "colors": "4색상",
+    "colors": "그린/베이지/청/핑크",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%91%B8%EC%9D%B4%ED%91%B8%EC%9D%B4%ED%95%98%ED%94%84%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81xsxl/1433578/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-158.jpg",
@@ -13,28 +13,54 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "베이지",
+          "청",
+          "핑크"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "베이지",
+          "청",
+          "핑크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "베이지",
+          "청",
+          "핑크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "베이지",
+          "청",
+          "핑크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "베이지",
+          "청",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -268,7 +294,7 @@
     "id": "1433573",
     "brand": "푸이푸이",
     "name": "푸이푸이.캣츠나시티",
-    "colors": "5색상",
+    "colors": "그린/네이비/레드/소라/아이보리",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%91%B8%EC%9D%B4%ED%91%B8%EC%9D%B4%EC%BA%A3%EC%B8%A0%EB%82%98%EC%8B%9C%ED%8B%B05%EC%83%89%EC%83%81xsxl/1433573/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-153.jpg",
@@ -278,28 +304,59 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비",
+          "레드",
+          "소라",
+          "아이보리"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비",
+          "레드",
+          "소라",
+          "아이보리"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비",
+          "레드",
+          "소라",
+          "아이보리"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비",
+          "레드",
+          "소라",
+          "아이보리"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비",
+          "레드",
+          "소라",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -427,7 +484,7 @@
     "id": "1433570",
     "brand": "푸이푸이",
     "name": "푸이푸이.이브티",
-    "colors": "4색상",
+    "colors": "블랙/아이보리/퍼플/핑크",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%91%B8%EC%9D%B4%ED%91%B8%EC%9D%B4%EC%9D%B4%EB%B8%8C%ED%8B%B04%EC%83%89%EC%83%81xsxl/1433570/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-150.jpg",
@@ -437,28 +494,54 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리",
+          "퍼플",
+          "핑크"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리",
+          "퍼플",
+          "핑크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리",
+          "퍼플",
+          "핑크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리",
+          "퍼플",
+          "핑크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리",
+          "퍼플",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -586,7 +669,7 @@
     "id": "1433567",
     "brand": "푸이푸이",
     "name": "푸이푸이.썸머러브티",
-    "colors": "4색상",
+    "colors": "민트/베이지/소라/화이트",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%91%B8%EC%9D%B4%ED%91%B8%EC%9D%B4%EC%8D%B8%EB%A8%B8%EB%9F%AC%EB%B8%8C%ED%8B%B04%EC%83%89%EC%83%81xsxl/1433567/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-147.jpg",
@@ -596,28 +679,54 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "베이지",
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "베이지",
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "베이지",
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "베이지",
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "베이지",
+          "소라",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [

@@ -1303,7 +1303,7 @@
     "id": "1433483",
     "brand": "크림빵",
     "name": "크림빵.도트날라리티추가",
-    "colors": "4색상",
+    "colors": "핑크/아이보리/그린/레드",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%81%AC%EB%A6%BC%EB%B9%B5%EB%8F%84%ED%8A%B8%EB%82%A0%EB%9D%BC%EB%A6%AC%ED%8B%B0%EC%B6%94%EA%B0%804%EC%83%89%EC%83%81xsxl/1433483/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-063.jpg",
@@ -1313,28 +1313,54 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -1421,7 +1447,7 @@
     "id": "1433481",
     "brand": "크림빵",
     "name": "크림빵.노웨이나염티추가",
-    "colors": "4색상",
+    "colors": "브라운/연두/옐로우/레드",
     "size_range": "XS~XL,JS~JL",
     "product_url": "https://i54.co.kr/product/%ED%81%AC%EB%A6%BC%EB%B9%B5%EB%85%B8%EC%9B%A8%EC%9D%B4%EB%82%98%EC%97%BC%ED%8B%B0%EC%B6%94%EA%B0%804%EC%83%89%EC%83%81xsxljsjl/1433481/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-061.jpg",
@@ -1431,40 +1457,84 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "연두",
+          "옐로우",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -2916,7 +2986,7 @@
     "id": "1431791",
     "brand": "크림빵",
     "name": "크림빵.로이끈나시",
-    "colors": "4색상",
+    "colors": "레몬/블루/크림/핑크",
     "size_range": "XS~XL,JS~JL",
     "product_url": "https://i54.co.kr/product/%ED%81%AC%EB%A6%BC%EB%B9%B5%EB%A1%9C%EC%9D%B4%EB%81%88%EB%82%98%EC%8B%9C4%EC%83%89%EC%83%81xsxljsjl/1431791/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-052.jpg",
@@ -2926,40 +2996,79 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레몬",
+          "블루",
+          "크림",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -3099,7 +3208,7 @@
     "id": "1431788",
     "brand": "크림빵",
     "name": "크림빵.도트날라리티",
-    "colors": "4색상",
+    "colors": "핑크/아이보리/그린/레드",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%81%AC%EB%A6%BC%EB%B9%B5%EB%8F%84%ED%8A%B8%EB%82%A0%EB%9D%BC%EB%A6%AC%ED%8B%B04%EC%83%89%EC%83%81xsxl/1431788/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-049.jpg",
@@ -3109,28 +3218,54 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "아이보리",
+          "그린",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -3217,7 +3352,7 @@
     "id": "1431786",
     "brand": "크림빵",
     "name": "크림빵.노웨이나염티",
-    "colors": "4색상",
+    "colors": "레드/브라운/연그린/옐로우",
     "size_range": "XS~XL,JS~JL",
     "product_url": "https://i54.co.kr/product/%ED%81%AC%EB%A6%BC%EB%B9%B5%EB%85%B8%EC%9B%A8%EC%9D%B4%EB%82%98%EC%97%BC%ED%8B%B04%EC%83%89%EC%83%81xsxljsjl/1431786/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-047.jpg",
@@ -3227,40 +3362,79 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "브라운",
+          "연그린",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [

@@ -3,7 +3,7 @@
     "id": "1432092",
     "brand": "피넛앤버터",
     "name": "피넛앤버터.에센셜반팔티",
-    "colors": "4색상",
+    "colors": "노랑/파랑/초록/빨강",
     "size_range": "13호~21호",
     "product_url": "https://i54.co.kr/product/%ED%94%BC%EB%84%9B%EC%95%A4%EB%B2%84%ED%84%B0%EC%97%90%EC%84%BC%EC%85%9C%EB%B0%98%ED%8C%94%ED%8B%B04%EC%83%89%EC%83%8113%ED%98%B821%ED%98%B8/1432092/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-068.jpg",
@@ -13,28 +13,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "13",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "초록",
+          "빨강"
+        ]
       },
       {
         "name": "15",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "초록",
+          "빨강"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "파랑",
+          "초록",
+          "빨강"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "파랑",
+          "초록",
+          "빨강"
+        ]
       },
       {
         "name": "21",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "파랑",
+          "초록",
+          "빨강"
+        ]
       }
     ],
     "detail_images": [

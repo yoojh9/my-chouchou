@@ -488,7 +488,7 @@
     "id": "1433579",
     "brand": "폼",
     "name": "폼.골지반팔티셔츠",
-    "colors": "5색상",
+    "colors": "레드/옐로우/블루/화이트/메란지",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%ED%8F%BC%EA%B3%A8%EC%A7%80%EB%B0%98%ED%8C%94%ED%8B%B0%EC%85%94%EC%B8%A05%EC%83%89%EC%83%81xsxl/1433579/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-159.jpg",
@@ -498,28 +498,59 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "블루",
+          "화이트",
+          "메란지"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "블루",
+          "화이트",
+          "메란지"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "블루",
+          "화이트",
+          "메란지"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "블루",
+          "화이트",
+          "메란지"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "블루",
+          "화이트",
+          "메란지"
+        ]
       }
     ],
     "detail_images": [

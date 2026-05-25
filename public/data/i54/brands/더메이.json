@@ -798,7 +798,7 @@
     "id": "1434397",
     "brand": "더메이",
     "name": "더메이.레이스5부레깅스",
-    "colors": "4색상",
+    "colors": "검정/메란지/검ST/핑ST",
     "size_range": "XS~XL",
     "product_url": "https://i54.co.kr/product/%EB%8D%94%EB%A9%94%EC%9D%B4%EB%A0%88%EC%9D%B4%EC%8A%A45%EB%B6%80%EB%A0%88%EA%B9%85%EC%8A%A44%EC%83%89%EC%83%81xsxl/1434397/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-142.jpg",
@@ -808,28 +808,54 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "메란지",
+          "검ST",
+          "핑ST"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "메란지",
+          "검ST",
+          "핑ST"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "메란지",
+          "검ST",
+          "핑ST"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "메란지",
+          "검ST",
+          "핑ST"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "메란지",
+          "검ST",
+          "핑ST"
+        ]
       }
     ],
     "detail_images": [

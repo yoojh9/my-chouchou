@@ -374,7 +374,7 @@
     "id": "1433698",
     "brand": "블랙핑크",
     "name": "블랙핑크.컬러팝코튼반바지",
-    "colors": "4색상",
+    "colors": "크림베이지/핑크/블루/네이비",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%BB%AC%EB%9F%AC%ED%8C%9D%EC%BD%94%ED%8A%BC%EB%B0%98%EB%B0%94%EC%A7%804%EC%83%89%EC%83%81s2xl/1433698/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-110.jpg",
@@ -384,28 +384,54 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림베이지",
+          "핑크",
+          "블루",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림베이지",
+          "핑크",
+          "블루",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림베이지",
+          "핑크",
+          "블루",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림베이지",
+          "핑크",
+          "블루",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림베이지",
+          "핑크",
+          "블루",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -798,7 +824,7 @@
     "id": "1433690",
     "brand": "블랙핑크",
     "name": "블랙핑크.엠보ST반바지",
-    "colors": "4색상",
+    "colors": "블랙/레드/핑크/스카이블루",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%97%A0%EB%B3%B4st%EB%B0%98%EB%B0%94%EC%A7%804%EC%83%89%EC%83%81s2xl/1433690/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-102.jpg",
@@ -808,28 +834,54 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       }
     ],
     "detail_images": [
@@ -851,7 +903,7 @@
     "id": "1433689",
     "brand": "블랙핑크",
     "name": "블랙핑크.썸머쿨고쟁이",
-    "colors": "6색상",
+    "colors": "화이트/블랙/베이지/핑크/옐로우/소라",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%8D%B8%EB%A8%B8%EC%BF%A8%EA%B3%A0%EC%9F%81%EC%9D%B46%EC%83%89%EC%83%81s2xl/1433689/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-101.jpg",
@@ -861,28 +913,64 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙",
+          "베이지",
+          "핑크",
+          "옐로우",
+          "소라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙",
+          "베이지",
+          "핑크",
+          "옐로우",
+          "소라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙",
+          "베이지",
+          "핑크",
+          "옐로우",
+          "소라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙",
+          "베이지",
+          "핑크",
+          "옐로우",
+          "소라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "블랙",
+          "베이지",
+          "핑크",
+          "옐로우",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -957,7 +1045,7 @@
     "id": "1433687",
     "brand": "블랙핑크",
     "name": "블랙핑크.썸머ST반팔티",
-    "colors": "5색상",
+    "colors": "블랙/메란지/아이보리/블루/옐로우",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%8D%B8%EB%A8%B8st%EB%B0%98%ED%8C%94%ED%8B%B05%EC%83%89%EC%83%81s2xl/1433687/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-099.jpg",
@@ -967,28 +1055,59 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "메란지",
+          "아이보리",
+          "블루",
+          "옐로우"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "메란지",
+          "아이보리",
+          "블루",
+          "옐로우"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "메란지",
+          "아이보리",
+          "블루",
+          "옐로우"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "메란지",
+          "아이보리",
+          "블루",
+          "옐로우"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "메란지",
+          "아이보리",
+          "블루",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -1540,7 +1659,7 @@
     "id": "1433676",
     "brand": "블랙핑크",
     "name": "블랙핑크.린넨강연가디건",
-    "colors": "5색상",
+    "colors": "화이트/핑크/민트/오트밀/블랙",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EB%A6%B0%EB%84%A8%EA%B0%95%EC%97%B0%EA%B0%80%EB%94%94%EA%B1%B45%EC%83%89%EC%83%81s2xl/1433676/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-088.jpg",
@@ -1550,28 +1669,53 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크",
+          "민트",
+          "오트밀",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크",
+          "민트",
+          "오트밀",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크",
+          "민트",
+          "오트밀",
+          "블랙"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "핑크",
+          "민트",
+          "오트밀",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2017,7 +2161,7 @@
     "id": "1433667",
     "brand": "블랙핑크",
     "name": "블랙핑크.데일리기본반바지",
-    "colors": "5색상",
+    "colors": "백메란/핑크/블루/메란지/블랙",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EB%8D%B0%EC%9D%BC%EB%A6%AC%EA%B8%B0%EB%B3%B8%EB%B0%98%EB%B0%94%EC%A7%805%EC%83%89%EC%83%81s2xl/1433667/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-079.jpg",
@@ -2027,28 +2171,59 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백메란",
+          "핑크",
+          "블루",
+          "메란지",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백메란",
+          "핑크",
+          "블루",
+          "메란지",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백메란",
+          "핑크",
+          "블루",
+          "메란지",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백메란",
+          "핑크",
+          "블루",
+          "메란지",
+          "블랙"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백메란",
+          "핑크",
+          "블루",
+          "메란지",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2441,7 +2616,7 @@
     "id": "1433659",
     "brand": "블랙핑크",
     "name": "블랙핑크.7days반팔티",
-    "colors": "7색상",
+    "colors": "핑크/오렌지/옐로우/민트/스카이블루/퍼플/화이트",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC7days%EB%B0%98%ED%8C%94%ED%8B%B07%EC%83%89%EC%83%81s2xl/1433659/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-071.jpg",
@@ -2451,28 +2626,69 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "오렌지",
+          "옐로우",
+          "민트",
+          "스카이블루",
+          "퍼플",
+          "화이트"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "오렌지",
+          "옐로우",
+          "민트",
+          "스카이블루",
+          "퍼플",
+          "화이트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "오렌지",
+          "옐로우",
+          "민트",
+          "스카이블루",
+          "퍼플",
+          "화이트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "오렌지",
+          "옐로우",
+          "민트",
+          "스카이블루",
+          "퍼플",
+          "화이트"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "핑크",
+          "오렌지",
+          "옐로우",
+          "민트",
+          "스카이블루",
+          "퍼플",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2621,7 +2837,7 @@
     "id": "1433655",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)하트펄헤어밴드",
-    "colors": "5색상",
+    "colors": "골드/연핑크/블루/모카/핫핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%ED%95%98%ED%8A%B8%ED%8E%84%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C5%EC%83%89%EC%83%81free/1433655/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-067.jpg",
@@ -2631,12 +2847,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "연핑크",
+          "블루",
+          "모카",
+          "핫핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -2954,7 +3173,7 @@
     "id": "1433646",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)티파니3종세트",
-    "colors": "4색상",
+    "colors": "옐로우/그린/블루/핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%ED%8B%B0%ED%8C%8C%EB%8B%883%EC%A2%85%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433646/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-058.jpg",
@@ -2964,12 +3183,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "그린",
+          "블루",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -3139,7 +3360,7 @@
     "id": "1433641",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)체크하트리본세트",
-    "colors": "5색상",
+    "colors": "블랙/레드/연핑크/핫핑크/퍼플",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%B2%B4%ED%81%AC%ED%95%98%ED%8A%B8%EB%A6%AC%EB%B3%B8%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433641/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-053.jpg",
@@ -3149,12 +3370,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "2개1세트",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "연핑크",
+          "핫핑크",
+          "퍼플"
+        ]
       }
     ],
     "detail_images": [
@@ -3176,7 +3400,7 @@
     "id": "1433640",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)체크통통리본핀",
-    "colors": "4색상",
+    "colors": "블랙/레드/핑크/스카이블루",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%B2%B4%ED%81%AC%ED%86%B5%ED%86%B5%EB%A6%AC%EB%B3%B8%ED%95%804%EC%83%89%EC%83%81free/1433640/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-052.jpg",
@@ -3186,12 +3410,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       }
     ],
     "detail_images": [
@@ -3435,7 +3661,7 @@
     "id": "1433633",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)진주큐빅미니백",
-    "colors": "4색상",
+    "colors": "블랙/베이지/블루/핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%A7%84%EC%A3%BC%ED%81%90%EB%B9%85%EB%AF%B8%EB%8B%88%EB%B0%B14%EC%83%89%EC%83%81free/1433633/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-045.jpg",
@@ -3445,12 +3671,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "베이지",
+          "블루",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -3768,7 +3996,7 @@
     "id": "1433624",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)아크릴하트세트",
-    "colors": "5색상",
+    "colors": "레드/블루/핑크/그린/옐로우",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%95%84%ED%81%AC%EB%A6%B4%ED%95%98%ED%8A%B8%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433624/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-036.jpg",
@@ -3778,12 +4006,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블루",
+          "핑크",
+          "그린",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -3842,7 +4073,7 @@
     "id": "1433622",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)아델린리본핀",
-    "colors": "5색상",
+    "colors": "블랙/핑크/옐로우/그린/블루",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%95%84%EB%8D%B8%EB%A6%B0%EB%A6%AC%EB%B3%B8%ED%95%805%EC%83%89%EC%83%81free/1433622/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-034.jpg",
@@ -3852,12 +4083,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크",
+          "옐로우",
+          "그린",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -4064,7 +4298,7 @@
     "id": "1433616",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)쉬폰장미세트",
-    "colors": "4색상",
+    "colors": "블루/핑크/옐로우/베이지",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%89%AC%ED%8F%B0%EC%9E%A5%EB%AF%B8%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433616/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-028.jpg",
@@ -4074,12 +4308,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "옐로우",
+          "베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -4138,7 +4374,7 @@
     "id": "1433614",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)샤샤진주리본핀",
-    "colors": "5색상",
+    "colors": "핫핑크/블루/연핑크/퍼플/크림",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EC%83%A4%EC%83%A4%EC%A7%84%EC%A3%BC%EB%A6%AC%EB%B3%B8%ED%95%805%EC%83%89%EC%83%81free/1433614/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-026.jpg",
@@ -4148,12 +4384,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핫핑크",
+          "블루",
+          "연핑크",
+          "퍼플",
+          "크림"
+        ]
       }
     ],
     "detail_images": [
@@ -4212,7 +4451,7 @@
     "id": "1433612",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)뽀글꽃3종세트",
-    "colors": "4색상",
+    "colors": "퍼플/핑크/옐로우/그린",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%BD%80%EA%B8%80%EA%BD%833%EC%A2%85%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433612/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-024.jpg",
@@ -4222,12 +4461,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "옐로우",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -4397,7 +4638,7 @@
     "id": "1433607",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)반짝이하트세트",
-    "colors": "5색상",
+    "colors": "블루/옐로우/핑크/화이트/퍼플",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%B0%98%EC%A7%9D%EC%9D%B4%ED%95%98%ED%8A%B8%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433607/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-019.jpg",
@@ -4407,12 +4648,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "옐로우",
+          "핑크",
+          "화이트",
+          "퍼플"
+        ]
       }
     ],
     "detail_images": [
@@ -4471,7 +4715,7 @@
     "id": "1433605",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)미니하트콩세트",
-    "colors": "5색상",
+    "colors": "블랙/레드/핑크/스카이블루/옐로우",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%AF%B8%EB%8B%88%ED%95%98%ED%8A%B8%EC%BD%A9%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433605/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-017.jpg",
@@ -4481,12 +4725,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -4508,7 +4755,7 @@
     "id": "1433604",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)미니큐빅5종세트",
-    "colors": "5색상",
+    "colors": "퍼플/핑크/블루/레드/옐로우",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%AF%B8%EB%8B%88%ED%81%90%EB%B9%855%EC%A2%85%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433604/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-016.jpg",
@@ -4518,12 +4765,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "블루",
+          "레드",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -4545,7 +4795,7 @@
     "id": "1433603",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)미니왕관집게핀",
-    "colors": "5색상",
+    "colors": "코랄/옐로우/블루/퍼플/핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%AF%B8%EB%8B%88%EC%99%95%EA%B4%80%EC%A7%91%EA%B2%8C%ED%95%805%EC%83%89%EC%83%81free/1433603/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-015.jpg",
@@ -4555,12 +4805,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코랄",
+          "옐로우",
+          "블루",
+          "퍼플",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -4582,7 +4835,7 @@
     "id": "1433602",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)미니리본세트",
-    "colors": "4색상",
+    "colors": "블랙/레드/핑크/스카이블루",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%AF%B8%EB%8B%88%EB%A6%AC%EB%B3%B8%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433602/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-014.jpg",
@@ -4592,12 +4845,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "핑크",
+          "스카이블루"
+        ]
       }
     ],
     "detail_images": [
@@ -4619,7 +4874,7 @@
     "id": "1433601",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)미니레이스리본세트",
-    "colors": "4색상",
+    "colors": "블랙/화이트/핑크/옐로우",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%AF%B8%EB%8B%88%EB%A0%88%EC%9D%B4%EC%8A%A4%EB%A6%AC%EB%B3%B8%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433601/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-013.jpg",
@@ -4629,12 +4884,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -4767,7 +5024,7 @@
     "id": "1433597",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)딱너야리본핀3종세트",
-    "colors": "5색상",
+    "colors": "레드/퍼플/오렌지/핑크/그린",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%94%B1%EB%84%88%EC%95%BC%EB%A6%AC%EB%B3%B8%ED%95%803%EC%A2%85%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433597/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-009.jpg",
@@ -4777,12 +5034,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "퍼플",
+          "오렌지",
+          "핑크",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -4841,7 +5101,7 @@
     "id": "1433595",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)너만묶을래머리끈",
-    "colors": "4색상",
+    "colors": "블랙/핑크/레인보우/네온",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EB%84%88%EB%A7%8C%EB%AC%B6%EC%9D%84%EB%9E%98%EB%A8%B8%EB%A6%AC%EB%81%884%EC%83%89%EC%83%81free/1433595/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-007.jpg",
@@ -4851,12 +5111,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크",
+          "레인보우",
+          "네온"
+        ]
       }
     ],
     "detail_images": [
@@ -4989,7 +5251,7 @@
     "id": "1433591",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)곰돌이머리리본세트",
-    "colors": "4색상",
+    "colors": "레드/옐로우/핫핑크/연핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8%EA%B3%B0%EB%8F%8C%EC%9D%B4%EB%A8%B8%EB%A6%AC%EB%A6%AC%EB%B3%B8%EC%84%B8%ED%8A%B84%EC%83%89%EC%83%81free/1433591/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-003.jpg",
@@ -4999,12 +5261,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "옐로우",
+          "핫핑크",
+          "연핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -5063,7 +5327,7 @@
     "id": "1433589",
     "brand": "블랙핑크",
     "name": "블랙핑크.악세)LOVE리본세트",
-    "colors": "5색상",
+    "colors": "레드/핑크/옐로우/그린/블루",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%EC%95%85%EC%84%B8love%EB%A6%AC%EB%B3%B8%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81free/1433589/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-001.jpg",
@@ -5073,12 +5337,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "핑크",
+          "옐로우",
+          "그린",
+          "블루"
+        ]
       }
     ],
     "detail_images": [

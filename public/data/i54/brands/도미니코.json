@@ -40,7 +40,7 @@
     "id": "1432181",
     "brand": "도미니코",
     "name": "도미니코.후르츠마스크",
-    "colors": "4색상",
+    "colors": "딸기/복숭아/망고/아보카도",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%ED%9B%84%EB%A5%B4%EC%B8%A0%EB%A7%88%EC%8A%A4%ED%81%AC4%EC%83%89%EC%83%81free/1432181/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-157.jpg",
@@ -50,12 +50,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "딸기",
+          "복숭아",
+          "망고",
+          "아보카도"
+        ]
       }
     ],
     "detail_images": [
@@ -159,7 +161,7 @@
     "id": "1432178",
     "brand": "도미니코",
     "name": "도미니코.프릴끈나시발레복",
-    "colors": "4색상",
+    "colors": "옐로우/오렌지/핑크/퍼플",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%ED%94%84%EB%A6%B4%EB%81%88%EB%82%98%EC%8B%9C%EB%B0%9C%EB%A0%88%EB%B3%B54%EC%83%89%EC%83%81sl/1432178/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-154.jpg",
@@ -169,20 +171,34 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "오렌지",
+          "핑크",
+          "퍼플"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "오렌지",
+          "핑크",
+          "퍼플"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "오렌지",
+          "핑크",
+          "퍼플"
+        ]
       }
     ],
     "detail_images": [
@@ -259,12 +275,9 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -376,7 +389,7 @@
     "id": "1432173",
     "brand": "도미니코",
     "name": "도미니코.퍼프골지랩티",
-    "colors": "4색상",
+    "colors": "퍼플/핑크/아이보리/블랙",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%ED%8D%BC%ED%94%84%EA%B3%A8%EC%A7%80%EB%9E%A9%ED%8B%B04%EC%83%89%EC%83%81sl/1432173/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-149.jpg",
@@ -386,20 +399,34 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "아이보리",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -474,7 +501,7 @@
     "id": "1432171",
     "brand": "도미니코",
     "name": "도미니코.트윙클발레헤어밴드",
-    "colors": "4색상",
+    "colors": "핑크/그레이/베이지/아이보리",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%ED%8A%B8%EC%9C%99%ED%81%B4%EB%B0%9C%EB%A0%88%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C4%EC%83%89%EC%83%81free/1432171/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-147.jpg",
@@ -484,12 +511,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "그레이",
+          "베이지",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -626,7 +655,7 @@
     "id": "1432167",
     "brand": "도미니코",
     "name": "도미니코.체리왕에코백",
-    "colors": "4색상",
+    "colors": "핑크/진회색/연보라/환타",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EC%B2%B4%EB%A6%AC%EC%99%95%EC%97%90%EC%BD%94%EB%B0%B14%EC%83%89%EC%83%81free/1432167/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-143.jpg",
@@ -636,12 +665,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "진회색",
+          "연보라",
+          "환타"
+        ]
       }
     ],
     "detail_images": [
@@ -901,7 +932,7 @@
     "id": "1432160",
     "brand": "도미니코",
     "name": "도미니코.엘사발레머리띠",
-    "colors": "4색상",
+    "colors": "골드/블루/실버/핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EC%97%98%EC%82%AC%EB%B0%9C%EB%A0%88%EB%A8%B8%EB%A6%AC%EB%9D%A04%EC%83%89%EC%83%81free/1432160/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-136.jpg",
@@ -911,12 +942,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "블루",
+          "실버",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -1020,7 +1053,7 @@
     "id": "1432157",
     "brand": "도미니코",
     "name": "도미니코.앙팡보넷",
-    "colors": "5색상",
+    "colors": "아이보리/핑크/옐로우/오렌지/베이지",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EC%95%99%ED%8C%A1%EB%B3%B4%EB%84%B75%EC%83%89%EC%83%81free/1432157/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-133.jpg",
@@ -1030,12 +1063,15 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "옐로우",
+          "오렌지",
+          "베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -1317,12 +1353,9 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -1344,7 +1377,7 @@
     "id": "1432149",
     "brand": "도미니코",
     "name": "도미니코.벨벳망고튜튜발레복",
-    "colors": "4색상",
+    "colors": "그레이/옐로우/핑크/자주",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EB%B2%A8%EB%B2%B3%EB%A7%9D%EA%B3%A0%ED%8A%9C%ED%8A%9C%EB%B0%9C%EB%A0%88%EB%B3%B54%EC%83%89%EC%83%81sl/1432149/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-125.jpg",
@@ -1354,20 +1387,29 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "옐로우",
+          "핑크",
+          "자주"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "옐로우",
+          "핑크",
+          "자주"
+        ]
       }
     ],
     "detail_images": [
@@ -1434,7 +1476,7 @@
     "id": "1432147",
     "brand": "도미니코",
     "name": "도미니코.벅스가드",
-    "colors": "6색상",
+    "colors": "퍼플/핑크/오렌지/스카이/옐로우/그린",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EB%B2%85%EC%8A%A4%EA%B0%80%EB%93%9C6%EC%83%89%EC%83%81free/1432147/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-123.jpg",
@@ -1444,12 +1486,16 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "핑크",
+          "오렌지",
+          "스카이",
+          "옐로우",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -1516,7 +1562,7 @@
     "id": "1432145",
     "brand": "도미니코",
     "name": "도미니코.배색끈나시레오타드",
-    "colors": "4색상",
+    "colors": "블랙/연보라/인디핑크/진분홍",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EB%B0%B0%EC%83%89%EB%81%88%EB%82%98%EC%8B%9C%EB%A0%88%EC%98%A4%ED%83%80%EB%93%9C4%EC%83%89%EC%83%81sl/1432145/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-121.jpg",
@@ -1526,20 +1572,34 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연보라",
+          "인디핑크",
+          "진분홍"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연보라",
+          "인디핑크",
+          "진분홍"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연보라",
+          "인디핑크",
+          "진분홍"
+        ]
       }
     ],
     "detail_images": [
@@ -2294,7 +2354,7 @@
     "id": "1432127",
     "brand": "도미니코",
     "name": "도미니코.랩스커트",
-    "colors": "8색상",
+    "colors": "화이트/연핑크/진핑크/라임/스카이블루/퍼플/진그레이/블랙",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EB%9E%A9%EC%8A%A4%EC%BB%A4%ED%8A%B88%EC%83%89%EC%83%81free/1432127/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-103.jpg",
@@ -2304,12 +2364,18 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "연핑크",
+          "진핑크",
+          "라임",
+          "스카이블루",
+          "퍼플",
+          "진그레이",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2835,7 +2901,7 @@
     "id": "1432114",
     "brand": "도미니코",
     "name": "도미니코.고방숏튜튜",
-    "colors": "6색상",
+    "colors": "블랙/레드/민트/블루/퍼플/핑크",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%BD%94%EA%B3%A0%EB%B0%A9%EC%88%8F%ED%8A%9C%ED%8A%9C6%EC%83%89%EC%83%81free/1432114/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-090.jpg",
@@ -2845,12 +2911,16 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "레드",
+          "민트",
+          "블루",
+          "퍼플",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [

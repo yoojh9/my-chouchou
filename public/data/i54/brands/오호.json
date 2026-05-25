@@ -3,7 +3,7 @@
     "id": "1433347",
     "brand": "오호",
     "name": "오호.후르츠나시원피스",
-    "colors": "4색상",
+    "colors": "연핑크/진핑크/그린/블루",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%ED%9B%84%EB%A5%B4%EC%B8%A0%EB%82%98%EC%8B%9C%EC%9B%90%ED%94%BC%EC%8A%A44%EC%83%89%EC%83%81s2xl/1433347/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-107.jpg",
@@ -13,28 +13,54 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -56,7 +82,7 @@
     "id": "1433346",
     "brand": "오호",
     "name": "오호.후르츠가디건",
-    "colors": "4색상",
+    "colors": "연핑크/진핑크/그린/블루",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%ED%9B%84%EB%A5%B4%EC%B8%A0%EA%B0%80%EB%94%94%EA%B1%B44%EC%83%89%EC%83%81s2xl/1433346/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-106.jpg",
@@ -66,28 +92,49 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "진핑크",
+          "그린",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -586,7 +633,7 @@
     "id": "1433336",
     "brand": "오호",
     "name": "오호.엔젤자수날개티",
-    "colors": "4색상",
+    "colors": "크림/핑크/퍼플/브라운",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%EC%97%94%EC%A0%A4%EC%9E%90%EC%88%98%EB%82%A0%EA%B0%9C%ED%8B%B04%EC%83%89%EC%83%81s2xl/1433336/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-096.jpg",
@@ -596,28 +643,54 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크",
+          "퍼플",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크",
+          "퍼플",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크",
+          "퍼플",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크",
+          "퍼플",
+          "브라운"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크",
+          "퍼플",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -639,7 +712,7 @@
     "id": "1433335",
     "brand": "오호",
     "name": "오호.아일렛셔링끈스커트",
-    "colors": "5색상",
+    "colors": "아이보리/소라/옐로우/퍼플/그린",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%EC%95%84%EC%9D%BC%EB%A0%9B%EC%85%94%EB%A7%81%EB%81%88%EC%8A%A4%EC%BB%A4%ED%8A%B85%EC%83%89%EC%83%81s2xl/1433335/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-095.jpg",
@@ -649,28 +722,59 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "옐로우",
+          "퍼플",
+          "그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "옐로우",
+          "퍼플",
+          "그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "옐로우",
+          "퍼플",
+          "그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "옐로우",
+          "퍼플",
+          "그린"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "옐로우",
+          "퍼플",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -1063,7 +1167,7 @@
     "id": "1433327",
     "brand": "오호",
     "name": "오호.말랑카프리팬츠",
-    "colors": "4색상",
+    "colors": "아이보리/블랙/민트/소라",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%EB%A7%90%EB%9E%91%EC%B9%B4%ED%94%84%EB%A6%AC%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81s2xl/1433327/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-087.jpg",
@@ -1073,28 +1177,54 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "민트",
+          "소라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "민트",
+          "소라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "민트",
+          "소라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "민트",
+          "소라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "민트",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -1434,7 +1564,7 @@
     "id": "1433320",
     "brand": "오호",
     "name": "오호.도브쁘띠반팔티",
-    "colors": "5색상",
+    "colors": "아이보리/소라/민트/핑크/연보라",
     "size_range": "S~2XL",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%ED%98%B8%EB%8F%84%EB%B8%8C%EC%81%98%EB%9D%A0%EB%B0%98%ED%8C%94%ED%8B%B05%EC%83%89%EC%83%81s2xl/1433320/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-080.jpg",
@@ -1444,28 +1574,59 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "민트",
+          "핑크",
+          "연보라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "민트",
+          "핑크",
+          "연보라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "민트",
+          "핑크",
+          "연보라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "민트",
+          "핑크",
+          "연보라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "소라",
+          "민트",
+          "핑크",
+          "연보라"
+        ]
       }
     ],
     "detail_images": [

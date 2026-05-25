@@ -744,7 +744,7 @@
     "id": "1431931",
     "brand": "조이엘로",
     "name": "조이엘로.체크프릴세트",
-    "colors": "5색상",
+    "colors": "노랑/그린/주황/보라/블랙",
     "size_range": "XS~2XL",
     "product_url": "https://i54.co.kr/product/%EC%A1%B0%EC%9D%B4%EC%97%98%EB%A1%9C%EC%B2%B4%ED%81%AC%ED%94%84%EB%A6%B4%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81xs2xl/1431931/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-192.jpg",
@@ -754,32 +754,64 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "그린",
+          "주황",
+          "보라",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "그린",
+          "주황",
+          "보라",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "그린",
+          "주황",
+          "보라",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "그린",
+          "주황",
+          "보라",
+          "블랙"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "그린",
+          "주황",
+          "보라",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -858,7 +890,7 @@
     "id": "1431929",
     "brand": "조이엘로",
     "name": "조이엘로.조이세트",
-    "colors": "5색상",
+    "colors": "노랑/연핑/진핑/소라/검정",
     "size_range": "XS~2XL",
     "product_url": "https://i54.co.kr/product/%EC%A1%B0%EC%9D%B4%EC%97%98%EB%A1%9C%EC%A1%B0%EC%9D%B4%EC%84%B8%ED%8A%B85%EC%83%89%EC%83%81xs2xl/1431929/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-190.jpg",
@@ -868,32 +900,70 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "노랑",
+          "연핑",
+          "진핑",
+          "소라",
+          "검정"
+        ]
       }
     ],
     "detail_images": [

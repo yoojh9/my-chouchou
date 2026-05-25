@@ -394,7 +394,7 @@
     "id": "1432275",
     "brand": "우리두리",
     "name": "우리두리.왕리본슬리퍼",
-    "colors": "4색상",
+    "colors": "민트/화이트/핑크/옐로우",
     "size_range": "170~230",
     "product_url": "https://i54.co.kr/product/%EC%9A%B0%EB%A6%AC%EB%91%90%EB%A6%AC%EC%99%95%EB%A6%AC%EB%B3%B8%EC%8A%AC%EB%A6%AC%ED%8D%BC4%EC%83%89%EC%83%81170230/1432275/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-035.jpg",
@@ -404,36 +404,74 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       },
       {
         "name": "230",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "화이트",
+          "핑크",
+          "옐로우"
+        ]
       }
     ],
     "detail_images": [
@@ -1550,7 +1588,7 @@
     "id": "1432255",
     "brand": "우리두리",
     "name": "우리두리.CL뉴하트조리",
-    "colors": "4색상",
+    "colors": "형광핑크/형광옐로우/홀로그램핑크/홀로그램실버",
     "size_range": "170~220",
     "product_url": "https://i54.co.kr/product/%EC%9A%B0%EB%A6%AC%EB%91%90%EB%A6%ACcl%EB%89%B4%ED%95%98%ED%8A%B8%EC%A1%B0%EB%A6%AC4%EC%83%89%EC%83%81170220/1432255/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-015.jpg",
@@ -1560,32 +1598,64 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "형광핑크",
+          "형광옐로우",
+          "홀로그램핑크",
+          "홀로그램실버"
+        ]
       }
     ],
     "detail_images": [

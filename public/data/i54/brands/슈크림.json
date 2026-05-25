@@ -93,7 +93,7 @@
     "id": "1434373",
     "brand": "슈크림",
     "name": "슈크림.포켓반바지",
-    "colors": "4색상",
+    "colors": "아이보리/레드/브라운/네이비",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%ED%8F%AC%EC%BC%93%EB%B0%98%EB%B0%94%EC%A7%804%EC%83%89%EC%83%81sl/1434373/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-118.jpg",
@@ -103,20 +103,34 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -310,7 +324,7 @@
     "id": "1434368",
     "brand": "슈크림",
     "name": "슈크림.여름방방고쟁이",
-    "colors": "4색상",
+    "colors": "미니꽃/도트/레드꽃/블랙꽃",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%EC%97%AC%EB%A6%84%EB%B0%A9%EB%B0%A9%EA%B3%A0%EC%9F%81%EC%9D%B44%EC%83%89%EC%83%81sl/1434368/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-113.jpg",
@@ -320,20 +334,34 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "미니꽃",
+          "도트",
+          "레드꽃",
+          "블랙꽃"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "미니꽃",
+          "도트",
+          "레드꽃",
+          "블랙꽃"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "미니꽃",
+          "도트",
+          "레드꽃",
+          "블랙꽃"
+        ]
       }
     ],
     "detail_images": [
@@ -355,7 +383,7 @@
     "id": "1434367",
     "brand": "슈크림",
     "name": "슈크림.썸머골지가디건",
-    "colors": "4색상",
+    "colors": "아이보리/블랙/연베이지/브라운",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%EC%8D%B8%EB%A8%B8%EA%B3%A8%EC%A7%80%EA%B0%80%EB%94%94%EA%B1%B44%EC%83%89%EC%83%81sl/1434367/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-112.jpg",
@@ -365,20 +393,34 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -445,7 +487,7 @@
     "id": "1434365",
     "brand": "슈크림",
     "name": "슈크림.슬림기본티",
-    "colors": "4색상",
+    "colors": "아이보리/핑크/소라/블랙",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%EC%8A%AC%EB%A6%BC%EA%B8%B0%EB%B3%B8%ED%8B%B04%EC%83%89%EC%83%81sl/1434365/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-110.jpg",
@@ -455,20 +497,34 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -666,7 +722,7 @@
     "id": "1434360",
     "brand": "슈크림",
     "name": "슈크림.바이커레깅스",
-    "colors": "6색상",
+    "colors": "아이보리/핑크/소라/블랙/ST아이보리/ST블랙",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%EB%B0%94%EC%9D%B4%EC%BB%A4%EB%A0%88%EA%B9%85%EC%8A%A46%EC%83%89%EC%83%81sl/1434360/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0521/mo0521-105.jpg",
@@ -676,20 +732,40 @@
     "mfg_date": "2026-05-21",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙",
+          "ST아이보리",
+          "ST블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙",
+          "ST아이보리",
+          "ST블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "소라",
+          "블랙",
+          "ST아이보리",
+          "ST블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -842,7 +918,7 @@
     "id": "1432251",
     "brand": "슈크림",
     "name": "슈크림.포켓반바지",
-    "colors": "4색상",
+    "colors": "아이보리/레드/브라운/네이비",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%ED%8F%AC%EC%BC%93%EB%B0%98%EB%B0%94%EC%A7%804%EC%83%89%EC%83%81sl/1432251/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-011.jpg",
@@ -852,20 +928,34 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "브라운",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -932,7 +1022,7 @@
     "id": "1432249",
     "brand": "슈크림",
     "name": "슈크림.썸머골지가디건",
-    "colors": "4색상",
+    "colors": "아이보리/블랙/연베이지/브라운",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%EC%8A%88%ED%81%AC%EB%A6%BC%EC%8D%B8%EB%A8%B8%EA%B3%A8%EC%A7%80%EA%B0%80%EB%94%94%EA%B1%B44%EC%83%89%EC%83%81sl/1432249/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-009.jpg",
@@ -942,20 +1032,34 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙",
+          "연베이지",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [

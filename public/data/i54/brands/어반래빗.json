@@ -308,7 +308,7 @@
     "id": "1433433",
     "brand": "어반래빗",
     "name": "어반래빗.크리즈프릴나시",
-    "colors": "4색상",
+    "colors": "크림/올리브/핑크/블랙",
     "size_range": "XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EC%96%B4%EB%B0%98%EB%9E%98%EB%B9%97%ED%81%AC%EB%A6%AC%EC%A6%88%ED%94%84%EB%A6%B4%EB%82%98%EC%8B%9C4%EC%83%89%EC%83%81xsxljsjm/1433433/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-013.jpg",
@@ -318,36 +318,74 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -369,7 +407,7 @@
     "id": "1433432",
     "brand": "어반래빗",
     "name": "어반래빗.크리즈하렘팬츠",
-    "colors": "4색상",
+    "colors": "크림/올리브/핑크/블랙",
     "size_range": "XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EC%96%B4%EB%B0%98%EB%9E%98%EB%B9%97%ED%81%AC%EB%A6%AC%EC%A6%88%ED%95%98%EB%A0%98%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81xsxljsjm/1433432/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-012.jpg",
@@ -379,36 +417,74 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "올리브",
+          "핑크",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [

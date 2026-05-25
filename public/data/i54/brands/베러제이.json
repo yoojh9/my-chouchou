@@ -1491,7 +1491,7 @@
     "id": "1432303",
     "brand": "베러제이",
     "name": "베러제이.시그널ST티",
-    "colors": "3색상",
+    "colors": "검정아이보리/아이보리검정/아이보리메란지",
     "size_range": "L,1X~7X",
     "product_url": "https://i54.co.kr/product/%EB%B2%A0%EB%9F%AC%EC%A0%9C%EC%9D%B4%EC%8B%9C%EA%B7%B8%EB%84%90st%ED%8B%B03%EC%83%89%EC%83%81l1x7x/1432303/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0513/mo0513-063.jpg",
@@ -1501,40 +1501,76 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "검정아이보리",
+          "아이보리검정",
+          "아이보리메란지"
+        ]
       }
     ],
     "detail_images": [
@@ -2680,12 +2716,9 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -2717,12 +2750,9 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [

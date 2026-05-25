@@ -3,7 +3,7 @@
     "id": "1432012",
     "brand": "꿈베비",
     "name": "꿈베비.피그워싱팬츠",
-    "colors": "5색상",
+    "colors": "아이보리/오렌지/보라/핑크/카키",
     "size_range": "3호~17호",
     "product_url": "https://i54.co.kr/product/%EA%BF%88%EB%B2%A0%EB%B9%84%ED%94%BC%EA%B7%B8%EC%9B%8C%EC%8B%B1%ED%8C%AC%EC%B8%A05%EC%83%89%EC%83%813%ED%98%B817%ED%98%B8/1432012/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-273.jpg",
@@ -13,40 +13,86 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "13",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "오렌지",
+          "보라",
+          "핑크",
+          "카키"
+        ]
       }
     ],
     "detail_images": [

@@ -60,7 +60,7 @@
     "id": "1431844",
     "brand": "토니",
     "name": "토니.할머니티",
-    "colors": "4색상",
+    "colors": "민트/아이보리/베이지/블랙",
     "size_range": "5호~13호",
     "product_url": "https://i54.co.kr/product/%ED%86%A0%EB%8B%88%ED%95%A0%EB%A8%B8%EB%8B%88%ED%8B%B04%EC%83%89%EC%83%815%ED%98%B813%ED%98%B8/1431844/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-105.jpg",
@@ -70,28 +70,54 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "아이보리",
+          "베이지",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "아이보리",
+          "베이지",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "아이보리",
+          "베이지",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "아이보리",
+          "베이지",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "아이보리",
+          "베이지",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -1601,7 +1627,7 @@
     "id": "1431815",
     "brand": "토니",
     "name": "토니.네모상하",
-    "colors": "4색상",
+    "colors": "베이지/바이올렛/핑크/블루",
     "size_range": "5호~13호",
     "product_url": "https://i54.co.kr/product/%ED%86%A0%EB%8B%88%EB%84%A4%EB%AA%A8%EC%83%81%ED%95%984%EC%83%89%EC%83%815%ED%98%B813%ED%98%B8/1431815/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-076.jpg",
@@ -1611,28 +1637,49 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "바이올렛",
+          "핑크",
+          "블루"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "바이올렛",
+          "핑크",
+          "블루"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "바이올렛",
+          "핑크",
+          "블루"
+        ]
       },
       {
         "name": "13",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "바이올렛",
+          "핑크",
+          "블루"
+        ]
       }
     ],
     "detail_images": [

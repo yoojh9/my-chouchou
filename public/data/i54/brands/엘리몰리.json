@@ -1579,7 +1579,7 @@
     "id": "1434103",
     "brand": "엘리몰리",
     "name": "엘리몰리.(모델)베리폼블루머",
-    "colors": "4색상",
+    "colors": "소라/핑크/화이트/그레이",
     "size_range": "5호~15호",
     "product_url": "https://i54.co.kr/product/%EC%97%98%EB%A6%AC%EB%AA%B0%EB%A6%AC%EB%AA%A8%EB%8D%B8%EB%B2%A0%EB%A6%AC%ED%8F%BC%EB%B8%94%EB%A3%A8%EB%A8%B84%EC%83%89%EC%83%815%ED%98%B815%ED%98%B8/1434103/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-231.jpg",
@@ -1589,32 +1589,64 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       }
     ],
     "detail_images": [
@@ -1636,7 +1668,7 @@
     "id": "1434102",
     "brand": "엘리몰리",
     "name": "엘리몰리.(모델)베리폼가디건",
-    "colors": "4색상",
+    "colors": "소라/핑크/화이트/그레이",
     "size_range": "5호~15호",
     "product_url": "https://i54.co.kr/product/%EC%97%98%EB%A6%AC%EB%AA%B0%EB%A6%AC%EB%AA%A8%EB%8D%B8%EB%B2%A0%EB%A6%AC%ED%8F%BC%EA%B0%80%EB%94%94%EA%B1%B44%EC%83%89%EC%83%815%ED%98%B815%ED%98%B8/1434102/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-230.jpg",
@@ -1646,32 +1678,64 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "핑크",
+          "화이트",
+          "그레이"
+        ]
       }
     ],
     "detail_images": [
@@ -1933,7 +1997,7 @@
     "id": "1434097",
     "brand": "엘리몰리",
     "name": "엘리몰리.(모델)컬러팝쇼츠",
-    "colors": "4색상",
+    "colors": "퍼플/오렌지/올리브/멜란지",
     "size_range": "5호~19호",
     "product_url": "https://i54.co.kr/product/%EC%97%98%EB%A6%AC%EB%AA%B0%EB%A6%AC%EB%AA%A8%EB%8D%B8%EC%BB%AC%EB%9F%AC%ED%8C%9D%EC%87%BC%EC%B8%A04%EC%83%89%EC%83%815%ED%98%B819%ED%98%B8/1434097/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-225.jpg",
@@ -1943,40 +2007,84 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "퍼플",
+          "오렌지",
+          "올리브",
+          "멜란지"
+        ]
       }
     ],
     "detail_images": [

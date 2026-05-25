@@ -3,7 +3,7 @@
     "id": "1433713",
     "brand": "듀디",
     "name": "듀디.큐롯보냉백",
-    "colors": "4색상",
+    "colors": "핑크/민트/소라/아이보리",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%ED%81%90%EB%A1%AF%EB%B3%B4%EB%83%89%EB%B0%B14%EC%83%89%EC%83%81free/1433713/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-125.jpg",
@@ -13,12 +13,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "민트",
+          "소라",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -40,7 +42,7 @@
     "id": "1433712",
     "brand": "듀디",
     "name": "듀디.쿨아이캡",
-    "colors": "5색상",
+    "colors": "아이보리/블루/옐로우/퍼플/브라운",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EC%BF%A8%EC%95%84%EC%9D%B4%EC%BA%A15%EC%83%89%EC%83%81free/1433712/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-124.jpg",
@@ -50,12 +52,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블루",
+          "옐로우",
+          "퍼플",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [

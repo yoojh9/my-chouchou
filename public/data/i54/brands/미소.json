@@ -97,7 +97,7 @@
     "id": "1433804",
     "brand": "미소",
     "name": "미소.해운대넥커버모자",
-    "colors": "5색상",
+    "colors": "노랑/베이지/블루/핑크/브라운",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%95%B4%EC%9A%B4%EB%8C%80%EB%84%A5%EC%BB%A4%EB%B2%84%EB%AA%A8%EC%9E%905%EC%83%89%EC%83%81free/1433804/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-216.jpg",
@@ -107,12 +107,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "베이지",
+          "블루",
+          "핑크",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -134,7 +137,7 @@
     "id": "1433803",
     "brand": "미소",
     "name": "미소.피피원배색캡모자",
-    "colors": "4색상",
+    "colors": "보라/스카이/노랑/키위",
     "size_range": "아동,성인",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%94%BC%ED%94%BC%EC%9B%90%EB%B0%B0%EC%83%89%EC%BA%A1%EB%AA%A8%EC%9E%904%EC%83%89%EC%83%81%EC%95%84%EB%8F%99%EC%84%B1%EC%9D%B8/1433803/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-215.jpg",
@@ -144,16 +147,24 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "아동",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "스카이",
+          "노랑",
+          "키위"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "스카이",
+          "노랑",
+          "키위"
+        ]
       }
     ],
     "detail_images": [
@@ -175,7 +186,7 @@
     "id": "1433802",
     "brand": "미소",
     "name": "미소.오써머캡모자",
-    "colors": "5색상",
+    "colors": "베이지/그레이/노랑/핑크/네이비",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EC%98%A4%EC%8D%A8%EB%A8%B8%EC%BA%A1%EB%AA%A8%EC%9E%905%EC%83%89%EC%83%81free/1433802/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-214.jpg",
@@ -185,12 +196,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "그레이",
+          "노랑",
+          "핑크",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -249,7 +263,7 @@
     "id": "1433800",
     "brand": "미소",
     "name": "미소.레이서캡모자",
-    "colors": "4색상",
+    "colors": "노랑/레드/민트/검정",
     "size_range": "아동,성인",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%A0%88%EC%9D%B4%EC%84%9C%EC%BA%A1%EB%AA%A8%EC%9E%904%EC%83%89%EC%83%81%EC%95%84%EB%8F%99%EC%84%B1%EC%9D%B8/1433800/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-212.jpg",
@@ -259,16 +273,24 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "아동",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "레드",
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "레드",
+          "민트",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -327,7 +349,7 @@
     "id": "1433798",
     "brand": "미소",
     "name": "미소.고피크닉모자",
-    "colors": "4색상",
+    "colors": "핑크/노랑/베이지/보라",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EA%B3%A0%ED%94%BC%ED%81%AC%EB%8B%89%EB%AA%A8%EC%9E%904%EC%83%89%EC%83%81free/1433798/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-210.jpg",
@@ -337,12 +359,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "노랑",
+          "베이지",
+          "보라"
+        ]
       }
     ],
     "detail_images": [
@@ -475,7 +499,7 @@
     "id": "1433794",
     "brand": "미소",
     "name": "미소.폼체크밀짚모자",
-    "colors": "5색상",
+    "colors": "핑크/블루/노랑/보라/그린",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%8F%BC%EC%B2%B4%ED%81%AC%EB%B0%80%EC%A7%9A%EB%AA%A8%EC%9E%905%EC%83%89%EC%83%81free/1433794/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-206.jpg",
@@ -485,12 +509,15 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "핑크",
+          "블루",
+          "노랑",
+          "보라",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -701,7 +728,7 @@
     "id": "1433788",
     "brand": "미소",
     "name": "미소.잔골지샌들워머양말",
-    "colors": "8색상",
+    "colors": "화이트/검정/그레이/보라/핑크/그린/노랑/블루",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EC%9E%94%EA%B3%A8%EC%A7%80%EC%83%8C%EB%93%A4%EC%9B%8C%EB%A8%B8%EC%96%91%EB%A7%908%EC%83%89%EC%83%81free/1433788/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-200.jpg",
@@ -711,12 +738,18 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "검정",
+          "그레이",
+          "보라",
+          "핑크",
+          "그린",
+          "노랑",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -738,7 +771,7 @@
     "id": "1433787",
     "brand": "미소",
     "name": "미소.베이직샌들워머양말",
-    "colors": "4색상",
+    "colors": "화이트/검정/그레이/차콜",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%B2%A0%EC%9D%B4%EC%A7%81%EC%83%8C%EB%93%A4%EC%9B%8C%EB%A8%B8%EC%96%91%EB%A7%904%EC%83%89%EC%83%81free/1433787/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-199.jpg",
@@ -748,12 +781,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "검정",
+          "그레이",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -775,7 +810,7 @@
     "id": "1433786",
     "brand": "미소",
     "name": "미소.라벨샌들워머양말",
-    "colors": "9색상",
+    "colors": "검정/화이트/그레이/오렌지/그린/핑크/블루/노랑/보라",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%9D%BC%EB%B2%A8%EC%83%8C%EB%93%A4%EC%9B%8C%EB%A8%B8%EC%96%91%EB%A7%909%EC%83%89%EC%83%81free/1433786/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-198.jpg",
@@ -785,12 +820,19 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "화이트",
+          "그레이",
+          "오렌지",
+          "그린",
+          "핑크",
+          "블루",
+          "노랑",
+          "보라"
+        ]
       }
     ],
     "detail_images": [
@@ -812,7 +854,7 @@
     "id": "1433785",
     "brand": "미소",
     "name": "미소.파스텔반타이즈",
-    "colors": "8색상",
+    "colors": "화이트/보라/핑크/블루/베이지/노랑/그린/그레이",
     "size_range": "M~XL",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%8C%8C%EC%8A%A4%ED%85%94%EB%B0%98%ED%83%80%EC%9D%B4%EC%A6%888%EC%83%89%EC%83%81mxl/1433785/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-197.jpg",
@@ -822,20 +864,46 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "보라",
+          "핑크",
+          "블루",
+          "베이지",
+          "노랑",
+          "그린",
+          "그레이"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "보라",
+          "핑크",
+          "블루",
+          "베이지",
+          "노랑",
+          "그린",
+          "그레이"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "보라",
+          "핑크",
+          "블루",
+          "베이지",
+          "노랑",
+          "그린",
+          "그레이"
+        ]
       }
     ],
     "detail_images": [
@@ -902,7 +970,7 @@
     "id": "1433783",
     "brand": "미소",
     "name": "미소.리본체크반타이즈",
-    "colors": "4색상",
+    "colors": "화이트/그레이/크림/검정",
     "size_range": "M~XL",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%A6%AC%EB%B3%B8%EC%B2%B4%ED%81%AC%EB%B0%98%ED%83%80%EC%9D%B4%EC%A6%884%EC%83%89%EC%83%81mxl/1433783/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-195.jpg",
@@ -912,20 +980,34 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "크림",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "크림",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "크림",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -947,7 +1029,7 @@
     "id": "1433782",
     "brand": "미소",
     "name": "미소.크라운레이스양말",
-    "colors": "4색상",
+    "colors": "화이트/노랑/핑크/그린",
     "size_range": "S~XL",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%81%AC%EB%9D%BC%EC%9A%B4%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%96%91%EB%A7%904%EC%83%89%EC%83%81sxl/1433782/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-194.jpg",
@@ -957,24 +1039,44 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "노랑",
+          "핑크",
+          "그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "노랑",
+          "핑크",
+          "그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "노랑",
+          "핑크",
+          "그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "노랑",
+          "핑크",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -996,7 +1098,7 @@
     "id": "1433781",
     "brand": "미소",
     "name": "미소.동물유발타이즈",
-    "colors": "5색상",
+    "colors": "코끼리/개구리/병아리/곰/토끼",
     "size_range": "6M~4Y",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%8F%99%EB%AC%BC%EC%9C%A0%EB%B0%9C%ED%83%80%EC%9D%B4%EC%A6%885%EC%83%89%EC%83%816m4y/1433781/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-193.jpg",
@@ -1006,20 +1108,37 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "18-20",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       },
       {
         "name": "21-23",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       },
       {
         "name": "24-26",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       }
     ],
     "detail_images": [
@@ -1041,7 +1160,7 @@
     "id": "1433780",
     "brand": "미소",
     "name": "미소.동물무발레깅스",
-    "colors": "5색상",
+    "colors": "코끼리/개구리/병아리/곰/토끼",
     "size_range": "6M~4Y",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%8F%99%EB%AC%BC%EB%AC%B4%EB%B0%9C%EB%A0%88%EA%B9%85%EC%8A%A45%EC%83%89%EC%83%816m4y/1433780/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-192.jpg",
@@ -1051,20 +1170,37 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "18-20",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       },
       {
         "name": "21-23",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       },
       {
         "name": "24-26",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코끼리",
+          "개구리",
+          "병아리",
+          "곰",
+          "토끼"
+        ]
       }
     ],
     "detail_images": [
@@ -1086,7 +1222,7 @@
     "id": "1433779",
     "brand": "미소",
     "name": "미소.파도선글라스",
-    "colors": "4색상",
+    "colors": "올검정/검파/검핑/파랑",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%8C%8C%EB%8F%84%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A44%EC%83%89%EC%83%81free/1433779/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-191.jpg",
@@ -1096,12 +1232,14 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올검정",
+          "검파",
+          "검핑",
+          "파랑"
+        ]
       }
     ],
     "detail_images": [
@@ -1123,7 +1261,7 @@
     "id": "1433778",
     "brand": "미소",
     "name": "미소.키치리본선글라스",
-    "colors": "6색상",
+    "colors": "검정/핑크/레드/노랑/화이트/그린",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%ED%82%A4%EC%B9%98%EB%A6%AC%EB%B3%B8%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A46%EC%83%89%EC%83%81free/1433778/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-190.jpg",
@@ -1133,12 +1271,16 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "핑크",
+          "레드",
+          "노랑",
+          "화이트",
+          "그린"
+        ]
       }
     ],
     "detail_images": [
@@ -1271,7 +1413,7 @@
     "id": "1433774",
     "brand": "미소",
     "name": "미소.뉴곰선글라스",
-    "colors": "8색상",
+    "colors": "노랑/그린/브라운/핑크/팥죽/블루/크림/오렌지",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EB%AF%B8%EC%86%8C%EB%89%B4%EA%B3%B0%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A48%EC%83%89%EC%83%81free/1433774/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-186.jpg",
@@ -1281,12 +1423,18 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "그린",
+          "브라운",
+          "핑크",
+          "팥죽",
+          "블루",
+          "크림",
+          "오렌지"
+        ]
       }
     ],
     "detail_images": [

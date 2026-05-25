@@ -3,7 +3,7 @@
     "id": "1431848",
     "brand": "하모니",
     "name": "하모니.쿨링고쟁이바지",
-    "colors": "4색상",
+    "colors": "곰/토끼/공룡/강아지",
     "size_range": "S~L",
     "product_url": "https://i54.co.kr/product/%ED%95%98%EB%AA%A8%EB%8B%88%EC%BF%A8%EB%A7%81%EA%B3%A0%EC%9F%81%EC%9D%B4%EB%B0%94%EC%A7%804%EC%83%89%EC%83%81sl/1431848/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-109.jpg",
@@ -13,20 +13,29 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "곰",
+          "토끼",
+          "공룡",
+          "강아지"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "곰",
+          "토끼",
+          "공룡",
+          "강아지"
+        ]
       }
     ],
     "detail_images": [
@@ -93,7 +102,7 @@
     "id": "1431846",
     "brand": "하모니",
     "name": "하모니.달달거즈빕",
-    "colors": "5색상",
+    "colors": "블루/그린/핑크/베이지/옐로",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%ED%95%98%EB%AA%A8%EB%8B%88%EB%8B%AC%EB%8B%AC%EA%B1%B0%EC%A6%88%EB%B9%955%EC%83%89%EC%83%81free/1431846/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-107.jpg",
@@ -103,12 +112,15 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "핑크",
+          "베이지",
+          "옐로"
+        ]
       }
     ],
     "detail_images": [

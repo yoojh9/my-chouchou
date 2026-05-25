@@ -3,7 +3,7 @@
     "id": "1433420",
     "brand": "에이트리",
     "name": "에이트리.체크반바지",
-    "colors": "5색상",
+    "colors": "옐로/보라/레드/블루/블랙",
     "size_range": "1호~13호",
     "product_url": "https://i54.co.kr/product/%EC%97%90%EC%9D%B4%ED%8A%B8%EB%A6%AC%EC%B2%B4%ED%81%AC%EB%B0%98%EB%B0%94%EC%A7%805%EC%83%89%EC%83%811%ED%98%B813%ED%98%B8/1433420/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-180.jpg",
@@ -13,36 +13,81 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "1",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "옐로",
+          "보라",
+          "레드",
+          "블루",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -121,7 +166,7 @@
     "id": "1433418",
     "brand": "에이트리",
     "name": "에이트리.시원나시셋",
-    "colors": "4색상",
+    "colors": "블루체크/베이지st/연블루st/네이비st",
     "size_range": "1호~11호",
     "product_url": "https://i54.co.kr/product/%EC%97%90%EC%9D%B4%ED%8A%B8%EB%A6%AC%EC%8B%9C%EC%9B%90%EB%82%98%EC%8B%9C%EC%85%8B4%EC%83%89%EC%83%811%ED%98%B811%ED%98%B8/1433418/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0514/mo0514-178.jpg",
@@ -131,32 +176,64 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "1",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       },
       {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루체크",
+          "베이지st",
+          "연블루st",
+          "네이비st"
+        ]
       }
     ],
     "detail_images": [

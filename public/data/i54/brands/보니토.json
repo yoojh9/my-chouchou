@@ -1502,7 +1502,7 @@
     "id": "1431975",
     "brand": "보니토",
     "name": "보니토.(모델)다다썸머조거팬츠",
-    "colors": "4색상",
+    "colors": "그린/핑크/블랙체크/파랑체크",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EB%8B%A4%EB%8B%A4%EC%8D%B8%EB%A8%B8%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%8112mxsxljsjm/1431975/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-236.jpg",
@@ -1512,40 +1512,84 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "핑크",
+          "블랙체크",
+          "파랑체크"
+        ]
       }
     ],
     "detail_images": [
@@ -1632,7 +1676,7 @@
     "id": "1431973",
     "brand": "보니토",
     "name": "보니토.(모델)두줄테잎쇼츠",
-    "colors": "4색상",
+    "colors": "보라/소라/주황/브라운",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EB%91%90%EC%A4%84%ED%85%8C%EC%9E%8E%EC%87%BC%EC%B8%A04%EC%83%89%EC%83%8112mxsxljsjm/1431973/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-234.jpg",
@@ -1642,40 +1686,84 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "보라",
+          "소라",
+          "주황",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -3070,7 +3158,7 @@
     "id": "1431951",
     "brand": "보니토",
     "name": "보니토.(모델)코튼5부팬츠",
-    "colors": "6색상",
+    "colors": "아이보리/연베이지/노랑/올리브/연보라/검정",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EC%BD%94%ED%8A%BC5%EB%B6%80%ED%8C%AC%EC%B8%A06%EC%83%89%EC%83%8112mxsxljsjm/1431951/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-212.jpg",
@@ -3080,40 +3168,100 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "연베이지",
+          "노랑",
+          "올리브",
+          "연보라",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -3135,7 +3283,7 @@
     "id": "1431950",
     "brand": "보니토",
     "name": "보니토.(모델)골지레이어드나시",
-    "colors": "5색상",
+    "colors": "레드/아이보리/소라/올리브/연보라",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EA%B3%A8%EC%A7%80%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C%EB%82%98%EC%8B%9C5%EC%83%89%EC%83%8112mxsxljsjm/1431950/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-211.jpg",
@@ -3145,40 +3293,92 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "아이보리",
+          "소라",
+          "올리브",
+          "연보라"
+        ]
       }
     ],
     "detail_images": [
@@ -3200,7 +3400,7 @@
     "id": "1431949",
     "brand": "보니토",
     "name": "보니토.(모델)컬러스판티",
-    "colors": "6색상",
+    "colors": "주황/아이보리/블루/레드/핑크/노랑",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%EC%BB%AC%EB%9F%AC%EC%8A%A4%ED%8C%90%ED%8B%B06%EC%83%89%EC%83%8112mxsxljsjm/1431949/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-210.jpg",
@@ -3210,40 +3410,100 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "주황",
+          "아이보리",
+          "블루",
+          "레드",
+          "핑크",
+          "노랑"
+        ]
       }
     ],
     "detail_images": [
@@ -3330,7 +3590,7 @@
     "id": "1431947",
     "brand": "보니토",
     "name": "보니토.(모델)크레용티",
-    "colors": "5색상",
+    "colors": "주황/핑크/그린/파랑/검정",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B8%ED%81%AC%EB%A0%88%EC%9A%A9%ED%8B%B05%EC%83%89%EC%83%8112mxsxljsjm/1431947/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-208.jpg",
@@ -3340,40 +3600,92 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "주황",
+          "핑크",
+          "그린",
+          "파랑",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -3395,7 +3707,7 @@
     "id": "1431946",
     "brand": "보니토",
     "name": "보니토.(모델)1+1ST랍빠티",
-    "colors": "3색상",
+    "colors": "아이&블랙/네이비&레드/그린&보라",
     "size_range": "12M,XS~XL,JS,JM",
     "product_url": "https://i54.co.kr/product/%EB%B3%B4%EB%8B%88%ED%86%A0%EB%AA%A8%EB%8D%B811st%EB%9E%8D%EB%B9%A0%ED%8B%B03%EC%83%89%EC%83%8112mxsxljsjm/1431946/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0511/mo0511-207.jpg",
@@ -3405,40 +3717,76 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이&블랙",
+          "네이비&레드",
+          "그린&보라"
+        ]
       }
     ],
     "detail_images": [
@@ -3470,12 +3818,9 @@
     "mfg_date": "2026-05-11",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [

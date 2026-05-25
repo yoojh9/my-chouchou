@@ -653,7 +653,7 @@
     "id": "1433888",
     "brand": "나비",
     "name": "나비.칼라나시",
-    "colors": "4색상",
+    "colors": "차콜/화이트/레드/딥그린",
     "size_range": "S~2XL,JS~JL",
     "product_url": "https://i54.co.kr/product/%EB%82%98%EB%B9%84%EC%B9%BC%EB%9D%BC%EB%82%98%EC%8B%9C4%EC%83%89%EC%83%81s2xljsjl/1433888/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-016.jpg",
@@ -663,40 +663,84 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "차콜",
+          "화이트",
+          "레드",
+          "딥그린"
+        ]
       }
     ],
     "detail_images": [

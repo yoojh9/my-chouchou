@@ -1428,7 +1428,7 @@
     "id": "1433747",
     "brand": "리우리우",
     "name": "리우리우.(모델)리우감동라운드티",
-    "colors": "5색상",
+    "colors": "아이보리/핑크/스카이/검정/먹색",
     "size_range": "XL~6XL",
     "product_url": "https://i54.co.kr/product/%EB%A6%AC%EC%9A%B0%EB%A6%AC%EC%9A%B0%EB%AA%A8%EB%8D%B8%EB%A6%AC%EC%9A%B0%EA%B0%90%EB%8F%99%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%8B%B05%EC%83%89%EC%83%81xl6xl/1433747/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-159.jpg",
@@ -1438,32 +1438,70 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       },
       {
         "name": "5XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       },
       {
         "name": "6XL",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "아이보리",
+          "핑크",
+          "스카이",
+          "검정",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -1884,7 +1922,7 @@
     "id": "1433739",
     "brand": "리우리우",
     "name": "리우리우.(모델)RWRW하프반바지",
-    "colors": "5색상",
+    "colors": "백멜란지/퍼플/그레이/네이비/레드",
     "size_range": "XL~6XL",
     "product_url": "https://i54.co.kr/product/%EB%A6%AC%EC%9A%B0%EB%A6%AC%EC%9A%B0%EB%AA%A8%EB%8D%B8rwrw%ED%95%98%ED%94%84%EB%B0%98%EB%B0%94%EC%A7%805%EC%83%89%EC%83%81xl6xl/1433739/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-151.jpg",
@@ -1894,32 +1932,70 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       },
       {
         "name": "5XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       },
       {
         "name": "6XL",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "백멜란지",
+          "퍼플",
+          "그레이",
+          "네이비",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -2112,7 +2188,7 @@
     "id": "1433735",
     "brand": "리우리우",
     "name": "리우리우.(모델)리우CP벌룬하프팬츠",
-    "colors": "5색상",
+    "colors": "백멜란지/스카이/그레이/검정/레드",
     "size_range": "XL~6XL",
     "product_url": "https://i54.co.kr/product/%EB%A6%AC%EC%9A%B0%EB%A6%AC%EC%9A%B0%EB%AA%A8%EB%8D%B8%EB%A6%AC%EC%9A%B0cp%EB%B2%8C%EB%A3%AC%ED%95%98%ED%94%84%ED%8C%AC%EC%B8%A05%EC%83%89%EC%83%81xl6xl/1433735/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-147.jpg",
@@ -2122,32 +2198,70 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       },
       {
         "name": "5XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       },
       {
         "name": "6XL",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "백멜란지",
+          "스카이",
+          "그레이",
+          "검정",
+          "레드"
+        ]
       }
     ],
     "detail_images": [

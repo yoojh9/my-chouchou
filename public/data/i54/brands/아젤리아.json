@@ -3,7 +3,7 @@
     "id": "1432238",
     "brand": "아젤리아",
     "name": "아젤리아.플리츠리본삔",
-    "colors": "4색상",
+    "colors": "오렌지/노랑/핑크/아이보리",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%8C%EB%A6%AC%EC%B8%A0%EB%A6%AC%EB%B3%B8%EC%82%944%EC%83%89%EC%83%81free/1432238/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-214.jpg",
@@ -13,12 +13,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "오렌지",
+          "노랑",
+          "핑크",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -40,7 +42,7 @@
     "id": "1432237",
     "brand": "아젤리아",
     "name": "아젤리아.베스트헤어밴드",
-    "colors": "4색상",
+    "colors": "블루/블랙/크림/노랑",
     "size_range": "FREE",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C4%EC%83%89%EC%83%81free/1432237/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-213.jpg",
@@ -50,12 +52,14 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "블랙",
+          "크림",
+          "노랑"
+        ]
       }
     ],
     "detail_images": [
@@ -233,7 +237,7 @@
     "id": "1432232",
     "brand": "아젤리아",
     "name": "아젤리아.바이브썸머셋업",
-    "colors": "5색상",
+    "colors": "블루/핑크/민트/크림/블랙",
     "size_range": "6M~18M",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%8D%B8%EB%A8%B8%EC%85%8B%EC%97%855%EC%83%89%EC%83%816m18m/1432232/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-208.jpg",
@@ -243,20 +247,37 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "6M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "민트",
+          "크림",
+          "블랙"
+        ]
       },
       {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "민트",
+          "크림",
+          "블랙"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "민트",
+          "크림",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -323,7 +344,7 @@
     "id": "1432230",
     "brand": "아젤리아",
     "name": "아젤리아.후르츠플리츠슈트",
-    "colors": "4색상",
+    "colors": "블루/핑크/멀티꽃/도트",
     "size_range": "6M~18M",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%9B%84%EB%A5%B4%EC%B8%A0%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%8A%88%ED%8A%B84%EC%83%89%EC%83%816m18m/1432230/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-206.jpg",
@@ -333,20 +354,34 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "6M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "멀티꽃",
+          "도트"
+        ]
       },
       {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "멀티꽃",
+          "도트"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크",
+          "멀티꽃",
+          "도트"
+        ]
       }
     ],
     "detail_images": [
@@ -617,7 +652,7 @@
     "id": "1432224",
     "brand": "아젤리아",
     "name": "아젤리아.베스트플리츠셋업",
-    "colors": "4색상",
+    "colors": "블루/크림/옐로우/블랙",
     "size_range": "6M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%85%8B%EC%97%854%EC%83%89%EC%83%816m18msxljs/1432224/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-200.jpg",
@@ -627,40 +662,84 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "6M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "블루",
+          "크림",
+          "옐로우",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -682,7 +761,7 @@
     "id": "1432223",
     "brand": "아젤리아",
     "name": "아젤리아.트윙클엔젤셋업",
-    "colors": "4색상",
+    "colors": "블루/크림/핑크/블랙",
     "size_range": "XS~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%8A%B8%EC%9C%99%ED%81%B4%EC%97%94%EC%A0%A4%EC%85%8B%EC%97%854%EC%83%89%EC%83%81xsxljs/1432223/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-199.jpg",
@@ -692,28 +771,49 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "크림",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "크림",
+          "핑크",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -1208,7 +1308,7 @@
     "id": "1432213",
     "brand": "아젤리아",
     "name": "아젤리아.린넨프릴7부팬츠",
-    "colors": "4색상",
+    "colors": "연베이지/브라운/크림꽃/초록꽃",
     "size_range": "S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A6%B0%EB%84%A8%ED%94%84%EB%A6%B47%EB%B6%80%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81sxljs/1432213/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-189.jpg",
@@ -1218,28 +1318,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "크림꽃",
+          "초록꽃"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "크림꽃",
+          "초록꽃"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "크림꽃",
+          "초록꽃"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "크림꽃",
+          "초록꽃"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "크림꽃",
+          "초록꽃"
+        ]
       }
     ],
     "detail_images": [
@@ -1530,7 +1656,7 @@
     "id": "1432207",
     "brand": "아젤리아",
     "name": "아젤리아.프릴바이커레깅스",
-    "colors": "7색상",
+    "colors": "레드도트/그레이도트/블랙도트/크림/블랙/아이보리ST/블랙ST",
     "size_range": "12M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%84%EB%A6%B4%EB%B0%94%EC%9D%B4%EC%BB%A4%EB%A0%88%EA%B9%85%EC%8A%A47%EC%83%89%EC%83%8112m18msxljs/1432207/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-183.jpg",
@@ -1540,36 +1666,87 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       }
     ],
     "detail_images": [
@@ -1591,7 +1768,7 @@
     "id": "1432206",
     "brand": "아젤리아",
     "name": "아젤리아.바이커레깅스",
-    "colors": "7색상",
+    "colors": "레드도트/그레이도트/블랙도트/크림/블랙/아이보리ST/블랙ST",
     "size_range": "12M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B0%94%EC%9D%B4%EC%BB%A4%EB%A0%88%EA%B9%85%EC%8A%A47%EC%83%89%EC%83%8112m18msxljs/1432206/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-182.jpg",
@@ -1601,36 +1778,95 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드도트",
+          "그레이도트",
+          "블랙도트",
+          "크림",
+          "블랙",
+          "아이보리ST",
+          "블랙ST"
+        ]
       }
     ],
     "detail_images": [
@@ -1868,7 +2104,7 @@
     "id": "1432201",
     "brand": "아젤리아",
     "name": "아젤리아.러브스퀘어티",
-    "colors": "4색상",
+    "colors": "아이보리/민트/그레이/올리브",
     "size_range": "S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%9F%AC%EB%B8%8C%EC%8A%A4%ED%80%98%EC%96%B4%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432201/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-177.jpg",
@@ -1878,28 +2114,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "민트",
+          "그레이",
+          "올리브"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "민트",
+          "그레이",
+          "올리브"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "민트",
+          "그레이",
+          "올리브"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "민트",
+          "그레이",
+          "올리브"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "민트",
+          "그레이",
+          "올리브"
+        ]
       }
     ],
     "detail_images": [
@@ -1921,7 +2183,7 @@
     "id": "1432200",
     "brand": "아젤리아",
     "name": "아젤리아.레드아일렛핀콧티",
-    "colors": "4색상",
+    "colors": "아이보리/레드/그레이/민트",
     "size_range": "S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A0%88%EB%93%9C%EC%95%84%EC%9D%BC%EB%A0%9B%ED%95%80%EC%BD%A7%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432200/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-176.jpg",
@@ -1931,28 +2193,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "그레이",
+          "민트"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "그레이",
+          "민트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "그레이",
+          "민트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "그레이",
+          "민트"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "레드",
+          "그레이",
+          "민트"
+        ]
       }
     ],
     "detail_images": [
@@ -2190,7 +2478,7 @@
     "id": "1432195",
     "brand": "아젤리아",
     "name": "아젤리아.지그재그프릴티",
-    "colors": "4색상",
+    "colors": "아이보리/노랑/핑크/블랙",
     "size_range": "S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8%ED%94%84%EB%A6%B4%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432195/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-171.jpg",
@@ -2200,28 +2488,54 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "노랑",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "노랑",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "노랑",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "노랑",
+          "핑크",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "노랑",
+          "핑크",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2243,7 +2557,7 @@
     "id": "1432194",
     "brand": "아젤리아",
     "name": "아젤리아.프리미엄실켓티",
-    "colors": "5색상",
+    "colors": "아이보리/올리브/블랙/핑크/연노랑",
     "size_range": "XS~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%8B%A4%EC%BC%93%ED%8B%B05%EC%83%89%EC%83%81xsxljs/1432194/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-170.jpg",
@@ -2253,32 +2567,70 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "XS",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       },
       {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "올리브",
+          "블랙",
+          "핑크",
+          "연노랑"
+        ]
       }
     ],
     "detail_images": [
@@ -2300,7 +2652,7 @@
     "id": "1432193",
     "brand": "아젤리아",
     "name": "아젤리아.올리브캉캉나시",
-    "colors": "5색상",
+    "colors": "아이보리/그레이/레드/올리브/블랙",
     "size_range": "12M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%BA%89%EC%BA%89%EB%82%98%EC%8B%9C5%EC%83%89%EC%83%8112m18msxljs/1432193/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-169.jpg",
@@ -2310,36 +2662,81 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2361,7 +2758,7 @@
     "id": "1432192",
     "brand": "아젤리아",
     "name": "아젤리아.슈슈랍바나시",
-    "colors": "5색상",
+    "colors": "아이보리/그레이/레드/올리브/블랙",
     "size_range": "12M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%8A%88%EC%8A%88%EB%9E%8D%EB%B0%94%EB%82%98%EC%8B%9C5%EC%83%89%EC%83%8112m18msxljs/1432192/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-168.jpg",
@@ -2371,36 +2768,81 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2483,7 +2925,7 @@
     "id": "1432190",
     "brand": "아젤리아",
     "name": "아젤리아.새코달콤랍바티",
-    "colors": "5색상",
+    "colors": "아이보리/그레이/레드/올리브/블랙",
     "size_range": "12M~18M,S~XL,JS",
     "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%83%88%EC%BD%94%EB%8B%AC%EC%BD%A4%EB%9E%8D%EB%B0%94%ED%8B%B05%EC%83%89%EC%83%8112m18msxljs/1432190/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-166.jpg",
@@ -2493,36 +2935,81 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "12M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "18M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "S",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "M",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "L",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "그레이",
+          "레드",
+          "올리브",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
