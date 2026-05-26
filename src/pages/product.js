@@ -20,7 +20,6 @@ function openLightbox(imgSrc) {
 function detailImageHTML(imgObj, idx) {
   const src = imgObj.url || ''
   if (!src) return ''
-
   return `
     <div class="product-detail__img-wrap skeleton" data-img-wrap>
       <img class="product-detail__img"
@@ -43,6 +42,24 @@ function attachImageSkeletonCleanup(container) {
   })
 }
 
+function parseColors(colorsStr) {
+  if (!colorsStr) return []
+  return colorsStr.split('/').map(c => c.trim()).filter(Boolean)
+}
+
+function colorTagsHTML(colorsStr) {
+  const colors = parseColors(colorsStr)
+  if (!colors.length) return ''
+  const tags = colors.map(c =>
+    `<button class="product-detail__color-tag" data-color="${c}">${c}</button>`
+  ).join('')
+  return `
+    <div class="product-detail__sizes product-detail__colors-section">
+      <div class="product-detail__sizes-title">색상</div>
+      <div class="product-detail__size-tags">${tags}</div>
+    </div>`
+}
+
 function sizeTagsHTML(sizeOptions) {
   if (!sizeOptions || !sizeOptions.length) return ''
   const validSizes = sizeOptions.filter(s => s.name && s.name !== '-------------------')
@@ -58,8 +75,7 @@ function sizeTagsHTML(sizeOptions) {
     <div class="product-detail__sizes">
       <div class="product-detail__sizes-title">사이즈</div>
       <div class="product-detail__size-tags">${tags}</div>
-    </div>
-    <button class="product-detail__cart-btn" id="cart-btn" disabled>사이즈를 선택해주세요</button>`
+    </div>`
 }
 
 export async function renderProduct(app, brandId, productId) {
@@ -101,7 +117,11 @@ export async function renderProduct(app, brandId, productId) {
     return
   }
 
-  const displayName = product.name || ''
+  const colors = parseColors(product.colors)
+  // auto-select if only one color
+  let selectedColor = colors.length === 1 ? colors[0] : null
+  let selectedSize = null
+  let selectedAddPrice = 0
 
   const detailImages = product.detail_images || []
   const imagesHTML = detailImages.length
@@ -111,37 +131,48 @@ export async function renderProduct(app, brandId, productId) {
   content.innerHTML = `
     <div class="product-detail__info">
       <div class="product-detail__brand">${brandId}</div>
-      <div class="product-detail__name">${displayName}</div>
+      <div class="product-detail__name">${product.name || ''}</div>
       ${isSoldout ? '<div class="soldout-label">품절</div>' : ''}
       <div class="product-detail__prices">
         <span class="product-detail__price-sale">${formatPrice(product.price_original)}</span>
       </div>
       <div class="product-detail__divider"></div>
       <div class="product-detail__meta">
-        ${product.colors ? `
-          <div class="product-detail__meta-row">
-            <span class="product-detail__meta-label">색상</span>
-            <span class="product-detail__meta-value">${product.colors}</span>
-          </div>` : ''}
-        ${product.size_range ? `
-          <div class="product-detail__meta-row">
-            <span class="product-detail__meta-label">사이즈</span>
-            <span class="product-detail__meta-value">${product.size_range}</span>
-          </div>` : ''}
         ${product.mfg_date ? `
           <div class="product-detail__meta-row">
             <span class="product-detail__meta-label">입고일</span>
             <span class="product-detail__meta-value">${product.mfg_date}</span>
           </div>` : ''}
       </div>
+      ${colorTagsHTML(product.colors)}
       ${sizeTagsHTML(product.size_options)}
+      <button class="product-detail__cart-btn" id="cart-btn" disabled>색상과 사이즈를 선택해주세요</button>
     </div>
     <div class="product-detail__images">${imagesHTML}</div>`
 
   attachImageSkeletonCleanup(content)
 
-  let selectedSize = null
-  let selectedAddPrice = 0
+  // mark auto-selected color
+  if (selectedColor) {
+    content.querySelector(`.product-detail__color-tag[data-color="${selectedColor}"]`)
+      ?.classList.add('is-selected')
+  }
+
+  function updateCartBtn() {
+    const cartBtn = document.getElementById('cart-btn')
+    if (!cartBtn) return
+    const needColor = colors.length > 1
+    const ready = (!needColor || selectedColor) && selectedSize
+    cartBtn.disabled = !ready
+    if (ready) {
+      cartBtn.textContent = '장바구니 담기'
+      cartBtn.classList.remove('is-added')
+    } else if (!selectedColor && needColor) {
+      cartBtn.textContent = '색상을 선택해주세요'
+    } else {
+      cartBtn.textContent = '사이즈를 선택해주세요'
+    }
+  }
 
   content.addEventListener('click', e => {
     const img = e.target.closest('.product-detail__img')
@@ -151,18 +182,22 @@ export async function renderProduct(app, brandId, productId) {
       return
     }
 
+    const colorTag = e.target.closest('.product-detail__color-tag[data-color]')
+    if (colorTag) {
+      content.querySelectorAll('.product-detail__color-tag').forEach(b => b.classList.remove('is-selected'))
+      colorTag.classList.add('is-selected')
+      selectedColor = colorTag.dataset.color
+      updateCartBtn()
+      return
+    }
+
     const sizeTag = e.target.closest('.product-detail__size-tag[data-size]')
     if (sizeTag) {
       content.querySelectorAll('.product-detail__size-tag').forEach(b => b.classList.remove('is-selected'))
       sizeTag.classList.add('is-selected')
       selectedSize = sizeTag.dataset.size
       selectedAddPrice = Number(sizeTag.dataset.addPrice)
-      const cartBtn = document.getElementById('cart-btn')
-      if (cartBtn) {
-        cartBtn.disabled = false
-        cartBtn.textContent = '장바구니 담기'
-        cartBtn.classList.remove('is-added')
-      }
+      updateCartBtn()
       return
     }
 
@@ -172,7 +207,7 @@ export async function renderProduct(app, brandId, productId) {
         id: String(product.id),
         brand: brandId,
         name: product.name,
-        colors: product.colors || '',
+        selectedColor: selectedColor || '',
         size: selectedSize,
         addPrice: selectedAddPrice,
         basePrice: product.price_original,

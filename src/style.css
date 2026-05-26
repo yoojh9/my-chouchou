@@ -794,6 +794,32 @@ html, body {
   letter-spacing: -0.1px;
 }
 
+/* ── Color tag ── */
+.product-detail__colors-section {
+  margin-bottom: 0;
+}
+
+.product-detail__color-tag {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 4px 12px;
+  color: var(--ink);
+  letter-spacing: -0.1px;
+  cursor: pointer;
+  font-family: inherit;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+}
+
+.product-detail__color-tag.is-selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+
 /* ── Size tag as interactive button ── */
 .product-detail__size-tag {
   cursor: pointer;

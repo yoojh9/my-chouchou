@@ -16,7 +16,7 @@ function formatPrice(n) {
 function buildFormUrl(items) {
   const lines = items.map(item => {
     const price = itemPrice(item)
-    const colorPart = item.colors ? ` / ${item.colors}` : ''
+    const colorPart = item.selectedColor ? ` / ${item.selectedColor}` : ''
     return `${item.name}${colorPart} / ${item.size} / ${price.toLocaleString()}원`
   })
   return `${FORM_URL}?usp=pp_url&${ENTRY_PRODUCTS}=${encodeURIComponent(lines.join('\n'))}`
@@ -35,7 +35,7 @@ function renderContent(app) {
 
   const itemsHTML = cart.map(item => {
     const price = itemPrice(item)
-    const meta = [item.colors, item.size].filter(Boolean).join(' / ')
+    const meta = [item.selectedColor, item.size].filter(Boolean).join(' / ')
     return `
       <div class="cart-item">
         <div class="cart-item__info">
