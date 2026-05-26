@@ -1,4 +1,4 @@
-import { getCart, removeFromCart, updateCartItemQty, updateCartBadge } from '../cart.js'
+import { getCart, removeFromCart, updateCartItemQty, updateCartBadge, clearCart } from '../cart.js'
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
@@ -66,6 +66,7 @@ function renderContent(app) {
     </div>
     <div class="cart-actions">
       <button class="cart-order-btn" id="order-btn">주문서 작성하기</button>
+      <button class="cart-clear-btn" id="clear-btn">장바구니 비우기</button>
     </div>`
 
   content.addEventListener('click', e => {
@@ -94,6 +95,14 @@ function renderContent(app) {
       const currentCart = getCart()
       if (currentCart.length === 0) return
       window.open(buildFormUrl(currentCart), '_blank')
+      return
+    }
+
+    if (e.target.id === 'clear-btn') {
+      if (!confirm('장바구니를 비울까요?')) return
+      clearCart()
+      updateCartBadge()
+      renderContent(app)
     }
   }, { once: true })
 }

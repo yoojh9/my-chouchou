@@ -1126,6 +1126,22 @@ html, body {
   opacity: 0.85;
 }
 
+.cart-clear-btn {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  padding: 12px;
+  background: none;
+  color: var(--gray);
+  border: none;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  letter-spacing: -0.1px;
+  text-decoration: underline;
+  -webkit-tap-highlight-color: transparent;
+}
+
 /* ── Load more button ── */
 .load-more {
   display: block;
