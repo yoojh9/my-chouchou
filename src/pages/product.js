@@ -48,7 +48,7 @@ function sizeTagsHTML(sizeOptions) {
   const tags = validSizes.map(s => {
     const extraClass = s.add_price > 0 ? ' product-detail__size-tag--extra' : ''
     const label = s.add_price > 0
-      ? `${s.name} <small>(+${s.add_price.toLocaleString()}원)</small>`
+      ? `${s.name} <small>(+${Math.round(s.add_price * 1.6).toLocaleString()}원)</small>`
       : s.name
     return `<span class="product-detail__size-tag${extraClass}">${label}</span>`
   }).join('')
