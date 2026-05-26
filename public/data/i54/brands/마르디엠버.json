@@ -1,5 +1,365 @@
 [
   {
+    "id": "1434926",
+    "brand": "마르디엠버",
+    "name": "마르디엠버.헤이즐원피스",
+    "colors": "아이보리/라이트블루",
+    "size_range": "S~2XL",
+    "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A5%B4%EB%94%94%EC%97%A0%EB%B2%84%ED%97%A4%EC%9D%B4%EC%A6%90%EC%9B%90%ED%94%BC%EC%8A%A4%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%94%EB%A3%A8s2xl/1434926/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-060.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434926.jpg",
+    "price_original": 59200,
+    "price_sale": 38000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라이트블루"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라이트블루"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라이트블루"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라이트블루"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "라이트블루"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-060.jpg",
+        "local": "output/images/20260526/detail/1434926_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434926_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434926_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434925",
+    "brand": "마르디엠버",
+    "name": "마르디엠버.조이팬츠",
+    "colors": "머스타드/퍼플/오렌지",
+    "size_range": "S~2XL",
+    "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A5%B4%EB%94%94%EC%97%A0%EB%B2%84%EC%A1%B0%EC%9D%B4%ED%8C%AC%EC%B8%A0%EB%A8%B8%EC%8A%A4%ED%83%80%EB%93%9C%ED%8D%BC%ED%94%8C%EC%98%A4%EB%A0%8C%EC%A7%80s2xl/1434925/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-059.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434925.jpg",
+    "price_original": 28800,
+    "price_sale": 19000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "머스타드",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "머스타드",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "머스타드",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "머스타드",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 0,
+        "colors": [
+          "머스타드",
+          "퍼플",
+          "오렌지"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-059.jpg",
+        "local": "output/images/20260526/detail/1434925_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434925_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434925_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434924",
+    "brand": "마르디엠버",
+    "name": "마르디엠버.슬링골지나시",
+    "colors": "블루/그린/화이트",
+    "size_range": "S~2XL",
+    "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A5%B4%EB%94%94%EC%97%A0%EB%B2%84%EC%8A%AC%EB%A7%81%EA%B3%A8%EC%A7%80%EB%82%98%EC%8B%9C%EB%B8%94%EB%A3%A8%EA%B7%B8%EB%A6%B0%ED%99%94%EC%9D%B4%ED%8A%B8s2xl/1434924/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-058.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434924.jpg",
+    "price_original": 20800,
+    "price_sale": 14000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "화이트"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "화이트"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "화이트"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "화이트"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "그린",
+          "화이트"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-058.jpg",
+        "local": "output/images/20260526/detail/1434924_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434924_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434924_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434923",
+    "brand": "마르디엠버",
+    "name": "마르디엠버.비비홀터넥나시",
+    "colors": "블루/퍼플/오렌지",
+    "size_range": "S~2XL",
+    "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A5%B4%EB%94%94%EC%97%A0%EB%B2%84%EB%B9%84%EB%B9%84%ED%99%80%ED%84%B0%EB%84%A5%EB%82%98%EC%8B%9C%EB%B8%94%EB%A3%A8%ED%8D%BC%ED%94%8C%EC%98%A4%EB%A0%8C%EC%A7%80s2xl/1434923/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-057.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434923.jpg",
+    "price_original": 19200,
+    "price_sale": 13000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "퍼플",
+          "오렌지"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "퍼플",
+          "오렌지"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-057.jpg",
+        "local": "output/images/20260526/detail/1434923_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434923_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434923_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434922",
+    "brand": "마르디엠버",
+    "name": "마르디엠버.몰리베스트",
+    "colors": "크림/네이비",
+    "size_range": "S~2XL",
+    "product_url": "https://i54.co.kr/product/%EB%A7%88%EB%A5%B4%EB%94%94%EC%97%A0%EB%B2%84%EB%AA%B0%EB%A6%AC%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%81%AC%EB%A6%BC%EB%84%A4%EC%9D%B4%EB%B9%84s2xl/1434922/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-056.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434922.jpg",
+    "price_original": 40000,
+    "price_sale": 26000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "네이비"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "네이비"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "네이비"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "네이비"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "네이비"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-056.jpg",
+        "local": "output/images/20260526/detail/1434922_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434922_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434922_03.jpg"
+      }
+    ]
+  },
+  {
     "id": "1434150",
     "brand": "마르디엠버",
     "name": "마르디엠버.코코체크팬츠",

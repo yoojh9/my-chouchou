@@ -1,5 +1,543 @@
 [
   {
+    "id": "1434873",
+    "brand": "플라워제이",
+    "name": "플라워제이.채리팬츠",
+    "colors": "체리/레몬",
+    "size_range": "XS~2XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%EC%B1%84%EB%A6%AC%ED%8C%AC%EC%B8%A0%EC%B2%B4%EB%A6%AC%EB%A0%88%EB%AA%ACxs2xl/1434873/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-007.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434873.jpg",
+    "price_original": 19200,
+    "price_sale": 13000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000,
+        "colors": [
+          "체리",
+          "레몬"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-007.jpg",
+        "local": "output/images/20260526/detail/1434873_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434873_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434873_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434872",
+    "brand": "플라워제이",
+    "name": "플라워제이.니니셋업",
+    "colors": "블랙/핑크",
+    "size_range": "XS~2XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%EB%8B%88%EB%8B%88%EC%85%8B%EC%97%85%EB%B8%94%EB%9E%99%ED%95%91%ED%81%ACxs2xl/1434872/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-006.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434872.jpg",
+    "price_original": 43200,
+    "price_sale": 28000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "핑크"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-006.jpg",
+        "local": "output/images/20260526/detail/1434872_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434872_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434872_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434871",
+    "brand": "플라워제이",
+    "name": "플라워제이.첵블라",
+    "colors": "블루/아이보리",
+    "size_range": "XS~2XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%EC%B2%B5%EB%B8%94%EB%9D%BC%EB%B8%94%EB%A3%A8%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%ACxs2xl/1434871/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-005.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434871.jpg",
+    "price_original": 24000,
+    "price_sale": 16000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-005.jpg",
+        "local": "output/images/20260526/detail/1434871_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434871_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434871_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434870",
+    "brand": "플라워제이",
+    "name": "플라워제이.플리팬츠",
+    "colors": "골드/핑크/블랙",
+    "size_range": "XS~2XL,맘",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%ED%94%8C%EB%A6%AC%ED%8C%AC%EC%B8%A0%EA%B3%A8%EB%93%9C%ED%95%91%ED%81%AC%EB%B8%94%EB%9E%99xs2xl%EB%A7%98/1434870/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-004.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434870.jpg",
+    "price_original": 22400,
+    "price_sale": 15000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      },
+      {
+        "name": "맘",
+        "add_price": 10000,
+        "colors": [
+          "골드",
+          "핑크",
+          "블랙"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-004.jpg",
+        "local": "output/images/20260526/detail/1434870_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434870_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434870_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434869",
+    "brand": "플라워제이",
+    "name": "플라워제이.프릴반바지",
+    "colors": "블루/핑크",
+    "size_range": "XS~XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%ED%94%84%EB%A6%B4%EB%B0%98%EB%B0%94%EC%A7%80%EB%B8%94%EB%A3%A8%ED%95%91%ED%81%ACxsxl/1434869/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-003.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434869.jpg",
+    "price_original": 25600,
+    "price_sale": 17000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-003.jpg",
+        "local": "output/images/20260526/detail/1434869_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434869_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434869_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434868",
+    "brand": "플라워제이",
+    "name": "플라워제이.첵첵셋업",
+    "colors": "라벤더/베이지",
+    "size_range": "XS~XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%EC%B2%B5%EC%B2%B5%EC%85%8B%EC%97%85%EB%9D%BC%EB%B2%A4%EB%8D%94%EB%B2%A0%EC%9D%B4%EC%A7%80xsxl/1434868/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-002.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434868.jpg",
+    "price_original": 44800,
+    "price_sale": 29000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "베이지"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "베이지"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "베이지"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "베이지"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "라벤더",
+          "베이지"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-002.jpg",
+        "local": "output/images/20260526/detail/1434868_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434868_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434868_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1434867",
+    "brand": "플라워제이",
+    "name": "플라워제이.코코원피스",
+    "colors": "블랙/화이트",
+    "size_range": "XS~2XL",
+    "product_url": "https://i54.co.kr/product/%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A0%9C%EC%9D%B4%EC%BD%94%EC%BD%94%EC%9B%90%ED%94%BC%EC%8A%A4%EB%B8%94%EB%9E%99%ED%99%94%EC%9D%B4%ED%8A%B8xs2xl/1434867/category/2513/display/1/",
+    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0526/mo0526-001.jpg",
+    "thumbnail_local": "output/images/20260526/thumb/1434867.jpg",
+    "price_original": 41600,
+    "price_sale": 27000,
+    "mfg_date": "2026-05-26",
+    "size_options": [
+      {
+        "name": "XS",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      },
+      {
+        "name": "S",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      },
+      {
+        "name": "M",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      },
+      {
+        "name": "L",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      },
+      {
+        "name": "XL",
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      },
+      {
+        "name": "2XL",
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
+      }
+    ],
+    "detail_images": [
+      {
+        "url": "https://mamacool.diskn.com/202605/mo0526/mo0526-001.jpg",
+        "local": "output/images/20260526/detail/1434867_01.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
+        "local": "output/images/20260526/detail/1434867_02.jpg"
+      },
+      {
+        "url": "https://mamacool.diskn.com/201601/kc.jpg",
+        "local": "output/images/20260526/detail/1434867_03.jpg"
+      }
+    ]
+  },
+  {
     "id": "1431750",
     "brand": "플라워제이",
     "name": "플라워제이.니니셋업",
