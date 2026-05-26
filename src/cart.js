@@ -24,6 +24,18 @@ export function removeFromCart(id, size) {
   saveCart(getCart().filter(c => !(c.id === id && c.size === size)))
 }
 
+export function updateCartItemQty(id, size, qty) {
+  const cart = getCart()
+  const item = cart.find(c => c.id === id && c.size === size)
+  if (!item) return
+  if (qty < 1) {
+    removeFromCart(id, size)
+  } else {
+    item.quantity = qty
+    saveCart(cart)
+  }
+}
+
 export function getCartCount() {
   return getCart().length
 }

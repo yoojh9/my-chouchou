@@ -1,4 +1,4 @@
-import { getCart, removeFromCart, updateCartBadge } from '../cart.js'
+import { getCart, removeFromCart, updateCartItemQty, updateCartBadge } from '../cart.js'
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
@@ -16,8 +16,9 @@ function formatPrice(n) {
 function buildFormUrl(items) {
   const lines = items.map(item => {
     const price = itemPrice(item)
+    const qty = item.quantity || 1
     const colorPart = item.selectedColor ? ` / ${item.selectedColor}` : ''
-    return `${item.name}${colorPart} / ${item.size} / ${price.toLocaleString()}원`
+    return `${item.name}${colorPart} / ${item.size} / ${qty}개 / ${price.toLocaleString()}원`
   })
   return `${FORM_URL}?usp=pp_url&${ENTRY_PRODUCTS}=${encodeURIComponent(lines.join('\n'))}`
 }
@@ -31,10 +32,12 @@ function renderContent(app) {
     return
   }
 
-  const total = cart.reduce((sum, item) => sum + itemPrice(item), 0)
+  const totalPrice = cart.reduce((sum, item) => sum + itemPrice(item) * (item.quantity || 1), 0)
+  const totalQty = cart.reduce((sum, item) => sum + (item.quantity || 1), 0)
 
   const itemsHTML = cart.map(item => {
     const price = itemPrice(item)
+    const qty = item.quantity || 1
     const meta = [item.selectedColor, item.size].filter(Boolean).join(' / ')
     return `
       <div class="cart-item">
@@ -42,7 +45,14 @@ function renderContent(app) {
           <div class="cart-item__brand">${item.brand}</div>
           <div class="cart-item__name">${item.name}</div>
           ${meta ? `<div class="cart-item__meta">${meta}</div>` : ''}
-          <div class="cart-item__price">${formatPrice(price)}</div>
+          <div class="cart-item__bottom">
+            <div class="qty-stepper qty-stepper--sm">
+              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-delta="-1">−</button>
+              <span class="qty-stepper__num">${qty}</span>
+              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-delta="1">+</button>
+            </div>
+            <div class="cart-item__price">${formatPrice(price * qty)}</div>
+          </div>
         </div>
         <button class="cart-item__remove" data-id="${item.id}" data-size="${item.size}" aria-label="삭제">✕</button>
       </div>`
@@ -51,8 +61,8 @@ function renderContent(app) {
   content.innerHTML = `
     <div class="cart-list">${itemsHTML}</div>
     <div class="cart-summary">
-      <span class="cart-summary__label">총 ${cart.length}개</span>
-      <span class="cart-summary__total">${formatPrice(total)}</span>
+      <span class="cart-summary__label">총 ${totalQty}개</span>
+      <span class="cart-summary__total">${formatPrice(totalPrice)}</span>
     </div>
     <div class="cart-actions">
       <button class="cart-order-btn" id="order-btn">주문서 작성하기</button>
@@ -62,6 +72,19 @@ function renderContent(app) {
     const removeBtn = e.target.closest('.cart-item__remove')
     if (removeBtn) {
       removeFromCart(removeBtn.dataset.id, removeBtn.dataset.size)
+      updateCartBadge()
+      renderContent(app)
+      return
+    }
+
+    const stepBtn = e.target.closest('.qty-stepper__btn[data-delta]')
+    if (stepBtn) {
+      const { id, size, delta } = stepBtn.dataset
+      const cart = getCart()
+      const item = cart.find(c => c.id === id && c.size === size)
+      if (!item) return
+      const newQty = (item.quantity || 1) + Number(delta)
+      updateCartItemQty(id, size, newQty)
       updateCartBadge()
       renderContent(app)
       return

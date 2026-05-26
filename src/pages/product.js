@@ -122,6 +122,7 @@ export async function renderProduct(app, brandId, productId) {
   let selectedColor = colors.length === 1 ? colors[0] : null
   let selectedSize = null
   let selectedAddPrice = 0
+  let quantity = 1
 
   const detailImages = product.detail_images || []
   const imagesHTML = detailImages.length
@@ -146,6 +147,14 @@ export async function renderProduct(app, brandId, productId) {
       </div>
       ${colorTagsHTML(product.colors)}
       ${sizeTagsHTML(product.size_options)}
+      <div class="product-detail__qty-row">
+        <span class="product-detail__qty-label">수량</span>
+        <div class="qty-stepper">
+          <button class="qty-stepper__btn" id="qty-minus">−</button>
+          <span class="qty-stepper__num" id="qty-num">1</span>
+          <button class="qty-stepper__btn" id="qty-plus">+</button>
+        </div>
+      </div>
       <button class="product-detail__cart-btn" id="cart-btn" disabled>색상과 사이즈를 선택해주세요</button>
     </div>
     <div class="product-detail__images">${imagesHTML}</div>`
@@ -201,6 +210,20 @@ export async function renderProduct(app, brandId, productId) {
       return
     }
 
+    if (e.target.id === 'qty-minus') {
+      if (quantity > 1) {
+        quantity--
+        document.getElementById('qty-num').textContent = quantity
+      }
+      return
+    }
+
+    if (e.target.id === 'qty-plus') {
+      quantity++
+      document.getElementById('qty-num').textContent = quantity
+      return
+    }
+
     const cartBtn = e.target.closest('#cart-btn')
     if (cartBtn && !cartBtn.disabled) {
       const success = addToCart({
@@ -211,6 +234,7 @@ export async function renderProduct(app, brandId, productId) {
         size: selectedSize,
         addPrice: selectedAddPrice,
         basePrice: product.price_original,
+        quantity,
       })
       if (success) {
         cartBtn.textContent = '담겼어요 ✓'
