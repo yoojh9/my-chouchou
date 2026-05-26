@@ -1,6 +1,8 @@
 name: 크롤링 자동화
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '0 12 * * *'  # 매일 한국시간 오후 9시 (UTC 12:00)
   workflow_dispatch:       # 수동 실행 버튼
