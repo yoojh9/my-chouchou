@@ -794,6 +794,231 @@ html, body {
   letter-spacing: -0.1px;
 }
 
+/* ── Size tag as interactive button ── */
+.product-detail__size-tag {
+  cursor: pointer;
+  font-family: inherit;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+}
+
+.product-detail__size-tag.is-selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+
+.product-detail__size-tag--extra.is-selected {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--white);
+}
+
+/* ── Cart button (장바구니 담기) ── */
+.product-detail__cart-btn {
+  display: block;
+  width: 100%;
+  margin-top: 14px;
+  padding: 14px;
+  background: var(--ink);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  letter-spacing: -0.1px;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s, opacity 0.15s;
+}
+
+.product-detail__cart-btn:disabled {
+  background: var(--muted);
+  color: var(--gray);
+  cursor: default;
+}
+
+.product-detail__cart-btn.is-added {
+  background: var(--accent);
+}
+
+/* ── Floating cart button ── */
+.cart-fab {
+  position: fixed;
+  bottom: 24px;
+  right: 50%;
+  transform: translateX(50%);
+  max-width: var(--max-width);
+  width: 100%;
+  pointer-events: none;
+  z-index: 200;
+}
+
+.cart-fab__btn {
+  position: absolute;
+  right: 16px;
+  bottom: 0;
+  width: 52px;
+  height: 52px;
+  background: var(--ink);
+  color: var(--white);
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(25,23,20,0.22);
+  pointer-events: all;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.cart-fab__btn:active {
+  transform: scale(0.93);
+  box-shadow: 0 2px 8px rgba(25,23,20,0.18);
+}
+
+.cart-fab__btn svg {
+  width: 22px;
+  height: 22px;
+}
+
+.cart-fab__count {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  min-width: 18px;
+  height: 18px;
+  background: var(--accent);
+  color: var(--white);
+  font-size: 10px;
+  font-weight: 700;
+  border-radius: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4px;
+  font-family: inherit;
+  line-height: 1;
+}
+
+.cart-fab__count--hidden {
+  display: none;
+}
+
+/* ── Cart page ── */
+.cart-list {
+  padding: 12px 14px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cart-item {
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.cart-item__info {
+  flex: 1;
+  min-width: 0;
+}
+
+.cart-item__brand {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+
+.cart-item__name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.4;
+  letter-spacing: -0.1px;
+}
+
+.cart-item__meta {
+  font-size: 12px;
+  color: var(--gray);
+  margin-top: 3px;
+}
+
+.cart-item__price {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-top: 6px;
+  letter-spacing: -0.2px;
+}
+
+.cart-item__remove {
+  background: none;
+  border: none;
+  color: var(--gray);
+  font-size: 14px;
+  cursor: pointer;
+  padding: 2px 4px;
+  font-family: inherit;
+  flex-shrink: 0;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 1;
+}
+
+.cart-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 14px 0;
+  font-size: 13px;
+}
+
+.cart-summary__label {
+  color: var(--gray);
+}
+
+.cart-summary__total {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.3px;
+}
+
+.cart-actions {
+  padding: 14px 14px 0;
+}
+
+.cart-order-btn {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  background: var(--accent);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  font-size: 15px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  letter-spacing: -0.1px;
+  -webkit-tap-highlight-color: transparent;
+  transition: opacity 0.15s;
+}
+
+.cart-order-btn:active {
+  opacity: 0.85;
+}
+
 /* ── Load more button ── */
 .load-more {
   display: block;

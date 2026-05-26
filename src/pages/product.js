@@ -1,3 +1,5 @@
+import { addToCart, updateCartBadge } from '../cart.js'
+
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
 function formatPrice(n) {
@@ -50,13 +52,14 @@ function sizeTagsHTML(sizeOptions) {
     const label = s.add_price > 0
       ? `${s.name} <small>(+${Math.round(s.add_price * 1.6).toLocaleString()}원)</small>`
       : s.name
-    return `<span class="product-detail__size-tag${extraClass}">${label}</span>`
+    return `<button class="product-detail__size-tag${extraClass}" data-size="${s.name}" data-add-price="${s.add_price}">${label}</button>`
   }).join('')
   return `
     <div class="product-detail__sizes">
       <div class="product-detail__sizes-title">사이즈</div>
       <div class="product-detail__size-tags">${tags}</div>
-    </div>`
+    </div>
+    <button class="product-detail__cart-btn" id="cart-btn" disabled>사이즈를 선택해주세요</button>`
 }
 
 export async function renderProduct(app, brandId, productId) {
@@ -137,10 +140,50 @@ export async function renderProduct(app, brandId, productId) {
 
   attachImageSkeletonCleanup(content)
 
+  let selectedSize = null
+  let selectedAddPrice = 0
+
   content.addEventListener('click', e => {
     const img = e.target.closest('.product-detail__img')
-    if (!img) return
-    const src = img.dataset.full || img.src
-    if (src) openLightbox(src)
+    if (img) {
+      const src = img.dataset.full || img.src
+      if (src) openLightbox(src)
+      return
+    }
+
+    const sizeTag = e.target.closest('.product-detail__size-tag[data-size]')
+    if (sizeTag) {
+      content.querySelectorAll('.product-detail__size-tag').forEach(b => b.classList.remove('is-selected'))
+      sizeTag.classList.add('is-selected')
+      selectedSize = sizeTag.dataset.size
+      selectedAddPrice = Number(sizeTag.dataset.addPrice)
+      const cartBtn = document.getElementById('cart-btn')
+      if (cartBtn) {
+        cartBtn.disabled = false
+        cartBtn.textContent = '장바구니 담기'
+        cartBtn.classList.remove('is-added')
+      }
+      return
+    }
+
+    const cartBtn = e.target.closest('#cart-btn')
+    if (cartBtn && !cartBtn.disabled) {
+      const success = addToCart({
+        id: String(product.id),
+        brand: brandId,
+        name: product.name,
+        colors: product.colors || '',
+        size: selectedSize,
+        addPrice: selectedAddPrice,
+        basePrice: product.price_original,
+      })
+      if (success) {
+        cartBtn.textContent = '담겼어요 ✓'
+        cartBtn.classList.add('is-added')
+        updateCartBadge()
+      } else {
+        cartBtn.textContent = '이미 담겨 있어요'
+      }
+    }
   })
 }
