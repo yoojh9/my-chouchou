@@ -13,12 +13,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -209,12 +208,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "진베이지",
+          "크림"
+        ]
       }
     ],
     "detail_images": [
@@ -319,7 +318,7 @@
     "id": "1434084",
     "brand": "오뜨베베",
     "name": "오뜨베베.신생아양말",
-    "colors": "패턴(+2000)/베이직",
+    "colors": "패턴/베이직",
     "size_range": "NEWBORN",
     "product_url": "https://i54.co.kr/product/%EC%98%A4%EB%9C%A8%EB%B2%A0%EB%B2%A0%EC%8B%A0%EC%83%9D%EC%95%84%EC%96%91%EB%A7%90%ED%8C%A8%ED%84%B42000%EB%B2%A0%EC%9D%B4%EC%A7%81newborn/1434084/category/2513/display/1/",
     "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-212.jpg",
@@ -329,12 +328,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "newborn",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "패턴",
+          "베이직"
+        ]
       }
     ],
     "detail_images": [
@@ -366,12 +365,13 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카키",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -526,12 +526,13 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "베이지",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -699,12 +700,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -926,12 +927,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레이스"
+        ]
       }
     ],
     "detail_images": [
@@ -1006,12 +1006,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -1082,16 +1082,22 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "진베이지",
+          "앙보리"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "진베이지",
+          "앙보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1123,12 +1129,13 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "아이보리",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -1160,12 +1167,13 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연베이지",
+          "브라운",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -1197,12 +1205,13 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "베이지",
+          "크림"
+        ]
       }
     ],
     "detail_images": [

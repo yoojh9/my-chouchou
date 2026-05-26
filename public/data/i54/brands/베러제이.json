@@ -13,36 +13,57 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "백염",
+          "진그린"
+        ]
       }
     ],
     "detail_images": [
@@ -74,36 +95,57 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "네이비",
+          "메란지"
+        ]
       }
     ],
     "detail_images": [
@@ -135,36 +177,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "네이비",
+          "카키"
+        ]
       }
     ],
     "detail_images": [
@@ -196,36 +262,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -257,40 +347,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -322,36 +440,57 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -383,36 +522,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "브릭",
+          "블랙",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -444,36 +614,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "카키",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -505,36 +706,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -566,36 +798,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "검정",
+          "베이지",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -627,36 +890,53 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "밀리터리"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "밀리터리"
+        ]
       }
     ],
     "detail_images": [
@@ -688,36 +968,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -749,36 +1060,63 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "백염",
+          "버건디",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -810,36 +1148,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -871,40 +1233,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -936,36 +1326,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -997,36 +1411,57 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1058,36 +1493,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1119,36 +1578,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -1180,40 +1663,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "크림"
+        ]
       }
     ],
     "detail_images": [
@@ -1245,40 +1756,65 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "소라",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1310,40 +1846,65 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1375,36 +1936,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1436,40 +2021,65 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -1602,36 +2212,57 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1663,36 +2294,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "코발트",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1724,40 +2379,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1789,36 +2472,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "백염",
+          "와인"
+        ]
       }
     ],
     "detail_images": [
@@ -1850,36 +2557,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블루",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -1911,40 +2642,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1976,40 +2735,65 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2041,40 +2825,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -2106,40 +2918,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -2171,40 +3011,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "베이지",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -2236,40 +3104,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2301,36 +3197,60 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "네이비",
+          "연베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -2362,40 +3282,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "먹색",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2427,40 +3375,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "연그레이",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -2492,40 +3468,68 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2557,36 +3561,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       },
       {
         "name": "7X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "머스타드",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2618,36 +3653,67 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "1X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "2X",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "3X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "4X",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "5X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "6X",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "화이트",
+          "레드",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2679,12 +3745,12 @@
     "mfg_date": "2026-05-13",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "카키"
+        ]
       }
     ],
     "detail_images": [

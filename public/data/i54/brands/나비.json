@@ -13,40 +13,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "소라",
+          "머스타드"
+        ]
       }
     ],
     "detail_images": [
@@ -78,40 +103,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "딥그린"
+        ]
       }
     ],
     "detail_images": [
@@ -143,40 +196,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -208,40 +289,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -273,40 +379,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "버건디",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -338,40 +472,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -403,40 +565,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -468,40 +658,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "연그레이"
+        ]
       }
     ],
     "detail_images": [
@@ -533,40 +748,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "크림",
+          "메란지"
+        ]
       }
     ],
     "detail_images": [
@@ -598,40 +841,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "옐로우",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -772,40 +1043,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -837,40 +1136,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "공군",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -902,40 +1226,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -967,40 +1319,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       }
     ],
     "detail_images": [
@@ -1032,40 +1412,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -1097,40 +1505,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "메란지",
+          "베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -1162,40 +1595,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브라운",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -1227,40 +1688,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -1292,40 +1781,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "퍼플",
+          "소라"
+        ]
       }
     ],
     "detail_images": [
@@ -1357,40 +1874,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "레드",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -1422,40 +1967,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "레드",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -1487,40 +2060,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "라임",
+          "민트그레이"
+        ]
       }
     ],
     "detail_images": [
@@ -1552,40 +2153,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "오트밀",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -1617,40 +2246,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "진청",
+          "흑청"
+        ]
       }
     ],
     "detail_images": [
@@ -1682,40 +2339,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       },
       {
         "name": "JL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "브릭",
+          "오트밀"
+        ]
       }
     ],
     "detail_images": [

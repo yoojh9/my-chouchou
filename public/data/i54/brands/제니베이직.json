@@ -13,24 +13,32 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "4",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "6",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "7",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "원컬러"
+        ]
       }
     ],
     "detail_images": [
@@ -62,24 +70,32 @@
     "mfg_date": "2026-05-12",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "4",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "6",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "원컬러"
+        ]
       },
       {
         "name": "7",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "원컬러"
+        ]
       }
     ],
     "detail_images": [

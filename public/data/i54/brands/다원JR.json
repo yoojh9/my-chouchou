@@ -13,28 +13,44 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "검정"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "검정"
+        ]
       },
       {
         "name": "13",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "검정"
+        ]
       },
       {
         "name": "15",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "검정"
+        ]
       },
       {
         "name": "17",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "검정"
+        ]
       }
     ],
     "detail_images": [

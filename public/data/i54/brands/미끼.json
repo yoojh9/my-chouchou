@@ -13,40 +13,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 8000
+        "add_price": 8000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -78,12 +106,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -115,40 +143,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 8000
+        "add_price": 8000,
+        "colors": [
+          "올리브",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -180,40 +236,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 8000
+        "add_price": 8000,
+        "colors": [
+          "소라베이지",
+          "레드소라"
+        ]
       }
     ],
     "detail_images": [
@@ -245,40 +326,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 8000
+        "add_price": 8000,
+        "colors": [
+          "민트",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -310,40 +419,65 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "4XL",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 8000
+        "add_price": 8000,
+        "colors": [
+          "와인",
+          "그레이"
+        ]
       }
     ],
     "detail_images": [

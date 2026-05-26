@@ -113,32 +113,52 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       },
       {
         "name": "맘FREE",
-        "add_price": 6000
+        "add_price": 6000,
+        "colors": [
+          "화이트",
+          "네이비"
+        ]
       }
     ],
     "detail_images": [
@@ -259,32 +279,52 @@
     "mfg_date": "2026-05-14",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "1",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       },
       {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [

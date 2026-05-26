@@ -209,12 +209,13 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "챙블루",
+          "챙옐로우",
+          "챙화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -246,20 +247,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       }
     ],
     "detail_images": [
@@ -291,20 +297,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       }
     ],
     "detail_images": [
@@ -336,20 +347,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       }
     ],
     "detail_images": [
@@ -381,20 +397,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       }
     ],
     "detail_images": [
@@ -426,20 +447,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "5종세트"
+        ]
       }
     ],
     "detail_images": [
@@ -471,20 +497,25 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "4종세트"
+        ]
       }
     ],
     "detail_images": [

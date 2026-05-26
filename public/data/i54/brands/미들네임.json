@@ -13,32 +13,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "올리브",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -70,32 +90,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -127,32 +167,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그린카모",
+          "퍼플카모"
+        ]
       }
     ],
     "detail_images": [
@@ -184,32 +244,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "연소라",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -241,32 +321,58 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "보라",
+          "블루",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -298,32 +404,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -355,32 +481,49 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "먹색"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "먹색"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "먹색"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "먹색"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "그레이",
+          "먹색"
+        ]
       }
     ],
     "detail_images": [
@@ -412,32 +555,52 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       },
       {
         "name": "2XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       },
       {
         "name": "3XL",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블루",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [

@@ -13,32 +13,44 @@
     "mfg_date": "2026-05-22",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "90",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "100",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "110",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "120",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "130",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "140",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -70,32 +82,46 @@
     "mfg_date": "2026-05-22",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "90",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       },
       {
         "name": "100",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       },
       {
         "name": "110",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       },
       {
         "name": "120",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       },
       {
         "name": "130",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       },
       {
         "name": "140",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "플라워"
+        ]
       }
     ],
     "detail_images": [
@@ -127,12 +153,9 @@
     "mfg_date": "2026-05-22",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "맘",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -164,12 +187,13 @@
     "mfg_date": "2026-05-22",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "맘",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "베이지",
+          "퍼플"
+        ]
       }
     ],
     "detail_images": [
@@ -201,12 +225,13 @@
     "mfg_date": "2026-05-22",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "맘",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "차콜",
+          "플라워"
+        ]
       }
     ],
     "detail_images": [

@@ -112,32 +112,52 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "흑청",
+          "중청"
+        ]
       }
     ],
     "detail_images": [
@@ -169,32 +189,58 @@
     "mfg_date": "2026-05-15",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       },
       {
         "name": "JS",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       },
       {
         "name": "JM",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "레드",
+          "아이보리",
+          "블루"
+        ]
       }
     ],
     "detail_images": [

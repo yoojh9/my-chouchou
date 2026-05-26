@@ -13,12 +13,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -50,44 +50,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 5000
+        "add_price": 5000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -119,44 +151,73 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -188,44 +249,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "멜란지",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -257,44 +350,67 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -326,44 +442,73 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -395,44 +540,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -464,12 +641,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "실버"
+        ]
       }
     ],
     "detail_images": [
@@ -501,12 +677,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "실버"
+        ]
       }
     ],
     "detail_images": [
@@ -538,44 +713,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -607,12 +814,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "실버"
+        ]
       }
     ],
     "detail_images": [
@@ -644,12 +850,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -681,12 +886,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -718,44 +923,67 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "13",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "15",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "17",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "19",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "중청"
+        ]
       }
     ],
     "detail_images": [
@@ -787,44 +1015,73 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "아이보리",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -856,44 +1113,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -925,44 +1214,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -994,12 +1315,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "실버"
+        ]
       }
     ],
     "detail_images": [
@@ -1031,44 +1351,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1100,12 +1452,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "브라운",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1137,12 +1489,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1174,44 +1525,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "백멜란지",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -1243,40 +1626,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "160",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "230",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -1308,44 +1719,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1377,12 +1820,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1414,44 +1857,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "13",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "15",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "17",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       },
       {
         "name": "19",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "그레이",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -1483,12 +1958,9 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -1520,44 +1992,67 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1589,12 +2084,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1626,12 +2121,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1663,12 +2158,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1700,44 +2195,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1769,44 +2296,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1838,12 +2397,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "카멜"
+        ]
       }
     ],
     "detail_images": [
@@ -1875,12 +2434,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "스트라이프",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -1912,12 +2471,11 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -1949,12 +2507,9 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -1986,40 +2541,68 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "160",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       },
       {
         "name": "230",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "카멜"
+        ]
       }
     ],
     "detail_images": [
@@ -2051,44 +2634,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2120,12 +2735,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2157,12 +2772,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2194,44 +2809,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블루",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2263,36 +2910,60 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "160",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "연베이지"
+        ]
       }
     ],
     "detail_images": [
@@ -2324,44 +2995,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "네이비",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2393,44 +3096,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "13",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "15",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "17",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       },
       {
         "name": "19",
-        "add_price": 4000
+        "add_price": 4000,
+        "colors": [
+          "레드",
+          "블랙"
+        ]
       }
     ],
     "detail_images": [
@@ -2462,44 +3197,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2531,12 +3298,9 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -2568,12 +3332,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2605,12 +3369,12 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -2642,44 +3406,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "멜란지",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2711,44 +3507,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "블랙",
+          "아이보리"
+        ]
       }
     ],
     "detail_images": [
@@ -2780,12 +3608,9 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -2817,44 +3642,76 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "13",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "15",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "17",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       },
       {
         "name": "19",
-        "add_price": 2000
+        "add_price": 2000,
+        "colors": [
+          "아이보리",
+          "차콜"
+        ]
       }
     ],
     "detail_images": [
@@ -2886,44 +3743,73 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "160",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       },
       {
         "name": "170",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "180",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "190",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "200",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "210",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "220",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "230",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       },
       {
         "name": "240",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "블랙",
+          "크림"
+        ]
       }
     ],
     "detail_images": [
@@ -2955,12 +3841,9 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -2992,44 +3875,67 @@
     "mfg_date": "2026-05-20",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "3",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "5",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "7",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "9",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "11",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "중청"
+        ]
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 3000,
+        "colors": [
+          "중청"
+        ]
       }
     ],
     "detail_images": [

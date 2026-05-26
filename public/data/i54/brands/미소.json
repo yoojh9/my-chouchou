@@ -13,28 +13,49 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "22",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "핑크"
+        ]
       },
       {
         "name": "24",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "핑크"
+        ]
       },
       {
         "name": "26",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "핑크"
+        ]
       },
       {
         "name": "28",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "핑크"
+        ]
       },
       {
         "name": "30",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "노랑",
+          "파랑",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -66,16 +87,18 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "S",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "3켤레1세트"
+        ]
       },
       {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "3켤레1세트"
+        ]
       }
     ],
     "detail_images": [
@@ -236,12 +259,13 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "네이비",
+          "노랑",
+          "레드"
+        ]
       }
     ],
     "detail_images": [
@@ -322,12 +346,13 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "아이보리",
+          "레드",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -398,12 +423,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -435,12 +460,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "블루"
+        ]
       }
     ],
     "detail_images": [
@@ -472,12 +497,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "레드",
+          "오렌지"
+        ]
       }
     ],
     "detail_images": [
@@ -549,12 +574,13 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "베이지",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -586,16 +612,20 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "아동",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "검정"
+        ]
       },
       {
         "name": "성인",
-        "add_price": 1000
+        "add_price": 1000,
+        "colors": [
+          "크림",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -627,12 +657,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "베이지",
+          "브라운"
+        ]
       }
     ],
     "detail_images": [
@@ -664,12 +694,9 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -701,12 +728,9 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": []
       }
     ],
     "detail_images": [
@@ -935,20 +959,31 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "M",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "검정"
+        ]
       },
       {
         "name": "L",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "검정"
+        ]
       },
       {
         "name": "XL",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "화이트",
+          "그레이",
+          "검정"
+        ]
       }
     ],
     "detail_images": [
@@ -1312,12 +1347,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "크림",
+          "핑크"
+        ]
       }
     ],
     "detail_images": [
@@ -1349,12 +1384,13 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "연핑크",
+          "검정",
+          "화이트"
+        ]
       }
     ],
     "detail_images": [
@@ -1386,12 +1422,12 @@
     "mfg_date": "2026-05-19",
     "size_options": [
       {
-        "name": "-------------------",
-        "add_price": 0
-      },
-      {
         "name": "FREE",
-        "add_price": 0
+        "add_price": 0,
+        "colors": [
+          "검정",
+          "호피"
+        ]
       }
     ],
     "detail_images": [
