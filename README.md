@@ -1,11 +1,11 @@
-# my-shushu
+# my-chouchou
 
 i54.co.kr 크롤링 데이터를 보여주는 아동복 카탈로그 웹앱.
 
 ## 실행
 
 ```bash
-npm run dev      # 개발 서버 → http://localhost:5173/my-shushu
+npm run dev      # 개발 서버 → http://localhost:5173/my-chouchou
 npm run build    # dist/ 빌드
 npm run preview  # 빌드 결과 미리보기
 ```

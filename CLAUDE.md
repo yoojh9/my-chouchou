@@ -1,4 +1,4 @@
-# my-shushu
+# my-chouchou
 
 ## 구조
 
@@ -20,7 +20,7 @@
 
 ## 장바구니
 
-장바구니는 `localStorage`(`myshushu_cart`)에 저장되며 앱을 닫아도 유지된다.
+장바구니는 `localStorage`(`mychouchou_cart`)에 저장되며 앱을 닫아도 유지된다.
 
 **카트 아이템 구조:**
 ```js

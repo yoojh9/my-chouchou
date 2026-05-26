@@ -1,4 +1,4 @@
-const CART_KEY = 'myshushu_cart'
+const CART_KEY = 'mychouchou_cart'
 
 export function getCart() {
   try {
