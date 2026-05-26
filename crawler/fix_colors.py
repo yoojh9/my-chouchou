@@ -1,9 +1,11 @@
 """
-기존 크롤링 데이터 중 colors 가 'N색상' 패턴인 상품을 재방문하여
-실제 색상 값을 채워 넣는 스크립트.
+기존 크롤링 데이터를 재방문하여 색상 값을 채워 넣는 스크립트.
+  - colors 가 'N색상' 패턴인 상품
+  - size_options[].colors 가 비어있는 상품 (--all-sizes 옵션)
 
 실행 예시:
-  python3 fix_colors.py                # output/ 전체 대상
+  python3 fix_colors.py                # 'N색상' 패턴만 수정
+  python3 fix_colors.py --all-sizes    # size_options.colors 빈 상품 전체 수정
   python3 fix_colors.py --headed       # 브라우저 보이게
   python3 fix_colors.py --dry-run      # 수정 없이 대상 목록만 출력
 """
@@ -26,8 +28,13 @@ CATALOG_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "public", "data
 COLOR_COUNT_RE = re.compile(r"^\d+색상$")
 
 
-def needs_fix(colors: str) -> bool:
+def needs_fix_colors(colors: str) -> bool:
     return not colors or COLOR_COUNT_RE.match(colors.strip())
+
+
+def needs_fix_size_colors(product: dict) -> bool:
+    opts = [o for o in product.get("size_options", []) if o.get("name") and not o["name"].startswith("---")]
+    return bool(opts) and not any(o.get("colors") for o in opts)
 
 
 async def fetch_colors(page, product_url: str) -> tuple[list[dict], str]:
@@ -91,6 +98,22 @@ async def fetch_colors(page, product_url: str) -> tuple[list[dict], str]:
     return size_options, colors_str
 
 
+def _collect_from_catalog() -> list[tuple[str, dict]]:
+    """카탈로그에서 size_options.colors가 비어있는 상품 수집."""
+    brands_dir = os.path.join(CATALOG_DATA_DIR, "i54", "brands")
+    targets = []
+    for fname in sorted(os.listdir(brands_dir)):
+        if not fname.endswith(".json"):
+            continue
+        fpath = os.path.join(brands_dir, fname)
+        with open(fpath, encoding="utf-8") as f:
+            prods = json.load(f)
+        for p in prods:
+            if needs_fix_size_colors(p) or needs_fix_colors(p.get("colors", "")):
+                targets.append((fpath, p))
+    return targets
+
+
 def collect_target_files() -> list[str]:
     files = []
     for fname in os.listdir(OUTPUT_DIR):
@@ -125,20 +148,24 @@ def update_catalog(product: dict) -> None:
         save_json(brand_file, prods)
 
 
-async def run(headed: bool, dry_run: bool) -> None:
+async def run(headed: bool, dry_run: bool, all_sizes: bool) -> None:
     id_ = os.getenv("I54_ID")
     pw = os.getenv("I54_PW")
     if not id_ or not pw:
         raise RuntimeError(".env 파일에 I54_ID, I54_PW를 설정하세요.")
 
-    files = collect_target_files()
-    targets: list[tuple[str, dict]] = []  # (json_path, product)
-    for fpath in files:
-        with open(fpath, encoding="utf-8") as f:
-            data = json.load(f)
-        for p in data.get("products", []):
-            if needs_fix(p.get("colors", "")):
-                targets.append((fpath, p))
+    if all_sizes:
+        # 카탈로그에서 직접 수집 (output JSON보다 범위가 넓음)
+        targets = _collect_from_catalog()
+    else:
+        files = collect_target_files()
+        targets = []
+        for fpath in files:
+            with open(fpath, encoding="utf-8") as f:
+                data = json.load(f)
+            for p in data.get("products", []):
+                if needs_fix_colors(p.get("colors", "")):
+                    targets.append((fpath, p))
 
     print(f"재수집 대상: {len(targets)}개 상품")
     if dry_run:
@@ -169,12 +196,14 @@ async def run(headed: bool, dry_run: bool) -> None:
         page = await ctx.new_page()
         await cr.login(page, id_, pw)
 
-        # output JSON 파일별로 변경 추적
-        file_data: dict[str, dict] = {}
+        # 파일별 인메모리 데이터 로드
+        file_data: dict[str, list] = {}
         for fpath, _ in targets:
             if fpath not in file_data:
                 with open(fpath, encoding="utf-8") as f:
-                    file_data[fpath] = json.load(f)
+                    raw = json.load(f)
+                # 카탈로그 파일(list)과 output JSON(dict) 모두 지원
+                file_data[fpath] = raw if isinstance(raw, list) else raw
 
         for i, (fpath, product) in enumerate(targets, 1):
             pid = product["id"]
@@ -183,27 +212,29 @@ async def run(headed: bool, dry_run: bool) -> None:
                 size_options, colors_str = await fetch_colors(page, product["product_url"])
                 print(f"  → colors: {colors_str or '(없음)'}")
 
-                # output JSON 인메모리 업데이트
-                for p in file_data[fpath]["products"]:
+                raw = file_data[fpath]
+                prods = raw if isinstance(raw, list) else raw.get("products", [])
+                for p in prods:
                     if p.get("id") == pid:
                         if colors_str:
                             p["colors"] = colors_str
                         p["size_options"] = size_options
                         break
 
-                # 카탈로그 즉시 업데이트
-                product_copy = dict(product)
-                if colors_str:
-                    product_copy["colors"] = colors_str
-                product_copy["size_options"] = size_options
-                update_catalog(product_copy)
+                if not all_sizes:
+                    # output 모드: 카탈로그도 별도 업데이트
+                    product_copy = dict(product)
+                    if colors_str:
+                        product_copy["colors"] = colors_str
+                    product_copy["size_options"] = size_options
+                    update_catalog(product_copy)
 
             except Exception as e:
                 print(f"  [SKIP] 오류: {e}")
 
         await browser.close()
 
-    # 변경된 output JSON 저장
+    # 변경된 파일 저장
     for fpath, data in file_data.items():
         save_json(fpath, data)
         print(f"저장: {fpath}")
@@ -215,8 +246,9 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--headed", action="store_true")
     parser.add_argument("--dry-run", action="store_true", help="대상 목록만 출력, 수정 안 함")
+    parser.add_argument("--all-sizes", action="store_true", help="size_options.colors 비어있는 상품 전체 수정")
     args = parser.parse_args()
-    asyncio.run(run(args.headed, args.dry_run))
+    asyncio.run(run(args.headed, args.dry_run, args.all_sizes))
 
 
 if __name__ == "__main__":
