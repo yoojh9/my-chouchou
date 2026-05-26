@@ -1,0 +1,47 @@
+name: 크롤링 자동화
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 한국시간 오전 9시 (UTC 00:00)
+  workflow_dispatch:       # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 의존성 설치
+        run: |
+          pip install -r crawler/requirements.txt
+          playwright install chromium --with-deps
+
+      - name: .env 생성 (Secrets → 파일)
+        run: |
+          echo "I54_ID=${{ secrets.I54_ID }}" > crawler/.env
+          echo "I54_PW=${{ secrets.I54_PW }}" >> crawler/.env
+
+      - name: 크롤링 실행
+        run: |
+          cd crawler
+          python3 crawler.py --no-images
+
+      - name: .env 삭제
+        if: always()
+        run: rm -f crawler/.env
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --cached --quiet || git commit -m "chore: 크롤링 데이터 자동 업데이트 $(date +'%Y-%m-%d')"
+          git push
