@@ -15,19 +15,33 @@ _HEADERS = {
 }
 
 
+def _i54_cdn_fallback(url: str) -> str | None:
+    """mamacool.diskn.com URL을 i54 CDN URL로 변환."""
+    if "mamacool.diskn.com/" in url:
+        path = url.split("mamacool.diskn.com/", 1)[1]
+        return f"https://i54.co.kr/web/product/big/{path}"
+    return None
+
+
 async def _download_one(client: httpx.AsyncClient, url: str, dest: str) -> bool:
     if os.path.exists(dest):
         return True
-    try:
-        r = await client.get(url, headers=_HEADERS, timeout=15, follow_redirects=True)
-        r.raise_for_status()
-        os.makedirs(os.path.dirname(dest), exist_ok=True)
-        with open(dest, "wb") as f:
-            f.write(r.content)
-        return True
-    except Exception as e:
-        print(f"    [FAIL] {url} → {e}")
-        return False
+    urls = [url]
+    fallback = _i54_cdn_fallback(url)
+    if fallback:
+        urls.append(fallback)
+    for attempt in urls:
+        try:
+            r = await client.get(attempt, headers=_HEADERS, timeout=15, follow_redirects=True)
+            r.raise_for_status()
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
+            with open(dest, "wb") as f:
+                f.write(r.content)
+            return True
+        except Exception as e:
+            if attempt == urls[-1]:
+                print(f"    [FAIL] {url} → {str(e).splitlines()[0]}")
+    return False
 
 
 async def download_all(products: list, delay: tuple = (0.3, 0.5)) -> None:
