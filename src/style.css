@@ -820,6 +820,11 @@ html, body {
   color: var(--white);
 }
 
+.product-detail__color-tag.is-unavailable {
+  opacity: 0.25;
+  pointer-events: none;
+}
+
 /* ── Size tag as interactive button ── */
 .product-detail__size-tag {
   cursor: pointer;

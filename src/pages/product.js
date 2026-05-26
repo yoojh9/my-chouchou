@@ -206,6 +206,19 @@ export async function renderProduct(app, brandId, productId) {
       sizeTag.classList.add('is-selected')
       selectedSize = sizeTag.dataset.size
       selectedAddPrice = Number(sizeTag.dataset.addPrice)
+
+      // 사이즈별 색상 필터링
+      const sizeOpt = (product.size_options || []).find(s => s.name === selectedSize)
+      const availableColors = sizeOpt?.colors?.length ? sizeOpt.colors : null
+      content.querySelectorAll('.product-detail__color-tag').forEach(btn => {
+        const unavailable = availableColors && !availableColors.includes(btn.dataset.color)
+        btn.classList.toggle('is-unavailable', !!unavailable)
+        if (unavailable && selectedColor === btn.dataset.color) {
+          btn.classList.remove('is-selected')
+          selectedColor = null
+        }
+      })
+
       updateCartBtn()
       return
     }
