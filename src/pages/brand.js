@@ -135,14 +135,14 @@ export async function renderBrand(app, brandId) {
     location.hash = '#/'
   })
 
-  let products, soldoutIds, sizeChartUrl
+  let products, soldoutIds
+  const sizeChartPromise = findSizeChart(brandId)
+
   try {
-    const [productsRes, soldoutRes, sizeChart] = await Promise.all([
+    const [productsRes, soldoutRes] = await Promise.all([
       fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`),
       fetch('data/soldout.json'),
-      findSizeChart(brandId),
     ])
-    sizeChartUrl = sizeChart
     if (!productsRes.ok) throw new Error(`HTTP ${productsRes.status}`)
     products = await productsRes.json()
     soldoutIds = new Set((soldoutRes.ok ? await soldoutRes.json() : []).map(String))
@@ -151,8 +151,6 @@ export async function renderBrand(app, brandId) {
       `<div class="state-error" style="grid-column:1/-1">데이터를 불러오지 못했습니다.</div>`
     return
   }
-
-  // Excel 원래 순서 유지
 
   const grid = document.getElementById('product-grid')
   const loadMoreBtn = document.getElementById('load-more')
@@ -174,10 +172,11 @@ export async function renderBrand(app, brandId) {
   }
 
   grid.innerHTML = ''
-  if (sizeChartUrl) {
-    grid.insertAdjacentHTML('beforeend', sizeChartCardHTML(sizeChartUrl))
-  }
   renderMore()
+
+  sizeChartPromise.then(urls => {
+    if (urls) grid.insertAdjacentHTML('afterbegin', sizeChartCardHTML(urls))
+  })
 
   loadMoreBtn.addEventListener('click', renderMore)
 
