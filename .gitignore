@@ -3,6 +3,10 @@ dist/
 .DS_Store
 public/data/**/*.migrated
 
+# 엑셀 원본 및 변환 스크립트 (로컬 전용)
+data/
+convert_excel.py
+
 # 크롤러
 crawler/.env
 crawler/output/

@@ -74,15 +74,15 @@ async function findSizeChart(brandId) {
 }
 
 function sizeChipsHTML(product) {
-  const opts = (product.size_options || [])
+  const opts = (product.sizes || [])
     .map(o => o.name)
     .filter(n => n && !/^-+$/.test(n))
 
   if (opts.length && opts.length <= 7) {
     return `<div class="product-card__sizes">${opts.map(s => `<span class="product-card__size-chip">${s}</span>`).join('')}</div>`
   }
-  if (product.size_range) {
-    return `<div class="product-card__sizes"><span class="product-card__size-chip">${product.size_range}</span></div>`
+  if (opts.length > 7) {
+    return `<div class="product-card__sizes"><span class="product-card__size-chip">${opts[0]}~${opts[opts.length - 1]}</span></div>`
   }
   return ''
 }
@@ -109,8 +109,8 @@ function productCardHTML(product, brandId, soldoutIds) {
         <div class="product-card__name">${name}</div>
         ${sizeChipsHTML(product)}
         <div class="product-card__bottom">
-          <span class="product-card__price">${formatPrice(product.price_original)}</span>
-          ${product.colors ? `<span class="product-card__color">${product.colors}</span>` : ''}
+          <span class="product-card__price">${formatPrice(product.price_sale)}</span>
+          ${product.colors?.length ? `<span class="product-card__color">${product.colors.map(c => c.name).join('/')}</span>` : ''}
         </div>
       </div>
     </div>`
@@ -152,7 +152,7 @@ export async function renderBrand(app, brandId) {
     return
   }
 
-  products = products.sort((a, b) => (b.mfg_date || '').localeCompare(a.mfg_date || ''))
+  // Excel 원래 순서 유지
 
   const grid = document.getElementById('product-grid')
   const loadMoreBtn = document.getElementById('load-more')

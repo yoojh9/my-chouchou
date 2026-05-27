@@ -1,149 +1,113 @@
 [
   {
-    "id": "1433441",
+    "id": "26051092",
     "brand": "호두아이",
     "name": "호두아이.키즈딸기상하복",
-    "colors": "원컬러",
-    "size_range": "5호~9호",
-    "product_url": "https://i54.co.kr/product/%ED%98%B8%EB%91%90%EC%95%84%EC%9D%B4%ED%82%A4%EC%A6%88%EB%94%B8%EA%B8%B0%EC%83%81%ED%95%98%EB%B3%B5%EC%9B%90%EC%BB%AC%EB%9F%AC5%ED%98%B89%ED%98%B8/1433441/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-021.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433441.jpg",
-    "price_original": 24000,
-    "price_sale": 16000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778436892/1_4_6601778436892.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778436892/1_4_6601778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/2_4_5301778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/3_4_9051778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/4_4_6101778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/5_4_4231778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/6_4_7041778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/7_4_3961778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/8_4_3321778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/9_4_1991778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778436892/10_4_7441778436892.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "5",
-        "add_price": 0,
-        "colors": []
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-021.jpg",
-        "local": "output/images/20260524/detail/1433441_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433441_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433441_03.jpg"
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433440",
-    "brand": "호두아이",
-    "name": "호두아이.키즈고래상하복",
-    "colors": "원컬러",
-    "size_range": "5호~9호",
-    "product_url": "https://i54.co.kr/product/%ED%98%B8%EB%91%90%EC%95%84%EC%9D%B4%ED%82%A4%EC%A6%88%EA%B3%A0%EB%9E%98%EC%83%81%ED%95%98%EB%B3%B5%EC%9B%90%EC%BB%AC%EB%9F%AC5%ED%98%B89%ED%98%B8/1433440/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-020.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433440.jpg",
-    "price_original": 24000,
-    "price_sale": 16000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
-      {
-        "name": "5",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
-      },
-      {
-        "name": "7",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
-      },
-      {
-        "name": "9",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-020.jpg",
-        "local": "output/images/20260524/detail/1433440_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433440_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433440_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1433439",
+    "id": "26051502",
     "brand": "호두아이",
     "name": "호두아이.키즈공룡상하복",
-    "colors": "원컬러",
-    "size_range": "5호~9호",
-    "product_url": "https://i54.co.kr/product/%ED%98%B8%EB%91%90%EC%95%84%EC%9D%B4%ED%82%A4%EC%A6%88%EA%B3%B5%EB%A3%A1%EC%83%81%ED%95%98%EB%B3%B5%EC%9B%90%EC%BB%AC%EB%9F%AC5%ED%98%B89%ED%98%B8/1433439/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-019.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433439.jpg",
-    "price_original": 24000,
-    "price_sale": 16000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778436892/1_3_2831778436892.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1778436892/1_3_2831778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/2_3_5731778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/3_3_8431778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/4_3_4621778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/5_3_4341778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/6_3_4561778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/7_3_3641778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/8_3_5421778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/9_3_5161778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778436892/10_3_3631778436892.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "5",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "원컬러"
-        ]
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052068",
+    "brand": "호두아이",
+    "name": "호두아이.키즈고래상하복",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778436892/1_2_8781778436892.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1778436892/1_2_8781778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778436892/2_2_8681778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778436892/3_2_6161778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778436892/4_2_1381778436892.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778436892/5_2_1011778436892.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-019.jpg",
-        "local": "output/images/20260524/detail/1433439_01.jpg"
+        "name": "5",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433439_02.jpg"
+        "name": "7",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433439_03.jpg"
+        "name": "9",
+        "add_price": 0
       }
     ]
   }

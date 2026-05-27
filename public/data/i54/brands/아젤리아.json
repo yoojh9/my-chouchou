@@ -1,3630 +1,3323 @@
 [
   {
-    "id": "1432238",
-    "brand": "아젤리아",
-    "name": "아젤리아.플리츠리본삔",
-    "colors": "오렌지/노랑/핑크/아이보리",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%8C%EB%A6%AC%EC%B8%A0%EB%A6%AC%EB%B3%B8%EC%82%944%EC%83%89%EC%83%81free/1432238/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-214.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432238.jpg",
-    "price_original": 8000,
-    "price_sale": 6000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-214.jpg",
-        "local": "output/images/20260524/detail/1432238_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432238_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432238_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432237",
-    "brand": "아젤리아",
-    "name": "아젤리아.베스트헤어밴드",
-    "colors": "블루/블랙/크림/노랑",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C4%EC%83%89%EC%83%81free/1432237/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-213.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432237.jpg",
-    "price_original": 9600,
-    "price_sale": 7000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙",
-          "크림",
-          "노랑"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-213.jpg",
-        "local": "output/images/20260524/detail/1432237_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432237_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432237_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432236",
-    "brand": "아젤리아",
-    "name": "아젤리아.장미헤어밴드",
-    "colors": "아이보리/핑크",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%9E%A5%EB%AF%B8%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%ED%95%91%ED%81%ACfree/1432236/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-212.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432236.jpg",
-    "price_original": 11200,
-    "price_sale": 8000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-212.jpg",
-        "local": "output/images/20260524/detail/1432236_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432236_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432236_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432235",
-    "brand": "아젤리아",
-    "name": "아젤리아.비비드헤어밴드",
-    "colors": "오렌지/그린",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B9%84%EB%B9%84%EB%93%9C%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C%EC%98%A4%EB%A0%8C%EC%A7%80%EA%B7%B8%EB%A6%B0free/1432235/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-211.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432235.jpg",
-    "price_original": 9600,
-    "price_sale": 7000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "그린"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-211.jpg",
-        "local": "output/images/20260524/detail/1432235_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432235_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432235_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432234",
-    "brand": "아젤리아",
-    "name": "아젤리아.블루체크헤어밴드",
-    "colors": "블루/블랙",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B8%94%EB%A3%A8%EC%B2%B4%ED%81%AC%ED%97%A4%EC%96%B4%EB%B0%B4%EB%93%9C%EB%B8%94%EB%A3%A8%EB%B8%94%EB%9E%99free/1432234/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-210.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432234.jpg",
-    "price_original": 9600,
-    "price_sale": 7000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-210.jpg",
-        "local": "output/images/20260524/detail/1432234_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432234_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432234_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432233",
-    "brand": "아젤리아",
-    "name": "아젤리아.코지바람막이",
-    "colors": "아이보리/베이지",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%BD%94%EC%A7%80%EB%B0%94%EB%9E%8C%EB%A7%89%EC%9D%B4%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B2%A0%EC%9D%B4%EC%A7%806m18m/1432233/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-209.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432233.jpg",
-    "price_original": 36800,
-    "price_sale": 24000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-209.jpg",
-        "local": "output/images/20260524/detail/1432233_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432233_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432233_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432232",
-    "brand": "아젤리아",
-    "name": "아젤리아.바이브썸머셋업",
-    "colors": "블루/핑크/민트/크림/블랙",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%8D%B8%EB%A8%B8%EC%85%8B%EC%97%855%EC%83%89%EC%83%816m18m/1432232/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-208.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432232.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "민트",
-          "크림",
-          "블랙"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "민트",
-          "크림",
-          "블랙"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "민트",
-          "크림",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-208.jpg",
-        "local": "output/images/20260524/detail/1432232_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432232_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432232_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432231",
-    "brand": "아젤리아",
-    "name": "아젤리아.단짝플리츠셋업",
-    "colors": "블루/크림/블랙",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%8B%A8%EC%A7%9D%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%85%8B%EC%97%85%EB%B8%94%EB%A3%A8%ED%81%AC%EB%A6%BC%EB%B8%94%EB%9E%996m18m/1432231/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-207.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432231.jpg",
-    "price_original": 32000,
-    "price_sale": 21000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "블랙"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "블랙"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-207.jpg",
-        "local": "output/images/20260524/detail/1432231_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432231_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432231_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432230",
-    "brand": "아젤리아",
-    "name": "아젤리아.후르츠플리츠슈트",
-    "colors": "블루/핑크/멀티꽃/도트",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%9B%84%EB%A5%B4%EC%B8%A0%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%8A%88%ED%8A%B84%EC%83%89%EC%83%816m18m/1432230/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-206.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432230.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "멀티꽃",
-          "도트"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "멀티꽃",
-          "도트"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "멀티꽃",
-          "도트"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-206.jpg",
-        "local": "output/images/20260524/detail/1432230_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432230_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432230_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432229",
-    "brand": "아젤리아",
-    "name": "아젤리아.시어서커블루머",
-    "colors": "체크그린/체크레드/체크블랙",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A4%EB%B8%94%EB%A3%A8%EB%A8%B8%EC%B2%B4%ED%81%AC%EA%B7%B8%EB%A6%B0%EC%B2%B4%ED%81%AC%EB%A0%88%EB%93%9C%EC%B2%B4%ED%81%AC%EB%B8%94%EB%9E%996m18m/1432229/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-205.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432229.jpg",
-    "price_original": 16000,
-    "price_sale": 11000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "체크그린",
-          "체크레드",
-          "체크블랙"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "체크그린",
-          "체크레드",
-          "체크블랙"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "체크그린",
-          "체크레드",
-          "체크블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-205.jpg",
-        "local": "output/images/20260524/detail/1432229_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432229_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432229_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432228",
-    "brand": "아젤리아",
-    "name": "아젤리아.세라단작나시",
-    "colors": "스트라이프/체크",
-    "size_range": "6M~18M",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%84%B8%EB%9D%BC%EB%8B%A8%EC%9E%91%EB%82%98%EC%8B%9C%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%94%84%EC%B2%B4%ED%81%AC6m18m/1432228/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-204.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432228.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "스트라이프",
-          "체크"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "스트라이프",
-          "체크"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "스트라이프",
-          "체크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-204.jpg",
-        "local": "output/images/20260524/detail/1432228_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432228_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432228_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432227",
-    "brand": "아젤리아",
-    "name": "아젤리아.바이윈드브레이커",
-    "colors": "아이보리/베이지",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B0%94%EC%9D%B4%EC%9C%88%EB%93%9C%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B2%A0%EC%9D%B4%EC%A7%80xsxljs/1432227/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-203.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432227.jpg",
-    "price_original": 46400,
-    "price_sale": 30000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "XS",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-203.jpg",
-        "local": "output/images/20260524/detail/1432227_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432227_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432227_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432226",
-    "brand": "아젤리아",
-    "name": "아젤리아.핫썸머시원가디건",
-    "colors": "아이보리/블랙/레드",
-    "size_range": "12M~18M,S~XL",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%95%AB%EC%8D%B8%EB%A8%B8%EC%8B%9C%EC%9B%90%EA%B0%80%EB%94%94%EA%B1%B4%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99%EB%A0%88%EB%93%9C12m18msxl/1432226/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-202.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432226.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-202.jpg",
-        "local": "output/images/20260524/detail/1432226_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432226_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432226_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432225",
-    "brand": "아젤리아",
-    "name": "아젤리아.하얀자수볼레로",
-    "colors": "아이보리",
-    "size_range": "S~L",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%95%98%EC%96%80%EC%9E%90%EC%88%98%EB%B3%BC%EB%A0%88%EB%A1%9C%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%ACsl/1432225/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-201.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432225.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-201.jpg",
-        "local": "output/images/20260524/detail/1432225_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432225_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432225_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432224",
+    "id": "26050069",
     "brand": "아젤리아",
     "name": "아젤리아.베스트플리츠셋업",
-    "colors": "블루/크림/옐로우/블랙",
-    "size_range": "6M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%85%8B%EC%97%854%EC%83%89%EC%83%816m18msxljs/1432224/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-200.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432224.jpg",
-    "price_original": 38400,
-    "price_sale": 25000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1778527919/1_9_3471778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/9C1778527919/1_9_3471778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/2_9_8091778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/3_9_9151778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/4_9_4491778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/5_9_8521778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/6_9_831778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/7_9_8151778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/8_9_6021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/9_9_6161778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/10_9_6831778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/11_9_5261778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/12_9_101778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527919/13_9_7281778527919.jpg"
+    ],
+    "colors": [
       {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "name": "노랑",
+        "add_price": 0
       },
       {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "name": "블루",
+        "add_price": 0
       },
       {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "add_price": 0
       },
       {
         "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "add_price": 0
       },
       {
         "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "add_price": 0
       },
       {
         "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "블루",
-          "크림",
-          "옐로우",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-200.jpg",
-        "local": "output/images/20260524/detail/1432224_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432224_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432224_03.jpg"
+        "add_price": 1000
       }
     ]
   },
   {
-    "id": "1432223",
-    "brand": "아젤리아",
-    "name": "아젤리아.트윙클엔젤셋업",
-    "colors": "블루/크림/핑크/블랙",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%8A%B8%EC%9C%99%ED%81%B4%EC%97%94%EC%A0%A4%EC%85%8B%EC%97%854%EC%83%89%EC%83%81xsxljs/1432223/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-199.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432223.jpg",
-    "price_original": 46400,
-    "price_sale": 30000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": []
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "크림",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "블루",
-          "크림",
-          "핑크",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-199.jpg",
-        "local": "output/images/20260524/detail/1432223_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432223_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432223_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432222",
-    "brand": "아젤리아",
-    "name": "아젤리아.텐셀언발셋업",
-    "colors": "연청/진청",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%85%90%EC%85%80%EC%96%B8%EB%B0%9C%EC%85%8B%EC%97%85%EC%97%B0%EC%B2%AD%EC%A7%84%EC%B2%ADxsxljs/1432222/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-198.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432222.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "XS",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 0,
-        "colors": [
-          "연청",
-          "진청"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-198.jpg",
-        "local": "output/images/20260524/detail/1432222_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432222_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432222_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432221",
-    "brand": "아젤리아",
-    "name": "아젤리아.옥수수캉캉셋업",
-    "colors": "노랑/핑크/아이보리",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%98%A5%EC%88%98%EC%88%98%EC%BA%89%EC%BA%89%EC%85%8B%EC%97%85%EB%85%B8%EB%9E%91%ED%95%91%ED%81%AC%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%ACsxljs/1432221/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-197.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432221.jpg",
-    "price_original": 38400,
-    "price_sale": 25000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "노랑",
-          "핑크",
-          "아이보리"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-197.jpg",
-        "local": "output/images/20260524/detail/1432221_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432221_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432221_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432220",
-    "brand": "아젤리아",
-    "name": "아젤리아.제인와플셋업",
-    "colors": "베이지/민트",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%A0%9C%EC%9D%B8%EC%99%80%ED%94%8C%EC%85%8B%EC%97%85%EB%B2%A0%EC%9D%B4%EC%A7%80%EB%AF%BC%ED%8A%B8sxljs/1432220/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-196.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432220.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "베이지",
-          "민트"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "베이지",
-          "민트"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "베이지",
-          "민트"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "베이지",
-          "민트"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "베이지",
-          "민트"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-196.jpg",
-        "local": "output/images/20260524/detail/1432220_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432220_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432220_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432219",
-    "brand": "아젤리아",
-    "name": "아젤리아.블루체크원피스",
-    "colors": "블루/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B8%94%EB%A3%A8%EC%B2%B4%ED%81%AC%EC%9B%90%ED%94%BC%EC%8A%A4%EB%B8%94%EB%A3%A8%EB%B8%94%EB%9E%99sxljs/1432219/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-195.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432219.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "블루",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-195.jpg",
-        "local": "output/images/20260524/detail/1432219_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432219_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432219_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432218",
-    "brand": "아젤리아",
-    "name": "아젤리아.비비드플리츠원피스",
-    "colors": "오렌지/옐로우/그린",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B9%84%EB%B9%84%EB%93%9C%ED%94%8C%EB%A6%AC%EC%B8%A0%EC%9B%90%ED%94%BC%EC%8A%A4%EC%98%A4%EB%A0%8C%EC%A7%80%EC%98%90%EB%A1%9C%EC%9A%B0%EA%B7%B8%EB%A6%B0sxljs/1432218/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-194.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432218.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "옐로우",
-          "그린"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "옐로우",
-          "그린"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "옐로우",
-          "그린"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "옐로우",
-          "그린"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 0,
-        "colors": [
-          "오렌지",
-          "옐로우",
-          "그린"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-194.jpg",
-        "local": "output/images/20260524/detail/1432218_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432218_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432218_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432217",
-    "brand": "아젤리아",
-    "name": "아젤리아.플라워스모크원피스",
-    "colors": "블루/핑크",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%8A%A4%EB%AA%A8%ED%81%AC%EC%9B%90%ED%94%BC%EC%8A%A4%EB%B8%94%EB%A3%A8%ED%95%91%ED%81%ACsxljs/1432217/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-193.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432217.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": []
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-193.jpg",
-        "local": "output/images/20260524/detail/1432217_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432217_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432217_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432216",
-    "brand": "아젤리아",
-    "name": "아젤리아.찰랑찰랑스커트",
-    "colors": "크림/브라운",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%B0%B0%EB%9E%91%EC%B0%B0%EB%9E%91%EC%8A%A4%EC%BB%A4%ED%8A%B8%ED%81%AC%EB%A6%BC%EB%B8%8C%EB%9D%BC%EC%9A%B4sxljs/1432216/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-192.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432216.jpg",
-    "price_original": 35200,
-    "price_sale": 23000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "브라운"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "브라운"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "브라운"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "브라운"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "크림",
-          "브라운"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-192.jpg",
-        "local": "output/images/20260524/detail/1432216_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432216_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432216_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432215",
-    "brand": "아젤리아",
-    "name": "아젤리아.엔비캉캉스커트",
-    "colors": "아이보리/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%97%94%EB%B9%84%EC%BA%89%EC%BA%89%EC%8A%A4%EC%BB%A4%ED%8A%B8%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99sxljs/1432215/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-191.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432215.jpg",
-    "price_original": 36800,
-    "price_sale": 24000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-191.jpg",
-        "local": "output/images/20260524/detail/1432215_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432215_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432215_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432214",
-    "brand": "아젤리아",
-    "name": "아젤리아.로라캉캉스커트",
-    "colors": "아이보리/체크",
-    "size_range": "S~L",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A1%9C%EB%9D%BC%EC%BA%89%EC%BA%89%EC%8A%A4%EC%BB%A4%ED%8A%B8%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EC%B2%B4%ED%81%ACsl/1432214/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-190.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432214.jpg",
-    "price_original": 38400,
-    "price_sale": 25000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "체크"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "체크"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "체크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-190.jpg",
-        "local": "output/images/20260524/detail/1432214_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432214_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432214_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432213",
-    "brand": "아젤리아",
-    "name": "아젤리아.린넨프릴7부팬츠",
-    "colors": "연베이지/브라운/크림꽃/초록꽃",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A6%B0%EB%84%A8%ED%94%84%EB%A6%B47%EB%B6%80%ED%8C%AC%EC%B8%A04%EC%83%89%EC%83%81sxljs/1432213/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-189.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432213.jpg",
-    "price_original": 30400,
-    "price_sale": 20000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "연베이지",
-          "브라운",
-          "크림꽃",
-          "초록꽃"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "연베이지",
-          "브라운",
-          "크림꽃",
-          "초록꽃"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "연베이지",
-          "브라운",
-          "크림꽃",
-          "초록꽃"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "연베이지",
-          "브라운",
-          "크림꽃",
-          "초록꽃"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "연베이지",
-          "브라운",
-          "크림꽃",
-          "초록꽃"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-189.jpg",
-        "local": "output/images/20260524/detail/1432213_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432213_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432213_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432212",
-    "brand": "아젤리아",
-    "name": "아젤리아.고실이프릴팬츠",
-    "colors": "핑크꽃/블랙꽃/민트",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EA%B3%A0%EC%8B%A4%EC%9D%B4%ED%94%84%EB%A6%B4%ED%8C%AC%EC%B8%A0%ED%95%91%ED%81%AC%EA%BD%83%EB%B8%94%EB%9E%99%EA%BD%83%EB%AF%BC%ED%8A%B8xsxljs/1432212/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-188.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432212.jpg",
-    "price_original": 24000,
-    "price_sale": 16000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "XS",
-        "add_price": 0,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "핑크꽃",
-          "블랙꽃",
-          "민트"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-188.jpg",
-        "local": "output/images/20260524/detail/1432212_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432212_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432212_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432211",
-    "brand": "아젤리아",
-    "name": "아젤리아.마린시어서커7부팬츠",
-    "colors": "아이보리/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A7%88%EB%A6%B0%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A47%EB%B6%80%ED%8C%AC%EC%B8%A0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99sxljs/1432211/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-187.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432211.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-187.jpg",
-        "local": "output/images/20260524/detail/1432211_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432211_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432211_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432210",
-    "brand": "아젤리아",
-    "name": "아젤리아.버터플라워팬츠",
-    "colors": "크림/핑크/블루청",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B2%84%ED%84%B0%ED%94%8C%EB%9D%BC%EC%9B%8C%ED%8C%AC%EC%B8%A0%ED%81%AC%EB%A6%BC%ED%95%91%ED%81%AC%EB%B8%94%EB%A3%A8%EC%B2%ADsxljs/1432210/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-186.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432210.jpg",
-    "price_original": 30400,
-    "price_sale": 20000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "핑크",
-          "블루청"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "핑크",
-          "블루청"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "핑크",
-          "블루청"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "크림",
-          "핑크",
-          "블루청"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "크림",
-          "핑크",
-          "블루청"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-186.jpg",
-        "local": "output/images/20260524/detail/1432210_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432210_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432210_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432209",
-    "brand": "아젤리아",
-    "name": "아젤리아.랄라하트팬츠",
-    "colors": "아이보리/핑크/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%9E%84%EB%9D%BC%ED%95%98%ED%8A%B8%ED%8C%AC%EC%B8%A0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%ED%95%91%ED%81%AC%EB%B8%94%EB%9E%99sxljs/1432209/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-185.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432209.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "핑크",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-185.jpg",
-        "local": "output/images/20260524/detail/1432209_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432209_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432209_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432208",
-    "brand": "아젤리아",
-    "name": "아젤리아.하이브버블팬츠",
-    "colors": "아이보리/블랙/연청",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%95%98%EC%9D%B4%EB%B8%8C%EB%B2%84%EB%B8%94%ED%8C%AC%EC%B8%A0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99%EC%97%B0%EC%B2%ADsxljs/1432208/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-184.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432208.jpg",
-    "price_original": 35200,
-    "price_sale": 23000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "연청"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "연청"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "연청"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "연청"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "연청"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-184.jpg",
-        "local": "output/images/20260524/detail/1432208_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432208_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432208_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432207",
-    "brand": "아젤리아",
-    "name": "아젤리아.프릴바이커레깅스",
-    "colors": "레드도트/그레이도트/블랙도트/크림/블랙/아이보리ST/블랙ST",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%84%EB%A6%B4%EB%B0%94%EC%9D%B4%EC%BB%A4%EB%A0%88%EA%B9%85%EC%8A%A47%EC%83%89%EC%83%8112m18msxljs/1432207/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-183.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432207.jpg",
-    "price_original": 11200,
-    "price_sale": 8000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": []
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-183.jpg",
-        "local": "output/images/20260524/detail/1432207_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432207_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432207_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432206",
-    "brand": "아젤리아",
-    "name": "아젤리아.바이커레깅스",
-    "colors": "레드도트/그레이도트/블랙도트/크림/블랙/아이보리ST/블랙ST",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B0%94%EC%9D%B4%EC%BB%A4%EB%A0%88%EA%B9%85%EC%8A%A47%EC%83%89%EC%83%8112m18msxljs/1432206/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-182.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432206.jpg",
-    "price_original": 9600,
-    "price_sale": 7000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 0,
-        "colors": [
-          "레드도트",
-          "그레이도트",
-          "블랙도트",
-          "크림",
-          "블랙",
-          "아이보리ST",
-          "블랙ST"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-182.jpg",
-        "local": "output/images/20260524/detail/1432206_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432206_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432206_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432205",
-    "brand": "아젤리아",
-    "name": "아젤리아.메르시스모크나시",
-    "colors": "아이보리/브라운",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A9%94%EB%A5%B4%EC%8B%9C%EC%8A%A4%EB%AA%A8%ED%81%AC%EB%82%98%EC%8B%9C%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%8C%EB%9D%BC%EC%9A%B4sxljs/1432205/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-181.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432205.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "브라운"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "브라운"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "브라운"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "브라운"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "브라운"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-181.jpg",
-        "local": "output/images/20260524/detail/1432205_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432205_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432205_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432204",
-    "brand": "아젤리아",
-    "name": "아젤리아.이지레이스블랑",
-    "colors": "아이보리/블랙",
-    "size_range": "6M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%9D%B4%EC%A7%80%EB%A0%88%EC%9D%B4%EC%8A%A4%EB%B8%94%EB%9E%91%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%996m18msxljs/1432204/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-180.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432204.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "6M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-180.jpg",
-        "local": "output/images/20260524/detail/1432204_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432204_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432204_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432203",
-    "brand": "아젤리아",
-    "name": "아젤리아.씨엘캉캉블라우스",
-    "colors": "아이보리/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%94%A8%EC%97%98%EC%BA%89%EC%BA%89%EB%B8%94%EB%9D%BC%EC%9A%B0%EC%8A%A4%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99sxljs/1432203/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-179.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432203.jpg",
-    "price_original": 41600,
-    "price_sale": 27000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": []
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-179.jpg",
-        "local": "output/images/20260524/detail/1432203_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432203_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432203_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432202",
+    "id": "26050070",
     "brand": "아젤리아",
     "name": "아젤리아.끌리오뷔스띠에",
-    "colors": "블랙/플라워",
-    "size_range": "S~L",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%81%8C%EB%A6%AC%EC%98%A4%EB%B7%94%EC%8A%A4%EB%9D%A0%EC%97%90%EB%B8%94%EB%9E%99%ED%94%8C%EB%9D%BC%EC%9B%8Csl/1432202/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-178.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432202.jpg",
-    "price_original": 49600,
-    "price_sale": 32000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1778527894/1_9_4171778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/9C1778527894/1_9_4171778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/2_9_8611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/3_9_4311778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/4_9_8431778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/5_9_1441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/6_9_5471778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/7_9_4661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/8_9_4151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/9_9_3241778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/10_9_8861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/11_9_5821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/12_9_9431778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/13_9_2921778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/14_9_941778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/15_9_9901778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/16_9_9201778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778527894/17_9_8941778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "블랙",
-          "플라워"
-        ]
+        "name": "블랙",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블랙",
-          "플라워"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블랙",
-          "플라워"
-        ]
+        "name": "플라워",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-178.jpg",
-        "local": "output/images/20260524/detail/1432202_01.jpg"
+        "name": "S(2~4세)",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432202_02.jpg"
+        "name": "M(4~6세)",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432202_03.jpg"
+        "name": "L(6~8세)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1432201",
+    "id": "26050221",
     "brand": "아젤리아",
-    "name": "아젤리아.러브스퀘어티",
-    "colors": "아이보리/민트/그레이/올리브",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%9F%AC%EB%B8%8C%EC%8A%A4%ED%80%98%EC%96%B4%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432201/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-177.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432201.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.베베후르츠플리츠슈트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1778527919/1_8_1021778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/8C1778527919/1_8_1021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/2_8_421778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/3_8_1681778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/4_8_3651778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/5_8_7501778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/6_8_5321778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/7_8_8681778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/8_8_9231778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/9_8_3941778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/10_8_451778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/11_8_1711778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/12_8_3421778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/13_8_6891778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/14_8_9941778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/15_8_9801778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/16_8_6561778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/17_8_1831778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/18_8_1211778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/19_8_6061778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/20_8_741778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/21_8_6571778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/22_8_6461778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/23_8_6681778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/24_8_9641778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/25_8_8431778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/26_8_3061778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/27_8_5901778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527919/28_8_1001778527919.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "민트",
-          "그레이",
-          "올리브"
-        ]
+        "name": "블루",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "민트",
-          "그레이",
-          "올리브"
-        ]
+        "name": "핑크",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "민트",
-          "그레이",
-          "올리브"
-        ]
+        "name": "멀티꽃",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "민트",
-          "그레이",
-          "올리브"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "민트",
-          "그레이",
-          "올리브"
-        ]
+        "name": "도트",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-177.jpg",
-        "local": "output/images/20260524/detail/1432201_01.jpg"
+        "name": "6m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432201_02.jpg"
+        "name": "12m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432201_03.jpg"
+        "name": "18m",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1432200",
+    "id": "26050222",
     "brand": "아젤리아",
-    "name": "아젤리아.레드아일렛핀콧티",
-    "colors": "아이보리/레드/그레이/민트",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A0%88%EB%93%9C%EC%95%84%EC%9D%BC%EB%A0%9B%ED%95%80%EC%BD%A7%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432200/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-176.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432200.jpg",
-    "price_original": 22400,
-    "price_sale": 15000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.고실이프릴팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1778527894/1_8_641778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/8C1778527894/1_8_641778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/2_8_1771778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/3_8_4831778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/4_8_9221778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/5_8_4041778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/6_8_2751778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/7_8_9011778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/8_8_8191778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778527894/9_8_3371778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "레드",
-          "그레이",
-          "민트"
-        ]
+        "name": "핑크꽃",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "레드",
-          "그레이",
-          "민트"
-        ]
+        "name": "블랙꽃",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "레드",
-          "그레이",
-          "민트"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "레드",
-          "그레이",
-          "민트"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "레드",
-          "그레이",
-          "민트"
-        ]
+        "name": "민트",
+        "add_price": 0
       }
     ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-176.jpg",
-        "local": "output/images/20260524/detail/1432200_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432200_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432200_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432199",
-    "brand": "아젤리아",
-    "name": "아젤리아.아이릿프릴니트",
-    "colors": "핑크/아이보리/올리브",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%95%84%EC%9D%B4%EB%A6%BF%ED%94%84%EB%A6%B4%EB%8B%88%ED%8A%B8%ED%95%91%ED%81%AC%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EC%98%AC%EB%A6%AC%EB%B8%8Cxsxljs/1432199/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-175.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432199.jpg",
-    "price_original": 27200,
-    "price_sale": 18000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "sizes": [
       {
         "name": "XS",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
+        "add_price": 0
       },
       {
         "name": "M",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
+        "add_price": 0
       },
       {
         "name": "L",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
+        "add_price": 0
       },
       {
         "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "핑크",
-          "아이보리",
-          "올리브"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-175.jpg",
-        "local": "output/images/20260524/detail/1432199_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432199_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432199_03.jpg"
+        "add_price": 1000
       }
     ]
   },
   {
-    "id": "1432198",
+    "id": "26050387",
     "brand": "아젤리아",
-    "name": "아젤리아.로즈아일렛티",
-    "colors": "핑크/블루",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A1%9C%EC%A6%88%EC%95%84%EC%9D%BC%EB%A0%9B%ED%8B%B0%ED%95%91%ED%81%AC%EB%B8%94%EB%A3%A8sxljs/1432198/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-174.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432198.jpg",
-    "price_original": 22400,
-    "price_sale": 15000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.베베코지바람막이",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1778527919/1_7_8611778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/7C1778527919/1_7_8611778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/2_7_1771778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/3_7_2471778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/4_7_9481778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/5_7_6431778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/6_7_8231778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/7_7_6381778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/8_7_9671778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/9_7_1891778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/10_7_1401778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/11_7_9501778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/12_7_8911778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/13_7_5351778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/14_7_391778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/15_7_5931778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/16_7_3071778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/17_7_1971778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/18_7_6381778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/19_7_6251778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/20_7_2571778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/21_7_401778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/22_7_2191778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527919/23_7_8141778527919.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": []
+        "name": "베이지",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "블루"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "블루"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "블루"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "핑크",
-          "블루"
-        ]
+        "name": "아이",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-174.jpg",
-        "local": "output/images/20260524/detail/1432198_01.jpg"
+        "name": "6m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432198_02.jpg"
+        "name": "12m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432198_03.jpg"
+        "name": "18m",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1432197",
+    "id": "26050388",
     "brand": "아젤리아",
-    "name": "아젤리아.리본프릴티",
-    "colors": "아이보리/핑크",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%A6%AC%EB%B3%B8%ED%94%84%EB%A6%B4%ED%8B%B0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%ED%95%91%ED%81%ACsxljs/1432197/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-173.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432197.jpg",
-    "price_original": 22400,
-    "price_sale": 15000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.ST새콤달콤랍바티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1778527894/1_7_4051778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/7C1778527894/1_7_4051778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/2_7_5121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/3_7_471778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/4_7_6281778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/5_7_7991778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/6_7_4161778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/7_7_1441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/8_7_1051778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/9_7_2061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778527894/10_7_1851778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
       {
         "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "핑크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-173.jpg",
-        "local": "output/images/20260524/detail/1432197_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432197_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432197_03.jpg"
+        "add_price": 3000
       }
     ]
   },
   {
-    "id": "1432196",
+    "id": "26050578",
     "brand": "아젤리아",
-    "name": "아젤리아.비비안날개티",
-    "colors": "아이보리/베이지/핑크",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B9%84%EB%B9%84%EC%95%88%EB%82%A0%EA%B0%9C%ED%8B%B0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B2%A0%EC%9D%B4%EC%A7%80%ED%95%91%ED%81%ACsxljs/1432196/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-172.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432196.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.베베시어서커블루머",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1778527919/1_6_3171778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/6C1778527919/1_6_3171778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/2_6_601778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/3_6_4021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/4_6_5941778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/5_6_5561778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/6_6_611778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/7_6_8231778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/8_6_3531778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/9_6_2631778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/10_6_7081778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/11_6_3641778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/12_6_5021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527919/13_6_1731778527919.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지",
-          "핑크"
-        ]
+        "name": "체크그란",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지",
-          "핑크"
-        ]
+        "name": "체크레드",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지",
-          "핑크"
-        ]
+        "name": "체크블랙",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지",
-          "핑크"
-        ]
+        "name": "블랙",
+        "add_price": 0
       },
       {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "베이지",
-          "핑크"
-        ]
+        "name": "아이",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-172.jpg",
-        "local": "output/images/20260524/detail/1432196_01.jpg"
+        "name": "6m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432196_02.jpg"
+        "name": "12m",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432196_03.jpg"
+        "name": "18m",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1432195",
+    "id": "26050579",
     "brand": "아젤리아",
-    "name": "아젤리아.지그재그프릴티",
-    "colors": "아이보리/노랑/핑크/블랙",
-    "size_range": "S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8%ED%94%84%EB%A6%B4%ED%8B%B04%EC%83%89%EC%83%81sxljs/1432195/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-171.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432195.jpg",
-    "price_original": 20800,
-    "price_sale": 14000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.acc)플리츠리본핀",
+    "price_sale": 8000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1778527894/1_6_7761778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/6C1778527894/1_6_7761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527894/2_6_4201778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527894/3_6_1671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778527894/4_6_6191778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "노랑",
-          "핑크",
-          "블랙"
-        ]
+        "name": "핑크",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "노랑",
-          "핑크",
-          "블랙"
-        ]
+        "name": "아이",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "노랑",
-          "핑크",
-          "블랙"
-        ]
+        "name": "레드",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "노랑",
-          "핑크",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "노랑",
-          "핑크",
-          "블랙"
-        ]
+        "name": "옐로우",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-171.jpg",
-        "local": "output/images/20260524/detail/1432195_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432195_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432195_03.jpg"
+        "name": "FREE",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1432194",
+    "id": "26050797",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베세라단작나시",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778527919/1_5_2391778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1778527919/1_5_2391778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/2_5_4651778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/3_5_4961778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/4_5_6741778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/5_5_741778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/6_5_861778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/7_5_4661778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/8_5_5751778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/9_5_6901778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/10_5_3231778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/11_5_3651778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/12_5_5021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/13_5_9821778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/14_5_7021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/15_5_3941778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/16_5_891778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/17_5_7021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/18_5_7711778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/19_5_1581778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527919/20_5_451778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26050798",
+    "brand": "아젤리아",
+    "name": "아젤리아.acc)장미헤어밴드",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778527894/1_5_1151778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1778527894/1_5_1151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527894/2_5_6221778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778527894/3_5_2701778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26050980",
+    "brand": "아젤리아",
+    "name": "아젤리아.하이브버블팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/50C1778527894/1_50_4821778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/50C1778527894/1_50_4821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/2_50_3031778527894.png",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/3_50_3381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/4_50_5221778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/5_50_7841778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/6_50_821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/7_50_5191778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/8_50_8751778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/9_50_6311778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/10_50_7951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/50C1778527894/11_50_8051778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "연청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051084",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베바이브썸머셋업",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778527919/1_4_7891778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778527919/1_4_7891778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/2_4_8121778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/3_4_6581778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/4_4_3361778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/5_4_8921778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/6_4_1061778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/7_4_01778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/8_4_3761778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/9_4_691778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/10_4_3421778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/11_4_5461778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/12_4_9011778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/13_4_3571778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/14_4_2761778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/15_4_4961778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/16_4_6581778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/17_4_2281778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/18_4_7971778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/19_4_2021778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/20_4_8851778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527919/21_4_101778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051085",
+    "brand": "아젤리아",
+    "name": "아젤리아.acc)비비드헤어밴드",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778527894/1_4_941778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778527894/1_4_941778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527894/2_4_4251778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778527894/3_4_2831778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051185",
+    "brand": "아젤리아",
+    "name": "아젤리아.하얀자수볼레로",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/49C1778527894/1_49_1131778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/49C1778527894/1_49_1131778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/49C1778527894/2_49_2931778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/49C1778527894/3_49_1351778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/49C1778527894/4_49_1651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/49C1778527894/5_49_9311778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(2~4세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(4~6세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(6~8세)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051203",
+    "brand": "아젤리아",
+    "name": "아젤리아.플라워스모크원피스",
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/48C1778527894/1_48_4371778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/48C1778527894/1_48_4371778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/48C1778527894/2_48_4181778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/48C1778527894/3_48_3241778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/48C1778527894/4_48_2601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/48C1778527894/5_48_6631778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/48C1778527894/6_48_6831778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051222",
+    "brand": "아젤리아",
+    "name": "아젤리아.프릴바이커레깅스",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/47C1778527894/1_47_4791778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/47C1778527894/1_47_4791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/2_47_9861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/3_47_3451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/4_47_7371778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/5_47_1881778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/6_47_8281778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/7_47_2221778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/8_47_7601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/47C1778527894/9_47_3391778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드도트",
+        "add_price": 0
+      },
+      {
+        "name": "그레이도트",
+        "add_price": 0
+      },
+      {
+        "name": "검정도트",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이ST",
+        "add_price": 0
+      },
+      {
+        "name": "블랙ST",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051242",
     "brand": "아젤리아",
     "name": "아젤리아.프리미엄실켓티",
-    "colors": "아이보리/올리브/블랙/핑크/연노랑",
-    "size_range": "XS~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%8B%A4%EC%BC%93%ED%8B%B05%EC%83%89%EC%83%81xsxljs/1432194/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-170.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432194.jpg",
-    "price_original": 17600,
-    "price_sale": 12000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/46C1778527894/1_46_1381778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/46C1778527894/1_46_1381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/2_46_4061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/3_46_401778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/4_46_4801778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/5_46_7441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/6_46_9961778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/7_46_901778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/8_46_5481778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/9_46_2761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/46C1778527894/10_46_9301778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "연노랑",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "XS",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
+        "add_price": 0
       },
       {
         "name": "M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
+        "add_price": 0
       },
       {
         "name": "L",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
+        "add_price": 0
       },
       {
         "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "올리브",
-          "블랙",
-          "핑크",
-          "연노랑"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-170.jpg",
-        "local": "output/images/20260524/detail/1432194_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432194_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432194_03.jpg"
+        "add_price": 1000
       }
     ]
   },
   {
-    "id": "1432193",
+    "id": "26051262",
+    "brand": "아젤리아",
+    "name": "아젤리아.트윙클엔젤셋업",
+    "price_sale": 46400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/45C1778527894/1_45_6581778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/45C1778527894/1_45_6581778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/2_45_9851778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/3_45_8231778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/4_45_2451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/5_45_3581778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/6_45_8531778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/7_45_6291778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/8_45_4521778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/9_45_511778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/10_45_6381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/45C1778527894/11_45_3471778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051282",
+    "brand": "아젤리아",
+    "name": "아젤리아.텐셀언발셋업",
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/44C1778527894/1_44_7101778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/44C1778527894/1_44_7101778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/2_44_4151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/3_44_2571778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/4_44_2011778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/5_44_4821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/6_44_4851778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/7_44_5721778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/8_44_5111778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/44C1778527894/9_44_2141778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "연청",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051304",
+    "brand": "아젤리아",
+    "name": "아젤리아.찰랑찰랑스커트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/43C1778527894/1_43_871778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/43C1778527894/1_43_871778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/2_43_7681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/3_43_6931778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/4_43_3421778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/5_43_3371778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/6_43_9561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/7_43_6091778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/8_43_8031778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/9_43_2791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/10_43_8391778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/43C1778527894/11_43_9311778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051329",
+    "brand": "아젤리아",
+    "name": "아젤리아.지그재그프릴티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/42C1778527894/1_42_5861778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/42C1778527894/1_42_5861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/2_42_3731778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/3_42_291778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/4_42_3841778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/5_42_931778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/6_42_1981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/7_42_91778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/42C1778527894/8_42_8941778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "연노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051355",
+    "brand": "아젤리아",
+    "name": "아젤리아.제인와플셋업",
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/41C1778527894/1_41_2631778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/41C1778527894/1_41_2631778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/2_41_2671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/3_41_4651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/4_41_3231778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/5_41_2291778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/6_41_1271778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/7_41_4301778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/8_41_5751778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/9_41_3251778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/10_41_4911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/11_41_671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/12_41_2271778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/13_41_3701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/14_41_281778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/15_41_7291778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/16_41_861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/17_41_4741778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/41C1778527894/18_41_6081778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051381",
+    "brand": "아젤리아",
+    "name": "아젤리아.이지레이스블랑",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/40C1778527894/1_40_7971778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/40C1778527894/1_40_7971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/2_40_7191778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/3_40_1681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/4_40_6251778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/5_40_8001778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/6_40_8891778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/7_40_7591778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/8_40_7981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/9_40_2541778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/40C1778527894/10_40_5691778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 1000
+      },
+      {
+        "name": "M",
+        "add_price": 1000
+      },
+      {
+        "name": "L",
+        "add_price": 1000
+      },
+      {
+        "name": "XL",
+        "add_price": 1000
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051492",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베단짝플리츠셋업",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778527919/1_3_8321778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1778527919/1_3_8321778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/2_3_141778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/3_3_7301778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/4_3_5941778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/5_3_3011778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/6_3_9521778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/7_3_3001778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/8_3_5431778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/9_3_6561778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/10_3_2131778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/11_3_361778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/12_3_5801778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/13_3_4861778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/14_3_4351778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/15_3_6091778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/16_3_5901778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/17_3_7921778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/18_3_5011778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/19_3_6031778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527919/20_3_8561778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051493",
+    "brand": "아젤리아",
+    "name": "아젤리아.acc)블루체크헤어밴드",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778527894/1_3_611778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1778527894/1_3_611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527894/2_3_5151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778527894/3_3_421778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051605",
     "brand": "아젤리아",
     "name": "아젤리아.올리브캉캉나시",
-    "colors": "아이보리/그레이/레드/올리브/블랙",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%BA%89%EC%BA%89%EB%82%98%EC%8B%9C5%EC%83%89%EC%83%8112m18msxljs/1432193/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-169.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432193.jpg",
-    "price_original": 14400,
-    "price_sale": 10000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/39C1778527894/1_39_611778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/39C1778527894/1_39_611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/2_39_4911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/3_39_9011778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/4_39_8791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/5_39_9601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/6_39_5021778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/7_39_7151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/8_39_4451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/9_39_8781778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/10_39_5001778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/11_39_8991778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/39C1778527894/12_39_4211778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "name": "그레이",
+        "add_price": 0
       },
       {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "M",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "L",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "XL",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-169.jpg",
-        "local": "output/images/20260524/detail/1432193_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432193_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432193_03.jpg"
+        "add_price": 2000
       }
     ]
   },
   {
-    "id": "1432192",
+    "id": "26051633",
+    "brand": "아젤리아",
+    "name": "아젤리아.옥수수캉캉셋업",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/38C1778527894/1_38_8271778527894.png",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/38C1778527894/1_38_8271778527894.png",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/2_38_801778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/3_38_7211778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/4_38_1341778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/5_38_9971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/6_38_3651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/7_38_8091778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/8_38_4641778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/9_38_121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/10_38_8961778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/11_38_601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/12_38_9611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/13_38_6621778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/14_38_1061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/15_38_3461778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/38C1778527894/16_38_1971778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051665",
+    "brand": "아젤리아",
+    "name": "아젤리아.엔비캉캉스커트",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/37C1778527894/1_37_4851778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/37C1778527894/1_37_4851778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/2_37_3761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/3_37_7841778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/4_37_4531778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/5_37_5431778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/6_37_2971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/7_37_8201778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/37C1778527894/8_37_7461778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051698",
+    "brand": "아젤리아",
+    "name": "아젤리아.아일릿프릴니트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/36C1778527894/1_36_861778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/36C1778527894/1_36_861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/2_36_5961778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/3_36_9491778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/4_36_7651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/5_36_451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/6_36_3841778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/7_36_5351778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/8_36_9541778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/9_36_1451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/10_36_7031778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/11_36_8171778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/12_36_4691778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/13_36_6001778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/36C1778527894/14_36_8361778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051731",
+    "brand": "아젤리아",
+    "name": "아젤리아.씨엘캉캉블라우스",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/35C1778527894/1_35_9741778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/35C1778527894/1_35_9741778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/2_35_3061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/3_35_9161778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/4_35_6441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/5_35_6751778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/6_35_4661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/35C1778527894/7_35_6471778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051765",
     "brand": "아젤리아",
     "name": "아젤리아.슈슈랍바나시",
-    "colors": "아이보리/그레이/레드/올리브/블랙",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%8A%88%EC%8A%88%EB%9E%8D%EB%B0%94%EB%82%98%EC%8B%9C5%EC%83%89%EC%83%8112m18msxljs/1432192/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-168.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432192.jpg",
-    "price_original": 12800,
-    "price_sale": 9000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1778527894/1_34_151778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/34C1778527894/1_34_151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/2_34_7761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/3_34_9471778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/4_34_9681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/5_34_1661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/6_34_5131778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/7_34_3661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/8_34_2031778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/9_34_5301778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/34C1778527894/10_34_2601778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "name": "그레이",
+        "add_price": 0
       },
       {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "M",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "L",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "XL",
-        "add_price": 1000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
+        "add_price": 1000
       },
       {
         "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-168.jpg",
-        "local": "output/images/20260524/detail/1432192_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432192_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432192_03.jpg"
+        "add_price": 2000
       }
     ]
   },
   {
-    "id": "1432191",
+    "id": "26051803",
     "brand": "아젤리아",
-    "name": "아젤리아.ST새콤달롬랍바티",
-    "colors": "아이보리/블루/핑크",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84st%EC%83%88%EC%BD%A4%EB%8B%AC%EB%A1%AC%EB%9E%8D%EB%B0%94%ED%8B%B0%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%A3%A8%ED%95%91%ED%81%AC12m18msxljs/1432191/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-167.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432191.jpg",
-    "price_original": 14400,
-    "price_sale": 10000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "name": "아젤리아.새콤달콤랍바티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1778527894/1_33_4111778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/33C1778527894/1_33_4111778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/2_33_1291778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/3_33_3011778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/4_33_6781778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/5_33_4491778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/6_33_4351778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/7_33_7701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/8_33_9081778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/9_33_7601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/10_33_1681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/11_33_8631778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/12_33_3241778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/13_33_8961778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/33C1778527894/14_33_181778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "name": "크림",
+        "add_price": 0
       },
       {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "M",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "L",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "XL",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JS",
-        "add_price": 3000,
-        "colors": [
-          "아이보리",
-          "블루",
-          "핑크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-167.jpg",
-        "local": "output/images/20260524/detail/1432191_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432191_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432191_03.jpg"
+        "add_price": 2000
       }
     ]
   },
   {
-    "id": "1432190",
-    "brand": "아젤리아",
-    "name": "아젤리아.새코달콤랍바티",
-    "colors": "아이보리/그레이/레드/올리브/블랙",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EC%83%88%EC%BD%94%EB%8B%AC%EC%BD%A4%EB%9E%8D%EB%B0%94%ED%8B%B05%EC%83%89%EC%83%8112m18msxljs/1432190/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-166.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432190.jpg",
-    "price_original": 12800,
-    "price_sale": 9000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
-      {
-        "name": "12M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "S",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "XL",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      },
-      {
-        "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "그레이",
-          "레드",
-          "올리브",
-          "블랙"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-166.jpg",
-        "local": "output/images/20260524/detail/1432190_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432190_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432190_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1432189",
+    "id": "26051844",
     "brand": "아젤리아",
     "name": "아젤리아.빨강맛나시세트",
-    "colors": "아이보리/블랙/레드",
-    "size_range": "12M~18M,S~XL,JS",
-    "product_url": "https://i54.co.kr/product/%EC%95%84%EC%A0%A4%EB%A6%AC%EC%95%84%EB%B9%A8%EA%B0%95%EB%A7%9B%EB%82%98%EC%8B%9C%EC%84%B8%ED%8A%B8%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%9E%99%EB%A0%88%EB%93%9C12m18msxljs/1432189/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0512/mo0512-165.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1432189.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-12",
-    "size_options": [
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1778527894/1_32_3971778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/32C1778527894/1_32_3971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/2_32_371778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/3_32_161778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/4_32_8941778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/5_32_7701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/6_32_7761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/7_32_6561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/8_32_6691778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/9_32_3681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/10_32_5491778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/32C1778527894/11_32_31778527894.jpg"
+    ],
+    "colors": [
       {
-        "name": "12M",
-        "add_price": 0,
-        "colors": []
+        "name": "아이",
+        "add_price": 0
       },
       {
-        "name": "18M",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
       },
       {
         "name": "S",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "add_price": 2000
       },
       {
         "name": "M",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "add_price": 2000
       },
       {
         "name": "L",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "add_price": 2000
       },
       {
         "name": "XL",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "아이보리",
-          "블랙",
-          "레드"
-        ]
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051885",
+    "brand": "아젤리아",
+    "name": "아젤리아.비비안날개티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1778527894/1_31_1551778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/31C1778527894/1_31_1551778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/2_31_6911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/3_31_8791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/4_31_9281778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/5_31_9531778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/6_31_3901778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/31C1778527894/7_31_5651778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "팡크",
+        "add_price": 0
       }
     ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26051928",
+    "brand": "아젤리아",
+    "name": "아젤리아.비비드플리츠원피스",
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1778527894/1_30_4591778527894.jpg",
     "detail_images": [
+      "https://kidsvillage.co.kr/data/item/30C1778527894/1_30_4591778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/30C1778527894/2_30_3251778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/30C1778527894/3_30_3981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/30C1778527894/4_30_9541778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/30C1778527894/5_30_5631778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/30C1778527894/6_30_7281778527894.jpg"
+    ],
+    "colors": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0512/mo0512-165.jpg",
-        "local": "output/images/20260524/detail/1432189_01.jpg"
+        "name": "오렌지",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1432189_02.jpg"
+        "name": "옐로우",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1432189_03.jpg"
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052057",
+    "brand": "아젤리아",
+    "name": "아젤리아.로라캉캉스커트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778527919/1_2_3981778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1778527919/1_2_3981778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/2_2_291778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/3_2_1031778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/4_2_3571778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/5_2_8921778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/6_2_131778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/7_2_641778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/8_2_2881778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/9_2_2081778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/10_2_8011778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/11_2_5461778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/12_2_801778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/13_2_4481778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/14_2_6631778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/15_2_4841778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/16_2_9621778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/17_2_3421778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527919/18_2_1691778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(2~4세",
+        "add_price": 0
+      },
+      {
+        "name": "M(4~6세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(6~8세)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052058",
+    "brand": "아젤리아",
+    "name": "아젤리아.acc)베스트헤어밴드",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778527894/1_2_8581778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1778527894/1_2_8581778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527894/2_2_2261778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527894/3_2_7921778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527894/4_2_9791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778527894/5_2_4141778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052182",
+    "brand": "아젤리아",
+    "name": "아젤리아.블루체크원피스",
+    "price_sale": 49600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1778527894/1_29_8931778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/29C1778527894/1_29_8931778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/2_29_3331778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/3_29_421778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/4_29_5791778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/5_29_2981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/6_29_2671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/7_29_3201778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/8_29_1331778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/29C1778527894/9_29_911778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26052228",
+    "brand": "아젤리아",
+    "name": "아젤리아.베스트플리츠셋업",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1778527894/1_28_6371778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/28C1778527894/1_28_6371778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/2_28_4441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/3_28_6461778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/4_28_4501778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/5_28_4971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/6_28_7331778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/7_28_7601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/8_28_7611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/9_28_8981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/28C1778527894/10_28_5921778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26052277",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베후르츠플리츠슈트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1778527894/1_27_4951778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/27C1778527894/1_27_4951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/2_27_2381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/3_27_3301778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/4_27_2001778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/5_27_1271778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/6_27_1511778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/7_27_7731778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/8_27_2611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/27C1778527894/9_27_5101778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "멀티꽃",
+        "add_price": 0
+      },
+      {
+        "name": "도트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052327",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베코지바람막이",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1778527894/1_26_4501778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/26C1778527894/1_26_4501778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/2_26_6861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/3_26_9651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/4_26_2251778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/5_26_7401778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/6_26_8351778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/7_26_8231778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/8_26_1381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/9_26_1911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/26C1778527894/10_26_3061778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052384",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베시어서커블루머",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1778527894/1_25_1821778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/25C1778527894/1_25_1821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/2_25_1351778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/3_25_8131778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/4_25_521778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/5_25_871778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/6_25_3091778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/7_25_2641778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/8_25_1651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/9_25_8321778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/10_25_1311778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/25C1778527894/11_25_4341778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "체크그란",
+        "add_price": 0
+      },
+      {
+        "name": "체크레드",
+        "add_price": 0
+      },
+      {
+        "name": "체크블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052441",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베세라단작나시",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1778527894/1_24_3561778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/24C1778527894/1_24_3561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/2_24_471778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/3_24_231778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/4_24_7051778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/5_24_8891778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/6_24_8211778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/7_24_5721778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/8_24_1331778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/9_24_3591778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/24C1778527894/10_24_8631778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052501",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베바이브썸머셋업",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1778527894/1_23_8671778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/23C1778527894/1_23_8671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/2_23_2691778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/3_23_6181778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/4_23_5541778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/5_23_5311778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/6_23_7741778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/7_23_531778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/8_23_8691778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/9_23_5971778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/10_23_3981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/11_23_3561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/23C1778527894/12_23_4831778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052566",
+    "brand": "아젤리아",
+    "name": "아젤리아.베베단짝플리츠셋업",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1778527894/1_22_2911778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/22C1778527894/1_22_2911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/2_22_481778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/3_22_7761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/4_22_9501778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/5_22_8701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/6_22_9511778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/7_22_4951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/8_22_2111778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/9_22_771778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/22C1778527894/10_22_5221778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6m",
+        "add_price": 0
+      },
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052632",
+    "brand": "아젤리아",
+    "name": "아젤리아.버터플라워팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1778527894/1_21_5391778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/21C1778527894/1_21_5391778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/2_21_3491778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/3_21_8411778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/4_21_7981778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/5_21_8661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/6_21_2441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/21C1778527894/7_21_5371778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26052704",
+    "brand": "아젤리아",
+    "name": "아젤리아.바이커레깅스",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1778527894/1_20_2611778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/20C1778527894/1_20_2611778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/2_20_1561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/3_20_4991778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/4_20_3381778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/5_20_8231778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/6_20_3441778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/7_20_4861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/8_20_8851778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/9_20_9571778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/20C1778527894/10_20_6911778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드도트",
+        "add_price": 0
+      },
+      {
+        "name": "그레이도트",
+        "add_price": 0
+      },
+      {
+        "name": "검정도트",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이ST",
+        "add_price": 0
+      },
+      {
+        "name": "블랙ST",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052780",
+    "brand": "아젤리아",
+    "name": "아젤리아.바이윈드브레이커",
+    "price_sale": 46400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1778527894/1_19_8211778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/19C1778527894/1_19_8211778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/2_19_1741778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/3_19_5451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/4_19_3411778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/5_19_1261778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/6_19_271778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/7_19_6561778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/8_19_1911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/9_19_951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1778527894/10_19_6861778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052861",
+    "brand": "아젤리아",
+    "name": "아젤리아.메르시스모크나시",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1778527894/1_18_2581778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/18C1778527894/1_18_2581778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/2_18_5171778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/3_18_4021778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/4_18_7391778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/5_18_4241778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/6_18_8041778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/7_18_2391778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1778527894/8_18_6581778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26052946",
+    "brand": "아젤리아",
+    "name": "아젤리아.마린시어서커팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1778527894/1_17_1471778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/17C1778527894/1_17_1471778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/2_17_621778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/3_17_6121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/4_17_2041778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/5_17_6531778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/6_17_3911778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1778527894/7_17_1501778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053038",
+    "brand": "아젤리아",
+    "name": "아젤리아.린넨프릴팬츠(7부)",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1778527894/1_16_4821778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/16C1778527894/1_16_4821778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/2_16_3141778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/3_16_641778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/4_16_681778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/5_16_301778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/6_16_701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/7_16_601778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/8_16_8121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/9_16_761778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/10_16_6661778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1778527894/11_16_8451778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "크림꽃",
+        "add_price": 0
+      },
+      {
+        "name": "초록꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053136",
+    "brand": "아젤리아",
+    "name": "아젤리아.리본프릴티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1778527894/1_15_5001778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/15C1778527894/1_15_5001778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/2_15_2341778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/3_15_171778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/4_15_9341778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/5_15_8861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/6_15_5191778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1778527894/7_15_9521778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053239",
+    "brand": "아젤리아",
+    "name": "아젤리아.로즈아일렛티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1778527894/1_14_7781778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/14C1778527894/1_14_7781778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/2_14_9451778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/3_14_6051778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/4_14_1261778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/5_14_2511778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/6_14_4801778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/7_14_9061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1778527894/8_14_4011778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053345",
+    "brand": "아젤리아",
+    "name": "아젤리아.로라캉캉스커트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1778527894/1_13_61778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/13C1778527894/1_13_61778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/2_13_9921778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/3_13_7811778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/4_13_61778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/5_13_6051778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/6_13_321778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/7_13_701778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/8_13_3961778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/9_13_7671778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/10_13_571778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1778527894/11_13_5911778527894.png"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(2~4세",
+        "add_price": 0
+      },
+      {
+        "name": "M(4~6세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(6~8세)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26053457",
+    "brand": "아젤리아",
+    "name": "아젤리아.옥수수캉캉셋업",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1778527919/1_12_2721778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/12C1778527919/1_12_2721778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/2_12_2721778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/3_12_4761778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/4_12_1871778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/5_12_7221778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/6_12_3291778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/7_12_2701778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/8_12_5371778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/9_12_9311778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/10_12_8871778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/11_12_2201778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/12_12_4581778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/13_12_8971778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/14_12_9491778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/15_12_1551778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/16_12_2491778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/17_12_3661778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/18_12_8471778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/19_12_5821778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527919/20_12_4411778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053458",
+    "brand": "아젤리아",
+    "name": "아젤리아.레드아일렛핀콧티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1778527894/1_12_6521778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/12C1778527894/1_12_6521778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/2_12_5021778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/3_12_171778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/4_12_5951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/5_12_7951778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/6_12_1121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/7_12_5861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1778527894/8_12_7151778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053575",
+    "brand": "아젤리아",
+    "name": "아젤리아.슈슈랍바나시",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1778527919/1_11_4541778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/11C1778527919/1_11_4541778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/2_11_6811778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/3_11_9501778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/4_11_1121778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/5_11_3271778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/6_11_6181778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/7_11_771778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/8_11_1711778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/9_11_9241778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527919/10_11_6671778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 1000
+      },
+      {
+        "name": "M",
+        "add_price": 1000
+      },
+      {
+        "name": "L",
+        "add_price": 1000
+      },
+      {
+        "name": "XL",
+        "add_price": 1000
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26053576",
+    "brand": "아젤리아",
+    "name": "아젤리아.러브스퀘어티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1778527894/1_11_101778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/11C1778527894/1_11_101778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/2_11_8881778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/3_11_141778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/4_11_3481778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/5_11_3061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/6_11_8751778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/7_11_7801778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/8_11_1491778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/9_11_191778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/10_11_3271778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/11_11_6151778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778527894/12_11_4341778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26053699",
+    "brand": "아젤리아",
+    "name": "아젤리아.빨강맛나시세트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1778527919/1_10_6971778527919.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/10C1778527919/1_10_6971778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/2_10_3521778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/3_10_4171778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/4_10_6911778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/5_10_3331778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/6_10_741778527919.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527919/7_10_8751778527919.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12m",
+        "add_price": 0
+      },
+      {
+        "name": "18m",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 2000
+      },
+      {
+        "name": "M",
+        "add_price": 2000
+      },
+      {
+        "name": "L",
+        "add_price": 2000
+      },
+      {
+        "name": "XL",
+        "add_price": 2000
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26053700",
+    "brand": "아젤리아",
+    "name": "아젤리아.랄라하트팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1778527894/1_10_4061778527894.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/10C1778527894/1_10_4061778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/2_10_651778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/3_10_9991778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/4_10_6121778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/5_10_2501778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/6_10_641778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/7_10_7901778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/8_10_7341778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/9_10_9861778527894.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778527894/10_10_1941778527894.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
       }
     ]
   }

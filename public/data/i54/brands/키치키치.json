@@ -1,260 +1,445 @@
 [
   {
-    "id": "1433508",
+    "id": "26051069",
     "brand": "키치키치",
     "name": "키치키치.헤이즈썸머바람막이",
-    "colors": "화이트/핑크/옐로우/민트",
-    "size_range": "S~XL,JS~JL",
-    "product_url": "https://i54.co.kr/product/%ED%82%A4%EC%B9%98%ED%82%A4%EC%B9%98%ED%97%A4%EC%9D%B4%EC%A6%88%EC%8D%B8%EB%A8%B8%EB%B0%94%EB%9E%8C%EB%A7%89%EC%9D%B44%EC%83%89%EC%83%81sxljsjl/1433508/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-088.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433508.jpg",
-    "price_original": 28800,
-    "price_sale": 19000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778682460/1_4_8251778682460.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778682460/1_4_8251778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/2_4_6981778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/3_4_5841778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/4_4_4911778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/5_4_9911778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/6_4_8371778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/7_4_3011778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/8_4_1931778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/9_4_1641778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/10_4_5231778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/11_4_5301778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/12_4_1091778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/13_4_211778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/14_4_3531778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/15_4_7961778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/16_4_6091778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/17_4_2191778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/18_4_4161778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778682460/19_4_6521778682460.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "name": "화이트",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "name": "핑크",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "name": "옐로우",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JM",
-        "add_price": 2000,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JL",
-        "add_price": 2000,
-        "colors": [
-          "화이트",
-          "핑크",
-          "옐로우",
-          "민트"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-088.jpg",
-        "local": "output/images/20260524/detail/1433508_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433508_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433508_03.jpg"
+        "add_price": 2000
       }
     ]
   },
   {
-    "id": "1433507",
+    "id": "26051476",
     "brand": "키치키치",
     "name": "키치키치.루아세미버뮤다데님쇼츠",
-    "colors": "흑청/중청",
-    "size_range": "S~XL,JS,JM",
-    "product_url": "https://i54.co.kr/product/%ED%82%A4%EC%B9%98%ED%82%A4%EC%B9%98%EB%A3%A8%EC%95%84%EC%84%B8%EB%AF%B8%EB%B2%84%EB%AE%A4%EB%8B%A4%EB%8D%B0%EB%8B%98%EC%87%BC%EC%B8%A0%ED%9D%91%EC%B2%AD%EC%A4%91%EC%B2%ADsxljsjm/1433507/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-087.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433507.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778682460/1_3_9441778682460.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1778682460/1_3_9441778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/2_3_4971778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/3_3_8221778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/4_3_6871778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/5_3_5881778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/6_3_8651778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/7_3_6191778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/8_3_431778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/9_3_4271778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/10_3_4591778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/11_3_9681778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/12_3_921778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/13_3_7791778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/14_3_9271778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/15_3_7281778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/16_3_7761778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/17_3_3221778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/18_3_7771778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/19_3_6001778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778682460/20_3_9481778682460.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
+        "name": "흑청",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
+        "name": "중청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(5호)",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
+        "name": "M(7호)",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 2000,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JM",
-        "add_price": 2000,
-        "colors": [
-          "흑청",
-          "중청"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-087.jpg",
-        "local": "output/images/20260524/detail/1433507_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433507_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433507_03.jpg"
+        "add_price": 2000
       }
     ]
   },
   {
-    "id": "1433506",
+    "id": "26051522",
     "brand": "키치키치",
-    "name": "키치키치.루브빈티지스트라이프반팔티",
-    "colors": "레드/아이보리/블루",
-    "size_range": "S~XL,JS,JM",
-    "product_url": "https://i54.co.kr/product/%ED%82%A4%EC%B9%98%ED%82%A4%EC%B9%98%EB%A3%A8%EB%B8%8C%EB%B9%88%ED%8B%B0%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%94%84%EB%B0%98%ED%8C%94%ED%8B%B0%EB%A0%88%EB%93%9C%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B8%94%EB%A3%A8sxljsjm/1433506/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0515/mo0515-086.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433506.jpg",
-    "price_original": 17600,
-    "price_sale": 12000,
-    "mfg_date": "2026-05-15",
-    "size_options": [
+    "name": "키치키치.크리스탈플리츠상하세트",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778075955/1_3_6801778075955.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/3C1778075955/1_3_6801778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/2_3_3661778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/3_3_2541778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/4_3_1961778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/5_3_641778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/6_3_8121778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/7_3_8421778075955.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/8_3_4701778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/9_3_4361778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/10_3_7381778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/11_3_9211778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/12_3_871778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/13_3_7001778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/14_3_4221778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/15_3_1391778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/16_3_2051778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/17_3_9131778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/18_3_4471778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/19_3_6151778075956.jpg",
+      "https://img2.kidsvillage.co.kr/3C1778075955/20_3_5071778075956.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "name": "블루",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "name": "핫핑크",
+        "add_price": 0
       },
       {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3호)",
+        "add_price": 0
       },
       {
-        "name": "XL",
-        "add_price": 0,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
       },
       {
         "name": "JS",
-        "add_price": 1000,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "add_price": 2000
       },
       {
         "name": "JM",
-        "add_price": 1000,
-        "colors": [
-          "레드",
-          "아이보리",
-          "블루"
-        ]
+        "add_price": 2000
+      }
+    ]
+  },
+  {
+    "id": "26051984",
+    "brand": "키치키치",
+    "name": "키치키치.소프트젤리상하세트",
+    "price_sale": 23200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1779397510/1_2_3501779397510.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1779397510/1_2_3501779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/2_2_911779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/3_2_2181779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/4_2_781779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/5_2_6711779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/6_2_9641779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/7_2_1221779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/8_2_6311779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/9_2_8741779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/10_2_1491779397510.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/11_2_4591779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/12_2_4311779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/13_2_7681779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/14_2_5191779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/15_2_1061779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/16_2_2771779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/17_2_3961779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/18_2_5481779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/19_2_8521779397511.jpg",
+      "https://img2.kidsvillage.co.kr/2C1779397510/20_2_9691779397511.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
       }
     ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1500
+      },
+      {
+        "name": "JM",
+        "add_price": 1500
+      }
+    ]
+  },
+  {
+    "id": "26052038",
+    "brand": "키치키치",
+    "name": "키치키치.루브빈티지스트라이프반팔티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778682460/1_2_3191778682460.jpg",
     "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1778682460/1_2_3191778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/2_2_9581778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/3_2_6351778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/4_2_9971778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/5_2_3941778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/6_2_491778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/7_2_8231778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/8_2_6261778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/9_2_471778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/10_2_981778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/11_2_6361778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/12_2_6661778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/13_2_2921778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/14_2_2521778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/15_2_8091778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/16_2_2021778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/17_2_3261778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/18_2_2221778682460.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778682460/19_2_3371778682460.jpg"
+    ],
+    "colors": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0515/mo0515-086.jpg",
-        "local": "output/images/20260524/detail/1433506_01.jpg"
+        "name": "레드",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433506_02.jpg"
+        "name": "아이보리",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433506_03.jpg"
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1000
+      },
+      {
+        "name": "JM",
+        "add_price": 1000
+      }
+    ]
+  },
+  {
+    "id": "26052091",
+    "brand": "키치키치",
+    "name": "키치키치.브리즈소다플츠3종상하세트",
+    "price_sale": 30400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778075954/1_2_6501778075954.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1778075954/1_2_6501778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/2_2_9621778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/3_2_5011778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/4_2_511778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/5_2_5041778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/6_2_4901778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/7_2_3081778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/8_2_4091778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/9_2_5941778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/10_2_6281778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/11_2_5791778075954.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/12_2_7721778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/13_2_8031778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/14_2_841778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/15_2_631778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/16_2_7731778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/17_2_4911778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/18_2_6191778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/19_2_9631778075955.jpg",
+      "https://img2.kidsvillage.co.kr/2C1778075954/20_2_5621778075955.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "플라워",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "토끼",
+        "add_price": 0
+      },
+      {
+        "name": "호피",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3호)",
+        "add_price": 0
+      },
+      {
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
       }
     ]
   }

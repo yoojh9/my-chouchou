@@ -598,6 +598,33 @@ html, body {
   font-weight: 700;
   color: var(--ink);
   letter-spacing: -0.5px;
+  display: inline-flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 4px;
+}
+
+@keyframes priceSlideIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.product-detail__price-sale.price-updated {
+  animation: priceSlideIn 0.22s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.price-add {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+}
+
+.price-total {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.5px;
 }
 
 .product-detail__price-original {
@@ -649,40 +676,131 @@ html, body {
   font-weight: 500;
 }
 
-.product-detail__sizes {
-  margin-top: 14px;
+/* ── Option blocks (color + size sections) ── */
+.product-detail__option-block {
+  margin-top: 18px;
 }
 
-.product-detail__sizes-title {
-  font-size: 11px;
+.product-detail__option-label {
+  font-size: 10px;
+  font-weight: 700;
   color: var(--gray);
-  margin-bottom: 8px;
-  font-weight: 500;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 
-.product-detail__size-tags {
+.product-detail__option-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+.product-detail__option-chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 7px;
 }
 
-.product-detail__size-tag {
+/* ── Color chips — fabric-swatch shape ── */
+.product-detail__color-tag {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-family: inherit;
   font-size: 12px;
   font-weight: 500;
   background: var(--muted);
-  border: 1px solid var(--border);
-  border-radius: 20px;
-  padding: 4px 12px;
+  border: 1.5px solid transparent;
+  border-radius: 8px;
+  padding: 7px 13px 6px;
   color: var(--ink);
   letter-spacing: -0.1px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.13s, border-color 0.13s, color 0.13s, transform 0.1s;
+}
+
+.product-detail__color-tag:active {
+  transform: scale(0.95);
+}
+
+.product-detail__color-tag.is-selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+
+.product-detail__color-tag.is-unavailable {
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+/* ── Size chips — pill shape ── */
+.product-detail__size-tag {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--muted);
+  border: 1.5px solid transparent;
+  border-radius: 100px;
+  padding: 6px 14px 5px;
+  color: var(--ink);
+  letter-spacing: -0.1px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.13s, border-color 0.13s, color 0.13s, transform 0.1s;
+}
+
+.product-detail__size-tag:active {
+  transform: scale(0.95);
 }
 
 .product-detail__size-tag--extra {
   color: var(--accent);
-  border-color: #b8d4bd;
-  background: var(--accent-bg);
+  border-color: #c4d9c9;
+  background: rgba(110, 148, 119, 0.09);
+}
+
+/* ── Chip inner elements ── */
+.option-chip__name {
+  line-height: 1.3;
+}
+
+.option-chip__badge {
+  font-size: 9.5px;
+  font-weight: 600;
+  opacity: 0.65;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+/* selected states */
+.product-detail__size-tag.is-selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+
+.product-detail__size-tag--extra.is-selected {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--white);
+}
+
+/* badge stays readable on dark bg */
+.product-detail__color-tag.is-selected .option-chip__badge,
+.product-detail__size-tag.is-selected .option-chip__badge {
+  opacity: 0.75;
 }
 
 /* ── Detail Images ── */
@@ -794,56 +912,7 @@ html, body {
   letter-spacing: -0.1px;
 }
 
-/* ── Color tag ── */
-.product-detail__colors-section {
-  margin-bottom: 0;
-}
-
-.product-detail__color-tag {
-  font-size: 12px;
-  font-weight: 500;
-  background: var(--muted);
-  border: 1px solid var(--border);
-  border-radius: 20px;
-  padding: 4px 12px;
-  color: var(--ink);
-  letter-spacing: -0.1px;
-  cursor: pointer;
-  font-family: inherit;
-  -webkit-tap-highlight-color: transparent;
-  transition: background 0.12s, border-color 0.12s, color 0.12s;
-}
-
-.product-detail__color-tag.is-selected {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: var(--white);
-}
-
-.product-detail__color-tag.is-unavailable {
-  opacity: 0.25;
-  pointer-events: none;
-}
-
-/* ── Size tag as interactive button ── */
-.product-detail__size-tag {
-  cursor: pointer;
-  font-family: inherit;
-  -webkit-tap-highlight-color: transparent;
-  transition: background 0.12s, border-color 0.12s, color 0.12s;
-}
-
-.product-detail__size-tag.is-selected {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: var(--white);
-}
-
-.product-detail__size-tag--extra.is-selected {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--white);
-}
+/* .product-detail__colors-section — handled by .product-detail__option-block above */
 
 /* ── Cart button (장바구니 담기) ── */
 .product-detail__cart-btn {
@@ -879,7 +948,9 @@ html, body {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-top: 14px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
 }
 
 .product-detail__qty-label {

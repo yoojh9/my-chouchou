@@ -39,6 +39,7 @@ function renderContent(app) {
     const price = itemPrice(item)
     const qty = item.quantity || 1
     const meta = [item.selectedColor, item.size].filter(Boolean).join(' / ')
+    const color = item.selectedColor || ''
     return `
       <div class="cart-item">
         <div class="cart-item__info">
@@ -47,14 +48,14 @@ function renderContent(app) {
           ${meta ? `<div class="cart-item__meta">${meta}</div>` : ''}
           <div class="cart-item__bottom">
             <div class="qty-stepper qty-stepper--sm">
-              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-delta="-1">−</button>
+              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-color="${color}" data-delta="-1">−</button>
               <span class="qty-stepper__num">${qty}</span>
-              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-delta="1">+</button>
+              <button class="qty-stepper__btn" data-id="${item.id}" data-size="${item.size}" data-color="${color}" data-delta="1">+</button>
             </div>
             <div class="cart-item__price">${formatPrice(price * qty)}</div>
           </div>
         </div>
-        <button class="cart-item__remove" data-id="${item.id}" data-size="${item.size}" aria-label="삭제">✕</button>
+        <button class="cart-item__remove" data-id="${item.id}" data-size="${item.size}" data-color="${color}" aria-label="삭제">✕</button>
       </div>`
   }).join('')
 
@@ -72,7 +73,7 @@ function renderContent(app) {
   content.addEventListener('click', e => {
     const removeBtn = e.target.closest('.cart-item__remove')
     if (removeBtn) {
-      removeFromCart(removeBtn.dataset.id, removeBtn.dataset.size)
+      removeFromCart(removeBtn.dataset.id, removeBtn.dataset.size, removeBtn.dataset.color)
       updateCartBadge()
       renderContent(app)
       return
@@ -80,12 +81,12 @@ function renderContent(app) {
 
     const stepBtn = e.target.closest('.qty-stepper__btn[data-delta]')
     if (stepBtn) {
-      const { id, size, delta } = stepBtn.dataset
+      const { id, size, color, delta } = stepBtn.dataset
       const cart = getCart()
-      const item = cart.find(c => c.id === id && c.size === size)
+      const item = cart.find(c => c.id === id && c.size === size && c.selectedColor === color)
       if (!item) return
       const newQty = (item.quantity || 1) + Number(delta)
-      updateCartItemQty(id, size, newQty)
+      updateCartItemQty(id, size, color, newQty)
       updateCartBadge()
       renderContent(app)
       return

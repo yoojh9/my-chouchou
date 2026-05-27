@@ -1,533 +1,447 @@
 [
   {
-    "id": "1434002",
-    "brand": "빛나는구름",
-    "name": "빛나는구름.파스텔비치타올",
-    "colors": "보라/민트/핑크",
-    "size_range": "S~L",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%ED%8C%8C%EC%8A%A4%ED%85%94%EB%B9%84%EC%B9%98%ED%83%80%EC%98%AC%EB%B3%B4%EB%9D%BC%EB%AF%BC%ED%8A%B8%ED%95%91%ED%81%ACsl/1434002/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-130.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1434002.jpg",
-    "price_original": 15200,
-    "price_sale": 10500,
-    "mfg_date": "2026-05-20",
-    "size_options": [
-      {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "보라",
-          "민트",
-          "핑크"
-        ]
-      },
-      {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "보라",
-          "민트",
-          "핑크"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "보라",
-          "민트",
-          "핑크"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-130.jpg",
-        "local": "output/images/20260524/detail/1434002_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1434002_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1434002_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1434001",
-    "brand": "빛나는구름",
-    "name": "빛나는구름.엔젤한복",
-    "colors": "상하",
-    "size_range": "3호~15호",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EC%97%94%EC%A0%A4%ED%95%9C%EB%B3%B5%EC%83%81%ED%95%983%ED%98%B815%ED%98%B8/1434001/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-129.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1434001.jpg",
-    "price_original": 20800,
-    "price_sale": 14000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
-      {
-        "name": "3",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "5",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "7",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "9",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "11",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "13",
-        "add_price": 0,
-        "colors": [
-          "상하"
-        ]
-      },
-      {
-        "name": "15",
-        "add_price": 3000,
-        "colors": [
-          "상하"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-129.jpg",
-        "local": "output/images/20260524/detail/1434001_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1434001_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1434001_03.jpg"
-      }
-    ]
-  },
-  {
-    "id": "1434000",
+    "id": "26050042",
     "brand": "빛나는구름",
     "name": "빛나는구름.썸머빛나한복",
-    "colors": "남아핑크저고리&블루바지/남아블루저고리&핑크바지/여아핑크저고리원피스/여아블루저고리원피스",
-    "size_range": "5호~13호",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EC%8D%B8%EB%A8%B8%EB%B9%9B%EB%82%98%ED%95%9C%EB%B3%B54%EC%83%89%EC%83%815%ED%98%B813%ED%98%B8/1434000/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-128.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1434000.jpg",
-    "price_original": 17600,
-    "price_sale": 12000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1778989390/1_9_7151778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/9C1778989390/1_9_7151778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/2_9_5641778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/3_9_7411778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/4_9_991778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/5_9_7051778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/6_9_2291778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/7_9_7831778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/8_9_6851778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/9_9_1891778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/10_9_7421778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/11_9_9861778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/12_9_181778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/13_9_8921778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/14_9_4461778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/15_9_9491778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/16_9_1501778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/17_9_9081778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/18_9_2961778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/19_9_3131778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778989390/20_9_2511778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "남아핑크저고리+블루바지",
+        "add_price": 0
+      },
+      {
+        "name": "남아블루저고리+핑크바지",
+        "add_price": 0
+      },
+      {
+        "name": "여아핑크저고리원피스",
+        "add_price": 0
+      },
+      {
+        "name": "여아블루저고리원피스",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "5",
-        "add_price": 0,
-        "colors": [
-          "남아핑크저고리&블루바지",
-          "남아블루저고리&핑크바지",
-          "여아핑크저고리원피스",
-          "여아블루저고리원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "남아핑크저고리&블루바지",
-          "남아블루저고리&핑크바지",
-          "여아핑크저고리원피스",
-          "여아블루저고리원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "남아핑크저고리&블루바지",
-          "남아블루저고리&핑크바지",
-          "여아핑크저고리원피스",
-          "여아블루저고리원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "11",
-        "add_price": 0,
-        "colors": [
-          "남아핑크저고리&블루바지",
-          "남아블루저고리&핑크바지",
-          "여아핑크저고리원피스",
-          "여아블루저고리원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "13",
-        "add_price": 0,
-        "colors": [
-          "남아핑크저고리&블루바지",
-          "남아블루저고리&핑크바지",
-          "여아핑크저고리원피스",
-          "여아블루저고리원피스"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-128.jpg",
-        "local": "output/images/20260524/detail/1434000_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1434000_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1434000_03.jpg"
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433999",
+    "id": "26050194",
     "brand": "빛나는구름",
     "name": "빛나는구름.썸머공룡비치타올",
-    "colors": "블루/핑크",
-    "size_range": "S~L",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EC%8D%B8%EB%A8%B8%EA%B3%B5%EB%A3%A1%EB%B9%84%EC%B9%98%ED%83%80%EC%98%AC%EB%B8%94%EB%A3%A8%ED%95%91%ED%81%ACsl/1433999/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-127.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433999.jpg",
-    "price_original": 19200,
-    "price_sale": 13000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1778989390/1_8_4591778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/8C1778989390/1_8_4591778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/2_8_9301778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/3_8_2581778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/4_8_4611778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/5_8_3461778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/6_8_1621778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/7_8_3431778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/8_8_7071778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/9_8_4841778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/10_8_8541778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/11_8_9711778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/12_8_6051778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/13_8_4181778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/14_8_8931778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/15_8_5651778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/16_8_5671778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/17_8_7521778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778989390/18_8_2681778989390.jpg"
+    ],
+    "colors": [
       {
-        "name": "S",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
+        "name": "블루",
+        "add_price": 0
       },
       {
-        "name": "M",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
-      },
-      {
-        "name": "L",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크"
-        ]
+        "name": "핑크",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-127.jpg",
-        "local": "output/images/20260524/detail/1433999_01.jpg"
+        "name": "S(3-4세)",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433999_02.jpg"
+        "name": "M(5-6세)",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433999_03.jpg"
+        "name": "L(7-10세)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433998",
+    "id": "26050358",
     "brand": "빛나는구름",
     "name": "빛나는구름.반팔고운한복",
-    "colors": "상하/원피스",
-    "size_range": "3호~15호",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EB%B0%98%ED%8C%94%EA%B3%A0%EC%9A%B4%ED%95%9C%EB%B3%B5%EC%83%81%ED%95%98%EC%9B%90%ED%94%BC%EC%8A%A43%ED%98%B815%ED%98%B8/1433998/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-126.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433998.jpg",
-    "price_original": 17600,
-    "price_sale": 12000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1778989390/1_7_8111778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/7C1778989390/1_7_8111778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/2_7_4721778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/3_7_3831778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/4_7_1411778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/5_7_4881778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/6_7_6841778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/7_7_9791778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/8_7_9591778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/9_7_9591778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/10_7_3011778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/11_7_8291778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778989390/12_7_1491778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "상하",
+        "add_price": 0
+      },
+      {
+        "name": "원피스",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "3",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "5",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "11",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "13",
-        "add_price": 0,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
+        "add_price": 0
       },
       {
         "name": "15",
-        "add_price": 3000,
-        "colors": [
-          "상하",
-          "원피스"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-126.jpg",
-        "local": "output/images/20260524/detail/1433998_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433998_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433998_03.jpg"
+        "add_price": 3000
       }
     ]
   },
   {
-    "id": "1433997",
+    "id": "26050546",
     "brand": "빛나는구름",
     "name": "빛나는구름.바다수영모",
-    "colors": "흰색/검정",
-    "size_range": "S~M",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EB%B0%94%EB%8B%A4%EC%88%98%EC%98%81%EB%AA%A8%ED%9D%B0%EC%83%89%EA%B2%80%EC%A0%95sm/1433997/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-125.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433997.jpg",
-    "price_original": 9600,
-    "price_sale": 7000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1778989390/1_6_5111778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/6C1778989390/1_6_5111778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/2_6_2641778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/3_6_1201778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/4_6_5631778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/5_6_9211778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/6_6_9601778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/7_6_1491778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/8_6_8591778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/9_6_7021778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778989390/10_6_1471778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "S",
-        "add_price": 0,
-        "colors": [
-          "흰색",
-          "검정"
-        ]
+        "add_price": 0
       },
       {
         "name": "M",
-        "add_price": 0,
-        "colors": [
-          "흰색",
-          "검정"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-125.jpg",
-        "local": "output/images/20260524/detail/1433997_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433997_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433997_03.jpg"
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433996",
+    "id": "26050765",
     "brand": "빛나는구름",
     "name": "빛나는구름.맑은바다한복",
-    "colors": "흰색&검정",
-    "size_range": "5호~13호",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EB%A7%91%EC%9D%80%EB%B0%94%EB%8B%A4%ED%95%9C%EB%B3%B5%ED%9D%B0%EC%83%89%EA%B2%80%EC%A0%955%ED%98%B813%ED%98%B8/1433996/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-124.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433996.jpg",
-    "price_original": 25600,
-    "price_sale": 17000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778989390/1_5_2351778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1778989390/1_5_2351778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/2_5_3291778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/3_5_151778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/4_5_3001778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/5_5_8381778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/6_5_4711778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/7_5_2741778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/8_5_3211778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/9_5_8691778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/10_5_1901778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/11_5_1581778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/12_5_1011778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/13_5_1091778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/14_5_21778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/15_5_4151778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/16_5_9041778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/17_5_8811778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/18_5_3601778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778989390/19_5_3211778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "흰색+검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "5",
-        "add_price": 0,
-        "colors": []
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "흰색&검정"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "흰색&검정"
-        ]
+        "add_price": 0
       },
       {
         "name": "11",
-        "add_price": 0,
-        "colors": [
-          "흰색&검정"
-        ]
+        "add_price": 0
       },
       {
         "name": "13",
-        "add_price": 0,
-        "colors": [
-          "흰색&검정"
-        ]
-      }
-    ],
-    "detail_images": [
-      {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-124.jpg",
-        "local": "output/images/20260524/detail/1433996_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433996_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433996_03.jpg"
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433995",
+    "id": "26051050",
     "brand": "빛나는구름",
     "name": "빛나는구름.공룡래쉬가드",
-    "colors": "블루/핑크/옐로우",
-    "size_range": "5호~13호",
-    "product_url": "https://i54.co.kr/product/%EB%B9%9B%EB%82%98%EB%8A%94%EA%B5%AC%EB%A6%84%EA%B3%B5%EB%A3%A1%EB%9E%98%EC%89%AC%EA%B0%80%EB%93%9C%EB%B8%94%EB%A3%A8%ED%95%91%ED%81%AC%EC%98%90%EB%A1%9C%EC%9A%B05%ED%98%B813%ED%98%B8/1433995/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0520/mo0520-123.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433995.jpg",
-    "price_original": 20800,
-    "price_sale": 14000,
-    "mfg_date": "2026-05-20",
-    "size_options": [
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778989390/1_4_9191778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778989390/1_4_9191778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/2_4_8431778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/3_4_3141778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/4_4_7951778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/5_4_8791778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/6_4_9441778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/7_4_4171778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/8_4_6291778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/9_4_9031778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/10_4_7991778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/11_4_521778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/12_4_6571778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/13_4_8391778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/14_4_5861778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/15_4_9371778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/16_4_7421778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/17_4_9981778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/18_4_9521778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778989390/19_4_7691778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "5",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "옐로우"
-        ]
+        "add_price": 0
       },
       {
         "name": "7",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "옐로우"
-        ]
+        "add_price": 0
       },
       {
         "name": "9",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "옐로우"
-        ]
+        "add_price": 0
       },
       {
         "name": "11",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "옐로우"
-        ]
+        "add_price": 0
       },
       {
         "name": "13",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "핑크",
-          "옐로우"
-        ]
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26053553",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.파스텔비치타올",
+    "price_sale": 15200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1778989390/1_11_9791778989390.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/11C1778989390/1_11_9791778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/2_11_9071778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/3_11_8891778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/4_11_2081778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/5_11_6911778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/6_11_5751778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/7_11_3981778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/8_11_4341778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/9_11_5621778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/10_11_4171778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1778989390/11_11_3261778989390.jpg"
+    ],
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
       }
     ],
+    "sizes": [
+      {
+        "name": "S(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(7-10세)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26053677",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.엔젤한복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1778989390/1_10_31778989390.jpg",
     "detail_images": [
+      "https://kidsvillage.co.kr/data/item/10C1778989390/1_10_31778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/2_10_7981778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/3_10_1061778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/4_10_9741778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/5_10_4031778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/6_10_5241778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/7_10_8671778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/8_10_9691778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/9_10_921778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/10_10_6201778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/11_10_2381778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/12_10_8081778989390.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1778989390/13_10_1841778989390.jpg"
+    ],
+    "colors": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0520/mo0520-123.jpg",
-        "local": "output/images/20260524/detail/1433995_01.jpg"
+        "name": "상하",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433995_02.jpg"
+        "name": "5",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433995_03.jpg"
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
       }
     ]
   }

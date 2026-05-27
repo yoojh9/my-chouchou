@@ -8,7 +8,7 @@
 - `src/pages/brand.js` — 브랜드별 상품 목록, 20개씩 페이지네이션
 - `src/pages/product.js` — 상품 상세 + 색상·사이즈·수량 선택 + 장바구니 담기
 - `src/pages/cart.js` — 장바구니 페이지 + 구글 폼 주문서 연동
-- `public/data/` — 정적 JSON 데이터 (크롤러가 갱신)
+- `public/data/` — 정적 JSON 데이터 (`convert_excel.py`로 갱신)
 
 ## 데이터 파일
 
@@ -16,7 +16,31 @@
 |------|------|
 | `data/brands.json` | 브랜드 목록 + 미리보기 썸네일 (홈화면) |
 | `data/i54/brands/{브랜드명}.json` | 브랜드별 전체 상품 |
+| `data/items/2026-05.xlsx` | 원본 엑셀 — `convert_excel.py`로 JSON 변환 |
 | `data/soldout.json` | 품절 상품 ID 배열 — 직접 편집 |
+
+## 상품 JSON 구조
+
+```json
+{
+  "id": "26050001",
+  "brand": "브랜드명",
+  "name": "브랜드명.상품명",
+  "price_sale": 12800,
+  "thumbnail_url": "https://...",
+  "detail_images": ["https://...", "https://..."],
+  "colors": [
+    { "name": "레드", "add_price": 0 },
+    { "name": "네이비", "add_price": 0 }
+  ],
+  "sizes": [
+    { "name": "S", "add_price": 0 },
+    { "name": "XL", "add_price": 1000 }
+  ]
+}
+```
+
+엑셀 → JSON 변환: `python3 convert_excel.py` (프로젝트 루트에서 실행)
 
 ## 장바구니
 
@@ -27,16 +51,17 @@
 {
   id: String,           // 상품 ID
   brand: String,        // 브랜드명
-  name: String,         // 상품명 (브랜드 포함, e.g. "스튜디오엠.후리지아원피스")
-  selectedColor: String, // 선택한 단일 색상
-  size: String,         // 선택한 사이즈
-  addPrice: Number,     // 사이즈 추가금액 (원본값, 표시 시 × 1.6 적용)
-  basePrice: Number,    // 기본 판매가
+  name: String,         // 상품명 (브랜드 포함, e.g. "스튜디오엠 후리지아원피스")
+  selectedColor: String, // 선택한 색상
+  size: String,         // 선택한 사이즈 (없으면 "FREE")
+  addPrice: Number,     // 색상+사이즈 합산 추가금액 (원본값, 표시 시 × 1.6 적용)
+  basePrice: Number,    // 기본 판매가 (price_sale)
   quantity: Number,     // 수량
 }
 ```
 
-**가격 계산:** `basePrice + Math.round(addPrice * 1.6)` — 사이즈 추가금액에 1.6배 마진 적용.
+**가격 계산:** `basePrice + Math.round(addPrice * 1.6)` — 추가금액에 1.6배 마진 적용.
+**중복 체크:** `id + size + selectedColor` 세 필드가 모두 같아야 중복으로 처리.
 
 ## 구글 폼 주문서 연동
 

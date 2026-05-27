@@ -1,296 +1,530 @@
 [
   {
-    "id": "1433713",
+    "id": "26050054",
     "brand": "듀디",
     "name": "듀디.큐롯보냉백",
-    "colors": "핑크/민트/소라/아이보리",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%ED%81%90%EB%A1%AF%EB%B3%B4%EB%83%89%EB%B0%B14%EC%83%89%EC%83%81free/1433713/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-125.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433713.jpg",
-    "price_original": 4800,
-    "price_sale": 3500,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 4800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1778791912/1_9_421778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/9C1778791912/1_9_421778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778791912/2_9_4901778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778791912/3_9_9231778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778791912/4_9_5591778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778791912/5_9_5721778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1778791912/6_9_4181778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "핑크",
-          "민트",
-          "소라",
-          "아이보리"
-        ]
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-125.jpg",
-        "local": "output/images/20260524/detail/1433713_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433713_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433713_03.jpg"
+        "name": "free",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433712",
+    "id": "26050206",
     "brand": "듀디",
     "name": "듀디.쿨아이캡",
-    "colors": "아이보리/블루/옐로우/퍼플/브라운",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EC%BF%A8%EC%95%84%EC%9D%B4%EC%BA%A15%EC%83%89%EC%83%81free/1433712/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-124.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433712.jpg",
-    "price_original": 14400,
-    "price_sale": 10000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1778791912/1_8_3721778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/8C1778791912/1_8_3721778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/2_8_7401778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/3_8_6271778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/4_8_5461778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/5_8_7401778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/6_8_1141778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/7_8_741778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/8_8_4191778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/9_8_6381778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/10_8_541778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1778791912/11_8_3411778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "블루",
-          "옐로우",
-          "퍼플",
-          "브라운"
-        ]
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-124.jpg",
-        "local": "output/images/20260524/detail/1433712_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433712_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433712_03.jpg"
+        "name": "free(46~52)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433711",
+    "id": "26050370",
     "brand": "듀디",
     "name": "듀디.츄밀집모자",
-    "colors": "블루/레드",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EC%B8%84%EB%B0%80%EC%A7%91%EB%AA%A8%EC%9E%90%EB%B8%94%EB%A3%A8%EB%A0%88%EB%93%9Cfree/1433711/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-123.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433711.jpg",
-    "price_original": 16000,
-    "price_sale": 11000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1778791912/1_7_351778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/7C1778791912/1_7_351778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/2_7_3661778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/3_7_5191778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/4_7_4761778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/5_7_6021778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/6_7_3051778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1778791912/7_7_9091778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "블루",
-          "레드"
-        ]
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-123.jpg",
-        "local": "output/images/20260524/detail/1433711_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433711_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433711_03.jpg"
+        "name": "free(48~53)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433710",
+    "id": "26050558",
     "brand": "듀디",
     "name": "듀디.체리쉬4종",
-    "colors": "4종세트",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EC%B2%B4%EB%A6%AC%EC%89%AC4%EC%A2%854%EC%A2%85%EC%84%B8%ED%8A%B8free/1433710/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-122.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433710.jpg",
-    "price_original": 12800,
-    "price_sale": 9000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1778791912/1_6_5171778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/6C1778791912/1_6_5171778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/2_6_821778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/3_6_4941778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/4_6_3321778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/5_6_7811778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/6_6_7041778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/7_6_4531778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/8_6_6911778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/9_6_2381778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1778791912/10_6_7311778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "4종세트"
-        ]
+        "name": "4종세트",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-122.jpg",
-        "local": "output/images/20260524/detail/1433710_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433710_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433710_03.jpg"
+        "name": "free(190~240mm)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433709",
+    "id": "26050777",
     "brand": "듀디",
     "name": "듀디.아이비치백",
-    "colors": "아이보리",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EC%95%84%EC%9D%B4%EB%B9%84%EC%B9%98%EB%B0%B1%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC-free/1433709/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-121.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433709.jpg",
-    "price_original": 16000,
-    "price_sale": 11000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778791912/1_5_4041778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1778791912/1_5_4041778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778791912/2_5_4351778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1778791912/3_5_5811778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "아이보리"
-        ]
+        "name": "아이보리",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-121.jpg",
-        "local": "output/images/20260524/detail/1433709_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433709_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433709_03.jpg"
+        "name": "free(31~20~45)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433708",
+    "id": "26050997",
+    "brand": "듀디",
+    "name": "듀디.큣트썸머백",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779747764/1_4_5221779747764.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1779747764/1_4_5221779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/2_4_9041779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/3_4_421779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/4_4_521779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/5_4_9801779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/6_4_2531779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/7_4_4821779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/8_4_5281779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/9_4_5121779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/10_4_8601779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/11_4_1861779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/12_4_1071779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/13_4_4401779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/14_4_8631779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747764/15_4_3891779747764.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(34.5~25.8~15cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26050998",
+    "brand": "듀디",
+    "name": "듀디.큣트썸머백",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779747333/1_4_8411779747333.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1779747333/1_4_8411779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/2_4_121779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/3_4_5511779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/4_4_3931779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/5_4_6991779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/6_4_9031779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/7_4_8261779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/8_4_5021779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/9_4_9791779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/10_4_6691779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/11_4_1971779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/12_4_171779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/13_4_6871779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/14_4_9631779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1779747333/15_4_9421779747333.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(34.5~25.8~15cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051063",
     "brand": "듀디",
     "name": "듀디.메종매쉬백",
-    "colors": "원칼라",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EB%A9%94%EC%A2%85%EB%A7%A4%EC%89%AC%EB%B0%B1%EC%9B%90%EC%B9%BC%EB%9D%BCfree/1433708/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-120.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433708.jpg",
-    "price_original": 14400,
-    "price_sale": 10000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778791912/1_4_4871778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1778791912/1_4_4871778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778791912/2_4_5281778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778791912/3_4_6791778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778791912/4_4_5231778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778791912/5_4_9801778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1778791912/6_4_9211778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "원칼라"
-        ]
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-120.jpg",
-        "local": "output/images/20260524/detail/1433708_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433708_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433708_03.jpg"
+        "name": "free(가로40*40~25)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433707",
+    "id": "26051403",
+    "brand": "듀디",
+    "name": "듀디.베이직매쉬썸머백",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779747764/1_3_8661779747764.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1779747764/1_3_8661779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/2_3_3501779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/3_3_8841779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/4_3_7991779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/5_3_7441779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/6_3_8521779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747764/7_3_11779747764.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(44~32~20cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051404",
+    "brand": "듀디",
+    "name": "듀디.베이직매쉬썸머백",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779747333/1_3_4851779747333.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1779747333/1_3_4851779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/2_3_2621779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/3_3_8541779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/4_3_381779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/5_3_8511779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/6_3_6211779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1779747333/7_3_9421779747333.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(44~32~20cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051469",
     "brand": "듀디",
     "name": "듀디.리큐4종(무꿈치)",
-    "colors": "4종세트",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EB%A6%AC%ED%81%904%EC%A2%85%EB%AC%B4%EA%BF%88%EC%B9%984%EC%A2%85%EC%84%B8%ED%8A%B8free/1433707/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-119.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433707.jpg",
-    "price_original": 11200,
-    "price_sale": 8000,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778791912/1_3_2771778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1778791912/1_3_2771778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/2_3_3441778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/3_3_1271778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/4_3_7881778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/5_3_4401778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/6_3_2361778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/7_3_7851778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/8_3_4331778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/9_3_7691778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/10_3_4341778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/11_3_7171778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/12_3_1741778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1778791912/13_3_01778791912.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": []
+        "name": "4종세트",
+        "add_price": 0
       }
     ],
-    "detail_images": [
+    "sizes": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-119.jpg",
-        "local": "output/images/20260524/detail/1433707_01.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433707_02.jpg"
-      },
-      {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433707_03.jpg"
+        "name": "free(총기장33cm)",
+        "add_price": 0
       }
     ]
   },
   {
-    "id": "1433706",
+    "id": "26051962",
     "brand": "듀디",
-    "name": "듀디.노블매쉬백",
-    "colors": "아이보리/베이지",
-    "size_range": "FREE",
-    "product_url": "https://i54.co.kr/product/%EB%93%80%EB%94%94%EB%85%B8%EB%B8%94%EB%A7%A4%EC%89%AC%EB%B0%B1%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC%EB%B2%A0%EC%9D%B4%EC%A7%80free/1433706/category/2513/display/1/",
-    "thumbnail_url": "https://i54.co.kr/web/product/medium/202605/mo0519/mo0519-118.jpg",
-    "thumbnail_local": "output/images/20260524/thumb/1433706.jpg",
-    "price_original": 12000,
-    "price_sale": 8500,
-    "mfg_date": "2026-05-19",
-    "size_options": [
+    "name": "듀디.PV바켓(이너백포함)",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779747764/1_2_2811779747764.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1779747764/1_2_2811779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/2_2_9821779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/3_2_4821779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/4_2_3271779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/5_2_6381779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/6_2_4131779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/7_2_4321779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/8_2_7601779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/9_2_3621779747764.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747764/10_2_6301779747764.jpg"
+    ],
+    "colors": [
       {
-        "name": "FREE",
-        "add_price": 0,
-        "colors": [
-          "아이보리",
-          "베이지"
-        ]
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
       }
     ],
+    "sizes": [
+      {
+        "name": "free(32~20cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26051963",
+    "brand": "듀디",
+    "name": "듀디.PV바켓(이너백포함)",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779747333/1_2_9251779747333.jpg",
     "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1779747333/1_2_9251779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/2_2_9721779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/3_2_7981779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/4_2_2081779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/5_2_7601779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/6_2_2281779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/7_2_1201779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/8_2_4621779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/9_2_381779747333.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1779747333/10_2_7661779747333.jpg"
+    ],
+    "colors": [
       {
-        "url": "https://mamacool.diskn.com/202605/mo0519/mo0519-118.jpg",
-        "local": "output/images/20260524/detail/1433706_01.jpg"
+        "name": "민트",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/202204/washingtip.jpg",
-        "local": "output/images/20260524/detail/1433706_02.jpg"
+        "name": "핑크",
+        "add_price": 0
       },
       {
-        "url": "https://mamacool.diskn.com/201601/kc.jpg",
-        "local": "output/images/20260524/detail/1433706_03.jpg"
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(32~20cm)",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "26052031",
+    "brand": "듀디",
+    "name": "듀디.노블매쉬백",
+    "price_sale": 12000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778791912/1_2_4541778791912.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1778791912/1_2_4541778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/2_2_6591778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/3_2_1121778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/4_2_6471778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/5_2_9131778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/6_2_8151778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/7_2_6981778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/8_2_2091778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/9_2_1211778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/10_2_9101778791912.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1778791912/11_2_5331778791912.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(24.5~30)",
+        "add_price": 0
       }
     ]
   }
