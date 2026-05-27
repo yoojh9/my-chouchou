@@ -18,7 +18,7 @@ function buildFormUrl(items) {
     const price = itemPrice(item)
     const qty = item.quantity || 1
     const colorPart = item.selectedColor ? ` / ${item.selectedColor}` : ''
-    return `${item.name}${colorPart} / ${item.size} / ${qty}개`
+    return `${item.name}${colorPart} / ${item.size} / ${qty}개 / ${formatPrice(price * qty)}`
   })
   return `${FORM_URL}?usp=pp_url&${ENTRY_PRODUCTS}=${encodeURIComponent(lines.join('\n'))}`
 }

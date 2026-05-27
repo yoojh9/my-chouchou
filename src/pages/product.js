@@ -17,18 +17,30 @@ function openLightbox(imgSrc) {
   document.body.appendChild(overlay)
 }
 
+function mamacoolFallback(url) {
+  if (url.includes('mamacool.diskn.com/')) {
+    const path = url.split('mamacool.diskn.com/')[1]
+    return `https://i54.co.kr/web/product/big/${path}`
+  }
+  return null
+}
+
 function detailImageHTML(imgObj, idx) {
   const src = imgObj.url || ''
   if (!src) return ''
+  const fallback = mamacoolFallback(src)
+  const onerror = fallback
+    ? `if(this.src!=='${fallback}'){this.src='${fallback}'}else{var w=this.closest('[data-img-wrap]');w.classList.add('is-error');w.classList.remove('skeleton');this.remove()}`
+    : `var w=this.closest('[data-img-wrap]');w.classList.add('is-error');w.classList.remove('skeleton');this.remove()`
   return `
     <div class="product-detail__img-wrap skeleton" data-img-wrap>
       <img class="product-detail__img"
         src="${src}"
         alt="상세 이미지 ${idx + 1}"
         loading="${idx === 0 ? 'eager' : 'lazy'}"
-        data-full="${src}"
+        data-full="${fallback || src}"
         onload="this.classList.add('is-loaded');this.closest('[data-img-wrap]').classList.remove('skeleton')"
-        onerror="this.closest('[data-img-wrap]').classList.add('is-error');this.closest('[data-img-wrap]').classList.remove('skeleton');this.remove()"
+        onerror="${onerror}"
       >
     </div>`
 }
@@ -242,7 +254,7 @@ export async function renderProduct(app, brandId, productId) {
       const success = addToCart({
         id: String(product.id),
         brand: brandId,
-        name: product.name,
+        name: product.name.replace('.', ' '),
         selectedColor: selectedColor || '',
         size: selectedSize,
         addPrice: selectedAddPrice,
