@@ -43,97 +43,11 @@
     ]
   },
   {
-    "id": "26050093",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.오리배티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1778009517/1_9_941778009517.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 2000
-      },
-      {
-        "name": "15",
-        "add_price": 2000
-      }
-    ]
-  },
-  {
     "id": "26050245",
     "brand": "밀크파우더",
     "name": "밀크파우더.애플팬츠",
     "price_sale": 19200,
     "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1778009538/1_8_6181778009538.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 3000
-      },
-      {
-        "name": "15",
-        "add_price": 3000
-      }
-    ]
-  },
-  {
-    "id": "26050246",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.애플팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1778009515/1_8_4661778009515.jpg",
     "colors": [
       {
         "name": "옐로우",
@@ -215,97 +129,11 @@
     ]
   },
   {
-    "id": "26050414",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.스완티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1778009514/1_7_871778009514.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 2000
-      },
-      {
-        "name": "15",
-        "add_price": 2000
-      }
-    ]
-  },
-  {
     "id": "26050606",
     "brand": "밀크파우더",
     "name": "밀크파우더.수박팬츠",
     "price_sale": 20800,
     "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1778009536/1_6_6131778009536.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 3000
-      },
-      {
-        "name": "15",
-        "add_price": 3000
-      }
-    ]
-  },
-  {
-    "id": "26050607",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.수박팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1778009513/1_6_3471778009513.jpg",
     "colors": [
       {
         "name": "레드",
@@ -387,49 +215,6 @@
     ]
   },
   {
-    "id": "26050832",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.소파티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1778009511/1_5_5841778009511.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 2000
-      },
-      {
-        "name": "15",
-        "add_price": 2000
-      }
-    ]
-  },
-  {
     "id": "26051122",
     "brand": "밀크파우더",
     "name": "밀크파우더.만두가디건",
@@ -469,93 +254,11 @@
     ]
   },
   {
-    "id": "26051123",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.만두가디건",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778009510/1_4_5821778009510.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 3000
-      },
-      {
-        "name": "15",
-        "add_price": 3000
-      }
-    ]
-  },
-  {
     "id": "26051534",
     "brand": "밀크파우더",
     "name": "밀크파우더.두유팬츠",
     "price_sale": 19200,
     "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778009533/1_3_8211778009533.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 3000
-      },
-      {
-        "name": "15",
-        "add_price": 3000
-      }
-    ]
-  },
-  {
-    "id": "26051535",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.두유팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778009509/1_3_6281778009509.jpg",
     "colors": [
       {
         "name": "아이보리",
@@ -637,97 +340,11 @@
     ]
   },
   {
-    "id": "26052105",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.5부레깅스",
-    "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778009508/1_2_6471778009508.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 2000
-      },
-      {
-        "name": "15",
-        "add_price": 2000
-      }
-    ]
-  },
-  {
     "id": "26053722",
     "brand": "밀크파우더",
     "name": "밀크파우더.파인티",
     "price_sale": 16000,
     "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1778009541/1_10_9561778009541.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 2000
-      },
-      {
-        "name": "15",
-        "add_price": 2000
-      }
-    ]
-  },
-  {
-    "id": "26053723",
-    "brand": "밀크파우더",
-    "name": "밀크파우더.파인티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1778009519/1_10_3731778009519.jpg",
     "colors": [
       {
         "name": "옐로우",
