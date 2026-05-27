@@ -94,7 +94,7 @@ export async function renderProduct(app, brandId, productId) {
   let allProducts, soldoutIds;
   try {
     const [productsRes, soldoutRes] = await Promise.all([
-      fetch(`data/i54/brands/${encodeURIComponent(brandId)}.json`),
+      fetch(`data/i54/brands/${encodeURIComponent(brandId)}.full.json`),
       fetch("data/soldout.json"),
     ]);
     if (!productsRes.ok) throw new Error(`HTTP ${productsRes.status}`);
