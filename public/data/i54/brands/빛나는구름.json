@@ -314,5 +314,297 @@
       }
     ],
     "mfg_date": "2026-05-17"
+  },
+  {
+    "id": "2605280012",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.체크반팔한복시리즈",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779951681/1_8_3961779951681.jpg",
+    "colors": [
+      {
+        "name": "검정상하",
+        "add_price": 0
+      },
+      {
+        "name": "초록상하",
+        "add_price": 0
+      },
+      {
+        "name": "검정원피스",
+        "add_price": 0
+      },
+      {
+        "name": "초록원피스",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280020",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.반팔구름한복",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779951681/1_7_1141779951681.jpg",
+    "colors": [
+      {
+        "name": "남소라",
+        "add_price": 0
+      },
+      {
+        "name": "남핑크",
+        "add_price": 0
+      },
+      {
+        "name": "여소라",
+        "add_price": 0
+      },
+      {
+        "name": "여핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280029",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.둥근별반팔한복세트",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779951681/1_6_5001779951681.jpg",
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280038",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.나무반팔티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779951681/1_5_8421779951681.jpg",
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280047",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.나무반팔엄마",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779951681/1_4_7261779951681.jpg",
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "엄마",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280056",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.나무반팔상하",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779951681/1_3_7261779951681.jpg",
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
+  },
+  {
+    "id": "2605280065",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.나무반바지",
+    "price_sale": 8000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779951681/1_2_3851779951681.jpg",
+    "colors": [
+      {
+        "name": "흰색",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-28"
   }
 ]
