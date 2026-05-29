@@ -28,6 +28,8 @@ updateCartBadge()
 
 let homeScrollY = 0
 let restoreHomeScroll = false
+const brandScrollY = {}
+let restoreBrandScroll = null
 
 async function router() {
   const hash = location.hash || '#/'
@@ -43,6 +45,10 @@ async function router() {
   } else if (hash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(hash.slice('#/brand/'.length))
     await renderBrand(app, brandId)
+    if (restoreBrandScroll === brandId) {
+      window.scrollTo(0, brandScrollY[brandId] || 0)
+      restoreBrandScroll = null
+    }
   } else if (hash.startsWith('#/product/')) {
     const rest = hash.slice('#/product/'.length)
     const slashIdx = rest.indexOf('/')
@@ -57,13 +63,21 @@ async function router() {
 
 window.addEventListener('hashchange', (e) => {
   const oldHash = new URL(e.oldURL).hash || '#/'
+  const newHash = new URL(e.newURL).hash || '#/'
+
   if (oldHash === '#/' || oldHash === '#') {
     homeScrollY = window.scrollY
+  } else if (oldHash.startsWith('#/brand/')) {
+    const brandId = decodeURIComponent(oldHash.slice('#/brand/'.length))
+    brandScrollY[brandId] = window.scrollY
   }
-  const newHash = new URL(e.newURL).hash || '#/'
+
   if (newHash === '#/' || newHash === '#') {
     restoreHomeScroll = true
+  } else if (newHash.startsWith('#/brand/')) {
+    restoreBrandScroll = decodeURIComponent(newHash.slice('#/brand/'.length))
   }
+
   router()
 })
 
