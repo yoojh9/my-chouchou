@@ -26,11 +26,18 @@ document.getElementById('cart-fab-btn').addEventListener('click', () => {
 
 updateCartBadge()
 
+let homeScrollY = 0
+let restoreHomeScroll = false
+
 async function router() {
   const hash = location.hash || '#/'
 
   if (hash === '#/' || hash === '#') {
     await renderHome(app)
+    if (restoreHomeScroll) {
+      window.scrollTo(0, homeScrollY)
+      restoreHomeScroll = false
+    }
   } else if (hash === '#/cart') {
     renderCart(app)
   } else if (hash.startsWith('#/brand/')) {
@@ -48,5 +55,16 @@ async function router() {
   }
 }
 
-window.addEventListener('hashchange', router)
+window.addEventListener('hashchange', (e) => {
+  const oldHash = new URL(e.oldURL).hash || '#/'
+  if (oldHash === '#/' || oldHash === '#') {
+    homeScrollY = window.scrollY
+  }
+  const newHash = new URL(e.newURL).hash || '#/'
+  if (newHash === '#/' || newHash === '#') {
+    restoreHomeScroll = true
+  }
+  router()
+})
+
 window.addEventListener('load', router)
