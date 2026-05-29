@@ -116,7 +116,7 @@ function productCardHTML(product, brandId, soldoutIds) {
     </div>`
 }
 
-export async function renderBrand(app, brandId) {
+export async function renderBrand(app, brandId, initialShown = 0) {
   app.innerHTML = `
     <div class="header">
       <button class="header__back" id="back-btn" aria-label="뒤로가기">
@@ -172,7 +172,8 @@ export async function renderBrand(app, brandId) {
   }
 
   grid.innerHTML = ''
-  renderMore()
+  const pagesToRestore = initialShown > 0 ? Math.ceil(initialShown / PAGE_SIZE) : 1
+  for (let i = 0; i < pagesToRestore && shown < products.length; i++) renderMore()
 
   sizeChartPromise.then(urls => {
     if (urls) grid.insertAdjacentHTML('afterbegin', sizeChartCardHTML(urls))
@@ -215,4 +216,6 @@ export async function renderBrand(app, brandId) {
       location.hash = card.dataset.href
     }
   })
+
+  return () => shown
 }

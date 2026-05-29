@@ -29,7 +29,9 @@ updateCartBadge()
 let homeScrollY = 0
 let restoreHomeScroll = false
 const brandScrollY = {}
+const brandShownCount = {}
 let restoreBrandScroll = null
+let currentBrandGetShown = null
 
 async function router() {
   const hash = location.hash || '#/'
@@ -44,7 +46,7 @@ async function router() {
     renderCart(app)
   } else if (hash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(hash.slice('#/brand/'.length))
-    await renderBrand(app, brandId)
+    currentBrandGetShown = await renderBrand(app, brandId, brandShownCount[brandId] || 0)
     if (restoreBrandScroll === brandId) {
       window.scrollTo(0, brandScrollY[brandId] || 0)
       restoreBrandScroll = null
@@ -70,6 +72,8 @@ window.addEventListener('hashchange', (e) => {
   } else if (oldHash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(oldHash.slice('#/brand/'.length))
     brandScrollY[brandId] = window.scrollY
+    if (currentBrandGetShown) brandShownCount[brandId] = currentBrandGetShown()
+    currentBrandGetShown = null
   }
 
   if (newHash === '#/' || newHash === '#') {
