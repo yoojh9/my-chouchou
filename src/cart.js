@@ -14,10 +14,15 @@ function saveCart(cart) {
 
 export function addToCart(item) {
   const cart = getCart()
-  if (cart.some(c => c.id === item.id && c.size === item.size && c.selectedColor === item.selectedColor)) return false
+  const existing = cart.find(c => c.id === item.id && c.size === item.size && c.selectedColor === item.selectedColor)
+  if (existing) {
+    existing.quantity = (existing.quantity || 1) + (item.quantity || 1)
+    saveCart(cart)
+    return 'updated'
+  }
   cart.push(item)
   saveCart(cart)
-  return true
+  return 'added'
 }
 
 export function removeFromCart(id, size, color) {

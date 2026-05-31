@@ -251,7 +251,7 @@ export async function renderProduct(app, brandId, productId) {
 
     const cartBtn = e.target.closest("#cart-btn");
     if (cartBtn && !cartBtn.disabled) {
-      const success = addToCart({
+      const result = addToCart({
         id: String(product.id),
         brand: brandId,
         name: product.name.replace(".", " "),
@@ -261,13 +261,13 @@ export async function renderProduct(app, brandId, productId) {
         basePrice: product.price_sale,
         quantity,
       });
-      if (success) {
+      if (result === 'added') {
         cartBtn.textContent = "담겼어요 ✓";
-        cartBtn.classList.add("is-added");
-        updateCartBadge();
       } else {
-        cartBtn.textContent = "이미 담겨 있어요";
+        cartBtn.textContent = "수량이 추가됐어요 ✓";
       }
+      cartBtn.classList.add("is-added");
+      updateCartBadge();
     }
   });
 }
