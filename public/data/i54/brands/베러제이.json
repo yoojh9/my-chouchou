@@ -1114,5 +1114,845 @@
       }
     ],
     "mfg_date": "2026-05-16"
+  },
+  {
+    "id": "2604002465",
+    "brand": "베러제이",
+    "name": "베러제이.라운지루즈티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776183669/1_6_91776183669.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604003821",
+    "brand": "베러제이",
+    "name": "베러제이.뉴욕셋업",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776183653/1_4_801776183653.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 3000
+      },
+      {
+        "name": "4X",
+        "add_price": 3000
+      },
+      {
+        "name": "5X",
+        "add_price": 5000
+      },
+      {
+        "name": "6X",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604004646",
+    "brand": "베러제이",
+    "name": "베러제이.플로우백",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/40C1776183777/1_40_2481776183777.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "Free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604005126",
+    "brand": "베러제이",
+    "name": "베러제이.포스트팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/39C1776183773/1_39_6071776183773.JPG",
+    "colors": [
+      {
+        "name": "백염",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604005538",
+    "brand": "베러제이",
+    "name": "베러제이.카펜터팬츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/35C1776183756/1_35_191776183756.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604005657",
+    "brand": "베러제이",
+    "name": "베러제이.카모하프팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/34C1776183756/1_34_2571776183756.jpg",
+    "colors": [
+      {
+        "name": "밀리터리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604006737",
+    "brand": "베러제이",
+    "name": "베러제이.아뜰리에티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/29C1776183750/1_29_2691776183750.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "연베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604006894",
+    "brand": "베러제이",
+    "name": "베러제이.썸머비치팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/28C1776183747/1_28_8551776183747.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604007057",
+    "brand": "베러제이",
+    "name": "베러제이.써클볼캡",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1776183744/1_27_6451776183744.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "Free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604007585",
+    "brand": "베러제이",
+    "name": "베러제이.슬릭팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1776183742/1_24_8371776183742.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604007964",
+    "brand": "베러제이",
+    "name": "베러제이.샌드카고팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1776183741/1_22_7001776183741.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604008573",
+    "brand": "베러제이",
+    "name": "베러제이.베러포켓박스티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1776183738/1_19_8721776183738.png",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 2000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      },
+      {
+        "name": "7X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604008785",
+    "brand": "베러제이",
+    "name": "베러제이.베러절개박스티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1776183735/1_18_7061776183735.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 1000
+      },
+      {
+        "name": "4X",
+        "add_price": 1000
+      },
+      {
+        "name": "5X",
+        "add_price": 1000
+      },
+      {
+        "name": "6X",
+        "add_price": 2000
+      },
+      {
+        "name": "7X",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604009236",
+    "brand": "베러제이",
+    "name": "베러제이.베러비니",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1776183731/1_16_9851776183731.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "살구",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "Free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604009476",
+    "brand": "베러제이",
+    "name": "베러제이.베러루즈티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1776183723/1_15_8961776183723.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2604009724",
+    "brand": "베러제이",
+    "name": "베러제이.버뮤다카고팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1776183722/1_14_9951776183722.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "26040010550",
+    "brand": "베러제이",
+    "name": "베러제이.매쉬라인박스티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1776183707/1_11_4811776183707.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "26040010851",
+    "brand": "베러제이",
+    "name": "베러제이.매쉬23크롭티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776183707/1_10_1861776183707.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "1X",
+        "add_price": 0
+      },
+      {
+        "name": "2X",
+        "add_price": 0
+      },
+      {
+        "name": "3X",
+        "add_price": 2000
+      },
+      {
+        "name": "4X",
+        "add_price": 2000
+      },
+      {
+        "name": "5X",
+        "add_price": 4000
+      },
+      {
+        "name": "6X",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-15"
   }
 ]

@@ -150,5 +150,149 @@
       }
     ],
     "mfg_date": "2026-05-06"
+  },
+  {
+    "id": "2604003002",
+    "brand": "월드모자",
+    "name": "월드모자.캘리포니아스냅백",
+    "price_sale": 18400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1776632929/1_5_2341776632929.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "네온노랑",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "네온오렌지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M(2~5세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4~7세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-20"
+  },
+  {
+    "id": "2604003768",
+    "brand": "월드모자",
+    "name": "월드모자.스마일단추비니",
+    "price_sale": 9600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776632928/1_4_6421776632928.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(6m~7세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-20"
+  },
+  {
+    "id": "2604006418",
+    "brand": "월드모자",
+    "name": "월드모자.면뜨개꼭지베레모",
+    "price_sale": 12000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776632925/1_2_5281776632925.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "진베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "라임",
+        "add_price": 0
+      },
+      {
+        "name": "연두",
+        "add_price": 0
+      },
+      {
+        "name": "네온그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(6m~5세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-20"
   }
 ]

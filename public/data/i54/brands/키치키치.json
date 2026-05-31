@@ -370,5 +370,97 @@
       }
     ],
     "mfg_date": "2026-05-29"
+  },
+  {
+    "id": "2604004784",
+    "brand": "키치키치",
+    "name": "키치키치.팝콘스트라이프골지실내복",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1776886984/1_3_331776886984.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3호)",
+        "add_price": 0
+      },
+      {
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-23"
+  },
+  {
+    "id": "2604006360",
+    "brand": "키치키치",
+    "name": "키치키치.모아면모달배색골지실내복",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776886982/1_2_9181776886982.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "피치",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3호)",
+        "add_price": 0
+      },
+      {
+        "name": "S(5호)",
+        "add_price": 0
+      },
+      {
+        "name": "M(7호)",
+        "add_price": 0
+      },
+      {
+        "name": "L(9호)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(11호)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-23"
   }
 ]

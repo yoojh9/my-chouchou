@@ -2772,5 +2772,59 @@
       }
     ],
     "mfg_date": "2026-05-01"
+  },
+  {
+    "id": "2604005196",
+    "brand": "나이스미츄",
+    "name": "나이스미츄.도그티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/38C1776842105/1_38_4381776842105.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/38C1776842105/1_38_4381776842105.jpg",
+      "https://img2.kidsvillage.co.kr/38C1776842105/2_38_3921776842105.jpg",
+      "https://img2.kidsvillage.co.kr/38C1776842105/3_38_6831776842105.jpg",
+      "https://img2.kidsvillage.co.kr/38C1776842105/4_38_9321776842105.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-04-22"
   }
 ]

@@ -74,5 +74,49 @@
       }
     ],
     "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2604006448",
+    "brand": "메이드블루",
+    "name": "메이드블루.무지개스마일",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776345191/1_2_5161776345191.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "ADULT",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-04-16"
   }
 ]
