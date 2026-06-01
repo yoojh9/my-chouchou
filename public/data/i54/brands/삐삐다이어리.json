@@ -1422,5 +1422,109 @@
       }
     ],
     "mfg_date": "2026-04-05"
+  },
+  {
+    "id": "2606010025",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.베이직티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780251983/1_4_5561780251983.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606010030",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.랩통바지",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780251982/1_3_1711780251982.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606010041",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.래쉬가드레이어드티",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780251980/1_2_561780251980.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-01"
   }
 ]
