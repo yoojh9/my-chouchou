@@ -1198,5 +1198,37 @@
       }
     ],
     "mfg_date": "2026-04-06"
+  },
+  {
+    "id": "2606020091",
+    "brand": "러블리",
+    "name": "러블리.15번원피스",
+    "price_sale": 52800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780377451/1_2_251780377451.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
   }
 ]

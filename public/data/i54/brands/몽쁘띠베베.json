@@ -762,5 +762,113 @@
       }
     ],
     "mfg_date": "2026-04-02"
+  },
+  {
+    "id": "2606020040",
+    "brand": "몽쁘띠베베",
+    "name": "몽쁘띠베베.로즈플라워슈트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780373953/1_4_4381780373953.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6~12m)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12~18m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020064",
+    "brand": "몽쁘띠베베",
+    "name": "몽쁘띠베베.로렌블라우스",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780373951/1_3_5761780373951.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020093",
+    "brand": "몽쁘띠베베",
+    "name": "몽쁘띠베베.드메르원피스",
+    "price_sale": 36800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780373950/1_2_8691780373950.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
   }
 ]

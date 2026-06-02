@@ -746,5 +746,129 @@
       }
     ],
     "mfg_date": "2026-04-27"
+  },
+  {
+    "id": "2606020037",
+    "brand": "피넛앤버터",
+    "name": "피넛앤버터.벌룬터디그팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780406668/1_4_9651780406668.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "21",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020061",
+    "brand": "피넛앤버터",
+    "name": "피넛앤버터.메쉬양면나시",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780406668/1_3_8521780406668.jpg",
+    "colors": [
+      {
+        "name": "그레이블랙",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "21",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020090",
+    "brand": "피넛앤버터",
+    "name": "피넛앤버터.메쉬반바지",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780406667/1_2_2001780406667.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "21",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-02"
   }
 ]

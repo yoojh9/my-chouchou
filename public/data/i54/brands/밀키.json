@@ -578,5 +578,117 @@
       }
     ],
     "mfg_date": "2026-04-02"
+  },
+  {
+    "id": "2606020045",
+    "brand": "밀키",
+    "name": "밀키.패밀리아이스넥쿨러",
+    "price_sale": 11200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780339226/1_4_8541780339226.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S아동",
+        "add_price": 0
+      },
+      {
+        "name": "M(8세~성인)",
+        "add_price": 0
+      },
+      {
+        "name": "L(성인남성용)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020069",
+    "brand": "밀키",
+    "name": "밀키.썸머래쉬가드",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780339226/1_3_451780339226.jpg",
+    "colors": [
+      {
+        "name": "도트핑크",
+        "add_price": 0
+      },
+      {
+        "name": "도트블루",
+        "add_price": 0
+      },
+      {
+        "name": "도트옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "체크핑크",
+        "add_price": 0
+      },
+      {
+        "name": "체크블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
+  },
+  {
+    "id": "2606020098",
+    "brand": "밀키",
+    "name": "밀키.비치볼2개세트",
+    "price_sale": 8000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780339225/1_2_7721780339225.jpg",
+    "colors": [
+      {
+        "name": "유니콘",
+        "add_price": 0
+      },
+      {
+        "name": "플라밍고",
+        "add_price": 0
+      },
+      {
+        "name": "블루펄",
+        "add_price": 0
+      },
+      {
+        "name": "실버펄",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(30~40cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-02"
   }
 ]
