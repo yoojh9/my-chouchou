@@ -37,7 +37,7 @@ html, body {
 
 /* ── Home Header ── */
 .home-header {
-  padding: 28px 20px 20px;
+  padding: 28px 20px 16px;
   background: var(--white);
   border-bottom: 1px solid var(--border);
   text-align: center;
@@ -58,6 +58,33 @@ html, body {
   margin-top: 5px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
+}
+
+.sort-toggle {
+  display: inline-flex;
+  margin-top: 12px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.sort-toggle__btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--gray);
+  padding: 5px 14px;
+  letter-spacing: 0.02em;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s, color 0.15s;
+}
+
+.sort-toggle__btn--active {
+  background: var(--ink);
+  color: var(--white);
 }
 
 /* ── Navigation Header (brand / product pages) ── */

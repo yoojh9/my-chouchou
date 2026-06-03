@@ -72,12 +72,18 @@ function brandCardHTML(brand) {
     </div>`
 }
 
+let sortMode = 'alpha'
+
 export async function renderHome(app) {
   app.innerHTML = `
     <div class="home-header">
       <div class="home-header__logo">마이슈슈</div>
+      <div class="sort-toggle" id="sort-toggle">
+        <button class="sort-toggle__btn${sortMode === 'alpha' ? ' sort-toggle__btn--active' : ''}" data-sort="alpha">ㄱㄴㄷ</button>
+        <button class="sort-toggle__btn${sortMode === 'date' ? ' sort-toggle__btn--active' : ''}" data-sort="date">최신순</button>
+      </div>
     </div>
-    <div class="page page--indexed" id="brand-list">
+    <div class="page" id="brand-list">
       ${skeletonCards()}
     </div>
     <div class="scroll-index" id="scroll-index"></div>`
@@ -99,33 +105,53 @@ export async function renderHome(app) {
     return
   }
 
-  const sorted = [...brands].sort((a, b) => a.name.localeCompare(b.name, "ko"))
+  const list     = document.getElementById("brand-list")
+  const indexEl  = document.getElementById("scroll-index")
+  const toggleEl = document.getElementById("sort-toggle")
 
-  // 초성별 그룹핑
-  const groups = new Map()
-  for (const brand of sorted) {
-    const key = getInitial(brand.name)
-    if (!groups.has(key)) groups.set(key, [])
-    groups.get(key).push(brand)
+  function renderAlpha() {
+    const sorted = [...brands].sort((a, b) => a.name.localeCompare(b.name, "ko"))
+    const groups = new Map()
+    for (const brand of sorted) {
+      const key = getInitial(brand.name)
+      if (!groups.has(key)) groups.set(key, [])
+      groups.get(key).push(brand)
+    }
+    const sections = SECTION_ORDER.filter(s => groups.has(s))
+
+    list.classList.add("page--indexed")
+    list.innerHTML = sections.map(s => `
+      <section class="brand-section" data-section="${s}">
+        <div class="brand-section__header">${s}</div>
+        <div class="brand-grid">
+          ${groups.get(s).map(brandCardHTML).join("")}
+        </div>
+      </section>`).join("")
+
+    indexEl.innerHTML = sections.map(s =>
+      `<span class="scroll-index__item" data-section="${s}">${s}</span>`
+    ).join("")
+    indexEl.style.display = ""
+    positionIndex()
   }
-  const sections = SECTION_ORDER.filter(s => groups.has(s))
 
-  const list    = document.getElementById("brand-list")
-  const indexEl = document.getElementById("scroll-index")
+  function renderDate() {
+    const sorted = [...brands].sort((a, b) => {
+      const da = a.latest_mfg_date ? new Date(a.latest_mfg_date) : new Date(0)
+      const db = b.latest_mfg_date ? new Date(b.latest_mfg_date) : new Date(0)
+      return db - da
+    })
 
-  // 섹션 렌더링
-  list.innerHTML = sections.map(s => `
-    <section class="brand-section" data-section="${s}">
-      <div class="brand-section__header">${s}</div>
-      <div class="brand-grid">
-        ${groups.get(s).map(brandCardHTML).join("")}
-      </div>
-    </section>`).join("")
+    list.classList.remove("page--indexed")
+    list.innerHTML = `<div class="brand-grid">${sorted.map(brandCardHTML).join("")}</div>`
+    indexEl.innerHTML = ""
+    indexEl.style.display = "none"
+  }
 
-  // 인덱스 렌더링
-  indexEl.innerHTML = sections.map(s =>
-    `<span class="scroll-index__item" data-section="${s}">${s}</span>`
-  ).join("")
+  function renderList() {
+    if (sortMode === 'alpha') renderAlpha()
+    else renderDate()
+  }
 
   // 인덱스를 #app 오른쪽 엣지 기준으로 위치 조정 (스크롤바 겹침 방지)
   function positionIndex() {
@@ -142,6 +168,7 @@ export async function renderHome(app) {
       window.removeEventListener("scroll", updateActive)
       return
     }
+    if (sortMode !== 'alpha') return
     let active = null
     for (const sec of list.querySelectorAll(".brand-section")) {
       if (sec.getBoundingClientRect().top <= 56) active = sec.dataset.section
@@ -151,7 +178,6 @@ export async function renderHome(app) {
     )
   }
   window.addEventListener("scroll", updateActive, { passive: true })
-  updateActive()
 
   // 플로팅 버블 (드래그 중 현재 글자 표시)
   const bubble = document.createElement("div")
@@ -209,6 +235,24 @@ export async function renderHome(app) {
     dragSection = null
     hideBubble()
   })
+
+  // 정렬 토글
+  toggleEl.addEventListener("click", e => {
+    const btn = e.target.closest(".sort-toggle__btn")
+    if (!btn) return
+    const mode = btn.dataset.sort
+    if (mode === sortMode) return
+    sortMode = mode
+    toggleEl.querySelectorAll(".sort-toggle__btn").forEach(b =>
+      b.classList.toggle("sort-toggle__btn--active", b.dataset.sort === mode)
+    )
+    window.scrollTo({ top: 0, behavior: "instant" })
+    renderList()
+    updateActive()
+  })
+
+  renderList()
+  updateActive()
 
   // 브랜드 카드 클릭
   list.addEventListener("click", e => {
