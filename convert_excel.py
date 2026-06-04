@@ -1,0 +1,321 @@
+"""Excel → i54 브랜드별 JSON 누적 변환 스크립트
+
+브랜드별로 두 파일을 생성한다:
+  {brand}.json      — 목록용 (detail_images 제외, 빠른 로드)
+  {brand}.full.json — 상세용 (전체 필드)
+
+Usage:
+  python3 convert_excel.py data/2026-05-27.xlsx   # 새 엑셀 누적
+  python3 convert_excel.py                         # data/ 목록에서 선택
+  python3 convert_excel.py --rebuild               # 기존 .json → listing/.full 분리 재생성
+  python3 convert_excel.py --purge 2026-05-21      # 해당 날짜 이하 상품 전체 삭제
+  python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"  # 특정 상품 삭제
+"""
+import sys
+import openpyxl
+import json
+import re
+import os
+from pathlib import Path
+from collections import defaultdict
+
+BRANDS_DIR = "public/data/i54/brands"
+BRANDS_JSON = "public/data/brands.json"
+ITEMS_DIR = "data"
+
+LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors", "sizes", "mfg_date"}
+
+
+def get_id_prefix(xlsx_path: str) -> str:
+    """파일명에서 ID 접두어 추출.
+    2026-05.xlsx    → '260500'
+    2026-05-27.xlsx → '260527'
+    """
+    stem = Path(xlsx_path).stem
+    parts = stem.split("-")
+    if len(parts) == 3:
+        return f"{parts[0][2:]}{parts[1]}{parts[2]}"
+    if len(parts) == 2:
+        return f"{parts[0][2:]}{parts[1]}00"
+    return re.sub(r"\D", "", stem)[:6]
+
+
+def load_brand(brand: str) -> list:
+    """.full.json 우선 로드, 없으면 .json (마이그레이션 대응)."""
+    for suffix in (".full.json", ".json"):
+        path = os.path.join(BRANDS_DIR, f"{brand}{suffix}")
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+    return []
+
+
+def save_brand(brand: str, products: list) -> None:
+    """전체 데이터는 .full.json, 목록용은 .json 으로 분리 저장."""
+    full_path = os.path.join(BRANDS_DIR, f"{brand}.full.json")
+    with open(full_path, "w", encoding="utf-8") as f:
+        json.dump(products, f, ensure_ascii=False, indent=2)
+
+    listing = [{k: v for k, v in p.items() if k in LISTING_FIELDS} for p in products]
+    listing_path = os.path.join(BRANDS_DIR, f"{brand}.json")
+    with open(listing_path, "w", encoding="utf-8") as f:
+        json.dump(listing, f, ensure_ascii=False, indent=2)
+
+
+def parse_options(opt_name, opt_val, opt_price):
+    colors, sizes = [], []
+    if not opt_name or not opt_val:
+        return colors, sizes
+
+    names = [n.strip() for n in re.split(r"\r?\n", str(opt_name)) if n.strip()]
+    vals_parts = re.split(r"\r?\n", str(opt_val))
+    price_parts = re.split(r"\r?\n", str(opt_price)) if opt_price else []
+
+    for i, name in enumerate(names):
+        raw_vals = vals_parts[i] if i < len(vals_parts) else ""
+        vals = [v.strip() for v in raw_vals.split(",") if v.strip()]
+
+        prices = []
+        if i < len(price_parts) and price_parts[i].strip():
+            try:
+                prices = [int(float(p.strip())) for p in price_parts[i].split(",") if p.strip()]
+            except ValueError:
+                pass
+        while len(prices) < len(vals):
+            prices.append(0)
+
+        options = [{"name": v, "add_price": prices[j]} for j, v in enumerate(vals)]
+        if "색상" in name:
+            colors = options
+        elif "사이즈" in name:
+            sizes = options
+
+    return colors, sizes
+
+
+def extract_detail_images(html) -> list:
+    if not html:
+        return []
+    return re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
+
+
+def pick_xlsx(items_dir: str) -> str:
+    files = sorted(Path(items_dir).glob("*.xlsx"))
+    if not files:
+        print(f"오류: {items_dir} 에 xlsx 파일이 없습니다.")
+        sys.exit(1)
+    if len(files) == 1:
+        print(f"자동 선택: {files[0]}")
+        return str(files[0])
+    print("변환할 파일을 선택하세요:")
+    for i, f in enumerate(files, 1):
+        print(f"  {i}. {f.name}")
+    while True:
+        try:
+            n = int(input("번호 입력: "))
+            if 1 <= n <= len(files):
+                return str(files[n - 1])
+        except (ValueError, KeyboardInterrupt):
+            sys.exit(0)
+
+
+def rebuild_brands_json() -> None:
+    """listing .json 파일들을 읽어 brands.json 재생성."""
+    brands_json = []
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if fname.endswith(".full.json") or not fname.endswith(".json"):
+            continue
+        brand = fname[:-5]
+        with open(os.path.join(BRANDS_DIR, fname), encoding="utf-8") as f:
+            products = json.load(f)
+        if not products:
+            continue
+        thumbs = [p["thumbnail_url"] for p in products if p.get("thumbnail_url")][:3]
+        dates = [p["mfg_date"] for p in products if p.get("mfg_date")]
+        brands_json.append({
+            "id": brand,
+            "name": brand,
+            "total": len(products),
+            "preview_thumbnails": thumbs,
+            "latest_mfg_date": max(dates) if dates else "",
+        })
+    with open(BRANDS_JSON, "w", encoding="utf-8") as f:
+        json.dump(brands_json, f, ensure_ascii=False, indent=2)
+    print(f"brands.json 갱신: {len(brands_json)}개 브랜드")
+
+
+def rebuild_split() -> None:
+    """기존 .json (full data) → listing .json + .full.json 으로 분리 재생성."""
+    print("기존 브랜드 파일 분리 재생성 중...")
+    count = 0
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if fname.endswith(".full.json") or not fname.endswith(".json"):
+            continue
+        brand = fname[:-5]
+        with open(os.path.join(BRANDS_DIR, fname), encoding="utf-8") as f:
+            products = json.load(f)
+        save_brand(brand, products)
+        print(f"  {brand}: {len(products)}개")
+        count += 1
+    rebuild_brands_json()
+    print(f"\n완료: {count}개 브랜드 분리 완료")
+
+
+def delete_items(names: list) -> None:
+    """지정한 name 값을 가진 상품을 모든 브랜드 파일에서 제거.
+    python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"
+    """
+    target = set(names)
+    removed_total = 0
+    not_found = set(target)
+
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if not fname.endswith(".full.json"):
+            continue
+        brand = fname[:-10]
+        path = os.path.join(BRANDS_DIR, fname)
+        with open(path, encoding="utf-8") as f:
+            products = json.load(f)
+
+        kept = [p for p in products if p.get("name") not in target]
+        removed = len(products) - len(kept)
+
+        if removed > 0:
+            save_brand(brand, kept)
+            found_names = [p["name"] for p in products if p.get("name") in target]
+            for n in found_names:
+                not_found.discard(n)
+            print(f"  {brand}: -{removed}개 제거")
+            removed_total += removed
+
+    if not_found:
+        for n in sorted(not_found):
+            print(f"  경고: '{n}' 를 찾지 못했습니다.")
+
+    if removed_total:
+        rebuild_brands_json()
+    print(f"\n완료: {removed_total}개 제거")
+
+
+def purge_before(cutoff_date: str) -> None:
+    """cutoff_date 이하 mfg_date 를 가진 상품을 모든 브랜드 파일에서 제거.
+    python3 convert_excel.py --purge 2026-05-21
+    """
+    import re as _re
+    if not _re.match(r"\d{4}-\d{2}-\d{2}", cutoff_date):
+        print(f"오류: 날짜 형식이 올바르지 않습니다 (예: 2026-05-21)")
+        sys.exit(1)
+
+    print(f"{cutoff_date} 이하 상품 제거 중...")
+    removed_total = kept_total = 0
+    affected = 0
+
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if not fname.endswith(".full.json"):
+            continue
+        brand = fname[:-10]
+        path = os.path.join(BRANDS_DIR, fname)
+        with open(path, encoding="utf-8") as f:
+            products = json.load(f)
+
+        kept = [p for p in products if p.get("mfg_date", "") > cutoff_date]
+        removed = len(products) - len(kept)
+
+        if removed > 0:
+            save_brand(brand, kept)
+            print(f"  {brand}: -{removed}개 제거 (잔여 {len(kept)}개)")
+            removed_total += removed
+            affected += 1
+        kept_total += len(kept)
+
+    rebuild_brands_json()
+    print(f"\n완료: {affected}개 브랜드에서 {removed_total}개 제거, {kept_total}개 유지")
+
+
+def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "--rebuild":
+        rebuild_split()
+        return
+
+    if len(sys.argv) > 2 and sys.argv[1] == "--purge":
+        purge_before(sys.argv[2])
+        return
+
+    if len(sys.argv) > 2 and sys.argv[1] == "--delete":
+        delete_items(sys.argv[2:])
+        return
+
+    xlsx_path = sys.argv[1] if len(sys.argv) > 1 else pick_xlsx(ITEMS_DIR)
+
+    if not os.path.exists(xlsx_path):
+        print(f"오류: {xlsx_path} 파일을 찾을 수 없습니다.")
+        sys.exit(1)
+
+    id_prefix = get_id_prefix(xlsx_path)
+    print(f"처리 중: {xlsx_path}  (ID 접두어: {id_prefix})")
+
+    wb = openpyxl.load_workbook(xlsx_path)
+    ws = wb.active
+
+    new_by_brand: dict[str, list] = defaultdict(list)
+    for row_idx in range(3, ws.max_row + 1):
+        row = ws[row_idx]
+        brand = (row[25].value or "").strip()
+        name = (row[2].value or "").strip()
+        if not brand or not name:
+            continue
+
+        price_str = str(row[4].value or "0").strip()
+        try:
+            price_sale = int(float(price_str))
+        except ValueError:
+            price_sale = 0
+
+        colors, sizes = parse_options(row[13].value, row[14].value, row[15].value)
+        thumbnail_url = (row[22].value or "").strip()
+        detail_images = extract_detail_images(row[24].value)
+
+        mfg_date = str(row[27].value or "").strip()[:10]
+
+        new_by_brand[brand].append({
+            "id": f"{id_prefix}{row_idx - 2:04d}",
+            "brand": brand,
+            "name": f"{brand}.{name}",
+            "price_sale": price_sale,
+            "thumbnail_url": thumbnail_url,
+            "detail_images": detail_images,
+            "colors": colors,
+            "sizes": sizes,
+            "mfg_date": mfg_date,
+        })
+
+    os.makedirs(BRANDS_DIR, exist_ok=True)
+    added_total = skipped_total = 0
+
+    for brand, new_products in new_by_brand.items():
+        existing = load_brand(brand)
+        existing_keys = {p["name"] for p in existing}
+
+        # 파일 내 중복 + 기존 데이터 중복 모두 제거
+        seen = set()
+        to_add = []
+        for p in new_products:
+            if p["name"] not in existing_keys and p["name"] not in seen:
+                to_add.append(p)
+                seen.add(p["name"])
+        skipped = len(new_products) - len(to_add)
+
+        if to_add:
+            save_brand(brand, existing + to_add)
+
+        added_total += len(to_add)
+        skipped_total += skipped
+        status = f"+{len(to_add)} 추가" + (f", {skipped} 중복 스킵" if skipped else "")
+        print(f"  {brand}: {status}  (총 {len(existing) + len(to_add)}개)")
+
+    rebuild_brands_json()
+    print(f"\n완료: +{added_total}개 추가, {skipped_total}개 중복 스킵")
+
+
+if __name__ == "__main__":
+    main()
