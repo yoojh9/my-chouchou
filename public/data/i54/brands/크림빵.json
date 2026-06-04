@@ -2718,5 +2718,61 @@
       }
     ],
     "mfg_date": "2026-05-07"
+  },
+  {
+    "id": "2606030084",
+    "brand": "크림빵",
+    "name": "크림빵.썸머나시셋업",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780466838/1_2_8111780466838.jpg",
+    "colors": [
+      {
+        "name": "메란지그레이",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "콩블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]

@@ -118,5 +118,121 @@
       }
     ],
     "mfg_date": "2026-04-16"
+  },
+  {
+    "id": "2606030053",
+    "brand": "메이드블루",
+    "name": "메이드블루.체크캉캉스커트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780468442/1_4_3191780468442.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030068",
+    "brand": "메이드블루",
+    "name": "메이드블루.긴고쟁이팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780468442/1_3_9861780468442.jpg",
+    "colors": [
+      {
+        "name": "토끼",
+        "add_price": 0
+      },
+      {
+        "name": "병아리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030083",
+    "brand": "메이드블루",
+    "name": "메이드블루.6부팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780468441/1_2_771780468441.jpg",
+    "colors": [
+      {
+        "name": "딸기",
+        "add_price": 0
+      },
+      {
+        "name": "바나나",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]

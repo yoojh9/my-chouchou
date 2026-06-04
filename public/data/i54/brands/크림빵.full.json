@@ -3484,5 +3484,79 @@
       }
     ],
     "mfg_date": "2026-05-07"
+  },
+  {
+    "id": "2606030084",
+    "brand": "크림빵",
+    "name": "크림빵.썸머나시셋업",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780466838/1_2_8111780466838.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1780466838/1_2_8111780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/2_2_6611780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/3_2_6271780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/4_2_3771780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/5_2_6471780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/6_2_5451780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/7_2_2001780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/8_2_9291780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/9_2_8831780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/10_2_8211780466838.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/11_2_8211780466839.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/12_2_7471780466839.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/13_2_4931780466839.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/14_2_121780466839.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/15_2_8671780466839.jpg",
+      "https://img2.kidsvillage.co.kr/2C1780466838/16_2_4651780466839.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지그레이",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "콩블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]

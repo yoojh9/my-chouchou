@@ -746,5 +746,121 @@
       }
     ],
     "mfg_date": "2026-04-16"
+  },
+  {
+    "id": "2606030052",
+    "brand": "새로빈",
+    "name": "새로빈.플리츠상하세트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780484729/1_4_7971780484729.jpg",
+    "colors": [
+      {
+        "name": "도트",
+        "add_price": 0
+      },
+      {
+        "name": "플라워",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030067",
+    "brand": "새로빈",
+    "name": "새로빈.줄무늬끈나시실내복",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780484728/1_3_2651780484728.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030082",
+    "brand": "새로빈",
+    "name": "새로빈.끈나시블루머상하세트",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780484728/1_2_7741780484728.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]

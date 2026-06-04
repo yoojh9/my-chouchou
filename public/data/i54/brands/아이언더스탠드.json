@@ -718,5 +718,145 @@
       }
     ],
     "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2606030042",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.핀코트랍빠나시",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780426411/1_5_451780426411.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030056",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.플라워팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780426410/1_4_9921780426410.jpg",
+    "colors": [
+      {
+        "name": "오렌지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030071",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.스트라이프스트링팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780426409/1_3_6041780426409.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606030087",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.그라데이션원피스",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780426408/1_2_4091780426408.jpg",
+    "colors": [
+      {
+        "name": "스카이핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]

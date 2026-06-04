@@ -50,5 +50,57 @@
       }
     ],
     "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606030069",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.레몬티셔츠",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780466839/1_3_9221780466839.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/3C1780466839/1_3_9221780466839.jpg",
+      "https://img2.kidsvillage.co.kr/3C1780466839/2_3_4851780466839.jpg",
+      "https://img2.kidsvillage.co.kr/3C1780466839/3_3_4761780466839.jpg",
+      "https://img2.kidsvillage.co.kr/3C1780466839/4_3_4941780466839.jpg",
+      "https://img2.kidsvillage.co.kr/3C1780466839/5_3_7781780466839.jpg",
+      "https://img2.kidsvillage.co.kr/3C1780466839/6_3_1861780466839.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-03"
   }
 ]
