@@ -67,6 +67,42 @@ python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다�
 
 ---
 
+## 깨진 이미지 상품 삭제
+
+썸네일 URL에 HTTP 요청을 보내 깨진 상품을 찾아 자동 삭제한다.
+
+```bash
+python3 check_broken_thumbnails.py
+```
+
+삭제 전에 dry-run으로 먼저 확인할 수 있다.
+
+```bash
+python3 check_broken_thumbnails.py --dry-run
+```
+
+### 삭제 기준 선택
+
+| 옵션 | 동작 |
+|------|------|
+| `--mode all` (기본) | 썸네일 + 상세이미지 **전부** 깨진 경우만 삭제 |
+| `--mode thumbnail` | 썸네일만 깨져도 바로 삭제 |
+
+```bash
+python3 check_broken_thumbnails.py --mode thumbnail
+python3 check_broken_thumbnails.py --mode thumbnail --dry-run
+```
+
+삭제 시 `brands/{브랜드}.json`, `brands/{브랜드}.full.json`, `brands.json`, `soldout.json`이 모두 함께 갱신된다. 브랜드의 모든 상품이 삭제되면 `brands.json`에서 해당 브랜드도 제거된다.
+
+동시 요청 수는 `--workers`로 조정할 수 있다 (기본 10).
+
+```bash
+python3 check_broken_thumbnails.py --workers 20
+```
+
+---
+
 ## 가격 검증
 
 구글 폼으로 들어온 주문서의 가격이 맞는지 확인할 수 있다.
