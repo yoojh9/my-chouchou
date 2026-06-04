@@ -5,7 +5,6 @@ public/data/**/*.migrated
 
 # 엑셀 원본 및 변환 스크립트 (로컬 전용)
 /data/
-order.md
 
 # 크롤러
 crawler/.env
