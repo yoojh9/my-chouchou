@@ -21,6 +21,7 @@ from collections import defaultdict
 
 BRANDS_DIR = "public/data/i54/brands"
 BRANDS_JSON = "public/data/brands.json"
+SOLDOUT_JSON = "public/data/soldout.json"
 ITEMS_DIR = "data"
 
 LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors", "sizes", "mfg_date"}
@@ -144,6 +145,19 @@ def rebuild_brands_json() -> None:
     print(f"brands.json 갱신: {len(brands_json)}개 브랜드")
 
 
+def clean_soldout(delete_ids: set) -> None:
+    """삭제된 상품 ID를 soldout.json에서 제거."""
+    if not delete_ids or not os.path.exists(SOLDOUT_JSON):
+        return
+    with open(SOLDOUT_JSON, encoding="utf-8") as f:
+        soldout = json.load(f)
+    cleaned = [sid for sid in soldout if sid not in delete_ids]
+    if len(cleaned) != len(soldout):
+        with open(SOLDOUT_JSON, "w", encoding="utf-8") as f:
+            json.dump(cleaned, f, ensure_ascii=False, indent=2)
+        print(f"soldout.json: {len(soldout) - len(cleaned)}개 제거")
+
+
 def rebuild_split() -> None:
     """기존 .json (full data) → listing .json + .full.json 으로 분리 재생성."""
     print("기존 브랜드 파일 분리 재생성 중...")
@@ -168,6 +182,7 @@ def delete_items(names: list) -> None:
     target = set(names)
     removed_total = 0
     not_found = set(target)
+    delete_ids = set()
 
     for fname in sorted(os.listdir(BRANDS_DIR)):
         if not fname.endswith(".full.json"):
@@ -182,9 +197,10 @@ def delete_items(names: list) -> None:
 
         if removed > 0:
             save_brand(brand, kept)
-            found_names = [p["name"] for p in products if p.get("name") in target]
-            for n in found_names:
-                not_found.discard(n)
+            found = [p for p in products if p.get("name") in target]
+            for p in found:
+                not_found.discard(p["name"])
+                delete_ids.add(p["id"])
             print(f"  {brand}: -{removed}개 제거")
             removed_total += removed
 
@@ -194,6 +210,7 @@ def delete_items(names: list) -> None:
 
     if removed_total:
         rebuild_brands_json()
+        clean_soldout(delete_ids)
     print(f"\n완료: {removed_total}개 제거")
 
 
@@ -209,6 +226,7 @@ def purge_before(cutoff_date: str) -> None:
     print(f"{cutoff_date} 이하 상품 제거 중...")
     removed_total = kept_total = 0
     affected = 0
+    delete_ids = set()
 
     for fname in sorted(os.listdir(BRANDS_DIR)):
         if not fname.endswith(".full.json"):
@@ -219,16 +237,19 @@ def purge_before(cutoff_date: str) -> None:
             products = json.load(f)
 
         kept = [p for p in products if p.get("mfg_date", "") > cutoff_date]
-        removed = len(products) - len(kept)
+        removed_products = [p for p in products if p.get("mfg_date", "") <= cutoff_date]
+        removed = len(removed_products)
 
         if removed > 0:
             save_brand(brand, kept)
+            delete_ids.update(p["id"] for p in removed_products)
             print(f"  {brand}: -{removed}개 제거 (잔여 {len(kept)}개)")
             removed_total += removed
             affected += 1
         kept_total += len(kept)
 
     rebuild_brands_json()
+    clean_soldout(delete_ids)
     print(f"\n완료: {affected}개 브랜드에서 {removed_total}개 제거, {kept_total}개 유지")
 
 
