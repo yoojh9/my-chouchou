@@ -742,5 +742,105 @@
       }
     ],
     "mfg_date": "2026-06-04"
+  },
+  {
+    "id": "2606050007",
+    "brand": "에이삐",
+    "name": "에이삐.베이비플리츠세트",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780594479/1_4_5221780594479.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~16m)",
+        "add_price": 0
+      },
+      {
+        "name": "L(~24m)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(~32m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606050010",
+    "brand": "에이삐",
+    "name": "에이삐.베이비애플메쉬세트",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780594478/1_3_5881780594478.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~16m)",
+        "add_price": 0
+      },
+      {
+        "name": "L(~24m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606050013",
+    "brand": "에이삐",
+    "name": "에이삐.베이비비엔나세트",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780594477/1_2_9931780594477.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~16m)",
+        "add_price": 0
+      },
+      {
+        "name": "L(~24m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
   }
 ]

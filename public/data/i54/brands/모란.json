@@ -1266,5 +1266,85 @@
       }
     ],
     "mfg_date": "2026-04-09"
+  },
+  {
+    "id": "2606050009",
+    "brand": "모란",
+    "name": "모란.로즈봉봉고쟁이",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780594494/1_3_951780594494.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606050012",
+    "brand": "모란",
+    "name": "모란.라임코코티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780594493/1_2_1261780594493.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
   }
 ]

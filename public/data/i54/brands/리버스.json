@@ -806,5 +806,177 @@
       }
     ],
     "mfg_date": "2026-04-09"
+  },
+  {
+    "id": "2606050001",
+    "brand": "리버스",
+    "name": "리버스.퍼피린넨마스판바지",
+    "price_sale": 36800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1780625591/1_9_9781780625591.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606050002",
+    "brand": "리버스",
+    "name": "리버스.쿨기능성스판팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1780625590/1_8_4481780625590.jpg",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606050003",
+    "brand": "리버스",
+    "name": "리버스.빈츠4부스판바지",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1780625589/1_7_2591780625589.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "백아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-05"
   }
 ]

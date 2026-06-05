@@ -54,5 +54,45 @@
       }
     ],
     "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606050014",
+    "brand": "푸딩",
+    "name": "푸딩.26민소매브라우스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780625591/1_10_5511780625591.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/10C1780625591/1_10_5511780625591.jpg",
+      "https://img2.kidsvillage.co.kr/10C1780625591/2_10_4731780625591.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-05"
   }
 ]
