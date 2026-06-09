@@ -1450,5 +1450,109 @@
       }
     ],
     "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606090053",
+    "brand": "레이커",
+    "name": "레이커.하트자수점프슈트(블루진)",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780974253/1_4_1751780974253.jpg",
+    "colors": [
+      {
+        "name": "블루진",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090070",
+    "brand": "레이커",
+    "name": "레이커.하트자수점프슈트(레드체크)",
+    "price_sale": 33600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780974253/1_3_4401780974253.jpg",
+    "colors": [
+      {
+        "name": "레드체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090088",
+    "brand": "레이커",
+    "name": "레이커.비치클럽나시티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780974253/1_2_911780974253.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "코발트블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
   }
 ]

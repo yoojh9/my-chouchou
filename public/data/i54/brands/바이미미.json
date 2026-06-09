@@ -2070,5 +2070,773 @@
       }
     ],
     "mfg_date": "2026-04-13"
+  },
+  {
+    "id": "2606090005",
+    "brand": "바이미미",
+    "name": "바이미미.빈ns",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780947256/1_9_1561780947256.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090013",
+    "brand": "바이미미",
+    "name": "바이미미.밀짚모자",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780947256/1_8_1151780947256.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(4세~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090022",
+    "brand": "바이미미",
+    "name": "바이미미.미니하트상하",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780947256/1_7_4111780947256.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090032",
+    "brand": "바이미미",
+    "name": "바이미미.멀티꽃원피스",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780947256/1_6_4331780947256.jpg",
+    "colors": [
+      {
+        "name": "오렌지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090044",
+    "brand": "바이미미",
+    "name": "바이미미.로딩캡",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780947256/1_5_5261780947256.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(4세~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090060",
+    "brand": "바이미미",
+    "name": "바이미미.레터링t",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780947256/1_4_4631780947256.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090078",
+    "brand": "바이미미",
+    "name": "바이미미.레인보우원피스",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780947256/1_3_1311780947256.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090096",
+    "brand": "바이미미",
+    "name": "바이미미.달링ns",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780947256/1_2_3131780947256.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090104",
+    "brand": "바이미미",
+    "name": "바이미미.휴가원피스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1780947256/1_21_921780947256.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090106",
+    "brand": "바이미미",
+    "name": "바이미미.홀릭원피스화이트레이스",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1780947256/1_20_4431780947256.jpg",
+    "colors": [
+      {
+        "name": "화이트레이스",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090109",
+    "brand": "바이미미",
+    "name": "바이미미.홀릭원피스레드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780947256/1_19_6631780947256.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090112",
+    "brand": "바이미미",
+    "name": "바이미미.핏콘nb",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1780947256/1_18_1951780947256.jpg",
+    "colors": [
+      {
+        "name": "블루피콧",
+        "add_price": 0
+      },
+      {
+        "name": "레드피콧",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090116",
+    "brand": "바이미미",
+    "name": "바이미미.플레이t",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1780947256/1_17_8761780947256.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090120",
+    "brand": "바이미미",
+    "name": "바이미미.패치캡",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780947256/1_16_971780947256.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(4세~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090124",
+    "brand": "바이미미",
+    "name": "바이미미.크레용pt",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780947256/1_15_1371780947256.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090129",
+    "brand": "바이미미",
+    "name": "바이미미.칼라ns",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1780947256/1_14_8661780947256.jpg",
+    "colors": [
+      {
+        "name": "연두",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090134",
+    "brand": "바이미미",
+    "name": "바이미미.웰치스pt",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780947256/1_13_2761780947256.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090139",
+    "brand": "바이미미",
+    "name": "바이미미.시소데님pt",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780947256/1_12_3691780947256.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "연청st",
+        "add_price": 0
+      },
+      {
+        "name": "중청st",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090144",
+    "brand": "바이미미",
+    "name": "바이미미.스타스커트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780947256/1_11_9571780947256.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090151",
+    "brand": "바이미미",
+    "name": "바이미미.송송햇",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780947256/1_10_6441780947256.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free(4세~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
   }
 ]

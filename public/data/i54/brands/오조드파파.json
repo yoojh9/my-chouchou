@@ -1242,5 +1242,85 @@
       }
     ],
     "mfg_date": "2026-04-14"
+  },
+  {
+    "id": "2606090052",
+    "brand": "오조드파파",
+    "name": "오조드파파.윤슬원피스",
+    "price_sale": 78400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986208/1_4_4861780986208.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      },
+      {
+        "name": "라임",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(맘사이즈)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090068",
+    "brand": "오조드파파",
+    "name": "오조드파파.소르베원피스",
+    "price_sale": 70400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986208/1_3_5881780986208.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "네추럴",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(맘사이즈)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090086",
+    "brand": "오조드파파",
+    "name": "오조드파파.리본트임원피스",
+    "price_sale": 75200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986208/1_2_9671780986208.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(맘사이즈)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
   }
 ]

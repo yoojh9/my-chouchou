@@ -1709,5 +1709,132 @@
       }
     ],
     "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606090053",
+    "brand": "레이커",
+    "name": "레이커.하트자수점프슈트(블루진)",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780974253/1_4_1751780974253.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1780974253/1_4_1751780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780974253/2_4_1151780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780974253/3_4_9311780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780974253/4_4_7191780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780974253/5_4_1641780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780974253/6_4_5731780974253.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루진",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090070",
+    "brand": "레이커",
+    "name": "레이커.하트자수점프슈트(레드체크)",
+    "price_sale": 33600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780974253/1_3_4401780974253.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1780974253/1_3_4401780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780974253/2_3_5691780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780974253/3_3_3021780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780974253/4_3_1881780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780974253/5_3_3391780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780974253/6_3_2231780974253.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090088",
+    "brand": "레이커",
+    "name": "레이커.비치클럽나시티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780974253/1_2_911780974253.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1780974253/1_2_911780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780974253/2_2_481780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780974253/3_2_6861780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780974253/4_2_2131780974253.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780974253/5_2_9081780974253.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "코발트블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
   }
 ]
