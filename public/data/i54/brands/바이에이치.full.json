@@ -923,5 +923,61 @@
       }
     ],
     "mfg_date": "2026-04-20"
+  },
+  {
+    "id": "2606080096",
+    "brand": "바이에이치",
+    "name": "바이에이치.소프트핀턱팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780862081/1_2_3831780862081.png",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1780862081/1_2_3831780862081.png",
+      "https://kidsvillage.co.kr/data/item/2C1780862081/2_2_5171780862081.png",
+      "https://kidsvillage.co.kr/data/item/2C1780862081/3_2_4691780862081.png",
+      "https://kidsvillage.co.kr/data/item/2C1780862081/4_2_4271780862081.png",
+      "https://kidsvillage.co.kr/data/item/2C1780862081/5_2_4401780862081.png",
+      "https://kidsvillage.co.kr/data/item/2C1780862081/6_2_8701780862081.png"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "샌드베이지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-08"
   }
 ]

@@ -462,5 +462,937 @@
       }
     ],
     "mfg_date": "2026-05-01"
+  },
+  {
+    "id": "2606080006",
+    "brand": "다조아",
+    "name": "다조아.컬러팝나시티",
+    "price_sale": 12000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1780815469/1_9_7191780815469.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080014",
+    "brand": "다조아",
+    "name": "다조아.멜로우나시티",
+    "price_sale": 12000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1780815468/1_8_4901780815468.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080023",
+    "brand": "다조아",
+    "name": "다조아.썸머리브나시티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1780815467/1_7_6201780815467.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080032",
+    "brand": "다조아",
+    "name": "다조아.스트로베리나시실내복",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1780815466/1_6_7261780815466.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080042",
+    "brand": "다조아",
+    "name": "다조아.모던나시실내복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780815465/1_5_3011780815465.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080052",
+    "brand": "다조아",
+    "name": "다조아.멀티나시실내복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780815464/1_4_5241780815464.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080064",
+    "brand": "다조아",
+    "name": "다조아.줄줄이나시실내복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780815464/1_3_2011780815464.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080101",
+    "brand": "다조아",
+    "name": "다조아.체리나시실내복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780815463/1_2_2181780815463.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080125",
+    "brand": "다조아",
+    "name": "다조아.플라워나시상하",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1780815485/1_24_8111780815485.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080130",
+    "brand": "다조아",
+    "name": "다조아.테리나시상하",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1780815484/1_23_2331780815484.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "옐로",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080135",
+    "brand": "다조아",
+    "name": "다조아.사과나시상하",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1780815483/1_22_271780815483.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080140",
+    "brand": "다조아",
+    "name": "다조아.레몬나시상하",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1780815482/1_21_2401780815482.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080145",
+    "brand": "다조아",
+    "name": "다조아.쁘띠나시상하",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1780815480/1_20_8931780815480.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080150",
+    "brand": "다조아",
+    "name": "다조아.꽃게나시상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1780815478/1_19_4841780815478.jpg",
+    "colors": [
+      {
+        "name": "오렌지",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080155",
+    "brand": "다조아",
+    "name": "다조아.버터나시상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1780815477/1_18_3071780815477.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080160",
+    "brand": "다조아",
+    "name": "다조아.고래나시상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1780815476/1_17_2611780815476.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080165",
+    "brand": "다조아",
+    "name": "다조아.심플나시상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1780815476/1_16_9421780815476.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080170",
+    "brand": "다조아",
+    "name": "다조아.단가라나시상하",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1780815475/1_15_4311780815475.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080176",
+    "brand": "다조아",
+    "name": "다조아.헬로나시상하",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1780815474/1_14_2741780815474.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080184",
+    "brand": "다조아",
+    "name": "다조아.컬러팝나시상하",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1780815472/1_13_3981780815472.jpg",
+    "colors": [
+      {
+        "name": "옐로",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080192",
+    "brand": "다조아",
+    "name": "다조아.버드나시상하",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1780815471/1_12_6091780815471.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080200",
+    "brand": "다조아",
+    "name": "다조아.스트라이프팬츠",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1780815471/1_11_1661780815471.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
+  },
+  {
+    "id": "2606080208",
+    "brand": "다조아",
+    "name": "다조아.버튼팬츠",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780815470/1_10_1941780815470.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-07"
   }
 ]

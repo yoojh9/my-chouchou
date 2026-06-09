@@ -1782,5 +1782,53 @@
       }
     ],
     "mfg_date": "2026-04-05"
+  },
+  {
+    "id": "2606080095",
+    "brand": "라쿠",
+    "name": "라쿠.썸머특가라셀팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780881434/1_2_4801780881434.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "먹색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-08"
   }
 ]

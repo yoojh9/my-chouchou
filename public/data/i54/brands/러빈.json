@@ -2314,5 +2314,53 @@
       }
     ],
     "mfg_date": "2026-04-02"
+  },
+  {
+    "id": "2606080059",
+    "brand": "러빈",
+    "name": "러빈.바캉스티추가",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780881434/1_3_7361780881434.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-08"
   }
 ]

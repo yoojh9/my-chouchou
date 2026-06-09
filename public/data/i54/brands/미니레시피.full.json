@@ -446,5 +446,104 @@
       }
     ],
     "mfg_date": "2026-04-15"
+  },
+  {
+    "id": "2606080058",
+    "brand": "미니레시피",
+    "name": "미니레시피.솜사탕뷔스티에",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780884288/1_3_9351780884288.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1780884288/1_3_9351780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/2_3_6071780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/3_3_9581780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/4_3_9931780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/5_3_6311780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/6_3_4341780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/7_3_2531780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/8_3_5801780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/9_3_1761780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780884288/10_3_8391780884288.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 3000
+      },
+      {
+        "name": "2XL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-08"
+  },
+  {
+    "id": "2606080094",
+    "brand": "미니레시피",
+    "name": "미니레시피.솜사탕7부레깅스",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780884288/1_2_7941780884288.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1780884288/1_2_7941780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/2_2_8461780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/3_2_4131780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/4_2_7681780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/5_2_2501780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/6_2_7421780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/7_2_1321780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/8_2_5591780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/9_2_7901780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/10_2_4951780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/11_2_971780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/12_2_5721780884288.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780884288/13_2_7681780884288.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 1000
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-06-08"
   }
 ]
