@@ -5510,5 +5510,38 @@
       }
     ],
     "mfg_date": "2026-06-08"
+  },
+  {
+    "id": "2606100046",
+    "brand": "멜멜",
+    "name": "멜멜.논페이드숏블루머",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1781079467/1_5_9281781079467.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1781079467/1_5_9281781079467.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1781079467/2_5_6261781079467.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1781079467/3_5_7161781079467.jpg"
+    ],
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XXS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-10"
   }
 ]
