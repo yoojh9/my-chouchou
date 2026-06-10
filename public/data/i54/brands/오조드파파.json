@@ -1322,5 +1322,53 @@
       }
     ],
     "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2603310144",
+    "brand": "오조드파파",
+    "name": "오조드파파.마쉐스커트(M)",
+    "price_sale": 78400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1774937716/1_3_1031774937716.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(맘사이즈)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-03-31"
+  },
+  {
+    "id": "2603310218",
+    "brand": "오조드파파",
+    "name": "오조드파파.로샤스커트(M)",
+    "price_sale": 57600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1774937715/1_2_7531774937715.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(맘사이즈)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-03-31"
   }
 ]

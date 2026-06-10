@@ -958,5 +958,57 @@
       }
     ],
     "mfg_date": "2026-05-13"
+  },
+  {
+    "id": "2603310001",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) (기획)도비바람막이자켓",
+    "price_sale": 25760,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000AD1774954167/1_2_2171768750559.jpg",
+    "colors": [
+      {
+        "name": "민트스카이",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2100
+      },
+      {
+        "name": "JM",
+        "add_price": 2100
+      },
+      {
+        "name": "JL",
+        "add_price": 2100
+      }
+    ],
+    "mfg_date": "2026-03-31"
   }
 ]

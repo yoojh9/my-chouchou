@@ -1346,5 +1346,141 @@
       }
     ],
     "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2603310093",
+    "brand": "모란",
+    "name": "모란.스마일팝상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1774901502/1_4_9071774901502.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-03-31"
+  },
+  {
+    "id": "2603310145",
+    "brand": "모란",
+    "name": "모란.버터고쟁이",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1774901500/1_3_6121774901500.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-03-31"
+  },
+  {
+    "id": "2603310219",
+    "brand": "모란",
+    "name": "모란.멜로우티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1774901499/1_2_9741774901499.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-03-31"
   }
 ]
