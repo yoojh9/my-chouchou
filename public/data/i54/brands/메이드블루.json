@@ -234,5 +234,125 @@
       }
     ],
     "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606110028",
+    "brand": "메이드블루",
+    "name": "메이드블루.투단가라",
+    "price_sale": 12800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781183207/1_4_5621781183207.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-11"
+  },
+  {
+    "id": "2606110037",
+    "brand": "메이드블루",
+    "name": "메이드블루.꼬깔콘상하",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781183207/1_3_111781183207.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-11"
+  },
+  {
+    "id": "2606110046",
+    "brand": "메이드블루",
+    "name": "메이드블루.미우끈나시",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781183207/1_2_9131781183207.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-11"
   }
 ]

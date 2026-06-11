@@ -110,5 +110,41 @@
       }
     ],
     "mfg_date": "2026-06-08"
+  },
+  {
+    "id": "2606110032",
+    "brand": "푸딩",
+    "name": "푸딩.26여름루아원피스",
+    "price_sale": 44800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781147371/1_4_9081781147371.jpg",
+    "colors": [
+      {
+        "name": "살구핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-11"
   }
 ]

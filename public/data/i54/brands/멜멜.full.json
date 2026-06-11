@@ -5543,5 +5543,57 @@
       }
     ],
     "mfg_date": "2026-06-10"
+  },
+  {
+    "id": "2606110050",
+    "brand": "멜멜",
+    "name": "멜멜.메리골드블루머",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781147371/1_2_6461781147371.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1781147371/1_2_6461781147371.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1781147371/2_2_6281781147371.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1781147371/3_2_1821781147371.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1781147371/4_2_5511781147371.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1781147371/5_2_9271781147371.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1781147371/6_2_7381781147371.jpg"
+    ],
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XXS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-11"
   }
 ]

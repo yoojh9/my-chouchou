@@ -1162,5 +1162,93 @@
       }
     ],
     "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606110041",
+    "brand": "빛나는구름",
+    "name": "빛나는구름.엔젤한복추가",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781147371/1_3_61781147371.jpg",
+    "colors": [
+      {
+        "name": "상하흰색",
+        "add_price": 0
+      },
+      {
+        "name": "상하노랑",
+        "add_price": 0
+      },
+      {
+        "name": "상하핑크",
+        "add_price": 0
+      },
+      {
+        "name": "상하보라",
+        "add_price": 0
+      },
+      {
+        "name": "상하블루",
+        "add_price": 0
+      },
+      {
+        "name": "상하그린",
+        "add_price": 0
+      },
+      {
+        "name": "원피스흰색",
+        "add_price": 0
+      },
+      {
+        "name": "원피스노랑",
+        "add_price": 0
+      },
+      {
+        "name": "원피스핑크",
+        "add_price": 0
+      },
+      {
+        "name": "원피스보라",
+        "add_price": 0
+      },
+      {
+        "name": "원피스블루",
+        "add_price": 0
+      },
+      {
+        "name": "원피스그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-11"
   }
 ]
