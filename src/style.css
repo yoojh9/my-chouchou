@@ -117,8 +117,8 @@ html, body {
   display: none;
 }
 
-.page--search .product-grid {
-  margin-top: 4px;
+.search-results__header {
+  margin: -16px -14px 16px;
 }
 
 .sort-toggle {

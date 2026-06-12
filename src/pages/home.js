@@ -1,5 +1,7 @@
 import { productCardHTML } from './productCard.js'
 
+const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
+
 const CHOSEONG = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ']
 const NORMALIZE  = { 'ㄲ':'ㄱ', 'ㄸ':'ㄷ', 'ㅃ':'ㅂ', 'ㅆ':'ㅅ', 'ㅉ':'ㅈ' }
 const SECTION_ORDER = ['ㄱ','ㄴ','ㄷ','ㄹ','ㅁ','ㅂ','ㅅ','ㅇ','ㅈ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ',
@@ -296,6 +298,22 @@ export async function renderHome(app) {
 
   searchInput.value = searchQuery
 
+  function searchResultsHeaderHTML() {
+    return `
+      <div class="header search-results__header">
+        <button class="header__back" id="search-back-btn" aria-label="뒤로가기">
+          ${BACK_SVG}홈
+        </button>
+        <span class="header__title">검색결과</span>
+      </div>`
+  }
+
+  function exitSearch() {
+    searchInput.value = ""
+    runSearch("")
+    window.scrollTo({ top: 0, behavior: "instant" })
+  }
+
   async function runSearch(query) {
     searchQuery = query
     searchClear.classList.toggle("home-search__clear--hidden", !query)
@@ -312,13 +330,13 @@ export async function renderHome(app) {
     indexEl.style.display = "none"
     list.classList.remove("page--indexed")
     list.classList.add("page--search")
-    list.innerHTML = `<div class="state-empty">검색 중...</div>`
+    list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-empty">검색 중...</div>`
 
     let items, soldoutIds
     try {
       [items, soldoutIds] = await Promise.all([loadSearchIndex(), loadSoldout()])
     } catch (e) {
-      list.innerHTML = `<div class="state-error">검색 데이터를 불러오지 못했습니다.</div>`
+      list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-error">검색 데이터를 불러오지 못했습니다.</div>`
       return
     }
 
@@ -326,10 +344,10 @@ export async function renderHome(app) {
 
     const results = searchProducts(items, query)
     if (!results.length) {
-      list.innerHTML = `<div class="state-empty">검색 결과가 없습니다.</div>`
+      list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-empty">검색 결과가 없습니다.</div>`
       return
     }
-    list.innerHTML = `<div class="product-grid">${results.map(p => productCardHTML(p, p.brand, soldoutIds)).join("")}</div>`
+    list.innerHTML = `${searchResultsHeaderHTML()}<div class="product-grid">${results.map(p => productCardHTML(p, p.brand, soldoutIds)).join("")}</div>`
   }
 
   searchInput.addEventListener("input", e => {
@@ -354,6 +372,7 @@ export async function renderHome(app) {
 
   // 브랜드 카드 / 검색 결과 클릭
   list.addEventListener("click", e => {
+    if (e.target.closest("#search-back-btn")) { exitSearch(); return }
     const product = e.target.closest("[data-href]")
     if (product) { location.hash = product.dataset.href; return }
     const card = e.target.closest(".brand-card")
