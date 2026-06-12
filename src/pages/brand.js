@@ -115,6 +115,8 @@ export async function renderBrand(app, brandId, initialShown = 0) {
     return
   }
 
+  products = products.slice().reverse()
+
   let shown = 0
 
   function renderMore() {

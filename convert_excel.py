@@ -178,7 +178,7 @@ def rebuild_brands_json() -> None:
             products = json.load(f)
         if not products:
             continue
-        thumbs = [p["thumbnail_url"] for p in products if p.get("thumbnail_url")][:3]
+        thumbs = [p["thumbnail_url"] for p in reversed(products) if p.get("thumbnail_url")][:3]
         dates = [p["mfg_date"] for p in products if p.get("mfg_date")]
         brands_json.append({
             "id": brand,
@@ -201,7 +201,7 @@ def rebuild_search_index() -> None:
         brand = fname[:-5]
         with open(os.path.join(BRANDS_DIR, fname), encoding="utf-8") as f:
             products = json.load(f)
-        for p in products:
+        for p in reversed(products):
             index.append({
                 "id": p["id"],
                 "brand": brand,
