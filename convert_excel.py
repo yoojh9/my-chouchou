@@ -105,22 +105,23 @@ def extract_detail_images(html) -> list:
     return re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
 
 
-def download_thumbnails(new_by_brand: dict, xlsx_path: str) -> None:
+def download_thumbnails(new_by_brand: dict) -> None:
     """이번 엑셀에 등장한 모든 상품(중복 스킵 포함)의 썸네일을 로컬에 저장.
-    파일명: {brand}_{엑셀 행 순서대로 1부터 시작하는 인덱스}{확장자}
-    저장 위치: thumbnails/{엑셀파일명}/
+    파일명: {brand}_{상품명}{확장자}
+    저장 위치: thumbnails/
     """
-    out_dir = Path(THUMBNAILS_DIR) / Path(xlsx_path).stem
+    out_dir = Path(THUMBNAILS_DIR)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     tasks = []
     for brand, products in new_by_brand.items():
-        for idx, p in enumerate(products, start=1):
+        for p in products:
             url = p.get("thumbnail_url")
             if not url:
                 continue
+            safe_name = re.sub(r'[\\/:*?"<>|.]', "_", p["name"])
             ext = os.path.splitext(url.split("?")[0])[1] or ".jpg"
-            tasks.append((url, out_dir / f"{brand}_{idx}{ext}"))
+            tasks.append((url, out_dir / f"{safe_name}{ext}"))
 
     def fetch(task):
         url, dest = task
@@ -381,7 +382,7 @@ def main():
             "mfg_date": mfg_date,
         })
 
-    download_thumbnails(new_by_brand, xlsx_path)
+    download_thumbnails(new_by_brand)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
     added_total = skipped_total = 0
