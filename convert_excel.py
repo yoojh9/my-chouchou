@@ -16,8 +16,12 @@ import openpyxl
 import json
 import re
 import os
+import urllib.request
 from pathlib import Path
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
+
+THUMBNAILS_DIR = "thumbnails"
 
 BRANDS_DIR = "public/data/i54/brands"
 BRANDS_JSON = "public/data/brands.json"
@@ -99,6 +103,47 @@ def extract_detail_images(html) -> list:
     if not html:
         return []
     return re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
+
+
+def download_thumbnails(new_by_brand: dict, xlsx_path: str) -> None:
+    """이번 엑셀에 등장한 모든 상품(중복 스킵 포함)의 썸네일을 로컬에 저장.
+    파일명: {brand}_{엑셀 행 순서대로 1부터 시작하는 인덱스}{확장자}
+    저장 위치: thumbnails/{엑셀파일명}/
+    """
+    out_dir = Path(THUMBNAILS_DIR) / Path(xlsx_path).stem
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    tasks = []
+    for brand, products in new_by_brand.items():
+        for idx, p in enumerate(products, start=1):
+            url = p.get("thumbnail_url")
+            if not url:
+                continue
+            ext = os.path.splitext(url.split("?")[0])[1] or ".jpg"
+            tasks.append((url, out_dir / f"{brand}_{idx}{ext}"))
+
+    def fetch(task):
+        url, dest = task
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=10) as resp, open(dest, "wb") as f:
+                f.write(resp.read())
+            return None
+        except Exception as e:
+            return f"{dest.name}: {e}"
+
+    print(f"썸네일 다운로드 중... ({len(tasks)}개 → {out_dir})")
+    errors = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        for result in executor.map(fetch, tasks):
+            if result:
+                errors.append(result)
+
+    print(f"썸네일 저장 완료: {len(tasks) - len(errors)}개")
+    if errors:
+        print(f"  실패 {len(errors)}개:")
+        for e in errors[:10]:
+            print(f"    {e}")
 
 
 def pick_xlsx(items_dir: str) -> str:
@@ -335,6 +380,8 @@ def main():
             "sizes": sizes,
             "mfg_date": mfg_date,
         })
+
+    download_thumbnails(new_by_brand, xlsx_path)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
     added_total = skipped_total = 0
