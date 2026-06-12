@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .DS_Store
+__pycache__/
 public/data/**/*.migrated
 
 # 엑셀 원본 및 변환 스크립트 (로컬 전용)

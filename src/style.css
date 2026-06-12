@@ -62,6 +62,65 @@ html, body {
   text-transform: uppercase;
 }
 
+.home-search {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  margin-top: 14px;
+}
+
+.home-search__input {
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 8px 34px 8px 14px;
+  font-family: inherit;
+  font-size: 13px;
+  color: var(--ink);
+  outline: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.home-search__input::placeholder {
+  color: var(--gray);
+}
+
+.home-search__input:focus {
+  background: var(--white);
+  border-color: var(--ink);
+}
+
+.home-search__input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.home-search__clear {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 50%;
+  background: var(--border);
+  color: var(--gray);
+  font-size: 11px;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.home-search__clear--hidden {
+  display: none;
+}
+
+.page--search .product-grid {
+  margin-top: 4px;
+}
+
 .sort-toggle {
   display: flex;
   gap: 6px;

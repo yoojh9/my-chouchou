@@ -32,6 +32,7 @@ const brandScrollY = {}
 const brandShownCount = {}
 let restoreBrandScroll = null
 let currentBrandGetShown = null
+let lastListHash = '#/'
 
 async function router() {
   const hash = location.hash || '#/'
@@ -57,7 +58,7 @@ async function router() {
     if (slashIdx === -1) return
     const brandId = decodeURIComponent(rest.slice(0, slashIdx))
     const productId = decodeURIComponent(rest.slice(slashIdx + 1))
-    await renderProduct(app, brandId, productId)
+    await renderProduct(app, brandId, productId, lastListHash)
   } else {
     await renderHome(app)
   }
@@ -69,11 +70,13 @@ window.addEventListener('hashchange', (e) => {
 
   if (oldHash === '#/' || oldHash === '#') {
     homeScrollY = window.scrollY
+    lastListHash = '#/'
   } else if (oldHash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(oldHash.slice('#/brand/'.length))
     brandScrollY[brandId] = window.scrollY
     if (currentBrandGetShown) brandShownCount[brandId] = currentBrandGetShown()
     currentBrandGetShown = null
+    lastListHash = oldHash
   }
 
   if (newHash === '#/' || newHash === '#') {

@@ -1,3 +1,5 @@
+import { productCardHTML } from './productCard.js'
+
 const CHOSEONG = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ']
 const NORMALIZE  = { 'ㄲ':'ㄱ', 'ㄸ':'ㄷ', 'ㅃ':'ㅂ', 'ㅆ':'ㅅ', 'ㅉ':'ㅈ' }
 const SECTION_ORDER = ['ㄱ','ㄴ','ㄷ','ㄹ','ㅁ','ㅂ','ㅅ','ㅇ','ㅈ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ',
@@ -73,11 +75,47 @@ function brandCardHTML(brand) {
 }
 
 let sortMode = 'alpha'
+let searchQuery = ''
+
+let searchIndexPromise = null
+function loadSearchIndex() {
+  if (!searchIndexPromise) {
+    searchIndexPromise = fetch('data/search_index.json').then(res => {
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      return res.json()
+    })
+  }
+  return searchIndexPromise
+}
+
+let soldoutPromise = null
+function loadSoldout() {
+  if (!soldoutPromise) {
+    soldoutPromise = fetch('data/soldout.json')
+      .then(res => res.ok ? res.json() : [])
+      .then(arr => new Set(arr.map(String)))
+      .catch(() => new Set())
+  }
+  return soldoutPromise
+}
+
+function searchProducts(items, query) {
+  const tokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean)
+  if (!tokens.length) return []
+  return items.filter(item => {
+    const haystack = `${item.brand} ${item.name}`.toLowerCase()
+    return tokens.every(t => haystack.includes(t))
+  })
+}
 
 export async function renderHome(app) {
   app.innerHTML = `
     <div class="home-header">
       <div class="home-header__logo">마이슈슈</div>
+      <div class="home-search">
+        <input class="home-search__input" id="search-input" type="search" placeholder="브랜드명 또는 상품명 검색" autocomplete="off">
+        <button class="home-search__clear${searchQuery ? '' : ' home-search__clear--hidden'}" id="search-clear" aria-label="검색어 지우기">✕</button>
+      </div>
       <div class="sort-toggle" id="sort-toggle">
         <button class="sort-toggle__btn${sortMode === 'alpha' ? ' sort-toggle__btn--active' : ''}" data-sort="alpha">ㄱㄴㄷ</button>
         <button class="sort-toggle__btn${sortMode === 'date' ? ' sort-toggle__btn--active' : ''}" data-sort="date">최신순</button>
@@ -251,11 +289,73 @@ export async function renderHome(app) {
     updateActive()
   })
 
-  renderList()
-  updateActive()
+  // 검색
+  const searchInput = document.getElementById("search-input")
+  const searchClear = document.getElementById("search-clear")
+  let searchDebounce = null
 
-  // 브랜드 카드 클릭
+  searchInput.value = searchQuery
+
+  async function runSearch(query) {
+    searchQuery = query
+    searchClear.classList.toggle("home-search__clear--hidden", !query)
+
+    if (!query.trim()) {
+      toggleEl.style.display = ""
+      list.classList.remove("page--search")
+      renderList()
+      updateActive()
+      return
+    }
+
+    toggleEl.style.display = "none"
+    indexEl.style.display = "none"
+    list.classList.remove("page--indexed")
+    list.classList.add("page--search")
+    list.innerHTML = `<div class="state-empty">검색 중...</div>`
+
+    let items, soldoutIds
+    try {
+      [items, soldoutIds] = await Promise.all([loadSearchIndex(), loadSoldout()])
+    } catch (e) {
+      list.innerHTML = `<div class="state-error">검색 데이터를 불러오지 못했습니다.</div>`
+      return
+    }
+
+    if (searchInput.value !== query) return
+
+    const results = searchProducts(items, query)
+    if (!results.length) {
+      list.innerHTML = `<div class="state-empty">검색 결과가 없습니다.</div>`
+      return
+    }
+    list.innerHTML = `<div class="product-grid">${results.map(p => productCardHTML(p, p.brand, soldoutIds)).join("")}</div>`
+  }
+
+  searchInput.addEventListener("input", e => {
+    const value = e.target.value
+    searchClear.classList.toggle("home-search__clear--hidden", !value)
+    clearTimeout(searchDebounce)
+    searchDebounce = setTimeout(() => runSearch(value), 200)
+  })
+
+  searchClear.addEventListener("click", () => {
+    searchInput.value = ""
+    runSearch("")
+    searchInput.focus()
+  })
+
+  if (searchQuery.trim()) {
+    await runSearch(searchQuery)
+  } else {
+    renderList()
+    updateActive()
+  }
+
+  // 브랜드 카드 / 검색 결과 클릭
   list.addEventListener("click", e => {
+    const product = e.target.closest("[data-href]")
+    if (product) { location.hash = product.dataset.href; return }
     const card = e.target.closest(".brand-card")
     if (!card) return
     location.hash = `#/brand/${card.dataset.brand}`
@@ -263,6 +363,8 @@ export async function renderHome(app) {
 
   list.addEventListener("keydown", e => {
     if (e.key === "Enter" || e.key === " ") {
+      const product = e.target.closest("[data-href]")
+      if (product) { location.hash = product.dataset.href; return }
       const card = e.target.closest(".brand-card")
       if (!card) return
       location.hash = `#/brand/${card.dataset.brand}`

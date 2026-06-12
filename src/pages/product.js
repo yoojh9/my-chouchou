@@ -76,7 +76,7 @@ function sizeTagsHTML(sizes) {
     </div>`;
 }
 
-export async function renderProduct(app, brandId, productId) {
+export async function renderProduct(app, brandId, productId, backHash) {
   app.innerHTML = `
     <div class="header">
       <button class="header__back" id="back-btn" aria-label="뒤로가기">
@@ -88,7 +88,7 @@ export async function renderProduct(app, brandId, productId) {
     </div>`;
 
   document.getElementById("back-btn").addEventListener("click", () => {
-    location.hash = `#/brand/${encodeURIComponent(brandId)}`;
+    location.hash = backHash || `#/brand/${encodeURIComponent(brandId)}`;
   });
 
   let allProducts, soldoutIds;

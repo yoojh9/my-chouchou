@@ -22,6 +22,7 @@ from collections import defaultdict
 BRANDS_DIR = "public/data/i54/brands"
 BRANDS_JSON = "public/data/brands.json"
 SOLDOUT_JSON = "public/data/soldout.json"
+SEARCH_INDEX_JSON = "public/data/search_index.json"
 ITEMS_DIR = "data"
 
 LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors", "sizes", "mfg_date"}
@@ -145,6 +146,28 @@ def rebuild_brands_json() -> None:
     print(f"brands.json 갱신: {len(brands_json)}개 브랜드")
 
 
+def rebuild_search_index() -> None:
+    """listing .json 파일들을 모아 검색용 search_index.json 생성."""
+    index = []
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if fname.endswith(".full.json") or not fname.endswith(".json"):
+            continue
+        brand = fname[:-5]
+        with open(os.path.join(BRANDS_DIR, fname), encoding="utf-8") as f:
+            products = json.load(f)
+        for p in products:
+            index.append({
+                "id": p["id"],
+                "brand": brand,
+                "name": p.get("name", ""),
+                "price_sale": p.get("price_sale", 0),
+                "thumbnail_url": p.get("thumbnail_url", ""),
+            })
+    with open(SEARCH_INDEX_JSON, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False)
+    print(f"search_index.json 갱신: {len(index)}개 상품")
+
+
 def clean_soldout(delete_ids: set) -> None:
     """삭제된 상품 ID를 soldout.json에서 제거."""
     if not delete_ids or not os.path.exists(SOLDOUT_JSON):
@@ -172,6 +195,7 @@ def rebuild_split() -> None:
         print(f"  {brand}: {len(products)}개")
         count += 1
     rebuild_brands_json()
+    rebuild_search_index()
     print(f"\n완료: {count}개 브랜드 분리 완료")
 
 
@@ -210,6 +234,7 @@ def delete_items(names: list) -> None:
 
     if removed_total:
         rebuild_brands_json()
+        rebuild_search_index()
         clean_soldout(delete_ids)
     print(f"\n완료: {removed_total}개 제거")
 
@@ -249,6 +274,7 @@ def purge_before(cutoff_date: str) -> None:
         kept_total += len(kept)
 
     rebuild_brands_json()
+    rebuild_search_index()
     clean_soldout(delete_ids)
     print(f"\n완료: {affected}개 브랜드에서 {removed_total}개 제거, {kept_total}개 유지")
 
@@ -335,6 +361,7 @@ def main():
         print(f"  {brand}: {status}  (총 {len(existing) + len(to_add)}개)")
 
     rebuild_brands_json()
+    rebuild_search_index()
     print(f"\n완료: +{added_total}개 추가, {skipped_total}개 중복 스킵")
 
 
