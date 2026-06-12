@@ -1370,5 +1370,65 @@
       }
     ],
     "mfg_date": "2026-03-31"
+  },
+  {
+    "id": "2606120012",
+    "brand": "오조드파파",
+    "name": "오조드파파.볼팔찌(오로라)",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781244739/1_4_5321781244739.jpg",
+    "colors": [
+      {
+        "name": "오로라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-12"
+  },
+  {
+    "id": "2606120014",
+    "brand": "오조드파파",
+    "name": "오조드파파.볼팔찌(실버)",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781244739/1_3_201781244739.jpg",
+    "colors": [
+      {
+        "name": "실버",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-12"
+  },
+  {
+    "id": "2606120016",
+    "brand": "오조드파파",
+    "name": "오조드파파.골드링뱅글",
+    "price_sale": 54400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781244739/1_2_9981781244739.jpg",
+    "colors": [
+      {
+        "name": "골드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-12"
   }
 ]
