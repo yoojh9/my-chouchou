@@ -200,9 +200,10 @@ def main():
             print(f"  브랜드 삭제: {brand_name} (상품 0개)")
             continue
 
-        # preview_thumbnails는 썸네일이 정상인 상품 우선, 부족하면 나머지로 채움
-        ok_products = [p for p in remaining if p['id'] in ok_thumbnail_ids]
-        fallback = [p for p in remaining if p['id'] not in ok_thumbnail_ids]
+        # preview_thumbnails는 최신 등록 상품 중 썸네일이 정상인 것 우선, 부족하면 나머지로 채움
+        recent = list(reversed(remaining))
+        ok_products = [p for p in recent if p['id'] in ok_thumbnail_ids]
+        fallback = [p for p in recent if p['id'] not in ok_thumbnail_ids]
         preview_pool = (ok_products + fallback)[:3]
 
         b['total'] = len(remaining)
