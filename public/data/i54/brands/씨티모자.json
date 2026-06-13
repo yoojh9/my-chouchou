@@ -1398,5 +1398,57 @@
       }
     ],
     "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606130026",
+    "brand": "씨티모자",
+    "name": "씨티모자.육각스타일캡",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781285558/1_3_4471781285558.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(5~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130032",
+    "brand": "씨티모자",
+    "name": "씨티모자.공룡꼬리목덮개햇",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781285558/1_2_7981781285558.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(3~6세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
   }
 ]

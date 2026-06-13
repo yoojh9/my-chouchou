@@ -294,5 +294,177 @@
       }
     ],
     "mfg_date": "2026-04-20"
+  },
+  {
+    "id": "2606130016",
+    "brand": "월드모자",
+    "name": "월드모자.지사썬캡(성인)",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1781285584/1_5_6811781285584.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "진베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "10세~성인",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130020",
+    "brand": "월드모자",
+    "name": "월드모자.보넷벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781285584/1_4_181781285584.jpg",
+    "colors": [
+      {
+        "name": "체리핑크",
+        "add_price": 0
+      },
+      {
+        "name": "체리화이트",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "46cm~50cm",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130025",
+    "brand": "월드모자",
+    "name": "월드모자.베어얌체",
+    "price_sale": 13600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781285584/1_3_7231781285584.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(40~43cm)",
+        "add_price": 0
+      },
+      {
+        "name": "M(48~52cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130031",
+    "brand": "월드모자",
+    "name": "월드모자.기능성메쉬육각벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781285584/1_2_5931781285584.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M(52cm)",
+        "add_price": 0
+      },
+      {
+        "name": "L(56cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
   }
 ]

@@ -1518,5 +1518,105 @@
       }
     ],
     "mfg_date": "2026-04-07"
+  },
+  {
+    "id": "2606130024",
+    "brand": "에이디",
+    "name": "에이디.삐삐롱)26SS인견스판반팔파자마ops",
+    "price_sale": 26400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781285669/1_3_4531781285669.jpg",
+    "colors": [
+      {
+        "name": "스윗밤",
+        "add_price": 0
+      },
+      {
+        "name": "버니팜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "60",
+        "add_price": 0
+      },
+      {
+        "name": "65",
+        "add_price": 0
+      },
+      {
+        "name": "70",
+        "add_price": 0
+      },
+      {
+        "name": "75",
+        "add_price": 0
+      },
+      {
+        "name": "80",
+        "add_price": 500
+      },
+      {
+        "name": "85",
+        "add_price": 500
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130030",
+    "brand": "에이디",
+    "name": "에이디.삐삐롱)26SS레이온우븐반팔파자마set",
+    "price_sale": 29600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781285669/1_2_9681781285669.jpg",
+    "colors": [
+      {
+        "name": "너티PK",
+        "add_price": 0
+      },
+      {
+        "name": "너티MT",
+        "add_price": 0
+      },
+      {
+        "name": "너티CR",
+        "add_price": 0
+      },
+      {
+        "name": "너티NV",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "60",
+        "add_price": 0
+      },
+      {
+        "name": "65",
+        "add_price": 0
+      },
+      {
+        "name": "70",
+        "add_price": 0
+      },
+      {
+        "name": "75",
+        "add_price": 0
+      },
+      {
+        "name": "80",
+        "add_price": 1000
+      },
+      {
+        "name": "85",
+        "add_price": 1000
+      },
+      {
+        "name": "90(free)",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-06-13"
   }
 ]
