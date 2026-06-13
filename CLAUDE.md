@@ -73,6 +73,10 @@
 
 사용자가 폼에서 이름·주소·연락처를 직접 입력 후 제출한다.
 
+### 유입경로 추적
+
+`?from=값` 쿼리 파라미터로 사이트에 진입하면 `cart.js`의 `saveSourceFromUrl()`이 localStorage(`mychouchou_source`)에 저장한다. 장바구니 주문서 작성 시 `getSource()`로 읽어와 상품 목록 마지막 줄에 `from 값`으로 추가된다. (예: 노션 페이지별로 `my-chouchou.com/?from=notion1`, `?from=notion2` 식으로 링크 구분)
+
 ## 품절 처리
 
 `soldout.json`의 ID 배열을 `brand.js` / `product.js` 양쪽에서 `Promise.all`로 병렬 로드. `Set`으로 변환해 O(1) 조회. 카드에는 `.soldout-badge` 오버레이, 상세에는 `.soldout-label` 표시.

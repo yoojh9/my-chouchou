@@ -1,4 +1,14 @@
 const CART_KEY = 'mychouchou_cart'
+const SOURCE_KEY = 'mychouchou_source'
+
+export function saveSourceFromUrl() {
+  const from = new URLSearchParams(location.search).get('from')
+  if (from) localStorage.setItem(SOURCE_KEY, from)
+}
+
+export function getSource() {
+  return localStorage.getItem(SOURCE_KEY) || ''
+}
 
 export function getCart() {
   try {

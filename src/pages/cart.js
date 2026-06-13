@@ -1,4 +1,4 @@
-import { getCart, removeFromCart, updateCartItemQty, updateCartBadge, clearCart } from '../cart.js'
+import { getCart, removeFromCart, updateCartItemQty, updateCartBadge, clearCart, getSource } from '../cart.js'
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
@@ -20,6 +20,8 @@ function buildFormUrl(items) {
     const colorPart = item.selectedColor ? ` / ${item.selectedColor}` : ''
     return `${item.name}${colorPart} / ${item.size} / ${qty}개 / ${formatPrice(price * qty)}`
   })
+  const source = getSource()
+  if (source) lines.push(`from ${source}`)
   return `${FORM_URL}?usp=pp_url&${ENTRY_PRODUCTS}=${encodeURIComponent(lines.join('\n'))}`
 }
 
