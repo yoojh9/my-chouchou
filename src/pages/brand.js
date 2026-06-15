@@ -115,7 +115,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
     return
   }
 
-  products = products.slice().reverse()
+  products = products.slice().reverse().sort((a, b) => (b.mfg_date || '').localeCompare(a.mfg_date || ''))
 
   let shown = 0
 

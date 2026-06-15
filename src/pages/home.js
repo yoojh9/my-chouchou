@@ -104,10 +104,12 @@ function loadSoldout() {
 function searchProducts(items, query) {
   const tokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean)
   if (!tokens.length) return []
-  return items.filter(item => {
-    const haystack = `${item.brand} ${item.name}`.toLowerCase()
-    return tokens.every(t => haystack.includes(t))
-  })
+  return items
+    .filter(item => {
+      const haystack = `${item.brand} ${item.name}`.toLowerCase()
+      return tokens.every(t => haystack.includes(t))
+    })
+    .sort((a, b) => (b.mfg_date || '').localeCompare(a.mfg_date || ''))
 }
 
 export async function renderHome(app) {

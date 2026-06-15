@@ -178,7 +178,8 @@ def rebuild_brands_json() -> None:
             products = json.load(f)
         if not products:
             continue
-        thumbs = [p["thumbnail_url"] for p in reversed(products) if p.get("thumbnail_url")][:3]
+        sorted_products = sorted(reversed(products), key=lambda p: p.get("mfg_date", ""), reverse=True)
+        thumbs = [p["thumbnail_url"] for p in sorted_products if p.get("thumbnail_url")][:3]
         dates = [p["mfg_date"] for p in products if p.get("mfg_date")]
         brands_json.append({
             "id": brand,
@@ -208,6 +209,7 @@ def rebuild_search_index() -> None:
                 "name": p.get("name", ""),
                 "price_sale": p.get("price_sale", 0),
                 "thumbnail_url": p.get("thumbnail_url", ""),
+                "mfg_date": p.get("mfg_date", ""),
             })
     with open(SEARCH_INDEX_JSON, "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False)
