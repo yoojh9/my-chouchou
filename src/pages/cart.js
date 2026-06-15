@@ -116,14 +116,18 @@ export function renderCart(app) {
   app.innerHTML = `
     <div class="header">
       <button class="header__back" id="back-btn" aria-label="뒤로가기">
-        ${BACK_SVG}홈
+        ${BACK_SVG}뒤로
       </button>
       <span class="header__title">장바구니</span>
     </div>
     <div id="cart-content" style="padding-bottom:100px"></div>`
 
   document.getElementById('back-btn').addEventListener('click', () => {
-    location.hash = '#/'
+    if (history.length > 1) {
+      history.back()
+    } else {
+      location.hash = '#/'
+    }
   })
 
   document.getElementById('cart-content').addEventListener('click', handleClick(app))
