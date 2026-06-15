@@ -212,7 +212,7 @@ def rebuild_search_index() -> None:
                 "mfg_date": p.get("mfg_date", ""),
             })
     with open(SEARCH_INDEX_JSON, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False)
+        json.dump(index, f, ensure_ascii=False, indent=2)
     print(f"search_index.json 갱신: {len(index)}개 상품")
 
 
