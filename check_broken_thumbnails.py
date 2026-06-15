@@ -20,6 +20,8 @@ import urllib.request
 import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+from convert_excel import rebuild_search_index
+
 DATA_DIR = 'public/data/i54/brands'
 DEFAULT_WORKERS = 10
 TIMEOUT = 10
@@ -216,7 +218,10 @@ def main():
     save_json(brands_path, updated_brands)
     print(f"  저장: {brands_path}")
 
-    # 5단계: soldout.json 정리
+    # 5단계: search_index.json 재생성
+    rebuild_search_index()
+
+    # 6단계: soldout.json 정리
     soldout_path = 'public/data/soldout.json'
     try:
         with open(soldout_path, encoding='utf-8') as f:
