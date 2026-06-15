@@ -251,7 +251,7 @@ def main():
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     out_path = OUT_DIR / f"{brand}_{date.today().isoformat()}.xlsx"
-    write_xlsx(products, out_path)
+    write_xlsx(list(reversed(products)), out_path)
     print(f"\n완료: {out_path} 에 {len(products)}개 상품 저장")
 
 
