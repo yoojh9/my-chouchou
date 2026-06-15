@@ -1644,12 +1644,16 @@
     "mfg_date": "2026-04-11"
   },
   {
-    "id": "2604008392",
+    "id": "2606150395",
     "brand": "파티키즈",
     "name": "파티키즈.말랑끈나시",
     "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1775915198/1_20_2231775915198.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780466841/1_5_9261780466841.jpeg",
     "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
       {
         "name": "아이",
         "add_price": 0
@@ -1701,7 +1705,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-11"
+    "mfg_date": "2026-06-03"
   },
   {
     "id": "2604008603",

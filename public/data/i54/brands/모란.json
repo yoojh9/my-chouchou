@@ -44,11 +44,11 @@
     "mfg_date": "2026-05-14"
   },
   {
-    "id": "2605000780",
+    "id": "2605311649",
     "brand": "모란",
     "name": "모란.타탄첵고쟁이",
     "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778769173/1_5_6211778769173.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779823055/1_3_1421779823055.jpg",
     "colors": [
       {
         "name": "레드",
@@ -81,7 +81,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-05-14"
+    "mfg_date": "2026-05-27"
   },
   {
     "id": "2605000818",
@@ -160,11 +160,11 @@
     "mfg_date": "2026-05-14"
   },
   {
-    "id": "2605001109",
+    "id": "2605311729",
     "brand": "모란",
     "name": "모란.슈가도트티",
     "price_sale": 13600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778089186/1_4_2361778089186.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778769173/1_3_4751778769173.jpg",
     "colors": [
       {
         "name": "민트",
@@ -201,7 +201,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-05-07"
+    "mfg_date": "2026-05-14"
   },
   {
     "id": "2605001172",
@@ -564,11 +564,11 @@
     "mfg_date": "2026-04-09"
   },
   {
-    "id": "2604001357",
+    "id": "26043010315",
     "brand": "모란",
     "name": "모란.페퍼보이티",
     "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1775322073/1_9_5391775322073.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1775673718/1_12_2931775673718.jpg",
     "colors": [
       {
         "name": "블루",
@@ -597,7 +597,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-05"
+    "mfg_date": "2026-04-09"
   },
   {
     "id": "2604001656",
@@ -1000,11 +1000,11 @@
     "mfg_date": "2026-04-13"
   },
   {
-    "id": "2604004964",
+    "id": "26043010880",
     "brand": "모란",
     "name": "모란.하트뿅뿅부츠컷상하",
     "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1775763090/1_3_2831775763090.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776025404/1_10_2551776025404.jpg",
     "colors": [
       {
         "name": "블랙",
@@ -1033,7 +1033,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-10"
+    "mfg_date": "2026-04-13"
   },
   {
     "id": "2604004971",
@@ -1346,5 +1346,41 @@
       }
     ],
     "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606150707",
+    "brand": "모란",
+    "name": "모란.미니앵두상하",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781459019/1_2_5001781459019.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
   }
 ]
