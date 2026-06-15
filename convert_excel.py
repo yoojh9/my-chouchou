@@ -385,32 +385,51 @@ def main():
     download_thumbnails(new_by_brand)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
-    added_total = skipped_total = 0
+    added_total = updated_total = skipped_total = 0
 
     for brand, new_products in new_by_brand.items():
         existing = load_brand(brand)
-        existing_keys = {p["name"] for p in existing}
+        result = list(existing)
+        name_to_index = {p["name"]: i for i, p in enumerate(result)}
 
-        # 파일 내 중복 + 기존 데이터 중복 모두 제거
-        seen = set()
-        to_add = []
+        # 파일 내 중복은 mfg_date가 더 최신인 쪽만 남긴다
+        latest_by_name = {}
         for p in new_products:
-            if p["name"] not in existing_keys and p["name"] not in seen:
-                to_add.append(p)
-                seen.add(p["name"])
-        skipped = len(new_products) - len(to_add)
+            prev = latest_by_name.get(p["name"])
+            if prev is None or p.get("mfg_date", "") > prev.get("mfg_date", ""):
+                latest_by_name[p["name"]] = p
 
-        if to_add:
-            save_brand(brand, existing + to_add)
+        added = updated = skipped = 0
+        for name, p in latest_by_name.items():
+            if name in name_to_index:
+                idx = name_to_index[name]
+                old = result[idx]
+                if p.get("mfg_date", "") > old.get("mfg_date", ""):
+                    result[idx] = p
+                    updated += 1
+                else:
+                    skipped += 1
+            else:
+                result.append(p)
+                name_to_index[name] = len(result) - 1
+                added += 1
 
-        added_total += len(to_add)
+        if added or updated:
+            save_brand(brand, result)
+
+        added_total += added
+        updated_total += updated
         skipped_total += skipped
-        status = f"+{len(to_add)} 추가" + (f", {skipped} 중복 스킵" if skipped else "")
-        print(f"  {brand}: {status}  (총 {len(existing) + len(to_add)}개)")
+        status = f"+{added} 추가"
+        if updated:
+            status += f", {updated} 갱신"
+        if skipped:
+            status += f", {skipped} 스킵(이전 데이터)"
+        print(f"  {brand}: {status}  (총 {len(result)}개)")
 
     rebuild_brands_json()
     rebuild_search_index()
-    print(f"\n완료: +{added_total}개 추가, {skipped_total}개 중복 스킵")
+    print(f"\n완료: +{added_total}개 추가, {updated_total}개 갱신, {skipped_total}개 스킵")
 
 
 if __name__ == "__main__":
