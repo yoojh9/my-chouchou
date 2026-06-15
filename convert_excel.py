@@ -7,6 +7,7 @@
 Usage:
   python3 convert_excel.py data/2026-05-27.xlsx   # 새 엑셀 누적
   python3 convert_excel.py                         # data/ 목록에서 선택
+  python3 convert_excel.py --no-thumbnails         # 썸네일 다운로드 생략
   python3 convert_excel.py --rebuild               # 기존 .json → listing/.full 분리 재생성
   python3 convert_excel.py --purge 2026-05-21      # 해당 날짜 이하 상품 전체 삭제
   python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"  # 특정 상품 삭제
@@ -328,19 +329,24 @@ def purge_before(cutoff_date: str) -> None:
 
 
 def main():
-    if len(sys.argv) > 1 and sys.argv[1] == "--rebuild":
+    args = sys.argv[1:]
+    no_thumbnails = "--no-thumbnails" in args
+    if no_thumbnails:
+        args.remove("--no-thumbnails")
+
+    if len(args) > 0 and args[0] == "--rebuild":
         rebuild_split()
         return
 
-    if len(sys.argv) > 2 and sys.argv[1] == "--purge":
-        purge_before(sys.argv[2])
+    if len(args) > 1 and args[0] == "--purge":
+        purge_before(args[1])
         return
 
-    if len(sys.argv) > 2 and sys.argv[1] == "--delete":
-        delete_items(sys.argv[2:])
+    if len(args) > 1 and args[0] == "--delete":
+        delete_items(args[1:])
         return
 
-    xlsx_path = sys.argv[1] if len(sys.argv) > 1 else pick_xlsx(ITEMS_DIR)
+    xlsx_path = args[0] if len(args) > 0 else pick_xlsx(ITEMS_DIR)
 
     if not os.path.exists(xlsx_path):
         print(f"오류: {xlsx_path} 파일을 찾을 수 없습니다.")
@@ -384,7 +390,10 @@ def main():
             "mfg_date": mfg_date,
         })
 
-    download_thumbnails(new_by_brand)
+    if no_thumbnails:
+        print("썸네일 다운로드 스킵 (--no-thumbnails)")
+    else:
+        download_thumbnails(new_by_brand)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
     added_total = updated_total = skipped_total = 0

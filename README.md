@@ -56,6 +56,12 @@ python3 convert_excel.py
 # → 번호 입력: 2
 ```
 
+썸네일 다운로드를 생략하려면 `--no-thumbnails`를 추가한다.
+
+```bash
+python3 convert_excel.py data/2026-05-27.xlsx --no-thumbnails
+```
+
 ### 3. 결과 확인
 
 - `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 누적
