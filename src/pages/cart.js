@@ -71,8 +71,10 @@ function renderContent(app) {
       <button class="cart-order-btn" id="order-btn">주문서 작성하기</button>
       <button class="cart-clear-btn" id="clear-btn">장바구니 비우기</button>
     </div>`
+}
 
-  content.addEventListener('click', e => {
+function handleClick(app) {
+  return e => {
     const removeBtn = e.target.closest('.cart-item__remove')
     if (removeBtn) {
       removeFromCart(removeBtn.dataset.id, removeBtn.dataset.size, removeBtn.dataset.color)
@@ -107,7 +109,7 @@ function renderContent(app) {
       updateCartBadge()
       renderContent(app)
     }
-  }, { once: true })
+  }
 }
 
 export function renderCart(app) {
@@ -123,6 +125,8 @@ export function renderCart(app) {
   document.getElementById('back-btn').addEventListener('click', () => {
     location.hash = '#/'
   })
+
+  document.getElementById('cart-content').addEventListener('click', handleClick(app))
 
   renderContent(app)
 }
