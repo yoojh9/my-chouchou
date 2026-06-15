@@ -3933,5 +3933,99 @@
       }
     ],
     "mfg_date": "2026-05-19"
+  },
+  {
+    "id": "2605190155",
+    "brand": "소예",
+    "name": "소예.체크와이드헤어밴드",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202604/mo0408/mo0408-276.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202604/mo0408/mo0408-276.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "딥그린",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-08"
+  },
+  {
+    "id": "2605190154",
+    "brand": "소예",
+    "name": "소예.체크쁘띠헤어밴드",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202604/mo0408/mo0408-275.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202604/mo0408/mo0408-275.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "딥그린",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-04-08"
   }
 ]
