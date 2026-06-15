@@ -3,7 +3,11 @@ const SOURCE_KEY = 'mychouchou_source'
 
 export function saveSourceFromUrl() {
   const from = new URLSearchParams(location.search).get('from')
-  if (from) localStorage.setItem(SOURCE_KEY, from)
+  if (from) {
+    localStorage.setItem(SOURCE_KEY, from)
+  } else {
+    localStorage.removeItem(SOURCE_KEY)
+  }
 }
 
 export function getSource() {
