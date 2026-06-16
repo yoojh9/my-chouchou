@@ -99,6 +99,10 @@ html, body {
   display: none;
 }
 
+.home-search--expanded {
+  max-width: none;
+}
+
 .home-search__input {
   width: 100%;
   box-sizing: border-box;

@@ -305,11 +305,25 @@ export async function renderHome(app) {
   const searchWrap  = document.getElementById("home-search-wrap")
   let searchDebounce = null
 
+  function openSearch() {
+    searchWrap.classList.remove("home-search--hidden")
+    searchWrap.classList.add("home-search--expanded")
+    toggleEl.style.display = "none"
+    searchInput.focus()
+  }
+
+  function closeSearch() {
+    searchWrap.classList.add("home-search--hidden")
+    searchWrap.classList.remove("home-search--expanded")
+    toggleEl.style.display = ""
+  }
+
   searchBtn.addEventListener("click", () => {
     if (searchQuery) return
-    searchWrap.classList.toggle("home-search--hidden")
-    if (!searchWrap.classList.contains("home-search--hidden")) {
-      searchInput.focus()
+    if (searchWrap.classList.contains("home-search--hidden")) {
+      openSearch()
+    } else {
+      closeSearch()
     }
   })
 
@@ -327,7 +341,7 @@ export async function renderHome(app) {
 
   function exitSearch() {
     searchInput.value = ""
-    searchWrap.classList.add("home-search--hidden")
+    closeSearch()
     runSearch("")
     window.scrollTo({ top: 0, behavior: "instant" })
   }
@@ -337,7 +351,9 @@ export async function renderHome(app) {
     searchClear.classList.toggle("home-search__clear--hidden", !query)
 
     if (!query.trim()) {
-      toggleEl.style.display = ""
+      if (searchWrap.classList.contains("home-search--hidden")) {
+        toggleEl.style.display = ""
+      }
       list.classList.remove("page--search")
       renderList()
       updateActive()
