@@ -662,6 +662,13 @@ html, body {
   text-align: right;
 }
 
+.product-card__mfg {
+  margin-top: 4px;
+  font-size: 9.5px;
+  color: var(--gray);
+  letter-spacing: -0.1px;
+}
+
 /* ── Soldout ── */
 .product-card--soldout .product-card__thumb {
   opacity: 0.4;
