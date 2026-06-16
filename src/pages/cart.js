@@ -115,10 +115,13 @@ function handleClick(app) {
 export function renderCart(app) {
   app.innerHTML = `
     <div class="header">
-      <button class="header__back" id="back-btn" aria-label="뒤로가기">
-        ${BACK_SVG}뒤로
-      </button>
-      <span class="header__title">장바구니</span>
+      <button class="header__logo" aria-label="홈으로">마이슈슈</button>
+      <div class="header__nav">
+        <button class="header__back" id="back-btn" aria-label="뒤로가기">
+          ${BACK_SVG}뒤로
+        </button>
+        <span class="header__title">장바구니</span>
+      </div>
     </div>
     <div id="cart-content" style="padding-bottom:100px"></div>`
 

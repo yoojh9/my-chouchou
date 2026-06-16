@@ -79,6 +79,11 @@ function brandCardHTML(brand) {
 let sortMode = 'alpha'
 let searchQuery = ''
 
+export function resetHomeState() {
+  sortMode = 'alpha'
+  searchQuery = ''
+}
+
 let searchIndexPromise = null
 function loadSearchIndex() {
   if (!searchIndexPromise) {
@@ -120,7 +125,7 @@ export async function renderHome(app) {
         <button class="home-search-btn" id="search-btn" aria-label="검색">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         </button>
-        <div class="home-search${searchQuery ? '' : ' home-search--hidden'}" id="home-search-wrap">
+        <div class="home-search${searchQuery ? ' home-search--expanded' : ' home-search--hidden'}" id="home-search-wrap">
           <input class="home-search__input" id="search-input" type="search" placeholder="브랜드명 또는 상품명 검색" autocomplete="off">
           <button class="home-search__clear${searchQuery ? '' : ' home-search__clear--hidden'}" id="search-clear" aria-label="검색어 지우기">✕</button>
         </div>
@@ -393,8 +398,8 @@ export async function renderHome(app) {
 
   searchClear.addEventListener("click", () => {
     searchInput.value = ""
+    closeSearch()
     runSearch("")
-    searchInput.focus()
   })
 
   if (searchQuery.trim()) {

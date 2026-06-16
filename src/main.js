@@ -1,5 +1,5 @@
 import './style.css'
-import { renderHome } from './pages/home.js'
+import { renderHome, resetHomeState } from './pages/home.js'
 import { renderBrand } from './pages/brand.js'
 import { renderProduct } from './pages/product.js'
 import { renderCart } from './pages/cart.js'
@@ -91,3 +91,16 @@ window.addEventListener('hashchange', (e) => {
 })
 
 window.addEventListener('load', router)
+
+app.addEventListener('click', e => {
+  if (!e.target.closest('.header__logo, .home-header__logo')) return
+  resetHomeState()
+  homeScrollY = 0
+  restoreHomeScroll = false
+  if (location.hash === '#/' || location.hash === '#' || !location.hash) {
+    renderHome(app)
+    window.scrollTo(0, 0)
+  } else {
+    location.hash = '#/'
+  }
+})

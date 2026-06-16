@@ -79,9 +79,12 @@ function sizeTagsHTML(sizes) {
 export async function renderProduct(app, brandId, productId, backHash) {
   app.innerHTML = `
     <div class="header">
-      <button class="header__back" id="back-btn" aria-label="뒤로가기">
-        ${BACK_SVG}${brandId}
-      </button>
+      <button class="header__logo" aria-label="홈으로">마이슈슈</button>
+      <div class="header__nav">
+        <button class="header__back" id="back-btn" aria-label="뒤로가기">
+          ${BACK_SVG}${brandId}
+        </button>
+      </div>
     </div>
     <div id="product-content" style="padding-bottom:32px">
       <div class="state-empty">불러오는 중...</div>

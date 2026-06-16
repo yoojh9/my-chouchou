@@ -74,10 +74,13 @@ async function findSizeChart(brandId) {
 export async function renderBrand(app, brandId, initialShown = 0) {
   app.innerHTML = `
     <div class="header">
-      <button class="header__back" id="back-btn" aria-label="뒤로가기">
-        ${BACK_SVG}브랜드
-      </button>
-      <span class="header__title">${brandId}</span>
+      <button class="header__logo" aria-label="홈으로">마이슈슈</button>
+      <div class="header__nav">
+        <button class="header__back" id="back-btn" aria-label="뒤로가기">
+          ${BACK_SVG}브랜드
+        </button>
+        <span class="header__title">${brandId}</span>
+      </div>
     </div>
     <div class="page">
       <div class="product-grid" id="product-grid">
