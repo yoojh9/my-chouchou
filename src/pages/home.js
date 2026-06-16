@@ -135,6 +135,7 @@ export async function renderHome(app) {
         </div>
       </div>
     </div>
+    <div id="search-nav"></div>
     <div class="page" id="brand-list">
       ${skeletonCards()}
     </div>
@@ -157,9 +158,10 @@ export async function renderHome(app) {
     return
   }
 
-  const list     = document.getElementById("brand-list")
-  const indexEl  = document.getElementById("scroll-index")
-  const toggleEl = document.getElementById("sort-toggle")
+  const list        = document.getElementById("brand-list")
+  const indexEl     = document.getElementById("scroll-index")
+  const toggleEl    = document.getElementById("sort-toggle")
+  const searchNavEl = document.getElementById("search-nav")
 
   function renderAlpha() {
     const sorted = [...brands].sort((a, b) => a.name.localeCompare(b.name, "ko"))
@@ -359,6 +361,7 @@ export async function renderHome(app) {
       if (searchWrap.classList.contains("home-search--hidden")) {
         toggleEl.style.display = ""
       }
+      searchNavEl.innerHTML = ""
       list.classList.remove("page--search")
       renderList()
       updateActive()
@@ -369,13 +372,15 @@ export async function renderHome(app) {
     indexEl.style.display = "none"
     list.classList.remove("page--indexed")
     list.classList.add("page--search")
-    list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-empty">검색 중...</div>`
+    searchNavEl.innerHTML = searchResultsHeaderHTML()
+    searchNavEl.style.top = document.querySelector('.home-header').offsetHeight + 'px'
+    list.innerHTML = `<div class="state-empty">검색 중...</div>`
 
     let items, soldoutIds
     try {
       [items, soldoutIds] = await Promise.all([loadSearchIndex(), loadSoldout()])
     } catch (e) {
-      list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-error">검색 데이터를 불러오지 못했습니다.</div>`
+      list.innerHTML = `<div class="state-error">검색 데이터를 불러오지 못했습니다.</div>`
       return
     }
 
@@ -383,10 +388,10 @@ export async function renderHome(app) {
 
     const results = searchProducts(items, query)
     if (!results.length) {
-      list.innerHTML = `${searchResultsHeaderHTML()}<div class="state-empty">검색 결과가 없습니다.</div>`
+      list.innerHTML = `<div class="state-empty">검색 결과가 없습니다.</div>`
       return
     }
-    list.innerHTML = `${searchResultsHeaderHTML()}<div class="product-grid">${results.map(p => productCardHTML(p, p.brand, soldoutIds)).join("")}</div>`
+    list.innerHTML = `<div class="product-grid">${results.map(p => productCardHTML(p, p.brand, soldoutIds)).join("")}</div>`
   }
 
   searchInput.addEventListener("input", e => {
@@ -409,9 +414,12 @@ export async function renderHome(app) {
     updateActive()
   }
 
+  searchNavEl.addEventListener("click", e => {
+    if (e.target.closest("#search-back-btn")) exitSearch()
+  })
+
   // 브랜드 카드 / 검색 결과 클릭
   list.addEventListener("click", e => {
-    if (e.target.closest("#search-back-btn")) { exitSearch(); return }
     const product = e.target.closest("[data-href]")
     if (product) { location.hash = product.dataset.href; return }
     const card = e.target.closest(".brand-card")

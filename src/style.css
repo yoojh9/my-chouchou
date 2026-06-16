@@ -156,12 +156,17 @@ html, body {
   display: none;
 }
 
+#search-nav {
+  position: sticky;
+  z-index: 90;
+}
+
 .header.search-results__header {
   flex-direction: row;
   align-items: center;
   padding: 0 14px;
   height: 52px;
-  margin: -16px -14px 16px;
+  margin: 0;
 }
 
 .sort-toggle {
