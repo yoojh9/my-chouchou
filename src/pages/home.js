@@ -116,13 +116,18 @@ export async function renderHome(app) {
   app.innerHTML = `
     <div class="home-header">
       <div class="home-header__logo">마이슈슈</div>
-      <div class="home-search">
-        <input class="home-search__input" id="search-input" type="search" placeholder="브랜드명 또는 상품명 검색" autocomplete="off">
-        <button class="home-search__clear${searchQuery ? '' : ' home-search__clear--hidden'}" id="search-clear" aria-label="검색어 지우기">✕</button>
-      </div>
-      <div class="sort-toggle" id="sort-toggle">
-        <button class="sort-toggle__btn${sortMode === 'alpha' ? ' sort-toggle__btn--active' : ''}" data-sort="alpha">ㄱㄴㄷ</button>
-        <button class="sort-toggle__btn${sortMode === 'date' ? ' sort-toggle__btn--active' : ''}" data-sort="date">최신순</button>
+      <div class="home-controls">
+        <button class="home-search-btn" id="search-btn" aria-label="검색">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+        <div class="home-search${searchQuery ? '' : ' home-search--hidden'}" id="home-search-wrap">
+          <input class="home-search__input" id="search-input" type="search" placeholder="브랜드명 또는 상품명 검색" autocomplete="off">
+          <button class="home-search__clear${searchQuery ? '' : ' home-search__clear--hidden'}" id="search-clear" aria-label="검색어 지우기">✕</button>
+        </div>
+        <div class="sort-toggle" id="sort-toggle">
+          <button class="sort-toggle__btn${sortMode === 'alpha' ? ' sort-toggle__btn--active' : ''}" data-sort="alpha">ㄱㄴㄷ</button>
+          <button class="sort-toggle__btn${sortMode === 'date' ? ' sort-toggle__btn--active' : ''}" data-sort="date">최신순</button>
+        </div>
       </div>
     </div>
     <div class="page" id="brand-list">
@@ -296,7 +301,17 @@ export async function renderHome(app) {
   // 검색
   const searchInput = document.getElementById("search-input")
   const searchClear = document.getElementById("search-clear")
+  const searchBtn   = document.getElementById("search-btn")
+  const searchWrap  = document.getElementById("home-search-wrap")
   let searchDebounce = null
+
+  searchBtn.addEventListener("click", () => {
+    if (searchQuery) return
+    searchWrap.classList.toggle("home-search--hidden")
+    if (!searchWrap.classList.contains("home-search--hidden")) {
+      searchInput.focus()
+    }
+  })
 
   searchInput.value = searchQuery
 
@@ -312,6 +327,7 @@ export async function renderHome(app) {
 
   function exitSearch() {
     searchInput.value = ""
+    searchWrap.classList.add("home-search--hidden")
     runSearch("")
     window.scrollTo({ top: 0, behavior: "instant" })
   }
