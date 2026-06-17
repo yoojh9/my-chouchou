@@ -1680,5 +1680,615 @@
       }
     ],
     "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2606170003",
+    "brand": "스쿱",
+    "name": "스쿱.핫도그나그랑티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1781672885/1_9_1001781672885.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/9C1781672885/1_9_1001781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/2_9_9941781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/3_9_6011781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/4_9_8471781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/5_9_6761781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/6_9_3501781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/7_9_1101781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/8_9_8691781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/9_9_9331781672885.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/10_9_9961781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/11_9_8891781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/12_9_6171781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/13_9_9601781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/14_9_5761781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/15_9_6721781672886.jpg",
+      "https://img2.kidsvillage.co.kr/9C1781672885/16_9_2481781672886.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "바이올렛",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170007",
+    "brand": "스쿱",
+    "name": "스쿱.쿨터치긴팔티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1781672882/1_8_6281781672882.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/8C1781672882/1_8_6281781672882.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/2_8_1631781672882.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/3_8_4131781672882.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/4_8_7471781672882.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/5_8_6821781672882.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/6_8_7491781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/7_8_2631781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/8_8_1921781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/9_8_5821781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/10_8_8851781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/11_8_201781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/12_8_6831781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/13_8_9641781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/14_8_6871781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/15_8_551781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/16_8_2881781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/17_8_111781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/18_8_7781781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/19_8_4341781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/20_8_7851781672883.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/21_8_8321781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/22_8_1981781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/23_8_7991781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/24_8_2621781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/25_8_2011781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/26_8_7951781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/27_8_4881781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/28_8_4811781672884.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/29_8_4711781672885.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/30_8_8311781672885.jpg",
+      "https://img2.kidsvillage.co.kr/8C1781672882/31_8_1881781672885.jpg"
+    ],
+    "colors": [
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170014",
+    "brand": "스쿱",
+    "name": "스쿱.카프리체크바지",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1781672881/1_7_6661781672881.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/7C1781672881/1_7_6661781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/2_7_3721781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/3_7_3241781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/4_7_3241781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/5_7_7231781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/6_7_1461781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/7_7_7731781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/8_7_531781672881.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/9_7_7631781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/10_7_141781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/11_7_4291781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/12_7_21781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/13_7_9951781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/14_7_2261781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/15_7_2801781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/16_7_6761781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/17_7_3431781672882.jpg",
+      "https://img2.kidsvillage.co.kr/7C1781672881/18_7_7061781672882.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170022",
+    "brand": "스쿱",
+    "name": "스쿱.조이서핑티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781672880/1_6_9811781672880.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/6C1781672880/1_6_9811781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/2_6_7961781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/3_6_2771781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/4_6_6801781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/5_6_1161781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/6_6_4251781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/7_6_9521781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/8_6_8201781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/9_6_7061781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/10_6_1181781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/11_6_5191781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/12_6_3361781672880.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/13_6_5161781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/14_6_5101781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/15_6_8331781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/16_6_6211781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/17_6_8271781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/18_6_1001781672881.jpg",
+      "https://img2.kidsvillage.co.kr/6C1781672880/19_6_781781672881.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170030",
+    "brand": "스쿱",
+    "name": "스쿱.썸머투톤티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781672878/1_5_6981781672878.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/5C1781672878/1_5_6981781672878.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/2_5_6291781672878.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/3_5_3971781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/4_5_9911781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/5_5_4971781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/6_5_1051781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/7_5_3171781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/8_5_2671781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/9_5_4561781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/10_5_8391781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/11_5_2711781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/12_5_2451781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/13_5_6571781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/14_5_3501781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/15_5_8211781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/16_5_4491781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/17_5_3301781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/18_5_6171781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/19_5_2401781672879.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/20_5_3761781672880.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781672878/21_5_2391781672880.jpg"
+    ],
+    "colors": [
+      {
+        "name": "진핑크네이비",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170038",
+    "brand": "스쿱",
+    "name": "스쿱.모달골지티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781672877/1_4_2921781672877.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/4C1781672877/1_4_2921781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/2_4_8671781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/3_4_7081781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/4_4_3261781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/5_4_7701781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/6_4_3511781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/7_4_5211781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/8_4_31781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/9_4_7881781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/10_4_8181781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/11_4_791781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/12_4_5761781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/13_4_7911781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/14_4_9791781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/15_4_7951781672877.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/16_4_7911781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/17_4_451781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/18_4_6211781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/19_4_7411781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/20_4_4201781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/21_4_381781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/22_4_6981781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/23_4_3201781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/24_4_1481781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/25_4_2721781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/26_4_7031781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/27_4_2801781672878.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781672877/28_4_1661781672878.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170047",
+    "brand": "스쿱",
+    "name": "스쿱.로프반바지",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781672874/1_3_9501781672874.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/3C1781672874/1_3_9501781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/2_3_3091781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/3_3_5901781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/4_3_51781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/5_3_5251781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/6_3_6931781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/7_3_6171781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/8_3_4821781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/9_3_221781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/10_3_3201781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/11_3_6131781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/12_3_2171781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/13_3_3361781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/14_3_2961781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/15_3_5181781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/16_3_4771781672874.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/17_3_341781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/18_3_9021781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/19_3_6431781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/20_3_1951781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/21_3_2331781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/22_3_4371781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/23_3_2971781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/24_3_751781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/25_3_7871781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/26_3_9721781672875.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/27_3_9001781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/28_3_2191781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/29_3_9991781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/30_3_651781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/31_3_8261781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/32_3_9501781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/33_3_3751781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/34_3_4161781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/35_3_9561781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/36_3_9001781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/37_3_1091781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/38_3_5731781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/39_3_3821781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/40_3_1321781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/41_3_8941781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/42_3_9951781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/43_3_3491781672876.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781672874/44_3_2301781672876.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "바이올렛",
+        "add_price": 0
+      },
+      {
+        "name": "연두",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170056",
+    "brand": "스쿱",
+    "name": "스쿱.레터나시티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781672872/1_2_6111781672872.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1781672872/1_2_6111781672872.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/2_2_9571781672872.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/3_2_3281781672872.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/4_2_7031781672872.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/5_2_1301781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/6_2_1941781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/7_2_151781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/8_2_6831781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/9_2_3011781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/10_2_1411781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/11_2_7371781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/12_2_3841781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/13_2_1661781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/14_2_1601781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/15_2_3301781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/16_2_7931781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/17_2_1021781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/18_2_8421781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/19_2_3501781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/20_2_6741781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/21_2_8241781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/22_2_4311781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/23_2_271781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/24_2_1651781672873.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781672872/25_2_6071781672874.jpg"
+    ],
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-17"
   }
 ]

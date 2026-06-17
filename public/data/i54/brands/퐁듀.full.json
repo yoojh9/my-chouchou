@@ -1865,43 +1865,27 @@
     "mfg_date": "2026-05-27"
   },
   {
-    "id": "2604002476",
+    "id": "2606170039",
     "brand": "퐁듀",
     "name": "퐁듀.퐁듀키캡티(맘)",
     "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776109315/1_6_1031776109315.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781635277/1_4_1261781635277.jpg",
     "detail_images": [
-      "https://img2.kidsvillage.co.kr/6C1776109315/1_6_1031776109315.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/2_6_5781776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/3_6_671776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/4_6_41776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/5_6_4911776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/6_6_2241776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/7_6_8571776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/8_6_6761776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/9_6_3651776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/10_6_8331776109316.jpg",
-      "https://img2.kidsvillage.co.kr/6C1776109315/11_6_1451776109316.jpg"
+      "https://img2.kidsvillage.co.kr/4C1781635277/1_4_1261781635277.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/2_4_491781635277.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/3_4_3521781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/4_4_5451781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/5_4_4591781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/6_4_7311781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/7_4_2821781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/8_4_2681781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/9_4_8111781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/10_4_3231781635278.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781635277/11_4_9221781635278.jpg"
     ],
     "colors": [
       {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "레몬",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "샌드",
-        "add_price": 0
-      },
-      {
-        "name": "소다",
+        "name": "수박",
         "add_price": 0
       }
     ],
@@ -1911,7 +1895,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-14"
+    "mfg_date": "2026-06-17"
   },
   {
     "id": "2604003063",
@@ -2216,5 +2200,113 @@
       }
     ],
     "mfg_date": "2026-04-14"
+  },
+  {
+    "id": "2606170048",
+    "brand": "퐁듀",
+    "name": "퐁듀.썸머러버덕티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781635276/1_3_4731781635276.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/3C1781635276/1_3_4731781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/2_3_301781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/3_3_6371781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/4_3_8101781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/5_3_2851781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/6_3_9801781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/7_3_8161781635276.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/8_3_4751781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/9_3_511781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/10_3_3251781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/11_3_2771781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/12_3_8581781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/13_3_4631781635277.jpg",
+      "https://img2.kidsvillage.co.kr/3C1781635276/14_3_4111781635277.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170057",
+    "brand": "퐁듀",
+    "name": "퐁듀.롤리팝고쟁이",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781635274/1_2_8081781635274.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1781635274/1_2_8081781635274.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/2_2_791781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/3_2_411781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/4_2_6531781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/5_2_5521781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/6_2_9121781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/7_2_471781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/8_2_5721781635275.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/9_2_1211781635276.jpg",
+      "https://img2.kidsvillage.co.kr/2C1781635274/10_2_4221781635276.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "bebeM",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
   }
 ]

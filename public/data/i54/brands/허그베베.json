@@ -1,13 +1,13 @@
 [
   {
-    "id": "2604001176",
-    "brand": "나잇베베",
-    "name": "나잇베베.체리쥬빌레티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1776778227/1_9_301776778227.jpg",
+    "id": "2606170004",
+    "brand": "허그베베",
+    "name": "허그베베.목장친구들7부고쟁이팬츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1781635157/1_9_3331781635157.jpg",
     "colors": [
       {
-        "name": "원컬러",
+        "name": "ONECOLOR",
         "add_price": 0
       }
     ],
@@ -33,17 +33,65 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-21"
+    "mfg_date": "2026-06-17"
   },
   {
-    "id": "2604001521",
-    "brand": "나잇베베",
-    "name": "나잇베베.줄줄이팬츠",
+    "id": "2606170010",
+    "brand": "허그베베",
+    "name": "허그베베.린넨스판숏팬츠",
     "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1776778225/1_8_1781776778225.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1781635156/1_8_1291781635156.jpg",
     "colors": [
       {
-        "name": "아이",
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170017",
+    "brand": "허그베베",
+    "name": "허그베베.리본스트라이프상하세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1781635156/1_7_2151781635156.jpg",
+    "colors": [
+      {
+        "name": "블랙",
         "add_price": 0
       },
       {
@@ -73,45 +121,349 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-21"
+    "mfg_date": "2026-06-17"
   },
   {
-    "id": "2604001928",
-    "brand": "나잇베베",
-    "name": "나잇베베.제니선글라스",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1776778224/1_7_1491776778224.jpg",
+    "id": "2606170025",
+    "brand": "허그베베",
+    "name": "허그베베.리본스트라이프가디건",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781635155/1_6_5941781635155.jpg",
     "colors": [
       {
         "name": "블랙",
         "add_price": 0
       },
       {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크베이지",
+        "name": "핑크",
         "add_price": 0
       }
     ],
     "sizes": [
       {
-        "name": "FREE",
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-21"
+    "mfg_date": "2026-06-17"
   },
   {
-    "id": "2604002388",
-    "brand": "나잇베베",
-    "name": "나잇베베.썸머NBB티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776778222/1_6_7471776778222.jpg",
+    "id": "2606170033",
+    "brand": "허그베베",
+    "name": "허그베베.동물농장고쟁이팬츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781635155/1_5_4271781635155.jpg",
+    "colors": [
+      {
+        "name": "ONECOLOR",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170042",
+    "brand": "허그베베",
+    "name": "허그베베.놀이동산고쟁이팬츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781635153/1_4_911781635153.jpg",
+    "colors": [
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170051",
+    "brand": "허그베베",
+    "name": "허그베베.60수코튼무지반팔티셔츠",
+    "price_sale": 10400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781635153/1_3_5491781635153.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170060",
+    "brand": "허그베베",
+    "name": "허그베베.60수코튼무지고쟁이팬츠",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781635153/1_2_1391781635153.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170066",
+    "brand": "허그베베",
+    "name": "허그베베.피크닉체크상하세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1781635161/1_20_2931781635161.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170068",
+    "brand": "허그베베",
+    "name": "허그베베.플로라스모크상하세트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1781635161/1_19_2661781635161.jpg",
     "colors": [
       {
         "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170070",
+    "brand": "허그베베",
+    "name": "허그베베.플레이퍼피상하세트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1781635160/1_18_3901781635160.jpg",
+    "colors": [
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170072",
+    "brand": "허그베베",
+    "name": "허그베베.프루티끈나시상하세트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1781635159/1_17_6441781635159.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
         "add_price": 0
       },
       {
@@ -141,286 +493,22 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-21"
+    "mfg_date": "2026-06-17"
   },
   {
-    "id": "2604002896",
-    "brand": "나잇베베",
-    "name": "나잇베베.ADULT)초코잼티",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1777353669/1_5_1051777353669.jpg",
+    "id": "2606170074",
+    "brand": "허그베베",
+    "name": "허그베베.퐁실플라워상하세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1781635159/1_16_8591781635159.jpg",
     "colors": [
       {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "ADULTFREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-28"
-  },
-  {
-    "id": "2604002973",
-    "brand": "나잇베베",
-    "name": "나잇베베.썬배추티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1776778221/1_5_5051776778221.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
+        "name": "옐로우",
         "add_price": 0
       },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604003654",
-    "brand": "나잇베베",
-    "name": "나잇베베.ADULT)썬배추티",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1777353669/1_4_3591777353669.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "ADULTFREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-28"
-  },
-  {
-    "id": "2604003736",
-    "brand": "나잇베베",
-    "name": "나잇베베.스파캣티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776778220/1_4_8301776778220.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604004718",
-    "brand": "나잇베베",
-    "name": "나잇베베.ADULT)스파캣티",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1777353669/1_3_5041777353669.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "ADULTFREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-28"
-  },
-  {
-    "id": "2604004805",
-    "brand": "나잇베베",
-    "name": "나잇베베.말티푸티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1776778219/1_3_2291776778219.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604006291",
-    "brand": "나잇베베",
-    "name": "나잇베베.ADULT)말티푸티",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1777353669/1_2_4871777353669.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "ADULTFREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-28"
-  },
-  {
-    "id": "2604006383",
-    "brand": "나잇베베",
-    "name": "나잇베베.다이브모드티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776778217/1_2_2771776778217.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "백메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604009181",
-    "brand": "나잇베베",
-    "name": "나잇베베.홈스윗홈티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1776778235/1_16_4201776778235.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604009420",
-    "brand": "나잇베베",
-    "name": "나잇베베.하이디레깅스",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1776778234/1_15_4871776778234.jpg",
-    "colors": [
       {
         "name": "핑크",
         "add_price": 0
-      },
-      {
-        "name": "머스타드",
-        "add_price": 0
       }
     ],
     "sizes": [
@@ -445,205 +533,21 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-21"
+    "mfg_date": "2026-06-17"
   },
   {
-    "id": "2604009666",
-    "brand": "나잇베베",
-    "name": "나잇베베.피치레깅스",
+    "id": "2606170076",
+    "brand": "허그베베",
+    "name": "허그베베.토마토7부고쟁이팬츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1776778232/1_14_7951776778232.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1781635158/1_15_7651781635158.jpg",
     "colors": [
       {
-        "name": "아이",
+        "name": "블루",
         "add_price": 0
       },
       {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2604009923",
-    "brand": "나잇베베",
-    "name": "나잇베베.플레잉티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1776778231/1_13_901776778231.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "26040010198",
-    "brand": "나잇베베",
-    "name": "나잇베베.프루티조거",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1776778230/1_12_5861776778230.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "26040010482",
-    "brand": "나잇베베",
-    "name": "나잇베베.초코잼티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1776778229/1_11_3351776778229.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "26040010783",
-    "brand": "나잇베베",
-    "name": "나잇베베.체커보드팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776778228/1_10_6481776778228.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "머스타드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-21"
-  },
-  {
-    "id": "2606170013",
-    "brand": "나잇베베",
-    "name": "나잇베베.토마토반팔티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1781698563/1_7_4061781698563.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
+        "name": "핑크",
         "add_price": 0
       }
     ],
@@ -672,166 +576,178 @@
     "mfg_date": "2026-06-17"
   },
   {
-    "id": "2606170021",
-    "brand": "나잇베베",
-    "name": "나잇베베.키티스트라이프레깅스",
+    "id": "2606170078",
+    "brand": "허그베베",
+    "name": "허그베베.슈슈도트리본가디건",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1781635158/1_14_701781635158.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170080",
+    "brand": "허그베베",
+    "name": "허그베베.살랑플라워상하세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1781635157/1_13_9791781635157.jpg",
+    "colors": [
+      {
+        "name": "라이트그린",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170082",
+    "brand": "허그베베",
+    "name": "허그베베.쁘띠세리즈벌룬원피스",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1781635157/1_12_8721781635157.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170084",
+    "brand": "허그베베",
+    "name": "허그베베.미드나잇상하세트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1781635157/1_11_4441781635157.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170086",
+    "brand": "허그베베",
+    "name": "허그베베.몽글지지미팬츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781698561/1_6_4121781698561.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1781635157/1_10_8771781635157.jpg",
     "colors": [
       {
-        "name": "노랑",
+        "name": "아이보리",
         "add_price": 0
       },
       {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
+        "name": "블랙",
         "add_price": 0
       },
       {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-17"
-  },
-  {
-    "id": "2606170029",
-    "brand": "나잇베베",
-    "name": "나잇베베.스타케익반팔티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781698560/1_5_8101781698560.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-17"
-  },
-  {
-    "id": "2606170037",
-    "brand": "나잇베베",
-    "name": "나잇베베.무비캣반팔티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781698559/1_4_461781698559.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-17"
-  },
-  {
-    "id": "2606170046",
-    "brand": "나잇베베",
-    "name": "나잇베베.땡땡이반바지",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781698558/1_3_4821781698558.jpg",
-    "colors": [
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "보라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-17"
-  },
-  {
-    "id": "2606170055",
-    "brand": "나잇베베",
-    "name": "나잇베베.덕덕반팔티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781698557/1_2_11781698557.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
+        "name": "피치",
         "add_price": 0
       }
     ],

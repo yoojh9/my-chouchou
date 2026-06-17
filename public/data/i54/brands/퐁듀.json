@@ -1328,30 +1328,14 @@
     "mfg_date": "2026-05-27"
   },
   {
-    "id": "2604002476",
+    "id": "2606170039",
     "brand": "퐁듀",
     "name": "퐁듀.퐁듀키캡티(맘)",
     "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776109315/1_6_1031776109315.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781635277/1_4_1261781635277.jpg",
     "colors": [
       {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "레몬",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "샌드",
-        "add_price": 0
-      },
-      {
-        "name": "소다",
+        "name": "수박",
         "add_price": 0
       }
     ],
@@ -1361,7 +1345,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-14"
+    "mfg_date": "2026-06-17"
   },
   {
     "id": "2604003063",
@@ -1578,5 +1562,85 @@
       }
     ],
     "mfg_date": "2026-04-14"
+  },
+  {
+    "id": "2606170048",
+    "brand": "퐁듀",
+    "name": "퐁듀.썸머러버덕티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781635276/1_3_4731781635276.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
+  },
+  {
+    "id": "2606170057",
+    "brand": "퐁듀",
+    "name": "퐁듀.롤리팝고쟁이",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781635274/1_2_8081781635274.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "bebeM",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-17"
   }
 ]
