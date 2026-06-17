@@ -211,6 +211,8 @@ def rebuild_search_index() -> None:
                 "price_sale": p.get("price_sale", 0),
                 "thumbnail_url": p.get("thumbnail_url", ""),
                 "mfg_date": p.get("mfg_date", ""),
+                "colors": p.get("colors", []),
+                "sizes": p.get("sizes", []),
             })
     with open(SEARCH_INDEX_JSON, "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
