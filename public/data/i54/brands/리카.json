@@ -234,5 +234,49 @@
       }
     ],
     "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606160035",
+    "brand": "리카",
+    "name": "리카.홀터넥",
+    "price_sale": 9600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781602149/1_2_231781602149.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
   }
 ]

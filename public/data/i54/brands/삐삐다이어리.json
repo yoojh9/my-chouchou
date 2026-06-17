@@ -1526,5 +1526,113 @@
       }
     ],
     "mfg_date": "2026-06-01"
+  },
+  {
+    "id": "2606160022",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.라벨이중티",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781621566/1_4_6461781621566.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
+  },
+  {
+    "id": "2606160028",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.단작티",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781621565/1_3_941781621565.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
+  },
+  {
+    "id": "2606160034",
+    "brand": "삐삐다이어리",
+    "name": "삐삐다이어리.골지카라티",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781621563/1_2_571781621563.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
   }
 ]

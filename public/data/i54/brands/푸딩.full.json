@@ -175,5 +175,86 @@
       }
     ],
     "mfg_date": "2026-06-11"
+  },
+  {
+    "id": "2606160017",
+    "brand": "푸딩",
+    "name": "푸딩.여름자수하프팬츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781602151/1_5_7811781602151.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/5C1781602151/1_5_7811781602151.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781602151/2_5_6551781602151.jpg",
+      "https://img2.kidsvillage.co.kr/5C1781602151/3_5_5191781602152.jpg"
+    ],
+    "colors": [
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
+  },
+  {
+    "id": "2606160023",
+    "brand": "푸딩",
+    "name": "푸딩.여름시스루가디건",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781602151/1_4_1221781602151.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/4C1781602151/1_4_1221781602151.jpg",
+      "https://img2.kidsvillage.co.kr/4C1781602151/2_4_6081781602151.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
   }
 ]

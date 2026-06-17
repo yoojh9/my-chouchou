@@ -86,5 +86,49 @@
       }
     ],
     "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2606160029",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.리본프릴티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781602150/1_3_5421781602150.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-16"
   }
 ]
