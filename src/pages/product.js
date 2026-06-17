@@ -263,6 +263,7 @@ export async function renderProduct(app, brandId, productId, backHash) {
         addPrice: totalAddPrice(),
         basePrice: product.price_sale,
         quantity,
+        thumbnail_url: product.thumbnail_url || "",
       });
       if (result === 'added') {
         cartBtn.textContent = "담겼어요 ✓";

@@ -44,6 +44,7 @@ function renderContent(app) {
     const color = item.selectedColor || ''
     return `
       <div class="cart-item">
+        ${item.thumbnail_url ? `<img class="cart-item__thumb" src="${item.thumbnail_url}" alt="${item.name}" onerror="this.style.display='none'">` : ''}
         <div class="cart-item__info">
           <div class="cart-item__brand">${item.brand}</div>
           <div class="cart-item__name">${item.name}</div>

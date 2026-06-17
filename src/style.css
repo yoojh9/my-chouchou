@@ -1264,8 +1264,17 @@ html, body {
   box-shadow: var(--shadow);
   padding: 14px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 10px;
+}
+
+.cart-item__thumb {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  background: var(--muted);
 }
 
 .cart-item__info {
@@ -1338,11 +1347,12 @@ html, body {
 
 .cart-actions {
   padding: 14px 14px 0;
+  display: flex;
+  gap: 8px;
 }
 
 .cart-order-btn {
-  display: block;
-  width: 100%;
+  flex: 1;
   padding: 15px;
   background: var(--accent);
   color: var(--white);
@@ -1362,19 +1372,23 @@ html, body {
 }
 
 .cart-clear-btn {
-  display: block;
-  width: 100%;
-  margin-top: 8px;
-  padding: 12px;
-  background: none;
-  color: var(--gray);
+  flex: 1;
+  padding: 15px;
+  background: #4A4744;
+  color: #FFFFFF;
   border: none;
-  font-size: 13px;
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-weight: 600;
   font-family: inherit;
   cursor: pointer;
   letter-spacing: -0.1px;
-  text-decoration: underline;
   -webkit-tap-highlight-color: transparent;
+  transition: opacity 0.15s;
+}
+
+.cart-clear-btn:active {
+  opacity: 0.85;
 }
 
 /* ── Load more button ── */
