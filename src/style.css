@@ -1269,8 +1269,8 @@ html, body {
 }
 
 .cart-item__thumb {
-  width: 90px;
-  height: 90px;
+  width: 77px;
+  height: 77px;
   object-fit: cover;
   border-radius: 8px;
   flex-shrink: 0;
