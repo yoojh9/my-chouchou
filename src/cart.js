@@ -2,9 +2,14 @@ const CART_KEY = 'mychouchou_cart'
 const SOURCE_KEY = 'mychouchou_source'
 
 export function saveSourceFromUrl() {
-  const from = new URLSearchParams(location.search).get('from')
+  const params = new URLSearchParams(location.search)
+  const from = params.get('from')
   if (from) {
     localStorage.setItem(SOURCE_KEY, from)
+    params.delete('from')
+    const newSearch = params.toString()
+    const newUrl = location.pathname + (newSearch ? '?' + newSearch : '') + location.hash
+    history.replaceState(null, '', newUrl)
   } else {
     localStorage.removeItem(SOURCE_KEY)
   }
