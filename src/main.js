@@ -23,6 +23,7 @@ fab.innerHTML = `
 document.body.appendChild(fab)
 
 document.getElementById('cart-fab-btn').addEventListener('click', () => {
+  if (!getSource()) return
   location.hash = '#/cart'
 })
 
@@ -46,6 +47,7 @@ async function router() {
       restoreHomeScroll = false
     }
   } else if (hash === '#/cart') {
+    if (!getSource()) { location.hash = '#/'; return }
     renderCart(app)
   } else if (hash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(hash.slice('#/brand/'.length))
