@@ -3,7 +3,7 @@ import { renderHome, resetHomeState } from './pages/home.js'
 import { renderBrand } from './pages/brand.js'
 import { renderProduct } from './pages/product.js'
 import { renderCart } from './pages/cart.js'
-import { updateCartBadge, saveSourceFromUrl } from './cart.js'
+import { updateCartBadge, saveSourceFromUrl, getSource } from './cart.js'
 
 saveSourceFromUrl()
 
