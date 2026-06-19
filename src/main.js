@@ -100,9 +100,11 @@ app.addEventListener('click', e => {
   homeScrollY = 0
   restoreHomeScroll = false
   if (location.hash === '#/' || location.hash === '#' || !location.hash) {
+    history.replaceState(null, '', '/#/')
     renderHome(app)
     window.scrollTo(0, 0)
   } else {
-    location.hash = '#/'
+    history.replaceState(null, '', '/#/')
+    router()
   }
 })
