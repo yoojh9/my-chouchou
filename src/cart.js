@@ -5,7 +5,7 @@ export function saveSourceFromUrl() {
   const params = new URLSearchParams(location.search)
   const from = params.get('from')
   if (from) {
-    localStorage.setItem(SOURCE_KEY, from)
+    sessionStorage.setItem(SOURCE_KEY, from)
     params.delete('from')
     const newSearch = params.toString()
     const newUrl = location.pathname + (newSearch ? '?' + newSearch : '') + location.hash
@@ -20,15 +20,15 @@ export function saveSourceFromUrl() {
     const redirectFrom = sessionStorage.getItem('__from_redirect')
     if (redirectFrom) {
       sessionStorage.removeItem('__from_redirect')
-      localStorage.setItem(SOURCE_KEY, redirectFrom)
+      sessionStorage.setItem(SOURCE_KEY, redirectFrom)
     } else {
-      localStorage.removeItem(SOURCE_KEY)
+      sessionStorage.removeItem(SOURCE_KEY)
     }
   }
 }
 
 export function getSource() {
-  return localStorage.getItem(SOURCE_KEY) || ''
+  return sessionStorage.getItem(SOURCE_KEY) || ''
 }
 
 export function getCart() {
