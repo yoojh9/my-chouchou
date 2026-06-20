@@ -9,12 +9,12 @@ export function saveSourceFromUrl() {
     params.delete('from')
     const newSearch = params.toString()
     const newUrl = location.pathname + (newSearch ? '?' + newSearch : '') + location.hash
-    history.replaceState(null, '', newUrl)
-    alert('[DEBUG] replaceState 후 location.search: "' + location.search + '"')
-    // 카카오 인앱브라우저는 replaceState가 URL 바에 반영되지 않으므로 location.replace로 폴백
-    if (new URLSearchParams(location.search).get('from')) {
+    // 카카오 인앱브라우저는 replaceState가 URL 바에 반영되지 않으므로 location.replace 사용
+    if (/KAKAOTALK/i.test(navigator.userAgent)) {
       sessionStorage.setItem('__from_redirect', from)
       location.replace(newUrl)
+    } else {
+      history.replaceState(null, '', newUrl)
     }
   } else {
     const redirectFrom = sessionStorage.getItem('__from_redirect')
