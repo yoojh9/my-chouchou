@@ -75,7 +75,7 @@
 
 ### 유입경로 추적
 
-`?from=값` 쿼리 파라미터로 사이트에 진입하면 `cart.js`의 `saveSourceFromUrl()`이 localStorage(`mychouchou_source`)에 저장한다. 장바구니 주문서 작성 시 `getSource()`로 읽어와 상품 목록 마지막 줄에 `from 값`으로 추가된다. (예: 노션 페이지별로 `my-chouchou.com/?from=notion1`, `?from=notion2` 식으로 링크 구분)
+`?from=값` 쿼리 파라미터로 사이트에 진입하면 `cart.js`의 `saveSourceFromUrl()`이 sessionStorage(`mychouchou_source`)에 저장한다. 탭을 닫으면 사라지므로 같은 탭 안에서만 유입경로가 유지된다. 장바구니 주문서 작성 시 `getSource()`로 읽어와 상품 목록 마지막 줄에 `from 값`으로 추가된다. (예: 노션 페이지별로 `my-chouchou.com/?from=notion1`, `?from=notion2` 식으로 링크 구분)
 
 ## 품절 처리
 
