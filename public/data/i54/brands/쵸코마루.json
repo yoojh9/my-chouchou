@@ -654,5 +654,105 @@
       }
     ],
     "mfg_date": "2026-04-05"
+  },
+  {
+    "id": "2606210120",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.행북방울7컬러28개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781801649/1_6_4081781801649.jpg",
+    "colors": [
+      {
+        "name": "28개",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(링반품8.5cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-19"
+  },
+  {
+    "id": "2606210142",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.행북똑딱핀7컬러3판세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781801648/1_5_7141781801648.jpg",
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(핀5cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-19"
+  },
+  {
+    "id": "2606210164",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.해피앤젤집개핀10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781801648/1_4_9031781801648.jpg",
+    "colors": [
+      {
+        "name": "해피5개앤젤5개",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(핀5cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-19"
+  },
+  {
+    "id": "2606210187",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.베베야옹똑딱핀8개3판세트",
+    "price_sale": 12000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781801647/1_3_7041781801647.jpg",
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(핀3cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-19"
+  },
+  {
+    "id": "2606210219",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.과일천국똑딱핀7개3판세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781801647/1_2_2791781801647.jpg",
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(핀5cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-19"
   }
 ]

@@ -1214,5 +1214,69 @@
       }
     ],
     "mfg_date": "2026-04-27"
+  },
+  {
+    "id": "2606210181",
+    "brand": "마이베베",
+    "name": "마이베베.플리츠캉캉세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781931570/1_3_6221781931570.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-20"
+  },
+  {
+    "id": "2606210213",
+    "brand": "마이베베",
+    "name": "마이베베.맘골지세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781931570/1_2_1301781931570.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "단가라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-20"
   }
 ]
