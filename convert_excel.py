@@ -17,6 +17,7 @@ import openpyxl
 import json
 import re
 import os
+import shutil
 import urllib.request
 from pathlib import Path
 from collections import defaultdict
@@ -112,6 +113,8 @@ def download_thumbnails(new_by_brand: dict) -> None:
     저장 위치: thumbnails/
     """
     out_dir = Path(THUMBNAILS_DIR)
+    if out_dir.exists():
+        shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     tasks = []
