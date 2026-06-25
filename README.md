@@ -31,6 +31,28 @@ python3 crawl_brand.py 소예 --since 2026-06-01   # 제조일자 2026-06-01 이
 
 ---
 
+## i54.co.kr 페이지 크롤링 (URL 지정)
+
+브랜드명이 아니라 카테고리/검색결과 같은 특정 목록 페이지 URL을 지정해 그 페이지에 나열된 상품을 그대로 수집한다. 브랜드는 상품명의 `브랜드명.상품명` 표기에서 자동으로 추출한다.
+
+```bash
+python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513&page=1"
+python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513" --start-page 1 --end-page 5
+python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513" --end-page 3 --since 2026-06-01
+```
+
+- `--start-page` : 시작 페이지 (생략 시 URL의 `page` 값, 없으면 1)
+- `--end-page` : 끝 페이지 (생략 시 `--start-page`와 동일, 즉 한 페이지만 수집)
+- `--since YYYY-MM-DD` : 해당 날짜 이후(포함) 제조 상품만 수집
+- 상품명에 `.`이 없어 브랜드를 식별할 수 없는 상품은 제외한다.
+- 결과: `data/page_crawl_<오늘날짜>.xlsx` (마지막 인자로 출력파일명을 지정하면 `data/<지정한이름>_<오늘날짜>.xlsx`)
+
+```bash
+python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513" --end-page 5 신상카테고리
+```
+
+---
+
 ## 상품 데이터 업데이트
 
 ### 1. 엑셀 파일 추가
