@@ -1126,5 +1126,89 @@
       }
     ],
     "mfg_date": "2026-06-05"
+  },
+  {
+    "id": "2606240103",
+    "brand": "돌핀",
+    "name": "돌핀.7부시어서커딸기고쟁이",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-013.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-23"
+  },
+  {
+    "id": "2606240104",
+    "brand": "돌핀",
+    "name": "돌핀.아일렛끈나시티",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-014.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-23"
   }
 ]
