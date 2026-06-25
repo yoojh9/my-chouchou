@@ -86,7 +86,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
       <div class="product-grid" id="product-grid">
         ${skeletonCards()}
       </div>
-      <button class="load-more" id="load-more" style="display:none">더보기</button>
+      <div class="load-more-sentinel" id="load-more-sentinel"></div>
     </div>`
 
   document.getElementById('back-btn').addEventListener('click', () => {
@@ -111,7 +111,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
   }
 
   const grid = document.getElementById('product-grid')
-  const loadMoreBtn = document.getElementById('load-more')
+  const sentinel = document.getElementById('load-more-sentinel')
 
   if (!products.length) {
     grid.innerHTML = `<div class="state-empty" style="grid-column:1/-1">상품이 없습니다.</div>`
@@ -128,7 +128,6 @@ export async function renderBrand(app, brandId, initialShown = 0) {
       grid.insertAdjacentHTML('beforeend', productCardHTML(p, brandId, soldoutIds))
     })
     shown += batch.length
-    loadMoreBtn.style.display = shown < products.length ? 'block' : 'none'
   }
 
   grid.innerHTML = ''
@@ -139,7 +138,10 @@ export async function renderBrand(app, brandId, initialShown = 0) {
     if (urls) grid.insertAdjacentHTML('afterbegin', sizeChartCardHTML(urls))
   })
 
-  loadMoreBtn.addEventListener('click', renderMore)
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting && shown < products.length) renderMore()
+  }, { rootMargin: '200px' })
+  observer.observe(sentinel)
 
   function openSizeCharts(card) {
     const urls = JSON.parse(decodeURIComponent(card.dataset.sizeCharts))

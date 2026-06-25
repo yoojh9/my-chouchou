@@ -1391,26 +1391,7 @@ html, body {
   opacity: 0.85;
 }
 
-/* ── Load more button ── */
-.load-more {
-  display: block;
-  width: 100%;
-  margin-top: 16px;
-  padding: 13px;
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  font-size: 13px;
-  font-weight: 500;
-  font-family: inherit;
-  color: var(--gray);
-  cursor: pointer;
-  text-align: center;
-  letter-spacing: -0.1px;
-  -webkit-tap-highlight-color: transparent;
-  transition: background 0.15s;
-}
-
-.load-more:active {
-  background: var(--muted);
+/* ── Infinite scroll sentinel ── */
+.load-more-sentinel {
+  height: 1px;
 }

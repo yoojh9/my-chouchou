@@ -5,7 +5,7 @@
 - `src/main.js` — 해시 라우터 (`#/`, `#/brand/:id`, `#/product/:bid/:pid`, `#/cart`) + 플로팅 장바구니 버튼
 - `src/cart.js` — localStorage 기반 장바구니 상태 관리
 - `src/pages/home.js` — 브랜드 그리드 (`data/brands.json`)
-- `src/pages/brand.js` — 브랜드별 상품 목록, 20개씩 페이지네이션
+- `src/pages/brand.js` — 브랜드별 상품 목록, 20개씩 무한 스크롤 로딩(IntersectionObserver)
 - `src/pages/product.js` — 상품 상세 + 색상·사이즈·수량 선택 + 장바구니 담기
 - `src/pages/cart.js` — 장바구니 페이지 + 구글 폼 주문서 연동
 - `public/data/` — 정적 JSON 데이터 (`convert_excel.py`로 갱신)
