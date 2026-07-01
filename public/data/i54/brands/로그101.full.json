@@ -2742,5 +2742,121 @@
       }
     ],
     "mfg_date": "2026-05-02"
+  },
+  {
+    "id": "2606300025",
+    "brand": "로그101",
+    "name": "로그101.모먼트베베수트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-025.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202606/mo0630/mo0630-025.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300026",
+    "brand": "로그101",
+    "name": "로그101.모먼트토끼모자",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-026.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202606/mo0630/mo0630-026.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300027",
+    "brand": "로그101",
+    "name": "로그101.블리프릴모자",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-027.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202606/mo0630/mo0630-027.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300028",
+    "brand": "로그101",
+    "name": "로그101.블리베베슈트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-028.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202606/mo0630/mo0630-028.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
   }
 ]

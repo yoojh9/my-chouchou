@@ -1,2418 +1,854 @@
 [
-    {
-        "id": "2604001196",
-        "brand": "오아후",
-        "name": "오아후.멜로우다잉쇼츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1776645863/1_9_5061776645863.jpg",
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604001541",
-        "brand": "오아후",
-        "name": "오아후.멜로우다잉나시",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1776645862/1_8_7271776645862.jpg",
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604001948",
-        "brand": "오아후",
-        "name": "오아후.로우커브데님팬츠",
-        "price_sale": 32000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1776645860/1_7_5741776645860.jpg",
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604002410",
-        "brand": "오아후",
-        "name": "오아후.레이어드스커트",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776645859/1_6_961776645859.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604002995",
-        "brand": "오아후",
-        "name": "오아후.레이단가라티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1776645858/1_5_9691776645858.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604003761",
-        "brand": "오아후",
-        "name": "오아후.레모니원피스",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776645857/1_4_6051776645857.jpg",
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "곤스트라이프",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604004832",
-        "brand": "오아후",
-        "name": "오아후.NY자수쇼츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1776645855/1_3_3151776645855.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "곤색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006026",
-        "brand": "오아후",
-        "name": "오아후.하니블라우스",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/31C1776645894/1_31_6251776645894.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "꽃",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006167",
-        "brand": "오아후",
-        "name": "오아후.피비데님쇼츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/30C1776645892/1_30_6181776645892.jpg",
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006410",
-        "brand": "오아후",
-        "name": "오아후.AA데님쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776645854/1_2_7881776645854.jpg",
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006716",
-        "brand": "오아후",
-        "name": "오아후.피브링거티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/29C1776645891/1_29_141776645891.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006871",
-        "brand": "오아후",
-        "name": "오아후.프레피쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/28C1776645889/1_28_5511776645889.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "곤색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007034",
-        "brand": "오아후",
-        "name": "오아후.포니디지털티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1776645888/1_27_6421776645888.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007202",
-        "brand": "오아후",
-        "name": "오아후.키디스트라이프나시",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/26C1776645887/1_26_251776645887.jpg",
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "먹색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007376",
-        "brand": "오아후",
-        "name": "오아후.코드버뮤다데님",
-        "price_sale": 35200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/25C1776645885/1_25_4791776645885.jpg",
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007558",
-        "brand": "오아후",
-        "name": "오아후.체크패치티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1776645884/1_24_8081776645884.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007744",
-        "brand": "오아후",
-        "name": "오아후.유닛테리쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1776645882/1_23_5181776645882.jpg",
-        "colors": [
-            {
-                "name": "연노랑",
-                "add_price": 0
-            },
-            {
-                "name": "빨강",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007935",
-        "brand": "오아후",
-        "name": "오아후.알파벳티",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1776645880/1_22_9001776645880.jpg",
-        "colors": [
-            {
-                "name": "에메랄드",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008131",
-        "brand": "오아후",
-        "name": "오아후.아일렛발레리티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1776645879/1_21_4861776645879.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008334",
-        "brand": "오아후",
-        "name": "오아후.썸머스트링팬츠",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1776645878/1_20_6941776645878.jpg",
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 5000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008540",
-        "brand": "오아후",
-        "name": "오아후.써클티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1776645877/1_19_7551776645877.jpg",
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "연노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008752",
-        "brand": "오아후",
-        "name": "오아후.시어체크셔츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1776645875/1_18_2811776645875.jpg",
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008965",
-        "brand": "오아후",
-        "name": "오아후.서커스트링팬츠",
-        "price_sale": 32000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1776645874/1_17_2871776645874.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "민트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009197",
-        "brand": "오아후",
-        "name": "오아후.블룸와플세트",
-        "price_sale": 41600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1776645872/1_16_6341776645872.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "올리브",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009436",
-        "brand": "오아후",
-        "name": "오아후.브릭카라티",
-        "price_sale": 22400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1776645870/1_15_3561776645870.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009682",
-        "brand": "오아후",
-        "name": "오아후.보트넥골지티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1776645869/1_14_2531776645869.jpg",
-        "colors": [
-            {
-                "name": "올리브",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009941",
-        "brand": "오아후",
-        "name": "오아후.버킨쇼츠",
-        "price_sale": 24000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1776645868/1_13_2081776645868.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010217",
-        "brand": "오아후",
-        "name": "오아후.바스락다잉팬츠",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1776645867/1_12_2891776645867.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULTS",
-                "add_price": 5000
-            },
-            {
-                "name": "ADULTM",
-                "add_price": 7000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010501",
-        "brand": "오아후",
-        "name": "오아후.바니숏티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1776645866/1_11_7171776645866.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010802",
-        "brand": "오아후",
-        "name": "오아후.뮤트나시",
-        "price_sale": 11200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776645864/1_10_9951776645864.jpg",
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2606090002",
-        "brand": "오아후",
-        "name": "오아후.빔스체크스커트",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090010",
-        "brand": "오아후",
-        "name": "오아후.빔스체크쇼츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090018",
-        "brand": "오아후",
-        "name": "오아후.빔스체크셔츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090028",
-        "brand": "오아후",
-        "name": "오아후.마린쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "먹곤",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090039",
-        "brand": "오아후",
-        "name": "오아후.룰루수영모",
-        "price_sale": 9600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090051",
-        "brand": "오아후",
-        "name": "오아후.룰루비키니",
-        "price_sale": 32000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090067",
-        "brand": "오아후",
-        "name": "오아후.레오테리쇼츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090085",
-        "brand": "오아후",
-        "name": "오아후.OA래쉬가드",
-        "price_sale": 22400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090108",
-        "brand": "오아후",
-        "name": "오아후.헨리넥티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
-        "colors": [
-            {
-                "name": "오트밀",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090111",
-        "brand": "오아후",
-        "name": "오아후.프리티클럽티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
-        "colors": [
-            {
-                "name": "피그레드",
-                "add_price": 0
-            },
-            {
-                "name": "피그소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090115",
-        "brand": "오아후",
-        "name": "오아후.포레아일렛티",
-        "price_sale": 17600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090119",
-        "brand": "오아후",
-        "name": "오아후.타이스윔쇼츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
-        "colors": [
-            {
-                "name": "민트",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090123",
-        "brand": "오아후",
-        "name": "오아후.코니레이스스커트",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090128",
-        "brand": "오아후",
-        "name": "오아후.코니레이스블라우스",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090133",
-        "brand": "오아후",
-        "name": "오아후.우디피그린넨팬츠",
-        "price_sale": 36800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "블릭",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 3000
-            },
-            {
-                "name": "JM",
-                "add_price": 3000
-            },
-            {
-                "name": "JL",
-                "add_price": 3000
-            },
-            {
-                "name": "JXL",
-                "add_price": 3000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090138",
-        "brand": "오아후",
-        "name": "오아후.오픈삭스",
-        "price_sale": 9600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "카키",
-                "add_price": 0
-            },
-            {
-                "name": "옐로우",
-                "add_price": 0
-            },
-            {
-                "name": "아이꽃",
-                "add_price": 0
-            },
-            {
-                "name": "소라꽃",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090143",
-        "brand": "오아후",
-        "name": "오아후.썸머보트넥티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "스트라이프",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090149",
-        "brand": "오아후",
-        "name": "오아후.써니토트백",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
-        "colors": [
-            {
-                "name": "원컬러",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    }
+  {
+    "id": "2606090002",
+    "brand": "오아후",
+    "name": "오아후.빔스체크스커트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090010",
+    "brand": "오아후",
+    "name": "오아후.빔스체크쇼츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090018",
+    "brand": "오아후",
+    "name": "오아후.빔스체크셔츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090028",
+    "brand": "오아후",
+    "name": "오아후.마린쇼츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "먹곤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090039",
+    "brand": "오아후",
+    "name": "오아후.룰루수영모",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090051",
+    "brand": "오아후",
+    "name": "오아후.룰루비키니",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090067",
+    "brand": "오아후",
+    "name": "오아후.레오테리쇼츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090085",
+    "brand": "오아후",
+    "name": "오아후.OA래쉬가드",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090108",
+    "brand": "오아후",
+    "name": "오아후.헨리넥티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090111",
+    "brand": "오아후",
+    "name": "오아후.프리티클럽티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
+    "colors": [
+      {
+        "name": "피그레드",
+        "add_price": 0
+      },
+      {
+        "name": "피그소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090115",
+    "brand": "오아후",
+    "name": "오아후.포레아일렛티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090119",
+    "brand": "오아후",
+    "name": "오아후.타이스윔쇼츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090123",
+    "brand": "오아후",
+    "name": "오아후.코니레이스스커트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090128",
+    "brand": "오아후",
+    "name": "오아후.코니레이스블라우스",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090133",
+    "brand": "오아후",
+    "name": "오아후.우디피그린넨팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블릭",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      },
+      {
+        "name": "JXL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090138",
+    "brand": "오아후",
+    "name": "오아후.오픈삭스",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "아이꽃",
+        "add_price": 0
+      },
+      {
+        "name": "소라꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090143",
+    "brand": "오아후",
+    "name": "오아후.썸머보트넥티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090149",
+    "brand": "오아후",
+    "name": "오아후.써니토트백",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  }
 ]

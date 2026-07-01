@@ -1,1386 +1,222 @@
 [
-    {
-        "id": "2604001155",
-        "brand": "오트밀",
-        "name": "오트밀.버블나그랑",
-        "price_sale": 17600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1776956544/1_9_6481776956544.jpg",
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604001499",
-        "brand": "오트밀",
-        "name": "오트밀.미쉘나시",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1776956542/1_8_2561776956542.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604001904",
-        "brand": "오트밀",
-        "name": "오트밀.미니ST반바지",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1776956540/1_7_8891776956540.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604002362",
-        "brand": "오트밀",
-        "name": "오트밀.몰리체크원피스",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776956538/1_6_6201776956538.jpg",
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "인핑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604002947",
-        "brand": "오트밀",
-        "name": "오트밀.린넨비니",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1776956537/1_5_8271776956537.jpg",
-        "colors": [
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "코코아",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "Free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604003709",
-        "brand": "오트밀",
-        "name": "오트밀.레이니부츠컷",
-        "price_sale": 17600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776956535/1_4_1941776956535.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604004776",
-        "brand": "오트밀",
-        "name": "오트밀.데일리데님세트",
-        "price_sale": 35200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1776956532/1_3_701776956532.jpg",
-        "colors": [
-            {
-                "name": "중청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604006352",
-        "brand": "오트밀",
-        "name": "오트밀.더블기본라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776956530/1_2_1591776956530.jpg",
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "인핑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604006848",
-        "brand": "오트밀",
-        "name": "오트밀.플라워라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/28C1776956582/1_28_3941776956582.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007010",
-        "brand": "오트밀",
-        "name": "오트밀.포켓라운드",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1776956580/1_27_9201776956580.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007176",
-        "brand": "오트밀",
-        "name": "오트밀.포켓데님반바지",
-        "price_sale": 20800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/26C1776956578/1_26_8311776956578.jpg",
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007349",
-        "brand": "오트밀",
-        "name": "오트밀.타올헤어밴드",
-        "price_sale": 6400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/25C1776956576/1_25_7591776956576.jpg",
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "연그레이",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "Free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007531",
-        "brand": "오트밀",
-        "name": "오트밀.타올ST반바지",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1776956574/1_24_2411776956574.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "카키",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007714",
-        "brand": "오트밀",
-        "name": "오트밀.코스ST라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1776956572/1_23_701776956572.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604007904",
-        "brand": "오트밀",
-        "name": "오트밀.젝시나시",
-        "price_sale": 11200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1776956570/1_22_4771776956570.jpg",
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "인핑",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604008100",
-        "brand": "오트밀",
-        "name": "오트밀.엠블나그랑",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1776956568/1_21_401776956568.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "연핑",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604008302",
-        "brand": "오트밀",
-        "name": "오트밀.에브리데님반바지",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1776956566/1_20_8611776956566.jpg",
-        "colors": [
-            {
-                "name": "진청",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604008508",
-        "brand": "오트밀",
-        "name": "오트밀.알라딘바지",
-        "price_sale": 30400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1776956564/1_19_7551776956564.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604008720",
-        "brand": "오트밀",
-        "name": "오트밀.스타라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1776956562/1_18_9231776956562.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604008933",
-        "brand": "오트밀",
-        "name": "오트밀.솔레이라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1776956560/1_17_8601776956560.jpg",
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604009162",
-        "brand": "오트밀",
-        "name": "오트밀.벨로나시",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1776956558/1_16_2831776956558.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604009401",
-        "brand": "오트밀",
-        "name": "오트밀.베이직체크바지",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1776956555/1_15_1451776956555.jpg",
-        "colors": [
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604009647",
-        "brand": "오트밀",
-        "name": "오트밀.베이직반바지",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1776956553/1_14_7481776956553.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "카키",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2604009904",
-        "brand": "오트밀",
-        "name": "오트밀.베어나시",
-        "price_sale": 11200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1776956551/1_13_2501776956551.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "연핑크",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "26040010179",
-        "brand": "오트밀",
-        "name": "오트밀.베어ST나시",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1776956549/1_12_251776956549.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            },
-            {
-                "name": "메론",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "26040010462",
-        "brand": "오트밀",
-        "name": "오트밀.베니스ST라운드",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1776956547/1_11_761776956547.jpg",
-        "colors": [
-            {
-                "name": "브라운ST",
-                "add_price": 0
-            },
-            {
-                "name": "그레이ST",
-                "add_price": 0
-            },
-            {
-                "name": "베이지ST",
-                "add_price": 0
-            },
-            {
-                "name": "블랙ST",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "26040010762",
-        "brand": "오트밀",
-        "name": "오트밀.버터와플반바지",
-        "price_sale": 17600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776956545/1_10_2751776956545.jpg",
-        "colors": [
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-24"
-    },
-    {
-        "id": "2606150269",
-        "brand": "오트밀",
-        "name": "오트밀.와플테디수영복",
-        "price_sale": 35200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781500236/1_6_2891781500236.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "스카이",
-                "add_price": 0
-            },
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-15"
-    },
-    {
-        "id": "2606150344",
-        "brand": "오트밀",
-        "name": "오트밀.와플제니수영복",
-        "price_sale": 24000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781500230/1_5_7231781500230.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-15"
-    },
-    {
-        "id": "2606150435",
-        "brand": "오트밀",
-        "name": "오트밀.마네세트",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781500225/1_4_801781500225.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-15"
-    },
-    {
-        "id": "2606150549",
-        "brand": "오트밀",
-        "name": "오트밀.리코세트",
-        "price_sale": 32000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781500221/1_3_1751781500221.jpg",
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-15"
-    },
-    {
-        "id": "2606150705",
-        "brand": "오트밀",
-        "name": "오트밀.라떼원피스",
-        "price_sale": 24000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781500217/1_2_7131781500217.jpg",
-        "colors": [
-            {
-                "name": "퍼플",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS",
-                "add_price": 0
-            },
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-15"
-    }
+  {
+    "id": "2606150269",
+    "brand": "오트밀",
+    "name": "오트밀.와플테디수영복",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781500236/1_6_2891781500236.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
+  },
+  {
+    "id": "2606150344",
+    "brand": "오트밀",
+    "name": "오트밀.와플제니수영복",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781500230/1_5_7231781500230.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
+  },
+  {
+    "id": "2606150435",
+    "brand": "오트밀",
+    "name": "오트밀.마네세트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781500225/1_4_801781500225.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
+  },
+  {
+    "id": "2606150549",
+    "brand": "오트밀",
+    "name": "오트밀.리코세트",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781500221/1_3_1751781500221.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
+  },
+  {
+    "id": "2606150705",
+    "brand": "오트밀",
+    "name": "오트밀.라떼원피스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781500217/1_2_7131781500217.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-15"
+  }
 ]

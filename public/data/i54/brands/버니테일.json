@@ -1,17 +1,21 @@
 [
   {
-    "id": "2604001392",
+    "id": "2606300006",
     "brand": "버니테일",
-    "name": "버니테일.아일릿벌룬티",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1775020367/1_9_4571775020367.jpg",
+    "name": "버니테일.쁘띠레이스레깅스",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-006.jpg",
     "colors": [
       {
-        "name": "화이트",
+        "name": "하트",
         "add_price": 0
       },
       {
-        "name": "핑크",
+        "name": "블루꽃",
+        "add_price": 0
+      },
+      {
+        "name": "꽃다발",
         "add_price": 0
       }
     ],
@@ -33,86 +37,62 @@
         "add_price": 0
       },
       {
-        "name": "XXL",
+        "name": "2XL",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-01"
+    "mfg_date": "2026-06-30"
   },
   {
-    "id": "2604001748",
+    "id": "2606300007",
     "brand": "버니테일",
-    "name": "버니테일.베르캉캉스커트",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1775020364/1_8_7031775020364.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604002159",
-    "brand": "버니테일",
-    "name": "버니테일.베이비햇",
+    "name": "버니테일.쁘띠레이스티",
     "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1775020361/1_7_3081775020361.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-007.jpg",
     "colors": [
       {
-        "name": "연베이지",
+        "name": "하트",
         "add_price": 0
       },
       {
-        "name": "진베이지",
+        "name": "블루꽃",
         "add_price": 0
       },
       {
-        "name": "핑크",
+        "name": "꽃다발",
         "add_price": 0
       }
     ],
     "sizes": [
       {
-        "name": "FREE",
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-01"
+    "mfg_date": "2026-06-30"
   },
   {
-    "id": "2604002624",
+    "id": "2606300008",
     "brand": "버니테일",
-    "name": "버니테일.플레어슈트세트",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1775020359/1_6_6731775020359.jpg",
+    "name": "버니테일.푸딩리본핀",
+    "price_sale": 6400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-008.jpg",
     "colors": [
       {
         "name": "블루",
@@ -121,153 +101,17 @@
       {
         "name": "핑크",
         "add_price": 0
-      }
-    ],
-    "sizes": [
+      },
       {
-        "name": "S(6-12m)",
+        "name": "레드",
         "add_price": 0
       },
       {
-        "name": "M(12-18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604003217",
-    "brand": "버니테일",
-    "name": "버니테일.블룸블루머",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1775020356/1_5_7661775020356.jpg",
-    "colors": [
-      {
-        "name": "스카이블루",
+        "name": "검정",
         "add_price": 0
       },
       {
-        "name": "코랄",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604003990",
-    "brand": "버니테일",
-    "name": "버니테일.플레어퍼프티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1775020355/1_4_4571775020355.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604005071",
-    "brand": "버니테일",
-    "name": "버니테일.스테이탑",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1775020353/1_3_3791775020353.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604006660",
-    "brand": "버니테일",
-    "name": "버니테일.레이스벙거지",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1775020352/1_2_9111775020352.jpg",
-    "colors": [
-      {
-        "name": "연베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
+        "name": "노랑",
         "add_price": 0
       }
     ],
@@ -277,265 +121,205 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-01"
+    "mfg_date": "2026-06-30"
   },
   {
-    "id": "2604009119",
+    "id": "2606300009",
     "brand": "버니테일",
-    "name": "버니테일.로지베베슈트",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1775020383/1_17_5801775020383.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6-12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12-18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604009358",
-    "brand": "버니테일",
-    "name": "버니테일.로지블라우스",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1775020381/1_16_3701775020381.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604009602",
-    "brand": "버니테일",
-    "name": "버니테일.쁘띠원피스",
-    "price_sale": 40000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1775020379/1_15_431775020379.jpg",
-    "colors": [
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "스카이블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "2604009855",
-    "brand": "버니테일",
-    "name": "버니테일.라피아보넷",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1775020377/1_14_6771775020377.jpg",
-    "colors": [
-      {
-        "name": "연베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "26040010119",
-    "brand": "버니테일",
-    "name": "버니테일.더블린티",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1775020374/1_13_7191775020374.jpg",
-    "colors": [
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "26040010398",
-    "brand": "버니테일",
-    "name": "버니테일.슈슈조거팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1775020372/1_12_7571775020372.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "라일락",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "26040010689",
-    "brand": "버니테일",
-    "name": "버니테일.코티지리본세트",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1775020371/1_11_5021775020371.jpg",
-    "colors": [
-      {
-        "name": "스카이블루",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-04-01"
-  },
-  {
-    "id": "26040010995",
-    "brand": "버니테일",
-    "name": "버니테일.미야오티",
+    "name": "버니테일.키키캉캉치마바지",
     "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1775020369/1_10_771775020369.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-009.jpg",
     "colors": [
       {
-        "name": "검정",
+        "name": "블랙체크",
+        "add_price": 0
+      },
+      {
+        "name": "레드체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300010",
+    "brand": "버니테일",
+    "name": "버니테일.러브미티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-010.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300011",
+    "brand": "버니테일",
+    "name": "버니테일.레이스보넷",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-011.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300012",
+    "brand": "버니테일",
+    "name": "버니테일.체리하트팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-012.jpg",
+    "colors": [
+      {
+        "name": "블랙하트",
+        "add_price": 0
+      },
+      {
+        "name": "레드체리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300013",
+    "brand": "버니테일",
+    "name": "버니테일.체리하트티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-013.jpg",
+    "colors": [
+      {
+        "name": "블랙하트",
+        "add_price": 0
+      },
+      {
+        "name": "레드체리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300014",
+    "brand": "버니테일",
+    "name": "버니테일.다우니팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-014.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
         "add_price": 0
       },
       {
@@ -561,10 +345,370 @@
         "add_price": 0
       },
       {
-        "name": "XXL",
+        "name": "2XL",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-04-01"
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300015",
+    "brand": "버니테일",
+    "name": "버니테일.글로우가디건",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-015.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300016",
+    "brand": "버니테일",
+    "name": "버니테일.블리레이스티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-016.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300017",
+    "brand": "버니테일",
+    "name": "버니테일.로즈티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-017.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300018",
+    "brand": "버니테일",
+    "name": "버니테일.체리목걸이",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-018.jpg",
+    "colors": [
+      {
+        "name": "크리스탈",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300019",
+    "brand": "버니테일",
+    "name": "버니테일.카프리레깅스",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-019.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300020",
+    "brand": "버니테일",
+    "name": "버니테일.코코밍원피스",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-020.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300021",
+    "brand": "버니테일",
+    "name": "버니테일.데이지벙거지",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-021.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300022",
+    "brand": "버니테일",
+    "name": "버니테일.플라워두건",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-022.jpg",
+    "colors": [
+      {
+        "name": "레드꽃",
+        "add_price": 0
+      },
+      {
+        "name": "노랑꽃",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300023",
+    "brand": "버니테일",
+    "name": "버니테일.플라워스커트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-023.jpg",
+    "colors": [
+      {
+        "name": "레드꽃",
+        "add_price": 0
+      },
+      {
+        "name": "노랑꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
+  },
+  {
+    "id": "2606300024",
+    "brand": "버니테일",
+    "name": "버니테일.플라워블라우스",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0630/mo0630-024.jpg",
+    "colors": [
+      {
+        "name": "레드꽃",
+        "add_price": 0
+      },
+      {
+        "name": "노랑꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-30"
   }
 ]

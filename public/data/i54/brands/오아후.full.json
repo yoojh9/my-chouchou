@@ -1,3444 +1,1223 @@
 [
-    {
-        "id": "2604001196",
-        "brand": "오아후",
-        "name": "오아후.멜로우다잉쇼츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1776645863/1_9_5061776645863.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/9C1776645863/1_9_5061776645863.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/2_9_3611776645863.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/3_9_4441776645863.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/4_9_2221776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/5_9_9661776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/6_9_7221776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/7_9_4201776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/8_9_4331776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/9_9_7151776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/10_9_711776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/11_9_1601776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/12_9_9741776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/13_9_5981776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/14_9_9681776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/15_9_3151776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/16_9_5911776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/17_9_1331776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/18_9_2431776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/19_9_1541776645864.jpg",
-            "https://img2.kidsvillage.co.kr/9C1776645863/20_9_2141776645864.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604001541",
-        "brand": "오아후",
-        "name": "오아후.멜로우다잉나시",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1776645862/1_8_7271776645862.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/8C1776645862/1_8_7271776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/2_8_2581776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/3_8_5261776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/4_8_8071776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/5_8_3401776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/6_8_9931776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/7_8_1651776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/8_8_9281776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/9_8_5631776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/10_8_801776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/11_8_5021776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/12_8_8401776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/13_8_341776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/14_8_7591776645862.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/15_8_5831776645863.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/16_8_4831776645863.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/17_8_8191776645863.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/18_8_9221776645863.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/19_8_5091776645863.jpg",
-            "https://img2.kidsvillage.co.kr/8C1776645862/20_8_7131776645863.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604001948",
-        "brand": "오아후",
-        "name": "오아후.로우커브데님팬츠",
-        "price_sale": 32000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1776645860/1_7_5741776645860.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/7C1776645860/1_7_5741776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/2_7_2771776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/3_7_9541776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/4_7_2571776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/5_7_7421776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/6_7_4491776645860.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/7_7_601776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/8_7_3381776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/9_7_251776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/10_7_8931776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/11_7_4351776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/12_7_9971776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/13_7_6481776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/14_7_861776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/15_7_7161776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/16_7_6051776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/17_7_2781776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/18_7_1981776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/19_7_4671776645861.jpg",
-            "https://img2.kidsvillage.co.kr/7C1776645860/20_7_9931776645861.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604002410",
-        "brand": "오아후",
-        "name": "오아후.레이어드스커트",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1776645859/1_6_961776645859.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/6C1776645859/1_6_961776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/2_6_9721776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/3_6_7541776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/4_6_6501776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/5_6_7181776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/6_6_9561776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/7_6_1911776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/8_6_4821776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/9_6_8621776645859.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/10_6_7141776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/11_6_4511776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/12_6_2591776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/13_6_2651776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/14_6_8761776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/15_6_801776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/16_6_821776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/17_6_4671776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/18_6_3571776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/19_6_5871776645860.jpg",
-            "https://img2.kidsvillage.co.kr/6C1776645859/20_6_5691776645860.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604002995",
-        "brand": "오아후",
-        "name": "오아후.레이단가라티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1776645858/1_5_9691776645858.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/5C1776645858/1_5_9691776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/2_5_3971776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/3_5_5501776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/4_5_4241776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/5_5_8201776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/6_5_8161776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/7_5_5911776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/8_5_2771776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/9_5_5051776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/10_5_1021776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/11_5_5571776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/12_5_9861776645858.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/13_5_7081776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/14_5_381776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/15_5_6831776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/16_5_4651776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/17_5_4941776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/18_5_8031776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/19_5_5961776645859.jpg",
-            "https://img2.kidsvillage.co.kr/5C1776645858/20_5_5751776645859.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604003761",
-        "brand": "오아후",
-        "name": "오아후.레모니원피스",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1776645857/1_4_6051776645857.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/4C1776645857/1_4_6051776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/2_4_4811776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/3_4_6961776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/4_4_7561776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/5_4_4551776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/6_4_1201776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/7_4_1311776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/8_4_811776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/9_4_291776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/10_4_5001776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/11_4_3961776645857.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/12_4_9221776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/13_4_5541776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/14_4_7461776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/15_4_2021776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/16_4_5401776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/17_4_7631776645858.jpg",
-            "https://img2.kidsvillage.co.kr/4C1776645857/18_4_9051776645858.jpg"
-        ],
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "곤스트라이프",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604004832",
-        "brand": "오아후",
-        "name": "오아후.NY자수쇼츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1776645855/1_3_3151776645855.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/3C1776645855/1_3_3151776645855.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/2_3_8921776645855.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/3_3_531776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/4_3_3491776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/5_3_2801776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/6_3_9861776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/7_3_171776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/8_3_7031776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/9_3_9821776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/10_3_2051776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/11_3_4911776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/12_3_271776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/13_3_4541776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/14_3_4231776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/15_3_2651776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/16_3_1661776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/17_3_4561776645856.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/18_3_6881776645857.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/19_3_5111776645857.jpg",
-            "https://img2.kidsvillage.co.kr/3C1776645855/20_3_2801776645857.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "곤색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006026",
-        "brand": "오아후",
-        "name": "오아후.하니블라우스",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/31C1776645894/1_31_6251776645894.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/31C1776645894/1_31_6251776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/2_31_7101776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/3_31_8081776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/4_31_1111776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/5_31_3341776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/6_31_2151776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/7_31_5331776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/8_31_8661776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/9_31_1401776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/10_31_5321776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/11_31_4841776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/12_31_71776645894.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/13_31_2981776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/14_31_6211776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/15_31_5031776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/16_31_4551776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/17_31_7891776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/18_31_591776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/19_31_4711776645895.jpg",
-            "https://img2.kidsvillage.co.kr/31C1776645894/20_31_5261776645895.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "꽃",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006167",
-        "brand": "오아후",
-        "name": "오아후.피비데님쇼츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/30C1776645892/1_30_6181776645892.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/30C1776645892/1_30_6181776645892.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/2_30_8671776645892.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/3_30_7651776645892.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/4_30_1361776645892.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/5_30_4961776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/6_30_1561776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/7_30_1671776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/8_30_5551776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/9_30_151776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/10_30_7361776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/11_30_5701776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/12_30_4461776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/13_30_3991776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/14_30_9301776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/15_30_301776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/16_30_6261776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/17_30_6671776645893.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/18_30_5401776645894.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/19_30_931776645894.jpg",
-            "https://img2.kidsvillage.co.kr/30C1776645892/20_30_2911776645894.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006410",
-        "brand": "오아후",
-        "name": "오아후.AA데님쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1776645854/1_2_7881776645854.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/2C1776645854/1_2_7881776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/2_2_451776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/3_2_2491776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/4_2_9321776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/5_2_2371776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/6_2_7121776645854.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/7_2_321776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/8_2_4231776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/9_2_3441776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/10_2_8241776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/11_2_7921776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/12_2_941776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/13_2_2001776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/14_2_2141776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/15_2_1501776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/16_2_9741776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/17_2_4231776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/18_2_3741776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/19_2_6251776645855.jpg",
-            "https://img2.kidsvillage.co.kr/2C1776645854/20_2_9091776645855.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006716",
-        "brand": "오아후",
-        "name": "오아후.피브링거티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/29C1776645891/1_29_141776645891.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/29C1776645891/1_29_141776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/2_29_4301776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/3_29_6621776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/4_29_3601776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/5_29_5841776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/6_29_2261776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/7_29_7361776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/8_29_5091776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/9_29_4671776645891.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/10_29_6241776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/11_29_611776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/12_29_5311776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/13_29_4181776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/14_29_2071776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/15_29_4861776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/16_29_6231776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/17_29_4061776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/18_29_4211776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/19_29_5311776645892.jpg",
-            "https://img2.kidsvillage.co.kr/29C1776645891/20_29_9251776645892.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604006871",
-        "brand": "오아후",
-        "name": "오아후.프레피쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/28C1776645889/1_28_5511776645889.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/28C1776645889/1_28_5511776645889.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/2_28_641776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/3_28_7941776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/4_28_1461776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/5_28_9551776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/6_28_2041776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/7_28_1991776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/8_28_9341776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/9_28_9081776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/10_28_5181776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/11_28_5771776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/12_28_861776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/13_28_9411776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/14_28_7661776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/15_28_5181776645890.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/16_28_6291776645891.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/17_28_3901776645891.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/18_28_301776645891.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/19_28_591776645891.jpg",
-            "https://img2.kidsvillage.co.kr/28C1776645889/20_28_8591776645891.jpg"
-        ],
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "곤색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007034",
-        "brand": "오아후",
-        "name": "오아후.포니디지털티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1776645888/1_27_6421776645888.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/27C1776645888/1_27_6421776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/2_27_1781776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/3_27_4221776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/4_27_1881776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/5_27_4321776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/6_27_6871776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/7_27_6241776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/8_27_5121776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/9_27_4291776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/10_27_4681776645888.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/11_27_5381776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/12_27_9551776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/13_27_5711776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/14_27_931776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/15_27_3451776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/16_27_1531776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/17_27_5641776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/18_27_3761776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/19_27_9251776645889.jpg",
-            "https://img2.kidsvillage.co.kr/27C1776645888/20_27_2401776645889.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007202",
-        "brand": "오아후",
-        "name": "오아후.키디스트라이프나시",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/26C1776645887/1_26_251776645887.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/26C1776645887/1_26_251776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/2_26_5261776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/3_26_1021776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/4_26_5551776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/5_26_3891776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/6_26_5821776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/7_26_4711776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/8_26_311776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/9_26_7711776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/10_26_6751776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/11_26_5111776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/12_26_6251776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/13_26_8241776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/14_26_9061776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/15_26_5941776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/16_26_8901776645887.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/17_26_4101776645888.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/18_26_531776645888.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/19_26_9791776645888.jpg",
-            "https://img2.kidsvillage.co.kr/26C1776645887/20_26_7031776645888.jpg"
-        ],
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "먹색",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007376",
-        "brand": "오아후",
-        "name": "오아후.코드버뮤다데님",
-        "price_sale": 35200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/25C1776645885/1_25_4791776645885.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/25C1776645885/1_25_4791776645885.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/2_25_8541776645885.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/3_25_1481776645885.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/4_25_3951776645885.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/5_25_9691776645885.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/6_25_661776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/7_25_5041776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/8_25_4581776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/9_25_891776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/10_25_2921776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/11_25_2661776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/12_25_6631776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/13_25_4741776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/14_25_1031776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/15_25_5451776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/16_25_2541776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/17_25_2641776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/18_25_4351776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/19_25_791776645886.jpg",
-            "https://img2.kidsvillage.co.kr/25C1776645885/20_25_7421776645886.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연청",
-                "add_price": 0
-            },
-            {
-                "name": "진청",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007558",
-        "brand": "오아후",
-        "name": "오아후.체크패치티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1776645884/1_24_8081776645884.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/24C1776645884/1_24_8081776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/2_24_5741776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/3_24_1821776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/4_24_8361776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/5_24_8821776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/6_24_7791776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/7_24_1611776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/8_24_8901776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/9_24_8251776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/10_24_4771776645884.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/11_24_4081776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/12_24_9461776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/13_24_7831776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/14_24_2571776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/15_24_5291776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/16_24_8621776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/17_24_4801776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/18_24_9161776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/19_24_6421776645885.jpg",
-            "https://img2.kidsvillage.co.kr/24C1776645884/20_24_1891776645885.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007744",
-        "brand": "오아후",
-        "name": "오아후.유닛테리쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1776645882/1_23_5181776645882.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/23C1776645882/1_23_5181776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/2_23_1201776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/3_23_3051776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/4_23_8491776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/5_23_5831776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/6_23_791776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/7_23_2221776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/8_23_3871776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/9_23_7791776645882.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/10_23_7081776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/11_23_2871776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/12_23_8361776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/13_23_6651776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/14_23_9441776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/15_23_9151776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/16_23_1151776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/17_23_9171776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/18_23_1091776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/19_23_4891776645883.jpg",
-            "https://img2.kidsvillage.co.kr/23C1776645882/20_23_221776645883.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연노랑",
-                "add_price": 0
-            },
-            {
-                "name": "빨강",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604007935",
-        "brand": "오아후",
-        "name": "오아후.알파벳티",
-        "price_sale": 14400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1776645880/1_22_9001776645880.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/22C1776645880/1_22_9001776645880.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/2_22_561776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/3_22_9561776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/4_22_6561776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/5_22_791776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/6_22_4491776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/7_22_9731776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/8_22_1931776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/9_22_3741776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/10_22_1041776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/11_22_6791776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/12_22_3181776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/13_22_5511776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/14_22_3931776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/15_22_281776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/16_22_3081776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/17_22_5971776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/18_22_3241776645881.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/19_22_71776645882.jpg",
-            "https://img2.kidsvillage.co.kr/22C1776645880/20_22_461776645882.jpg"
-        ],
-        "colors": [
-            {
-                "name": "에메랄드",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 4000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008131",
-        "brand": "오아후",
-        "name": "오아후.아일렛발레리티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1776645879/1_21_4861776645879.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/21C1776645879/1_21_4861776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/2_21_9441776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/3_21_4461776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/4_21_7141776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/5_21_7091776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/6_21_7561776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/7_21_2031776645879.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/8_21_2961776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/9_21_6991776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/10_21_4491776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/11_21_9911776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/12_21_5101776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/13_21_731776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/14_21_9891776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/15_21_3301776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/16_21_4621776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/17_21_7731776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/18_21_3731776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/19_21_8041776645880.jpg",
-            "https://img2.kidsvillage.co.kr/21C1776645879/20_21_7001776645880.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008334",
-        "brand": "오아후",
-        "name": "오아후.썸머스트링팬츠",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1776645878/1_20_6941776645878.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/20C1776645878/1_20_6941776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/2_20_8111776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/3_20_6241776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/4_20_9981776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/5_20_8201776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/6_20_3891776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/7_20_7831776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/8_20_421776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/9_20_3411776645878.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/10_20_9261776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/11_20_1121776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/12_20_961776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/13_20_3561776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/14_20_4701776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/15_20_7561776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/16_20_221776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/17_20_4931776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/18_20_3161776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/19_20_1131776645879.jpg",
-            "https://img2.kidsvillage.co.kr/20C1776645878/20_20_9241776645879.jpg"
-        ],
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULT",
-                "add_price": 5000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008540",
-        "brand": "오아후",
-        "name": "오아후.써클티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1776645877/1_19_7551776645877.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/19C1776645877/1_19_7551776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/2_19_4291776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/3_19_3571776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/4_19_6591776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/5_19_6661776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/6_19_231776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/7_19_5601776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/8_19_901776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/9_19_4301776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/10_19_8141776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/11_19_3721776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/12_19_201776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/13_19_3141776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/14_19_2271776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/15_19_7651776645877.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/16_19_3101776645878.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/17_19_4891776645878.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/18_19_5861776645878.jpg",
-            "https://img2.kidsvillage.co.kr/19C1776645877/19_19_9421776645878.jpg"
-        ],
-        "colors": [
-            {
-                "name": "백메란지",
-                "add_price": 0
-            },
-            {
-                "name": "연노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008752",
-        "brand": "오아후",
-        "name": "오아후.시어체크셔츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1776645875/1_18_2811776645875.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/18C1776645875/1_18_2811776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/2_18_5891776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/3_18_5001776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/4_18_8541776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/5_18_7451776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/6_18_9951776645875.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/7_18_2611776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/8_18_8211776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/9_18_6311776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/10_18_7561776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/11_18_1081776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/12_18_8681776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/13_18_3781776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/14_18_3031776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/15_18_81776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/16_18_7651776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/17_18_7851776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/18_18_2221776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/19_18_9511776645876.jpg",
-            "https://img2.kidsvillage.co.kr/18C1776645875/20_18_1421776645877.jpg"
-        ],
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604008965",
-        "brand": "오아후",
-        "name": "오아후.서커스트링팬츠",
-        "price_sale": 32000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1776645874/1_17_2871776645874.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/17C1776645874/1_17_2871776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/2_17_2361776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/3_17_6221776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/4_17_1951776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/5_17_1401776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/6_17_3861776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/7_17_4821776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/8_17_2131776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/9_17_1861776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/10_17_3571776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/11_17_8471776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/12_17_8031776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/13_17_2861776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/14_17_2871776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/15_17_9041776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/16_17_2371776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/17_17_6651776645874.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/18_17_9001776645875.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/19_17_4241776645875.jpg",
-            "https://img2.kidsvillage.co.kr/17C1776645874/20_17_4071776645875.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "민트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009197",
-        "brand": "오아후",
-        "name": "오아후.블룸와플세트",
-        "price_sale": 41600,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1776645872/1_16_6341776645872.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/16C1776645872/1_16_6341776645872.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/2_16_6161776645872.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/3_16_9291776645872.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/4_16_4391776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/5_16_1001776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/6_16_9501776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/7_16_3781776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/8_16_9961776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/9_16_1871776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/10_16_7411776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/11_16_3521776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/12_16_8571776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/13_16_1821776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/14_16_2461776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/15_16_5731776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/16_16_1551776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/17_16_4951776645873.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/18_16_4061776645874.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/19_16_761776645874.jpg",
-            "https://img2.kidsvillage.co.kr/16C1776645872/20_16_6361776645874.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "올리브",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009436",
-        "brand": "오아후",
-        "name": "오아후.브릭카라티",
-        "price_sale": 22400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1776645870/1_15_3561776645870.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/15C1776645870/1_15_3561776645870.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/2_15_6701776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/3_15_4401776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/4_15_8931776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/5_15_7151776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/6_15_9731776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/7_15_2491776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/8_15_8331776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/9_15_9201776645871.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/10_15_1401776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/11_15_871776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/12_15_2111776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/13_15_6001776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/14_15_1281776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/15_15_9071776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/16_15_9031776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/17_15_7641776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/18_15_2871776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/19_15_721776645872.jpg",
-            "https://img2.kidsvillage.co.kr/15C1776645870/20_15_7991776645872.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009682",
-        "brand": "오아후",
-        "name": "오아후.보트넥골지티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1776645869/1_14_2531776645869.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/14C1776645869/1_14_2531776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/2_14_2901776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/3_14_4591776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/4_14_401776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/5_14_6961776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/6_14_3031776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/7_14_6361776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/8_14_3791776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/9_14_1691776645869.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/10_14_351776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/11_14_5871776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/12_14_5611776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/13_14_8171776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/14_14_541776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/15_14_8051776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/16_14_4831776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/17_14_211776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/18_14_9391776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/19_14_8951776645870.jpg",
-            "https://img2.kidsvillage.co.kr/14C1776645869/20_14_2361776645870.jpg"
-        ],
-        "colors": [
-            {
-                "name": "올리브",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2604009941",
-        "brand": "오아후",
-        "name": "오아후.버킨쇼츠",
-        "price_sale": 24000,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1776645868/1_13_2081776645868.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/13C1776645868/1_13_2081776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/2_13_3921776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/3_13_7811776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/4_13_4661776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/5_13_2441776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/6_13_6661776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/7_13_9661776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/8_13_1341776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/9_13_4111776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/10_13_2151776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/11_13_4231776645868.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/12_13_4601776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/13_13_4341776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/14_13_781776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/15_13_5361776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/16_13_441776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/17_13_5321776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/18_13_3551776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/19_13_1181776645869.jpg",
-            "https://img2.kidsvillage.co.kr/13C1776645868/20_13_9471776645869.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010217",
-        "brand": "오아후",
-        "name": "오아후.바스락다잉팬츠",
-        "price_sale": 27200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1776645867/1_12_2891776645867.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/12C1776645867/1_12_2891776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/2_12_491776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/3_12_2181776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/4_12_6541776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/5_12_761776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/6_12_6101776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/7_12_4541776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/8_12_8181776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/9_12_731776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/10_12_4141776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/11_12_5351776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/12_12_1341776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/13_12_3431776645867.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/14_12_5681776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/15_12_7871776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/16_12_4061776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/17_12_8431776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/18_12_5951776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/19_12_6821776645868.jpg",
-            "https://img2.kidsvillage.co.kr/12C1776645867/20_12_8651776645868.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "차콜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            },
-            {
-                "name": "ADULTS",
-                "add_price": 5000
-            },
-            {
-                "name": "ADULTM",
-                "add_price": 7000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010501",
-        "brand": "오아후",
-        "name": "오아후.바니숏티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1776645866/1_11_7171776645866.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/11C1776645866/1_11_7171776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/2_11_611776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/3_11_9281776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/4_11_321776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/5_11_6521776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/6_11_621776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/7_11_2751776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/8_11_8071776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/9_11_2761776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/10_11_211776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/11_11_8031776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/12_11_5251776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/13_11_5261776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/14_11_3821776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/15_11_2581776645866.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/16_11_8511776645867.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/17_11_8841776645867.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/18_11_5001776645867.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/19_11_8901776645867.jpg",
-            "https://img2.kidsvillage.co.kr/11C1776645866/20_11_7441776645867.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "메란지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "26040010802",
-        "brand": "오아후",
-        "name": "오아후.뮤트나시",
-        "price_sale": 11200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1776645864/1_10_9951776645864.jpg",
-        "detail_images": [
-            "https://img2.kidsvillage.co.kr/10C1776645864/1_10_9951776645864.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/2_10_2481776645864.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/3_10_5051776645864.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/4_10_5791776645864.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/5_10_7321776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/6_10_3251776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/7_10_5011776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/8_10_2411776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/9_10_381776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/10_10_8591776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/11_10_7481776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/12_10_3991776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/13_10_3041776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/14_10_9701776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/15_10_3651776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/16_10_261776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/17_10_3911776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/18_10_7991776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/19_10_7421776645865.jpg",
-            "https://img2.kidsvillage.co.kr/10C1776645864/20_10_4631776645865.jpg"
-        ],
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-04-20"
-    },
-    {
-        "id": "2606090002",
-        "brand": "오아후",
-        "name": "오아후.빔스체크스커트",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/2_9_2451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/3_9_721780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/4_9_6301780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/5_9_6801780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/6_9_5321780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/7_9_6941780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/8_9_4891780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/9_9_4051780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/10_9_6991780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/11_9_9651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/12_9_7501780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/13_9_4831780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/14_9_9531780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/15_9_7351780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/16_9_451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/17_9_3521780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/18_9_5761780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/19_9_931780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780986232/20_9_6391780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090010",
-        "brand": "오아후",
-        "name": "오아후.빔스체크쇼츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/2_8_3451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/3_8_7841780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/4_8_9881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/5_8_9841780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/6_8_5611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/7_8_3981780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/8_8_8401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/9_8_471780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/10_8_2871780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/11_8_2501780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/12_8_2381780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/13_8_8331780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/14_8_9571780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/15_8_7631780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/16_8_881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/17_8_9301780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/18_8_5241780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/19_8_5421780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780986232/20_8_9371780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090018",
-        "brand": "오아후",
-        "name": "오아후.빔스체크셔츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/2_7_1901780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/3_7_5451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/4_7_7061780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/5_7_5251780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/6_7_2551780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/7_7_9721780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/8_7_7611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/9_7_4531780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/10_7_71780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/11_7_9731780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/12_7_631780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/13_7_3081780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/14_7_5741780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/15_7_241780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/16_7_4341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/17_7_4601780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/18_7_631780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/19_7_8091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780986232/20_7_8721780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090028",
-        "brand": "오아후",
-        "name": "오아후.마린쇼츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/2_6_6091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/3_6_3001780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/4_6_6011780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/5_6_9601780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/6_6_1261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/7_6_8861780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/8_6_391780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/9_6_3751780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/10_6_4111780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/11_6_9411780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/12_6_6661780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/13_6_4731780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/14_6_7781780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/15_6_5121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/16_6_6391780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/17_6_7771780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/18_6_4101780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/19_6_8561780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780986232/20_6_4861780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "먹곤",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090039",
-        "brand": "오아후",
-        "name": "오아후.룰루수영모",
-        "price_sale": 9600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/2_5_7091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/3_5_4791780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/4_5_5531780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/5_5_7041780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/6_5_6561780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/7_5_2971780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/8_5_3341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/9_5_7091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/10_5_2651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/11_5_2361780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780986232/12_5_1981780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090051",
-        "brand": "오아후",
-        "name": "오아후.룰루비키니",
-        "price_sale": 32000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/2_4_4881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/3_4_7691780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/4_4_9761780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/5_4_4111780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/6_4_2651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/7_4_3881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/8_4_3501780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/9_4_8261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/10_4_2851780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/11_4_781780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/12_4_2481780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/13_4_5251780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/14_4_9011780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/15_4_2901780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/16_4_611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/17_4_8371780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/18_4_8461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/19_4_1651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780986232/20_4_9981780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090067",
-        "brand": "오아후",
-        "name": "오아후.레오테리쇼츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/2_3_1041780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/3_3_1601780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/4_3_511780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/5_3_511780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/6_3_7101780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/7_3_5811780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/8_3_3361780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/9_3_9941780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/10_3_1771780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/11_3_7441780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/12_3_6301780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780986232/13_3_531780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090085",
-        "brand": "오아후",
-        "name": "오아후.OA래쉬가드",
-        "price_sale": 22400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/2_2_6351780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/3_2_8751780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/4_2_2241780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/5_2_2701780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/6_2_4351780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/7_2_8011780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/8_2_741780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/9_2_9221780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/10_2_4951780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/11_2_4121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/12_2_9391780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/13_2_5601780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/14_2_8961780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/15_2_7271780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/16_2_4221780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/17_2_2401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/18_2_8231780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/19_2_421780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780986232/20_2_5351780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090108",
-        "brand": "오아후",
-        "name": "오아후.헨리넥티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/2_19_7481780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/3_19_3081780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/4_19_3101780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/5_19_2741780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/6_19_6261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/7_19_6071780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/8_19_3931780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/9_19_6211780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/10_19_1021780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/11_19_3801780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/12_19_1641780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/13_19_6371780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/14_19_311780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/15_19_6901780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/16_19_7021780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/17_19_7861780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/18_19_3721780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/19_19_9491780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/19C1780986232/20_19_5501780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "오트밀",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090111",
-        "brand": "오아후",
-        "name": "오아후.프리티클럽티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/2_18_5421780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/3_18_5351780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/4_18_6511780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/5_18_5261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/6_18_641780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/7_18_7541780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/8_18_6811780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/9_18_2461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/10_18_7641780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/11_18_8071780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/12_18_9521780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/13_18_3201780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/14_18_3481780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/15_18_4801780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/16_18_2671780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/17_18_4611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/18_18_6841780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/19_18_3851780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/18C1780986232/20_18_481780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "피그레드",
-                "add_price": 0
-            },
-            {
-                "name": "피그소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090115",
-        "brand": "오아후",
-        "name": "오아후.포레아일렛티",
-        "price_sale": 17600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/2_17_7051780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/3_17_5561780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/4_17_5411780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/5_17_5271780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/6_17_9461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/7_17_1121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/8_17_2031780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/9_17_1181780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/10_17_5871780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/11_17_1651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/12_17_2281780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/13_17_7001780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/14_17_4581780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/15_17_6961780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/16_17_5251780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/17_17_3181780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/18_17_2971780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/19_17_1181780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/17C1780986232/20_17_9951780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090119",
-        "brand": "오아후",
-        "name": "오아후.타이스윔쇼츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/2_16_1091780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/3_16_1121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/4_16_2931780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/5_16_4671780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/6_16_8251780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/7_16_8591780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/8_16_6011780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/9_16_5931780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/10_16_6771780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/11_16_1971780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/12_16_8681780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/13_16_5471780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/14_16_401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/15_16_6641780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/16_16_9831780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/17_16_5291780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/18_16_1021780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/19_16_1551780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780986232/20_16_1821780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "민트",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090123",
-        "brand": "오아후",
-        "name": "오아후.코니레이스스커트",
-        "price_sale": 28800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/2_15_2741780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/3_15_8691780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/4_15_8421780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/5_15_7961780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/6_15_4361780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/7_15_4881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/8_15_4371780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/9_15_1711780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/10_15_6521780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/11_15_9071780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/12_15_9711780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/13_15_5231780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/14_15_5461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/15_15_4141780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/16_15_8221780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/17_15_3901780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/18_15_5711780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/19_15_6751780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780986232/20_15_1711780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090128",
-        "brand": "오아후",
-        "name": "오아후.코니레이스블라우스",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/2_14_7991780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/3_14_8701780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/4_14_6391780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/5_14_4431780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/6_14_2981780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/7_14_8431780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/8_14_1561780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/9_14_8531780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/10_14_7811780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/11_14_9031780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/12_14_2851780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/13_14_9381780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/14_14_6381780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/15_14_3311780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/16_14_3571780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/17_14_7121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/18_14_5661780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/19_14_1331780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/14C1780986232/20_14_7671780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "체크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090133",
-        "brand": "오아후",
-        "name": "오아후.우디피그린넨팬츠",
-        "price_sale": 36800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/2_13_4321780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/3_13_1561780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/4_13_7341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/5_13_451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/6_13_4191780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/7_13_741780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/8_13_2341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/9_13_7751780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/10_13_541780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/11_13_2511780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/12_13_4631780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/13_13_5071780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/14_13_511780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/15_13_2451780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/16_13_5211780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/17_13_5671780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/18_13_6461780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/19_13_6401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780986232/20_13_7341780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "블릭",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 3000
-            },
-            {
-                "name": "JM",
-                "add_price": 3000
-            },
-            {
-                "name": "JL",
-                "add_price": 3000
-            },
-            {
-                "name": "JXL",
-                "add_price": 3000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090138",
-        "brand": "오아후",
-        "name": "오아후.오픈삭스",
-        "price_sale": 9600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/2_12_6871780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/3_12_4521780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/4_12_8001780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/5_12_7821780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/6_12_141780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/7_12_5151780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/8_12_4001780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/9_12_1181780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/10_12_1671780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/11_12_5171780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/12_12_8291780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/13_12_651780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/14_12_7061780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/15_12_1691780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/16_12_6441780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/17_12_4281780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/18_12_2041780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/19_12_7121780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780986232/20_12_5541780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "카키",
-                "add_price": 0
-            },
-            {
-                "name": "옐로우",
-                "add_price": 0
-            },
-            {
-                "name": "아이꽃",
-                "add_price": 0
-            },
-            {
-                "name": "소라꽃",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090143",
-        "brand": "오아후",
-        "name": "오아후.썸머보트넥티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/2_11_7101780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/3_11_8981780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/4_11_1881780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/5_11_3401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/6_11_5781780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/7_11_7211780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/8_11_341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/9_11_681780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/10_11_1261780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/11_11_7341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/12_11_341780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/13_11_8771780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/14_11_2171780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/15_11_9871780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/16_11_6131780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/17_11_2631780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/18_11_3401780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/19_11_1891780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780986232/20_11_3561780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "스트라이프",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "JS",
-                "add_price": 2000
-            },
-            {
-                "name": "JM",
-                "add_price": 2000
-            },
-            {
-                "name": "JL",
-                "add_price": 2000
-            },
-            {
-                "name": "JXL",
-                "add_price": 2000
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    },
-    {
-        "id": "2606090149",
-        "brand": "오아후",
-        "name": "오아후.써니토트백",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/2_10_4731780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/3_10_7841780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/4_10_941780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/5_10_5611780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/6_10_7141780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/7_10_6181780986232.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780986232/8_10_1041780986232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "원컬러",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-09"
-    }
+  {
+    "id": "2606090002",
+    "brand": "오아후",
+    "name": "오아후.빔스체크스커트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/9C1780986232/1_9_6061780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/2_9_2451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/3_9_721780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/4_9_6301780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/5_9_6801780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/6_9_5321780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/7_9_6941780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/8_9_4891780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/9_9_4051780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/10_9_6991780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/11_9_9651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/12_9_7501780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/13_9_4831780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/14_9_9531780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/15_9_7351780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/16_9_451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/17_9_3521780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/18_9_5761780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/19_9_931780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/9C1780986232/20_9_6391780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090010",
+    "brand": "오아후",
+    "name": "오아후.빔스체크쇼츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/8C1780986232/1_8_4751780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/2_8_3451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/3_8_7841780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/4_8_9881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/5_8_9841780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/6_8_5611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/7_8_3981780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/8_8_8401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/9_8_471780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/10_8_2871780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/11_8_2501780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/12_8_2381780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/13_8_8331780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/14_8_9571780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/15_8_7631780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/16_8_881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/17_8_9301780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/18_8_5241780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/19_8_5421780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/8C1780986232/20_8_9371780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090018",
+    "brand": "오아후",
+    "name": "오아후.빔스체크셔츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/7C1780986232/1_7_4091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/2_7_1901780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/3_7_5451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/4_7_7061780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/5_7_5251780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/6_7_2551780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/7_7_9721780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/8_7_7611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/9_7_4531780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/10_7_71780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/11_7_9731780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/12_7_631780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/13_7_3081780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/14_7_5741780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/15_7_241780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/16_7_4341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/17_7_4601780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/18_7_631780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/19_7_8091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/7C1780986232/20_7_8721780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090028",
+    "brand": "오아후",
+    "name": "오아후.마린쇼츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/6C1780986232/1_6_2121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/2_6_6091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/3_6_3001780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/4_6_6011780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/5_6_9601780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/6_6_1261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/7_6_8861780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/8_6_391780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/9_6_3751780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/10_6_4111780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/11_6_9411780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/12_6_6661780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/13_6_4731780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/14_6_7781780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/15_6_5121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/16_6_6391780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/17_6_7771780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/18_6_4101780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/19_6_8561780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/6C1780986232/20_6_4861780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "먹곤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090039",
+    "brand": "오아후",
+    "name": "오아후.룰루수영모",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/5C1780986232/1_5_2171780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/2_5_7091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/3_5_4791780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/4_5_5531780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/5_5_7041780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/6_5_6561780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/7_5_2971780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/8_5_3341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/9_5_7091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/10_5_2651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/11_5_2361780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/5C1780986232/12_5_1981780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090051",
+    "brand": "오아후",
+    "name": "오아후.룰루비키니",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/4C1780986232/1_4_9011780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/2_4_4881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/3_4_7691780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/4_4_9761780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/5_4_4111780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/6_4_2651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/7_4_3881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/8_4_3501780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/9_4_8261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/10_4_2851780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/11_4_781780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/12_4_2481780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/13_4_5251780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/14_4_9011780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/15_4_2901780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/16_4_611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/17_4_8371780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/18_4_8461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/19_4_1651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/4C1780986232/20_4_9981780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090067",
+    "brand": "오아후",
+    "name": "오아후.레오테리쇼츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/3C1780986232/1_3_5551780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/2_3_1041780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/3_3_1601780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/4_3_511780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/5_3_511780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/6_3_7101780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/7_3_5811780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/8_3_3361780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/9_3_9941780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/10_3_1771780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/11_3_7441780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/12_3_6301780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/3C1780986232/13_3_531780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090085",
+    "brand": "오아후",
+    "name": "오아후.OA래쉬가드",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/2C1780986232/1_2_4071780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/2_2_6351780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/3_2_8751780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/4_2_2241780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/5_2_2701780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/6_2_4351780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/7_2_8011780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/8_2_741780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/9_2_9221780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/10_2_4951780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/11_2_4121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/12_2_9391780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/13_2_5601780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/14_2_8961780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/15_2_7271780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/16_2_4221780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/17_2_2401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/18_2_8231780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/19_2_421780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/2C1780986232/20_2_5351780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090108",
+    "brand": "오아후",
+    "name": "오아후.헨리넥티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/19C1780986232/1_19_6141780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/2_19_7481780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/3_19_3081780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/4_19_3101780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/5_19_2741780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/6_19_6261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/7_19_6071780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/8_19_3931780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/9_19_6211780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/10_19_1021780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/11_19_3801780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/12_19_1641780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/13_19_6371780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/14_19_311780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/15_19_6901780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/16_19_7021780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/17_19_7861780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/18_19_3721780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/19_19_9491780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/19C1780986232/20_19_5501780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090111",
+    "brand": "오아후",
+    "name": "오아후.프리티클럽티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/18C1780986232/1_18_9861780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/2_18_5421780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/3_18_5351780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/4_18_6511780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/5_18_5261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/6_18_641780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/7_18_7541780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/8_18_6811780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/9_18_2461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/10_18_7641780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/11_18_8071780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/12_18_9521780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/13_18_3201780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/14_18_3481780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/15_18_4801780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/16_18_2671780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/17_18_4611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/18_18_6841780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/19_18_3851780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/18C1780986232/20_18_481780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "피그레드",
+        "add_price": 0
+      },
+      {
+        "name": "피그소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090115",
+    "brand": "오아후",
+    "name": "오아후.포레아일렛티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/17C1780986232/1_17_1261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/2_17_7051780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/3_17_5561780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/4_17_5411780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/5_17_5271780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/6_17_9461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/7_17_1121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/8_17_2031780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/9_17_1181780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/10_17_5871780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/11_17_1651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/12_17_2281780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/13_17_7001780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/14_17_4581780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/15_17_6961780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/16_17_5251780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/17_17_3181780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/18_17_2971780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/19_17_1181780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/17C1780986232/20_17_9951780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090119",
+    "brand": "오아후",
+    "name": "오아후.타이스윔쇼츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/16C1780986232/1_16_9611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/2_16_1091780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/3_16_1121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/4_16_2931780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/5_16_4671780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/6_16_8251780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/7_16_8591780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/8_16_6011780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/9_16_5931780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/10_16_6771780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/11_16_1971780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/12_16_8681780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/13_16_5471780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/14_16_401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/15_16_6641780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/16_16_9831780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/17_16_5291780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/18_16_1021780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/19_16_1551780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/16C1780986232/20_16_1821780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090123",
+    "brand": "오아후",
+    "name": "오아후.코니레이스스커트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/15C1780986232/1_15_5961780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/2_15_2741780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/3_15_8691780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/4_15_8421780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/5_15_7961780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/6_15_4361780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/7_15_4881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/8_15_4371780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/9_15_1711780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/10_15_6521780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/11_15_9071780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/12_15_9711780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/13_15_5231780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/14_15_5461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/15_15_4141780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/16_15_8221780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/17_15_3901780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/18_15_5711780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/19_15_6751780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/15C1780986232/20_15_1711780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090128",
+    "brand": "오아후",
+    "name": "오아후.코니레이스블라우스",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/14C1780986232/1_14_4691780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/2_14_7991780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/3_14_8701780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/4_14_6391780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/5_14_4431780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/6_14_2981780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/7_14_8431780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/8_14_1561780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/9_14_8531780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/10_14_7811780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/11_14_9031780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/12_14_2851780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/13_14_9381780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/14_14_6381780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/15_14_3311780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/16_14_3571780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/17_14_7121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/18_14_5661780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/19_14_1331780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/14C1780986232/20_14_7671780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090133",
+    "brand": "오아후",
+    "name": "오아후.우디피그린넨팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/13C1780986232/1_13_7461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/2_13_4321780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/3_13_1561780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/4_13_7341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/5_13_451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/6_13_4191780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/7_13_741780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/8_13_2341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/9_13_7751780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/10_13_541780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/11_13_2511780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/12_13_4631780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/13_13_5071780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/14_13_511780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/15_13_2451780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/16_13_5211780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/17_13_5671780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/18_13_6461780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/19_13_6401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/13C1780986232/20_13_7341780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "블릭",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      },
+      {
+        "name": "JXL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090138",
+    "brand": "오아후",
+    "name": "오아후.오픈삭스",
+    "price_sale": 9600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/2_12_6871780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/3_12_4521780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/4_12_8001780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/5_12_7821780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/6_12_141780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/7_12_5151780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/8_12_4001780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/9_12_1181780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/10_12_1671780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/11_12_5171780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/12_12_8291780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/13_12_651780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/14_12_7061780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/15_12_1691780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/16_12_6441780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/17_12_4281780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/18_12_2041780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/19_12_7121780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/12C1780986232/20_12_5541780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "아이꽃",
+        "add_price": 0
+      },
+      {
+        "name": "소라꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090143",
+    "brand": "오아후",
+    "name": "오아후.썸머보트넥티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/2_11_7101780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/3_11_8981780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/4_11_1881780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/5_11_3401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/6_11_5781780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/7_11_7211780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/8_11_341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/9_11_681780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/10_11_1261780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/11_11_7341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/12_11_341780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/13_11_8771780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/14_11_2171780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/15_11_9871780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/16_11_6131780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/17_11_2631780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/18_11_3401780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/19_11_1891780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/11C1780986232/20_11_3561780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      },
+      {
+        "name": "JXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  },
+  {
+    "id": "2606090149",
+    "brand": "오아후",
+    "name": "오아후.써니토트백",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
+    "detail_images": [
+      "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/2_10_4731780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/3_10_7841780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/4_10_941780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/5_10_5611780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/6_10_7141780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/7_10_6181780986232.jpg",
+      "https://kidsvillage.co.kr/data/item/10C1780986232/8_10_1041780986232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-09"
+  }
 ]
