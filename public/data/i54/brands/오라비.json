@@ -494,5 +494,541 @@
       }
     ],
     "mfg_date": "2026-05-05"
+  },
+  {
+    "id": "2607010232",
+    "brand": "오라비",
+    "name": "오라비.라비배색나시",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-016.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010233",
+    "brand": "오라비",
+    "name": "오라비.라비잔가라반바지",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-017.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010234",
+    "brand": "오라비",
+    "name": "오라비.레인보우반팔",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-018.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010235",
+    "brand": "오라비",
+    "name": "오라비.몬스터나그랑",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-019.jpg",
+    "colors": [
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010237",
+    "brand": "오라비",
+    "name": "오라비.몽글후르츠반팔",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-021.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010238",
+    "brand": "오라비",
+    "name": "오라비.미니단가라반팔",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-022.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010239",
+    "brand": "오라비",
+    "name": "오라비.미니쥬수트(보넷세트)",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-023.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(0-6m)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010243",
+    "brand": "오라비",
+    "name": "오라비.붕붕자동차반팔",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-027.jpg",
+    "colors": [
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010244",
+    "brand": "오라비",
+    "name": "오라비.스마일배색반팔",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-028.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010246",
+    "brand": "오라비",
+    "name": "오라비.우주별나그랑",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-030.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지(넥컬러)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010247",
+    "brand": "오라비",
+    "name": "오라비.푸루티토마토세트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-031.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(0-6m)",
+        "add_price": 0
+      },
+      {
+        "name": "S(6-12m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010248",
+    "brand": "오라비",
+    "name": "오라비.호피플리츠조거팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-032.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
+  },
+  {
+    "id": "2607010249",
+    "brand": "오라비",
+    "name": "오라비.후들골지조거",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0701/mo0701-033.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-01"
   }
 ]
