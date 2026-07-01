@@ -1,5 +1,16 @@
 [
   {
+    "id": "NRK",
+    "name": "NRK",
+    "total": 44,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/B000OD1782790852/1_44_5951776650763.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/E00APD1782790820/1_17_8321776650722.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/G00ALD1782790810/1_21_5911776650729.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
+    ],
+    "latest_mfg_date": "2026-06-30"
+  },
+  {
     "id": "WHIT",
     "name": "WHIT",
     "total": 8,
@@ -18,6 +29,17 @@
       "https://img2.kidsvillage.co.kr/2C1780432436/1_2_3521780432436.jpg"
     ],
     "latest_mfg_date": "2026-06-03"
+  },
+  {
+    "id": "겟썸플래버",
+    "name": "겟썸플래버",
+    "total": 3,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/2C1782308994/1_2_3251782308994.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/3C1782308994/1_3_3781782308994.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/4C1782308994/1_4_2261782308994.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8"
+    ],
+    "latest_mfg_date": "2026-06-24"
   },
   {
     "id": "고고피크닉",
@@ -152,6 +174,17 @@
     "latest_mfg_date": "2026-06-04"
   },
   {
+    "id": "누벨로",
+    "name": "누벨로",
+    "total": 30,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000AD1782413109/1_30_5981774599411.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000QD1782413128/1_15_3771774599399.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000YD1782413137/1_6_9341774599392.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
+    ],
+    "latest_mfg_date": "2026-06-26"
+  },
+  {
     "id": "니니벨로",
     "name": "니니벨로",
     "total": 33,
@@ -260,6 +293,17 @@
     "latest_mfg_date": "2026-06-11"
   },
   {
+    "id": "덴덴",
+    "name": "덴덴",
+    "total": 27,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/10C1782216407/1_10_5771782216407.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/11C1782216407/1_11_2781782216407.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/12C1782216407/1_12_7371782216407.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4"
+    ],
+    "latest_mfg_date": "2026-06-23"
+  },
+  {
     "id": "도미니코",
     "name": "도미니코",
     "total": 12,
@@ -306,13 +350,13 @@
   {
     "id": "디그린",
     "name": "디그린",
-    "total": 12,
+    "total": 79,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1780149722/1_10_1201780149722.jpg",
-      "https://kidsvillage.co.kr/data/item/11C1780149722/1_11_6021780149722.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1780149722/1_12_3281780149722.jpg"
+      "https://kidsvillage.co.kr/data/item/A000GD1782464386/1_2_2811776110609.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000DD1782464375/1_5_5211776110619.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000ID1782464316/1_20_9501776110672.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-30"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "디세인트",
@@ -348,6 +392,17 @@
     "latest_mfg_date": "2026-05-25"
   },
   {
+    "id": "라라랜드",
+    "name": "라라랜드",
+    "total": 85,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000DD1782658561/1_84_261775358097.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/A000ID1782658566/1_78_7521775358089.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/A000SD1782658578/1_67_371775358077.jpg?kvdl=xls_ykwon89_1782874398_2b84000b"
+    ],
+    "latest_mfg_date": "2026-06-28"
+  },
+  {
     "id": "라임앤블루",
     "name": "라임앤블루",
     "total": 5,
@@ -361,11 +416,13 @@
   {
     "id": "라쿠",
     "name": "라쿠",
-    "total": 1,
+    "total": 18,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1780881434/1_2_4801780881434.jpg"
+      "https://kidsvillage.co.kr/data/item/A000DD1782695853/1_18_3711775583293.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://kidsvillage.co.kr/data/item/B000LD1782695864/1_8_9231775583283.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://kidsvillage.co.kr/data/item/C000FD1782695856/1_16_6701775583290.jpg?kvdl=xls_ykwon89_1782874395_3910649b"
     ],
-    "latest_mfg_date": "2026-06-08"
+    "latest_mfg_date": "2026-06-29"
   },
   {
     "id": "러블리",
@@ -392,13 +449,13 @@
   {
     "id": "러빈",
     "name": "러빈",
-    "total": 25,
+    "total": 41,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/3C1780881434/1_3_7361780881434.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779682150/1_7_8631779682150.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779682150/1_8_9571779682150.jpg"
+      "https://kidsvillage.co.kr/data/item/B000AD1782268780/1_28_9951775119083.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/C000AD1782269034/1_22_7241779107240.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/I000CD1782269008/1_5_4931779107221.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8"
     ],
-    "latest_mfg_date": "2026-06-08"
+    "latest_mfg_date": "2026-06-24"
   },
   {
     "id": "레모네이드",
@@ -579,24 +636,24 @@
   {
     "id": "마론",
     "name": "마론",
-    "total": 12,
+    "total": 91,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1778136322/1_10_6651778136322.jpg",
-      "https://img2.kidsvillage.co.kr/11C1778136324/1_11_8121778136324.jpg",
-      "https://img2.kidsvillage.co.kr/12C1778136325/1_12_9411778136325.jpg"
+      "https://kidsvillage.co.kr/data/item/A00ARD1782072231/1_37_2761775716162.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/B00AYD1782072245/1_30_1281775716153.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/B00BID1782072264/1_21_1461775716142.jpg?kvdl=xls_ykwon89_1782874428_7333527e"
     ],
-    "latest_mfg_date": "2026-05-07"
+    "latest_mfg_date": "2026-06-22"
   },
   {
     "id": "마르디엠버",
     "name": "마르디엠버",
-    "total": 23,
+    "total": 69,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/2C1779623151/1_2_1641779623151.jpg",
-      "https://img2.kidsvillage.co.kr/3C1779623151/1_3_2261779623151.jpg",
-      "https://img2.kidsvillage.co.kr/4C1779623152/1_4_701779623152.jpg"
+      "https://kidsvillage.co.kr/data/item/B000LD1782646310/1_4_951778413568.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/C000KD1782646309/1_5_5901778413569.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/D000PD1782646312/1_3_9011777805142.jpg?kvdl=xls_ykwon89_1782874398_2b84000b"
     ],
-    "latest_mfg_date": "2026-05-24"
+    "latest_mfg_date": "2026-06-28"
   },
   {
     "id": "마마스파파",
@@ -709,6 +766,17 @@
     "latest_mfg_date": "2026-06-02"
   },
   {
+    "id": "모메",
+    "name": "모메",
+    "total": 23,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/C000MD1782821862/1_14_1411776634100.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/D000PD1782821867/1_11_6731776634097.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/F000DD1782821851/1_23_3011776634111.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
+    ],
+    "latest_mfg_date": "2026-06-30"
+  },
+  {
     "id": "모이스토어",
     "name": "모이스토어",
     "total": 5,
@@ -777,13 +845,13 @@
   {
     "id": "미니로브",
     "name": "미니로브",
-    "total": 11,
+    "total": 71,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1780149864/1_10_2901780149864.jpg",
-      "https://kidsvillage.co.kr/data/item/11C1780149864/1_11_1251780149864.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1780149864/1_12_7071780149864.jpg"
+      "https://kidsvillage.co.kr/data/item/A000AD1782464589/1_2_1181780149864.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000FD1782464676/1_16_8831775831302.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000GD1782464632/1_35_4051775831331.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-30"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "미니멀",
@@ -867,11 +935,11 @@
     "name": "밀크파우더",
     "total": 45,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/A00AJD1781530361/1_3_3301775508812.jpg",
-      "https://kidsvillage.co.kr/data/item/C00ADD1781530348/1_10_9131775508820.jpg",
-      "https://kidsvillage.co.kr/data/item/E000JD1781530312/1_30_1281775508843.jpg"
+      "https://kidsvillage.co.kr/data/item/M000HD1782822851/1_3_8211778009533.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/K000ID1782822853/1_2_5391778009533.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/J000DD1782822848/1_7_5841778009537.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
     ],
-    "latest_mfg_date": "2026-06-15"
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "밀키",
@@ -1006,6 +1074,17 @@
     "latest_mfg_date": "2026-05-16"
   },
   {
+    "id": "베이블리",
+    "name": "베이블리",
+    "total": 32,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000UD1782454563/1_13_1881774867573.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000CD1782454532/1_30_3231774867589.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/C000ID1782454542/1_25_4911774867584.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
+    ],
+    "latest_mfg_date": "2026-06-26"
+  },
+  {
     "id": "베일리",
     "name": "베일리",
     "total": 8,
@@ -1015,6 +1094,17 @@
       "https://kidsvillage.co.kr/data/item/4C1779965114/1_4_781779965114.jpg"
     ],
     "latest_mfg_date": "2026-05-28"
+  },
+  {
+    "id": "벨라밤비나",
+    "name": "벨라밤비나",
+    "total": 120,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000CD1782764315/1_120_6331777212937.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/A000PD1782764345/1_106_5591777212909.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/A000SD1782764352/1_102_2051777212903.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
+    ],
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "벨로",
@@ -1028,15 +1118,26 @@
     "latest_mfg_date": "2026-06-13"
   },
   {
+    "id": "벨루베베",
+    "name": "벨루베베",
+    "total": 98,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A00AFD1782156608/1_68_9801775465760.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/A00AJD1782156620/1_64_6181775465755.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/A00ARD1782156637/1_56_8431775465744.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4"
+    ],
+    "latest_mfg_date": "2026-06-23"
+  },
+  {
     "id": "보니토",
     "name": "보니토",
-    "total": 9,
+    "total": 77,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1778123562/1_10_2511778123562.jpg",
-      "https://img2.kidsvillage.co.kr/2C1778123556/1_2_8141778123556.jpg",
-      "https://img2.kidsvillage.co.kr/3C1778123557/1_3_2721778123557.jpg"
+      "https://kidsvillage.co.kr/data/item/A000BD1782463988/1_4_9081776417768.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000KD1782463890/1_35_7801776417799.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000PD1782463941/1_10_4991776417775.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-07"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "본네",
@@ -1096,13 +1197,13 @@
   {
     "id": "비다이어리",
     "name": "비다이어리",
-    "total": 545,
+    "total": 651,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1781901093/1_10_8511781901093.jpg",
-      "https://img2.kidsvillage.co.kr/10C1781902786/1_10_1311781902786.jpg",
-      "https://img2.kidsvillage.co.kr/11C1781901094/1_11_321781901094.jpg"
+      "https://kidsvillage.co.kr/data/item/10C1782161681/1_10_2811782161681.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/10C1782162586/1_10_9511782162586.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/10C1782163022/1_10_7021782163022.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4"
     ],
-    "latest_mfg_date": "2026-06-20"
+    "latest_mfg_date": "2026-06-23"
   },
   {
     "id": "비앙조이",
@@ -1118,13 +1219,13 @@
   {
     "id": "비엔어비엔",
     "name": "비엔어비엔",
-    "total": 22,
+    "total": 58,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1779724845/1_2_6211779724845.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779724845/1_3_6651779724845.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779724845/1_4_6111779724845.jpg"
+      "https://kidsvillage.co.kr/data/item/A00ADD1782579554/1_4_2431776151696.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/B000BD1782579536/1_3_6651779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+      "https://kidsvillage.co.kr/data/item/B000HD1782579539/1_5_9761779277933.jpg?kvdl=xls_ykwon89_1782874398_2b84000b"
     ],
-    "latest_mfg_date": "2026-05-26"
+    "latest_mfg_date": "2026-06-28"
   },
   {
     "id": "빛나는구름",
@@ -1136,6 +1237,17 @@
       "https://img2.kidsvillage.co.kr/11C1780298218/1_11_4361780298218.jpg"
     ],
     "latest_mfg_date": "2026-06-11"
+  },
+  {
+    "id": "빠빠",
+    "name": "빠빠",
+    "total": 11,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/10C1782154617/1_10_2991782154617.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/11C1782154617/1_11_5331782154617.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4",
+      "https://kidsvillage.co.kr/data/item/12C1782154617/1_12_5531782154617.jpg?kvdl=xls_ykwon89_1782874424_d7874dc4"
+    ],
+    "latest_mfg_date": "2026-06-23"
   },
   {
     "id": "삐삐다이어리",
@@ -1193,6 +1305,17 @@
     "latest_mfg_date": "2026-06-11"
   },
   {
+    "id": "세컨드모먼트",
+    "name": "세컨드모먼트",
+    "total": 46,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000UD1782488721/1_27_2541776674888.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/A000WD1782488726/1_25_5791776674885.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/B00ADD1782488742/1_18_6541776674865.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1"
+    ],
+    "latest_mfg_date": "2026-06-27"
+  },
+  {
     "id": "소보루",
     "name": "소보루",
     "total": 4,
@@ -1213,6 +1336,17 @@
       "https://www.i54.co.kr/web/product/big/202605/mo0519/mo0519-282.jpg"
     ],
     "latest_mfg_date": "2026-05-19"
+  },
+  {
+    "id": "소유",
+    "name": "소유",
+    "total": 33,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/B000JD1782488498/1_25_1811776778085.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/B000QD1782488506/1_18_661776778077.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/F00AFD1782488530/1_2_6231776778063.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1"
+    ],
+    "latest_mfg_date": "2026-06-27"
   },
   {
     "id": "소이빈",
@@ -1294,13 +1428,13 @@
   {
     "id": "스텔라앤케이",
     "name": "스텔라앤케이",
-    "total": 18,
+    "total": 46,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1779910392/1_10_1181779910392.jpg",
-      "https://kidsvillage.co.kr/data/item/11C1779910392/1_11_8441779910392.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1779910392/1_12_7011779910392.jpg"
+      "https://kidsvillage.co.kr/data/item/A000AD1782413703/1_14_3091774563169.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/C000AD1782414271/1_16_1421779910392.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/D000AD1782413547/1_15_7081774563170.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-28"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "스튜디오M",
@@ -1314,26 +1448,37 @@
     "latest_mfg_date": "2026-06-24"
   },
   {
+    "id": "스튜디오엠",
+    "name": "스튜디오엠",
+    "total": 12,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/10C1782310834/1_10_1481782310834.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/11C1782310834/1_11_4051782310834.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/12C1782310834/1_12_6491782310834.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8"
+    ],
+    "latest_mfg_date": "2026-06-24"
+  },
+  {
     "id": "씨티모자",
     "name": "씨티모자",
-    "total": 21,
+    "total": 23,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1781285558/1_2_7981781285558.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1781285558/1_3_4471781285558.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780426195/1_10_2041780426195.jpg"
+      "https://kidsvillage.co.kr/data/item/2C1782310808/1_2_1511782310808.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/3C1782310808/1_3_8771782310808.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/2C1781285558/1_2_7981781285558.jpg"
     ],
-    "latest_mfg_date": "2026-06-13"
+    "latest_mfg_date": "2026-06-24"
   },
   {
     "id": "아오유",
     "name": "아오유",
-    "total": 8,
+    "total": 50,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1778869141/1_2_401778869141.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778869141/1_3_5431778869141.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1778869141/1_4_1521778869141.jpg"
+      "https://kidsvillage.co.kr/data/item/A000AD1782459856/1_18_9021775370408.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000BD1782460842/1_4_1521778869141.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/C000AD1782460611/1_36_5611775370429.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-16"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "아워",
@@ -1424,13 +1569,13 @@
   {
     "id": "아토메메",
     "name": "아토메메",
-    "total": 59,
+    "total": 107,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1780150038/1_2_4041780150038.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1780150038/1_3_7671780150038.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1780150038/1_4_1291780150038.jpg"
+      "https://kidsvillage.co.kr/data/item/A000AD1782462281/1_10_3201775804708.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000AD1782462519/1_32_4621775804743.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000AD1782462734/1_46_31775804765.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
     ],
-    "latest_mfg_date": "2026-05-30"
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "아티클",
@@ -1501,13 +1646,13 @@
   {
     "id": "앤드버터",
     "name": "앤드버터",
-    "total": 13,
+    "total": 77,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1780815020/1_10_1701780815020.jpg",
-      "https://img2.kidsvillage.co.kr/11C1780815025/1_11_9111780815025.jpg",
-      "https://img2.kidsvillage.co.kr/12C1780815029/1_12_9121780815029.jpg"
+      "https://kidsvillage.co.kr/data/item/A000JD1782792955/1_17_5011775374466.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/B000CD1782792941/1_24_6641775374481.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/C000FD1782792812/1_41_6411775374519.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
     ],
-    "latest_mfg_date": "2026-06-07"
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "어반래빗",
@@ -1563,6 +1708,28 @@
       "https://img2.kidsvillage.co.kr/2C1777843064/1_2_1861777843064.jpg"
     ],
     "latest_mfg_date": "2026-06-13"
+  },
+  {
+    "id": "에이모어",
+    "name": "에이모어",
+    "total": 50,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/H000HD1782541270/1_3_851776337206.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/H000HD1782541358/1_25_7081777014631.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+      "https://kidsvillage.co.kr/data/item/H00ASD1782541639/1_6_9491776337208.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1"
+    ],
+    "latest_mfg_date": "2026-06-27"
+  },
+  {
+    "id": "에이미",
+    "name": "에이미",
+    "total": 25,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/U000AD1782819818/1_26_4751777493875.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/B000BD1782727224/1_9_2171777493875.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://kidsvillage.co.kr/data/item/C000AD1782727848/1_11_3721777493875.jpg?kvdl=xls_ykwon89_1782874395_3910649b"
+    ],
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "에이삐",
@@ -1622,13 +1789,13 @@
   {
     "id": "오누",
     "name": "오누",
-    "total": 15,
+    "total": 73,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1779223508/1_10_2481779223508.jpg",
-      "https://img2.kidsvillage.co.kr/11C1779223509/1_11_9191779223509.jpg",
-      "https://img2.kidsvillage.co.kr/12C1779223510/1_12_3241779223510.jpg"
+      "https://kidsvillage.co.kr/data/item/H00ABD1782821294/1_32_3651775166575.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/I000QD1782821272/1_43_8111775166592.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/I000SD1782821187/1_41_8321775166589.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
     ],
-    "latest_mfg_date": "2026-05-20"
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "오뜨베베",
@@ -1666,13 +1833,13 @@
   {
     "id": "오아후",
     "name": "오아후",
-    "total": 18,
+    "total": 45,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1780986232/1_10_3311780986232.jpg",
-      "https://kidsvillage.co.kr/data/item/11C1780986232/1_11_1161780986232.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1780986232/1_12_161780986232.jpg"
+      "https://kidsvillage.co.kr/data/item/A000AD1782071883/1_31_6251776645894.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/A000ND1782071902/1_17_2871776645874.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/E000WD1782071913/1_7_5741776645860.jpg?kvdl=xls_ykwon89_1782874428_7333527e"
     ],
-    "latest_mfg_date": "2026-06-09"
+    "latest_mfg_date": "2026-06-22"
   },
   {
     "id": "오와",
@@ -1699,13 +1866,13 @@
   {
     "id": "오조드파파",
     "name": "오조드파파",
-    "total": 21,
+    "total": 26,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/2C1781244739/1_2_9981781244739.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1781244739/1_3_201781244739.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1781244739/1_4_5321781244739.jpg"
+      "https://img2.kidsvillage.co.kr/2C1782696787/1_2_8541782696787.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://img2.kidsvillage.co.kr/2C1782734568/1_2_4751782734568.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://img2.kidsvillage.co.kr/3C1782696788/1_3_8821782696788.jpg?kvdl=xls_ykwon89_1782874395_3910649b"
     ],
-    "latest_mfg_date": "2026-06-12"
+    "latest_mfg_date": "2026-06-29"
   },
   {
     "id": "오트밀",
@@ -1732,13 +1899,24 @@
   {
     "id": "요거트맨션",
     "name": "요거트맨션",
-    "total": 9,
+    "total": 60,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1777579202/1_10_4011777579202.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1777579202/1_2_1231777579202.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1777579202/1_3_3391777579202.jpg"
+      "https://kidsvillage.co.kr/data/item/A000BD1782721144/1_14_4271775417085.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://kidsvillage.co.kr/data/item/B000ED1782720804/1_31_2691775417113.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
+      "https://kidsvillage.co.kr/data/item/B000SD1782720749/1_37_2631775417122.jpg?kvdl=xls_ykwon89_1782874395_3910649b"
     ],
-    "latest_mfg_date": "2026-05-01"
+    "latest_mfg_date": "2026-06-29"
+  },
+  {
+    "id": "우에오",
+    "name": "우에오",
+    "total": 44,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/B000HD1782311424/1_39_2541776035316.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/B000PD1782311431/1_31_3861776035309.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8",
+      "https://kidsvillage.co.kr/data/item/B000WD1782311438/1_25_7341776035304.jpg?kvdl=xls_ykwon89_1782874420_2be7a6d8"
+    ],
+    "latest_mfg_date": "2026-06-24"
   },
   {
     "id": "우티",
@@ -1772,6 +1950,17 @@
       "https://img2.kidsvillage.co.kr/4C1776168011/1_4_8061776168011.jpg"
     ],
     "latest_mfg_date": "2026-05-28"
+  },
+  {
+    "id": "원팩토리",
+    "name": "원팩토리",
+    "total": 12,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000ED1782451766/1_9_9671777470210.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000GD1782451767/1_13_4571777470210.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/B000HD1782451767/1_14_9001777470210.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
+    ],
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "월드모자",
@@ -1918,11 +2107,11 @@
   {
     "id": "제제우노시티",
     "name": "제제우노시티",
-    "total": 19,
+    "total": 22,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202606/mo0622/mo0622-031.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0622/mo0622-030.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0622/mo0622-029.jpg"
+      "https://kidsvillage.co.kr/data/item/18C1782080441/1_18_3821782080441.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/3C1782080441/1_3_4611782080441.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/4C1782080441/1_4_9441782080441.jpg?kvdl=xls_ykwon89_1782874428_7333527e"
     ],
     "latest_mfg_date": "2026-06-22"
   },
@@ -1940,13 +2129,13 @@
   {
     "id": "주주아",
     "name": "주주아",
-    "total": 24,
+    "total": 48,
     "preview_thumbnails": [
-      "https://img2.kidsvillage.co.kr/10C1779198152/1_10_1771779198152.jpg",
-      "https://img2.kidsvillage.co.kr/11C1779198155/1_11_4141779198155.jpg",
-      "https://img2.kidsvillage.co.kr/12C1779198156/1_12_6551779198156.jpg"
+      "https://kidsvillage.co.kr/data/item/D000RD1782072019/1_8_8551779198144.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/E000ID1782071984/1_17_6211779198167.jpg?kvdl=xls_ykwon89_1782874428_7333527e",
+      "https://kidsvillage.co.kr/data/item/F000ED1782071971/1_21_1321779198179.jpg?kvdl=xls_ykwon89_1782874428_7333527e"
     ],
-    "latest_mfg_date": "2026-05-19"
+    "latest_mfg_date": "2026-06-22"
   },
   {
     "id": "지안클로버",
@@ -2204,13 +2393,13 @@
   {
     "id": "티티",
     "name": "티티",
-    "total": 49,
+    "total": 74,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/11C1781011650/1_11_9601781011650.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1781011650/1_12_271781011650.jpg",
-      "https://kidsvillage.co.kr/data/item/13C1781011650/1_13_9721781011650.jpg"
+      "https://kidsvillage.co.kr/data/item/B000BD1782765306/1_36_3061778022457.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/C000LD1782765311/1_18_3391778022450.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/F000JD1782765310/1_21_2261778022451.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
     ],
-    "latest_mfg_date": "2026-06-09"
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "파티키즈",
@@ -2277,6 +2466,17 @@
       "https://kidsvillage.co.kr/data/item/4C1781147371/1_4_9081781147371.jpg"
     ],
     "latest_mfg_date": "2026-06-16"
+  },
+  {
+    "id": "프롬아이",
+    "name": "프롬아이",
+    "total": 50,
+    "preview_thumbnails": [
+      "https://kidsvillage.co.kr/data/item/A000AD1782455971/1_15_1021776841909.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000AD1782457405/1_6_7931776841893.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe",
+      "https://kidsvillage.co.kr/data/item/A000AD1782458173/1_45_2721776841961.jpg?kvdl=xls_ykwon89_1782874405_457f3ebe"
+    ],
+    "latest_mfg_date": "2026-06-26"
   },
   {
     "id": "플라워제이",
@@ -2391,13 +2591,13 @@
   {
     "id": "하이키키",
     "name": "하이키키",
-    "total": 14,
+    "total": 65,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/20C1780881434/1_20_3651780881434.jpg",
-      "https://kidsvillage.co.kr/data/item/21C1780881434/1_21_9311780881434.jpg",
-      "https://kidsvillage.co.kr/data/item/22C1780881434/1_22_1841780881434.jpg"
+      "https://kidsvillage.co.kr/data/item/E000FD1782790932/1_7_381779938386.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/F000GD1782790932/1_8_4551779938386.jpg?kvdl=xls_ykwon89_1782874314_62f37220",
+      "https://kidsvillage.co.kr/data/item/F000QD1782790812/1_26_1691776619420.jpg?kvdl=xls_ykwon89_1782874314_62f37220"
     ],
-    "latest_mfg_date": "2026-06-08"
+    "latest_mfg_date": "2026-06-30"
   },
   {
     "id": "하트B",
