@@ -39,15 +39,17 @@ LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors"
 
 def get_id_prefix(xlsx_path: str) -> str:
     """파일명에서 ID 접두어 추출.
-    2026-05.xlsx    → '260500'
-    2026-05-27.xlsx → '260527'
+    2026-05.xlsx             → '260500'
+    2026-05-27.xlsx          → '260527'
+    page_crawl_2026-06-30.xlsx → '260630'
     """
     stem = Path(xlsx_path).stem
-    parts = stem.split("-")
-    if len(parts) == 3:
-        return f"{parts[0][2:]}{parts[1]}{parts[2]}"
-    if len(parts) == 2:
-        return f"{parts[0][2:]}{parts[1]}00"
+    m = re.search(r'(\d{4})-(\d{2})-(\d{2})', stem)
+    if m:
+        return f"{m.group(1)[2:]}{m.group(2)}{m.group(3)}"
+    m = re.search(r'(\d{4})-(\d{2})', stem)
+    if m:
+        return f"{m.group(1)[2:]}{m.group(2)}00"
     return re.sub(r"\D", "", stem)[:6]
 
 
