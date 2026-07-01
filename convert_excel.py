@@ -8,6 +8,9 @@ Usage:
   python3 convert_excel.py data/2026-05-27.xlsx   # 새 엑셀 누적
   python3 convert_excel.py                         # data/ 목록에서 선택
   python3 convert_excel.py --no-thumbnails         # 썸네일 다운로드 생략
+  python3 convert_excel.py --duplicate always      # 중복 시 무조건 새 데이터로 갱신
+  python3 convert_excel.py --duplicate never       # 중복 시 무조건 스킵 (기존 유지)
+  python3 convert_excel.py --duplicate newer       # 중복 시 mfg_date 최신 데이터 유지 (기본값)
   python3 convert_excel.py --rebuild               # 기존 .json → listing/.full 분리 재생성
   python3 convert_excel.py --purge 2026-05-21      # 해당 날짜 이하 상품 전체 삭제
   python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"  # 특정 상품 삭제
@@ -339,6 +342,18 @@ def main():
     if no_thumbnails:
         args.remove("--no-thumbnails")
 
+    duplicate_mode = "newer"
+    if "--duplicate" in args:
+        idx = args.index("--duplicate")
+        if idx + 1 >= len(args):
+            print("오류: --duplicate 다음에 모드를 지정하세요 (always|never|newer)")
+            sys.exit(1)
+        duplicate_mode = args[idx + 1]
+        if duplicate_mode not in ("always", "never", "newer"):
+            print(f"오류: --duplicate 모드는 always, never, newer 중 하나여야 합니다.")
+            sys.exit(1)
+        args = args[:idx] + args[idx + 2:]
+
     if len(args) > 0 and args[0] == "--rebuild":
         rebuild_split()
         return
@@ -420,11 +435,17 @@ def main():
             if name in name_to_index:
                 idx = name_to_index[name]
                 old = result[idx]
-                if p.get("mfg_date", "") > old.get("mfg_date", ""):
+                if duplicate_mode == "always":
                     result[idx] = p
                     updated += 1
-                else:
+                elif duplicate_mode == "never":
                     skipped += 1
+                else:  # newer
+                    if p.get("mfg_date", "") > old.get("mfg_date", ""):
+                        result[idx] = p
+                        updated += 1
+                    else:
+                        skipped += 1
             else:
                 result.append(p)
                 name_to_index[name] = len(result) - 1
@@ -440,7 +461,8 @@ def main():
         if updated:
             status += f", {updated} 갱신"
         if skipped:
-            status += f", {skipped} 스킵(이전 데이터)"
+            skip_reason = "스킵(강제)" if duplicate_mode == "never" else "스킵(이전 데이터)"
+            status += f", {skipped} {skip_reason}"
         print(f"  {brand}: {status}  (총 {len(result)}개)")
 
     rebuild_brands_json()

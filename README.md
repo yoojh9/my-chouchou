@@ -84,6 +84,19 @@ python3 convert_excel.py
 python3 convert_excel.py data/2026-05-27.xlsx --no-thumbnails
 ```
 
+중복 상품(같은 `브랜드.상품명`) 처리 방식을 `--duplicate`로 지정할 수 있다.
+
+| 옵션 | 동작 |
+|------|------|
+| `--duplicate newer` (기본) | `mfg_date`가 더 최신인 데이터로 교체. 기존이 더 최신이면 스킵 |
+| `--duplicate always` | 무조건 새 데이터로 갱신 |
+| `--duplicate never` | 무조건 스킵 (기존 데이터 유지) |
+
+```bash
+python3 convert_excel.py data/2026-05-27.xlsx --duplicate always
+python3 convert_excel.py data/2026-05-27.xlsx --duplicate never
+```
+
 ### 3. 결과 확인
 
 - `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 누적
