@@ -27,7 +27,7 @@ python3 crawl_brand.py 소예 --since 2026-06-01   # 제조일자 2026-06-01 이
 - 상세설명 이미지 중 `washingtip.jpg`, `kc.jpg`는 제외한다.
 - 요청 간 1초 딜레이를 둔다 (i54 어뷰징 탐지 차단 방지). 403이 발생하면 브라우저와 동일한 헤더(`HEADERS`)를 보내고 있는지 확인한다.
 
-받은 엑셀은 파일명을 `2026-06-15.xlsx` 형식으로 바꾼 뒤 [엑셀 변환 스크립트](#2-변환-스크립트-실행)로 처리한다.
+결과 파일명에 날짜가 포함되어 있으므로 파일명 변경 없이 바로 [엑셀 변환 스크립트](#2-변환-스크립트-실행)로 처리할 수 있다.
 
 ---
 
@@ -43,7 +43,8 @@ python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513" --end-p
 
 - `--start-page` : 시작 페이지 (생략 시 URL의 `page` 값, 없으면 1)
 - `--end-page` : 끝 페이지 (생략 시 `--start-page`와 동일, 즉 한 페이지만 수집)
-- `--since YYYY-MM-DD` : 해당 날짜 이후(포함) 제조 상품만 수집
+- `--since YYYY-MM-DD` : 해당 날짜보다 오래된 상품을 만나면 즉시 중단 (이후 상품은 수집하지 않음)
+- 로그인 계정: 프로젝트 루트 `.env`의 `I54_ID` / `I54_PW`
 - 상품명에 `.`이 없어 브랜드를 식별할 수 없는 상품은 제외한다.
 - 결과: `data/page_crawl_<오늘날짜>.xlsx` (마지막 인자로 출력파일명을 지정하면 `data/<지정한이름>_<오늘날짜>.xlsx`)
 
@@ -105,7 +106,8 @@ python3 convert_excel.py data/2026-05-27.xlsx --duplicate never
 
 ### 3. 결과 확인
 
-- `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 누적
+- `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 목록 (빠른 로드용, `detail_images` 제외)
+- `public/data/i54/brands/{브랜드}.full.json` — 브랜드별 상품 전체 데이터 (`detail_images` 포함)
 - `public/data/brands.json` — 브랜드 목록 자동 갱신
 - **같은 `브랜드.상품명`이 이미 있으면 `mfg_date`가 더 최신인 데이터로 교체된다.** (이전 데이터가 더 최신이면 스킵)
 
