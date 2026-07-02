@@ -141,9 +141,8 @@ def parse_detail(session, product_no):
     colors, sizes = parse_options(html, sale_price)
 
     return {
-        "id": product_no,
         "brand": brand,
-        "name": f"{brand}.{name}" if not name.startswith(brand) else name,
+        "name": f"{brand}.{name}",
         "price_sale": price_sale,
         "thumbnail_url": thumbnail_url,
         "detail_images": detail_images,
@@ -258,7 +257,6 @@ def main():
     print(f"총 {len(product_nos)}개 상품 발견")
 
     products = []
-    skipped = 0
     no_brand = 0
     for i, pno in enumerate(product_nos, 1):
         p = parse_detail(session, pno)
@@ -268,18 +266,14 @@ def main():
             time.sleep(REQUEST_DELAY)
             continue
         if since and p["mfg_date"] and p["mfg_date"] < since:
-            skipped += 1
-            print(f"  [{i}/{len(product_nos)}] {p['name']} - 제조일자 {p['mfg_date']} (제외)")
-            time.sleep(REQUEST_DELAY)
-            continue
+            print(f"  [{i}/{len(product_nos)}] {p['name']} - 제조일자 {p['mfg_date']} → {since} 이전이므로 중단")
+            break
         products.append(p)
         print(f"  [{i}/{len(product_nos)}] {p['name']} - {p['price_sale']}원 (제조일자 {p['mfg_date']})")
         time.sleep(REQUEST_DELAY)
 
     if no_brand:
         print(f"\n브랜드 식별 불가 상품 {no_brand}개 제외")
-    if since:
-        print(f"제조일자 {since} 이전 상품 {skipped}개 제외")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     out_path = OUT_DIR / f"{out_name or 'page_crawl'}_{date.today().isoformat()}.xlsx"
