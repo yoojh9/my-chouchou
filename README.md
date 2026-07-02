@@ -84,6 +84,12 @@ python3 convert_excel.py
 python3 convert_excel.py data/2026-05-27.xlsx --no-thumbnails
 ```
 
+기본 동작은 `thumbnails/`에 이미 있는 파일은 스킵하고 없는 것만 다운로드한다. `--clean-thumbnails`를 추가하면 기존 디렉토리를 전부 삭제한 뒤 다시 받는다.
+
+```bash
+python3 convert_excel.py data/2026-05-27.xlsx --clean-thumbnails
+```
+
 중복 상품(같은 `브랜드.상품명`) 처리 방식을 `--duplicate`로 지정할 수 있다.
 
 | 옵션 | 동작 |

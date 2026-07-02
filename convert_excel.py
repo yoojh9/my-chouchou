@@ -8,6 +8,7 @@ Usage:
   python3 convert_excel.py data/2026-05-27.xlsx   # 새 엑셀 누적
   python3 convert_excel.py                         # data/ 목록에서 선택
   python3 convert_excel.py --no-thumbnails         # 썸네일 다운로드 생략
+  python3 convert_excel.py --clean-thumbnails      # thumbnails/ 초기화 후 전체 재다운로드
   python3 convert_excel.py --duplicate always      # 중복 시 무조건 새 데이터로 갱신
   python3 convert_excel.py --duplicate never       # 중복 시 무조건 스킵 (기존 유지)
   python3 convert_excel.py --duplicate newer       # 중복 시 mfg_date 최신 데이터 유지 (기본값)
@@ -112,17 +113,19 @@ def extract_detail_images(html) -> list:
     return re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
 
 
-def download_thumbnails(new_by_brand: dict) -> None:
+def download_thumbnails(new_by_brand: dict, clean: bool = False) -> None:
     """이번 엑셀에 등장한 모든 상품(중복 스킵 포함)의 썸네일을 로컬에 저장.
     파일명: {brand}_{상품명}{확장자}
     저장 위치: thumbnails/
+    clean=True 이면 기존 디렉토리를 삭제 후 전체 재다운로드, False 이면 이미 있는 파일은 스킵.
     """
     out_dir = Path(THUMBNAILS_DIR)
-    if out_dir.exists():
+    if clean and out_dir.exists():
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     tasks = []
+    skipped = 0
     for brand, products in new_by_brand.items():
         for p in products:
             url = p.get("thumbnail_url")
@@ -130,7 +133,11 @@ def download_thumbnails(new_by_brand: dict) -> None:
                 continue
             safe_name = re.sub(r'[\\/:*?"<>|.]', "_", p["name"])
             ext = os.path.splitext(url.split("?")[0])[1] or ".jpg"
-            tasks.append((url, out_dir / f"{safe_name}{ext}"))
+            dest = out_dir / f"{safe_name}{ext}"
+            if not clean and dest.exists():
+                skipped += 1
+                continue
+            tasks.append((url, dest))
 
     def fetch(task):
         url, dest = task
@@ -142,7 +149,8 @@ def download_thumbnails(new_by_brand: dict) -> None:
         except Exception as e:
             return f"{dest.name}: {e}"
 
-    print(f"썸네일 다운로드 중... ({len(tasks)}개 → {out_dir})")
+    skip_msg = f", {skipped}개 이미 존재(스킵)" if skipped else ""
+    print(f"썸네일 다운로드 중... ({len(tasks)}개{skip_msg} → {out_dir})")
     errors = []
     with ThreadPoolExecutor(max_workers=10) as executor:
         for result in executor.map(fetch, tasks):
@@ -344,6 +352,14 @@ def main():
     if no_thumbnails:
         args.remove("--no-thumbnails")
 
+    clean_thumbnails = "--clean-thumbnails" in args
+    if clean_thumbnails:
+        args.remove("--clean-thumbnails")
+
+    if no_thumbnails and clean_thumbnails:
+        print("오류: --no-thumbnails 와 --clean-thumbnails 는 함께 사용할 수 없습니다.")
+        sys.exit(1)
+
     duplicate_mode = "newer"
     if "--duplicate" in args:
         idx = args.index("--duplicate")
@@ -415,7 +431,7 @@ def main():
     if no_thumbnails:
         print("썸네일 다운로드 스킵 (--no-thumbnails)")
     else:
-        download_thumbnails(new_by_brand)
+        download_thumbnails(new_by_brand, clean=clean_thumbnails)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
     added_total = updated_total = skipped_total = 0
