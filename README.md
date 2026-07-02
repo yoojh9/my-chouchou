@@ -113,6 +113,14 @@ python3 convert_excel.py data/2026-05-27.xlsx --duplicate never
 
 dev 서버가 실행 중이라면 **새로고침만 해도 반영**된다.
 
+### 기존 파일 재생성
+
+`.json` / `.full.json` 분리 저장 구조를 도입하기 전 파일이 있거나, 파일이 꼬인 경우 전체 재생성할 수 있다.
+
+```bash
+python3 convert_excel.py --rebuild
+```
+
 ---
 
 ## 상품 데이터 삭제
