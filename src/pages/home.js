@@ -76,11 +76,11 @@ function brandCardHTML(brand) {
     </div>`
 }
 
-let sortMode = 'alpha'
+let sortMode = 'date'
 let searchQuery = ''
 
 export function resetHomeState() {
-  sortMode = 'alpha'
+  sortMode = 'date'
   searchQuery = ''
 }
 
