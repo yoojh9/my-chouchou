@@ -1280,14 +1280,14 @@
     "mfg_date": "2026-05-09"
   },
   {
-    "id": "2605002074",
+    "id": "2607030116",
     "brand": "조이엘로",
     "name": "조이엘로.가디건세트",
     "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778265376/1_2_6711778265376.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1783009995/1_2_4291783009995.jpg?kvdl=xls_ykwon89_1783121205_17650030",
     "colors": [
       {
-        "name": "노랑",
+        "name": "아이보리",
         "add_price": 0
       },
       {
@@ -1321,7 +1321,7 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-05-09"
+    "mfg_date": "2026-07-03"
   },
   {
     "id": "2605002187",
@@ -2158,5 +2158,93 @@
       }
     ],
     "mfg_date": "2026-05-09"
+  },
+  {
+    "id": "2607030108",
+    "brand": "조이엘로",
+    "name": "조이엘로.체키캉블라",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1783009996/1_4_391783009996.jpg?kvdl=xls_ykwon89_1783121205_17650030",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 2000
+      },
+      {
+        "name": "XXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-07-03"
+  },
+  {
+    "id": "2607030112",
+    "brand": "조이엘로",
+    "name": "조이엘로.블라나시",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1783009996/1_3_5471783009996.jpg?kvdl=xls_ykwon89_1783121205_17650030",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 2000
+      },
+      {
+        "name": "XXL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-07-03"
   }
 ]
