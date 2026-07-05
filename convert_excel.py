@@ -439,19 +439,26 @@ def main():
     for brand, new_products in new_by_brand.items():
         existing = load_brand(brand)
         result = list(existing)
-        name_to_index = {p["name"]: i for i, p in enumerate(result)}
+
+        def product_key(p):
+            colors = tuple(c["name"] for c in p.get("colors", []))
+            sizes = tuple(s["name"] for s in p.get("sizes", []))
+            return (p["name"], colors, sizes)
+
+        name_to_index = {product_key(p): i for i, p in enumerate(result)}
 
         # 파일 내 중복은 mfg_date가 더 최신인 쪽만 남긴다
-        latest_by_name = {}
+        latest_by_key = {}
         for p in new_products:
-            prev = latest_by_name.get(p["name"])
+            key = product_key(p)
+            prev = latest_by_key.get(key)
             if prev is None or p.get("mfg_date", "") > prev.get("mfg_date", ""):
-                latest_by_name[p["name"]] = p
+                latest_by_key[key] = p
 
         added = updated = skipped = 0
-        for name, p in latest_by_name.items():
-            if name in name_to_index:
-                idx = name_to_index[name]
+        for key, p in latest_by_key.items():
+            if key in name_to_index:
+                idx = name_to_index[key]
                 old = result[idx]
                 if duplicate_mode == "always":
                     result[idx] = p
@@ -466,7 +473,7 @@ def main():
                         skipped += 1
             else:
                 result.append(p)
-                name_to_index[name] = len(result) - 1
+                name_to_index[key] = len(result) - 1
                 added += 1
 
         if added or updated:
