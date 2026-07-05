@@ -474,7 +474,7 @@ def main():
         download_thumbnails(new_by_brand, clean=clean_thumbnails)
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
-    added_total = updated_total = skipped_total = 0
+    added_total = updated_total = skipped_total = sale_replaced_total = sale_inflated_total = 0
 
     for brand, new_products in new_by_brand.items():
         existing = load_brand(brand)
@@ -523,6 +523,8 @@ def main():
         added_total += added
         updated_total += updated
         skipped_total += skipped
+        sale_replaced_total += sale_replaced
+        sale_inflated_total += sale_inflated
         status = f"+{added} 추가"
         if updated:
             status += f", {updated} 갱신"
@@ -532,12 +534,17 @@ def main():
         if sale_replaced:
             status += f", {sale_replaced}개 (세일)→일반가 대체"
         if sale_inflated:
-            status += f", {sale_inflated}개 (세일) 10% 인상"
+            status += f", {sale_inflated}개 (세일) 25% 인상"
         print(f"  {brand}: {status}  (총 {len(result)}개)")
 
     rebuild_brands_json()
     rebuild_search_index()
-    print(f"\n완료: +{added_total}개 추가, {updated_total}개 갱신, {skipped_total}개 스킵")
+    summary = f"\n완료: +{added_total}개 추가, {updated_total}개 갱신, {skipped_total}개 스킵"
+    if sale_replaced_total:
+        summary += f", {sale_replaced_total}개 (세일)→일반가 대체"
+    if sale_inflated_total:
+        summary += f", {sale_inflated_total}개 (세일) 25% 인상"
+    print(summary)
 
 
 if __name__ == "__main__":
