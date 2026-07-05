@@ -264,13 +264,13 @@ def apply_normal_price_to_sale(new_products, all_products: list) -> tuple[int, i
                 s["add_price"] = normal["sizes"][i]["add_price"]
             replaced += 1
         else:
-            p["price_sale"] = round(p["price_sale"] * 1.2)
+            p["price_sale"] = round(p["price_sale"] * 1.25)
             for c in p.get("colors", []):
                 if c["add_price"]:
-                    c["add_price"] = round(c["add_price"] * 1.2)
+                    c["add_price"] = round(c["add_price"] * 1.25)
             for s in p.get("sizes", []):
                 if s["add_price"]:
-                    s["add_price"] = round(s["add_price"] * 1.2)
+                    s["add_price"] = round(s["add_price"] * 1.25)
             inflated += 1
     return replaced, inflated
 
