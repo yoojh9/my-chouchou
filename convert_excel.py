@@ -235,6 +235,40 @@ def rebuild_search_index() -> None:
     print(f"search_index.json 갱신: {len(index)}개 상품")
 
 
+def apply_normal_price_to_sale(products: list) -> tuple[int, int]:
+    normal_map = {p["name"]: p for p in products if "(세일)" not in p.get("name", "")}
+    replaced = inflated = 0
+    for p in products:
+        if "(세일) " not in p.get("name", ""):
+            continue
+        base_name = p["name"].replace("(세일) ", "")
+        normal = normal_map.get(base_name)
+        matched = False
+        if normal:
+            sale_color_names = [c["name"] for c in p.get("colors", [])]
+            normal_color_names = [c["name"] for c in normal.get("colors", [])]
+            sale_size_names = [s["name"] for s in p.get("sizes", [])]
+            normal_size_names = [s["name"] for s in normal.get("sizes", [])]
+            matched = sale_color_names == normal_color_names and sale_size_names == normal_size_names
+        if matched:
+            p["price_sale"] = normal["price_sale"]
+            for i, c in enumerate(p.get("colors", [])):
+                c["add_price"] = normal["colors"][i]["add_price"]
+            for i, s in enumerate(p.get("sizes", [])):
+                s["add_price"] = normal["sizes"][i]["add_price"]
+            replaced += 1
+        else:
+            p["price_sale"] = round(p["price_sale"] * 1.1)
+            for c in p.get("colors", []):
+                if c["add_price"]:
+                    c["add_price"] = round(c["add_price"] * 1.1)
+            for s in p.get("sizes", []):
+                if s["add_price"]:
+                    s["add_price"] = round(s["add_price"] * 1.1)
+            inflated += 1
+    return replaced, inflated
+
+
 def clean_soldout(delete_ids: set) -> None:
     """삭제된 상품 ID를 soldout.json에서 제거."""
     if not delete_ids or not os.path.exists(SOLDOUT_JSON):
@@ -476,7 +510,8 @@ def main():
                 name_to_index[key] = len(result) - 1
                 added += 1
 
-        if added or updated:
+        sale_replaced, sale_inflated = apply_normal_price_to_sale(result)
+        if added or updated or sale_replaced or sale_inflated:
             save_brand(brand, result)
 
         added_total += added
@@ -488,6 +523,10 @@ def main():
         if skipped:
             skip_reason = "스킵(강제)" if duplicate_mode == "never" else "스킵(이전 데이터)"
             status += f", {skipped} {skip_reason}"
+        if sale_replaced:
+            status += f", {sale_replaced}개 (세일)→일반가 대체"
+        if sale_inflated:
+            status += f", {sale_inflated}개 (세일) 10% 인상"
         print(f"  {brand}: {status}  (총 {len(result)}개)")
 
     rebuild_brands_json()
