@@ -236,21 +236,27 @@ def rebuild_search_index() -> None:
 
 
 def apply_normal_price_to_sale(new_products, all_products: list) -> tuple[int, int]:
-    normal_map = {p["name"]: p for p in all_products if "(세일)" not in p.get("name", "")}
+    normal_map: dict[str, list] = {}
+    for p in all_products:
+        if "(세일)" not in p.get("name", ""):
+            normal_map.setdefault(p["name"], []).append(p)
+
     replaced = inflated = 0
     for p in new_products:
         if "(세일) " not in p.get("name", ""):
             continue
         base_name = p["name"].replace("(세일) ", "")
-        normal = normal_map.get(base_name)
-        matched = False
+        sale_color_names = [c["name"] for c in p.get("colors", [])]
+        sale_size_names = [s["name"] for s in p.get("sizes", [])]
+
+        normal = None
+        for candidate in normal_map.get(base_name, []):
+            if ([c["name"] for c in candidate.get("colors", [])] == sale_color_names
+                    and [s["name"] for s in candidate.get("sizes", [])] == sale_size_names):
+                normal = candidate
+                break
+
         if normal:
-            sale_color_names = [c["name"] for c in p.get("colors", [])]
-            normal_color_names = [c["name"] for c in normal.get("colors", [])]
-            sale_size_names = [s["name"] for s in p.get("sizes", [])]
-            normal_size_names = [s["name"] for s in normal.get("sizes", [])]
-            matched = sale_color_names == normal_color_names and sale_size_names == normal_size_names
-        if matched:
             p["price_sale"] = normal["price_sale"]
             for i, c in enumerate(p.get("colors", [])):
                 c["add_price"] = normal["colors"][i]["add_price"]
