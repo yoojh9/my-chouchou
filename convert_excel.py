@@ -235,10 +235,10 @@ def rebuild_search_index() -> None:
     print(f"search_index.json 갱신: {len(index)}개 상품")
 
 
-def apply_normal_price_to_sale(products: list) -> tuple[int, int]:
-    normal_map = {p["name"]: p for p in products if "(세일)" not in p.get("name", "")}
+def apply_normal_price_to_sale(new_products, all_products: list) -> tuple[int, int]:
+    normal_map = {p["name"]: p for p in all_products if "(세일)" not in p.get("name", "")}
     replaced = inflated = 0
-    for p in products:
+    for p in new_products:
         if "(세일) " not in p.get("name", ""):
             continue
         base_name = p["name"].replace("(세일) ", "")
@@ -510,7 +510,7 @@ def main():
                 name_to_index[key] = len(result) - 1
                 added += 1
 
-        sale_replaced, sale_inflated = apply_normal_price_to_sale(result)
+        sale_replaced, sale_inflated = apply_normal_price_to_sale(latest_by_key.values(), result)
         if added or updated or sale_replaced or sale_inflated:
             save_brand(brand, result)
 
