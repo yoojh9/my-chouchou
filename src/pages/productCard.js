@@ -18,7 +18,9 @@ export function sizeChipsHTML(product) {
 
 export function productCardHTML(product, brandId, soldoutIds) {
   const thumbUrl = product.thumbnail_url || ''
-  const name = product.name || '상품명 없음'
+  const rawName = product.name || '상품명 없음'
+  const isSale = rawName.includes('(세일)')
+  const name = isSale ? rawName.replace('(세일) ', '') : rawName
   const pid = encodeURIComponent(product.id)
   const bid = encodeURIComponent(brandId)
   const isSoldout = soldoutIds.has(String(product.id))
@@ -32,7 +34,7 @@ export function productCardHTML(product, brandId, soldoutIds) {
           loading="lazy"
           onerror="this.style.opacity='0'"
         >
-        ${isSoldout ? '<div class="soldout-badge">품절</div>' : ''}
+        ${isSoldout ? '<div class="soldout-badge">품절</div>' : isSale ? '<div class="sale-badge">SALE</div>' : ''}
       </div>
       <div class="product-card__info">
         <div class="product-card__name">${name}</div>

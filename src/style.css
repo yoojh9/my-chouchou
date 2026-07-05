@@ -687,6 +687,31 @@ html, body {
   letter-spacing: 0.5px;
 }
 
+.sale-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  padding: 3px 7px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--white);
+  background: #e05a5a;
+  letter-spacing: 0.5px;
+}
+
+.sale-label {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--white);
+  background: #e05a5a;
+  letter-spacing: 0.5px;
+}
+
 .soldout-label {
   display: inline-block;
   margin-top: 6px;
@@ -1297,6 +1322,18 @@ html, body {
   color: var(--ink);
   line-height: 1.4;
   letter-spacing: -0.1px;
+}
+
+.sale-tag {
+  display: inline-block;
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--white);
+  background: #e05a5a;
+  letter-spacing: 0.4px;
+  vertical-align: middle;
 }
 
 .cart-item__meta {

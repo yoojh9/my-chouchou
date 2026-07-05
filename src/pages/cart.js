@@ -47,7 +47,7 @@ function renderContent(app) {
         ${item.thumbnail_url ? `<img class="cart-item__thumb" src="${item.thumbnail_url}" alt="${item.name}" onerror="this.style.display='none'">` : ''}
         <div class="cart-item__info">
           <div class="cart-item__brand">${item.brand}</div>
-          <div class="cart-item__name">${item.name}</div>
+          <div class="cart-item__name">${item.name.replace('(세일) ', '')}${item.name.includes('(세일)') ? ' <span class="sale-tag">SALE</span>' : ''}</div>
           ${meta ? `<div class="cart-item__meta">${meta}</div>` : ''}
           <div class="cart-item__bottom">
             <div class="qty-stepper qty-stepper--sm">

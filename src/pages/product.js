@@ -120,6 +120,9 @@ export async function renderProduct(app, brandId, productId, backHash) {
     return;
   }
 
+  const isSale = (product.name || '').includes('(세일)');
+  const displayName = isSale ? product.name.replace('(세일) ', '') : (product.name || '');
+
   const colors = product.colors || [];
   const sizes = product.sizes || [];
 
@@ -138,8 +141,8 @@ export async function renderProduct(app, brandId, productId, backHash) {
   content.innerHTML = `
     <div class="product-detail__info">
       <div class="product-detail__brand">${brandId}</div>
-      <div class="product-detail__name">${product.name || ""}</div>
-      ${isSoldout ? '<div class="soldout-label">품절</div>' : ""}
+      <div class="product-detail__name">${displayName}</div>
+      ${isSoldout ? '<div class="soldout-label">품절</div>' : isSale ? '<div class="sale-label">SALE</div>' : ''}
       <div class="product-detail__prices">
         <span class="product-detail__price-sale" id="display-price">${formatPrice(product.price_sale)}</span>
       </div>
