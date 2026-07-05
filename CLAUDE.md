@@ -14,10 +14,11 @@
 
 | 파일 | 역할 |
 |------|------|
-| `data/brands.json` | 브랜드 목록 + 미리보기 썸네일 (홈화면) |
-| `data/i54/brands/{브랜드명}.json` | 브랜드별 전체 상품 |
-| `data/items/2026-05.xlsx` | 원본 엑셀 — `convert_excel.py`로 JSON 변환 |
-| `data/soldout.json` | 품절 상품 ID 배열 — 직접 편집 |
+| `public/data/brands.json` | 브랜드 목록 + 미리보기 썸네일 (홈화면) |
+| `public/data/i54/brands/{브랜드명}.json` | 브랜드별 상품 목록 (빠른 로드용) |
+| `public/data/i54/brands/{브랜드명}.full.json` | 브랜드별 상품 전체 데이터 (상세이미지 포함) |
+| `data/2026-05.xlsx` | 원본 엑셀 — `convert_excel.py`로 JSON 변환 |
+| `public/data/soldout.json` | 품절 상품 ID 배열 — 직접 편집 |
 
 ## 상품 JSON 구조
 
@@ -69,7 +70,7 @@
 
 - **폼 URL**: `https://docs.google.com/forms/d/e/1FAIpQLSeZizFGM2RLkzbSWi9j0Utn-QgwbI2DowSWwC9FMoHO4nRGlg/viewform`
 - **채워지는 필드**: `entry.212051867` (구매할 상품 목록)
-- **형식**: `상품명 / 색상 / 사이즈 / N개` (줄바꿈으로 상품 구분)
+- **형식**: `상품명 / 색상 / 사이즈 / N개 / 가격` (줄바꿈으로 상품 구분)
 
 사용자가 폼에서 이름·주소·연락처를 직접 입력 후 제출한다.
 

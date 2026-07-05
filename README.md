@@ -91,7 +91,7 @@ python3 convert_excel.py data/2026-05-27.xlsx --no-thumbnails
 python3 convert_excel.py data/2026-05-27.xlsx --clean-thumbnails
 ```
 
-중복 상품(같은 `브랜드.상품명`) 처리 방식을 `--duplicate`로 지정할 수 있다.
+중복 상품(같은 `브랜드.상품명` + 색상 목록 + 사이즈 목록 조합) 처리 방식을 `--duplicate`로 지정할 수 있다. 이름이 같아도 옵션 구성이 다르면 별개의 상품으로 취급한다.
 
 | 옵션 | 동작 |
 |------|------|
@@ -109,7 +109,8 @@ python3 convert_excel.py data/2026-05-27.xlsx --duplicate never
 - `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 목록 (빠른 로드용, `detail_images` 제외)
 - `public/data/i54/brands/{브랜드}.full.json` — 브랜드별 상품 전체 데이터 (`detail_images` 포함)
 - `public/data/brands.json` — 브랜드 목록 자동 갱신
-- **같은 `브랜드.상품명`이 이미 있으면 `mfg_date`가 더 최신인 데이터로 교체된다.** (이전 데이터가 더 최신이면 스킵)
+- **같은 `브랜드.상품명` + 색상 + 사이즈 조합이 이미 있으면 `mfg_date`가 더 최신인 데이터로 교체된다.** (이전 데이터가 더 최신이면 스킵)
+- **(세일) 상품 가격 처리**: 이름·색상·사이즈가 동일한 일반 상품이 있으면 일반 상품 가격으로 대체. 일치하는 일반 상품이 없으면 가격을 25% 인상해 저장한다.
 
 dev 서버가 실행 중이라면 **새로고침만 해도 반영**된다.
 
