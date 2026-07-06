@@ -126,8 +126,12 @@ def download_thumbnails(new_by_brand: dict, clean: bool = False) -> None:
 
     tasks = []
     skipped = 0
+    sale_skipped = 0
     for brand, products in new_by_brand.items():
         for p in products:
+            if "(세일)" in p.get("name", ""):
+                sale_skipped += 1
+                continue
             url = p.get("thumbnail_url")
             if not url:
                 continue
@@ -150,7 +154,8 @@ def download_thumbnails(new_by_brand: dict, clean: bool = False) -> None:
             return f"{dest.name}: {e}"
 
     skip_msg = f", {skipped}개 이미 존재(스킵)" if skipped else ""
-    print(f"썸네일 다운로드 중... ({len(tasks)}개{skip_msg} → {out_dir})")
+    sale_skip_msg = f", (세일){sale_skipped}개 건너뜀" if sale_skipped else ""
+    print(f"썸네일 다운로드 중... ({len(tasks)}개{skip_msg}{sale_skip_msg} → {out_dir})")
     errors = []
     with ThreadPoolExecutor(max_workers=10) as executor:
         for result in executor.map(fetch, tasks):
@@ -350,8 +355,7 @@ def purge_before(cutoff_date: str) -> None:
     """cutoff_date 이하 mfg_date 를 가진 상품을 모든 브랜드 파일에서 제거.
     python3 convert_excel.py --purge 2026-05-21
     """
-    import re as _re
-    if not _re.match(r"\d{4}-\d{2}-\d{2}", cutoff_date):
+    if not re.match(r"\d{4}-\d{2}-\d{2}", cutoff_date):
         print(f"오류: 날짜 형식이 올바르지 않습니다 (예: 2026-05-21)")
         sys.exit(1)
 
@@ -496,27 +500,31 @@ def main():
                 latest_by_key[key] = p
 
         added = updated = skipped = 0
+        products_in_result = []
         for key, p in latest_by_key.items():
             if key in name_to_index:
                 idx = name_to_index[key]
                 old = result[idx]
                 if duplicate_mode == "always":
                     result[idx] = p
+                    products_in_result.append(p)
                     updated += 1
                 elif duplicate_mode == "never":
                     skipped += 1
                 else:  # newer
                     if p.get("mfg_date", "") > old.get("mfg_date", ""):
                         result[idx] = p
+                        products_in_result.append(p)
                         updated += 1
                     else:
                         skipped += 1
             else:
                 result.append(p)
+                products_in_result.append(p)
                 name_to_index[key] = len(result) - 1
                 added += 1
 
-        sale_replaced, sale_inflated = apply_normal_price_to_sale(latest_by_key.values(), result)
+        sale_replaced, sale_inflated = apply_normal_price_to_sale(products_in_result, result)
         if added or updated or sale_replaced or sale_inflated:
             save_brand(brand, result)
 
@@ -525,12 +533,12 @@ def main():
         skipped_total += skipped
         sale_replaced_total += sale_replaced
         sale_inflated_total += sale_inflated
-        status = f"+{added} 추가"
+        status = f"+{added}개 추가"
         if updated:
-            status += f", {updated} 갱신"
+            status += f", {updated}개 갱신"
         if skipped:
             skip_reason = "스킵(강제)" if duplicate_mode == "never" else "스킵(이전 데이터)"
-            status += f", {skipped} {skip_reason}"
+            status += f", {skipped}개 {skip_reason}"
         if sale_replaced:
             status += f", {sale_replaced}개 (세일)→일반가 대체"
         if sale_inflated:
