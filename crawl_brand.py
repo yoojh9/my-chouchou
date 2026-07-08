@@ -19,6 +19,7 @@ from pathlib import Path
 
 import requests
 import openpyxl
+from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
 ENV_PATH = ROOT / ".env"
@@ -53,16 +54,23 @@ def load_env(path):
 
 
 def login(session, member_id, member_passwd):
-    session.get(f"{BASE_URL}/member/login.html", headers=HEADERS)
-    r = session.post(
-        f"{BASE_URL}/exec/front/Member/login/",
-        data={"member_id": member_id, "member_passwd": member_passwd},
-        headers=HEADERS,
-    )
-    r.raise_for_status()
-    home = session.get(BASE_URL, headers=HEADERS)
-    if "로그아웃" not in home.text:
-        raise RuntimeError("로그인 실패: 아이디/비밀번호를 확인해주세요.")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        ctx = browser.new_context()
+        page = ctx.new_page()
+        page.goto(f"{BASE_URL}/member/login.html")
+        page.fill('input[name="member_id"]', member_id)
+        page.fill('input[name="member_passwd"]', member_passwd)
+        page.keyboard.press("Enter")
+        try:
+            page.wait_for_function("document.body.innerText.includes('로그아웃')", timeout=15000)
+        except Exception:
+            pass
+        if "로그아웃" not in page.content():
+            raise RuntimeError("로그인 실패: 아이디/비밀번호를 확인해주세요.")
+        for c in ctx.cookies():
+            session.cookies.set(c["name"], c["value"], domain=c.get("domain", "").lstrip("."))
+        browser.close()
 
 
 def search_product_nos(session, brand):
