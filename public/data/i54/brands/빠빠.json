@@ -494,5 +494,105 @@
       }
     ],
     "mfg_date": "2026-07-06"
+  },
+  {
+    "id": "2607070020",
+    "brand": "빠빠",
+    "name": "빠빠.꽃나래자수슈트",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0707/mo0707-020.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~9개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~18개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-07"
+  },
+  {
+    "id": "2607070022",
+    "brand": "빠빠",
+    "name": "빠빠.로나꽃자수가디건-맘커플",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0707/mo0707-022.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~9개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~18개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-07"
+  },
+  {
+    "id": "2607070023",
+    "brand": "빠빠",
+    "name": "빠빠.로나꽃자수가디건-맘커플",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0707/mo0707-023.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-07"
+  },
+  {
+    "id": "2607070026",
+    "brand": "빠빠",
+    "name": "빠빠.햅번슈트",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0707/mo0707-026.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(~9개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(~18개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-07"
   }
 ]

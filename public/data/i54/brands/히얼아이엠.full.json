@@ -1590,5 +1590,56 @@
       }
     ],
     "mfg_date": "2026-07-06"
+  },
+  {
+    "id": "2607070013",
+    "brand": "히얼아이엠",
+    "name": "히얼아이엠.플라워나시",
+    "price_sale": 13440,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0707/mo0707-013.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0707/mo0707-013.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리그린",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리코랄",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "18M",
+        "add_price": 0
+      },
+      {
+        "name": "90",
+        "add_price": 0
+      },
+      {
+        "name": "100",
+        "add_price": 0
+      },
+      {
+        "name": "110",
+        "add_price": 0
+      },
+      {
+        "name": "120",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-07"
   }
 ]

@@ -7758,5 +7758,41 @@
       }
     ],
     "mfg_date": "2026-07-06"
+  },
+  {
+    "id": "2607070103",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 댓츠워즈티",
+    "price_sale": 7000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/R000AD1783364724/1_15_8031778604060.jpg?kvdl=xls_ykwon89_1783474022_4ec54da5",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "백색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 625
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      }
+    ],
+    "mfg_date": "2026-07-07"
   }
 ]
