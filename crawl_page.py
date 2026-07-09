@@ -264,8 +264,11 @@ def main():
     product_nos = collect_product_nos(session, url, start_page, end_page)
     print(f"총 {len(product_nos)}개 상품 발견")
 
+    CONSECUTIVE_OLD_LIMIT = 10
+
     products = []
     no_brand = 0
+    consecutive_old = 0
     for i, pno in enumerate(product_nos, 1):
         p = parse_detail(session, pno)
         if p is None:
@@ -274,8 +277,14 @@ def main():
             time.sleep(REQUEST_DELAY)
             continue
         if since and p["mfg_date"] and p["mfg_date"] < since:
-            print(f"  [{i}/{len(product_nos)}] {p['name']} - 제조일자 {p['mfg_date']} → {since} 이전이므로 중단")
-            break
+            consecutive_old += 1
+            print(f"  [{i}/{len(product_nos)}] {p['name']} - 제조일자 {p['mfg_date']} → {since} 이전 ({consecutive_old}/{CONSECUTIVE_OLD_LIMIT} 연속, 제외)")
+            if consecutive_old >= CONSECUTIVE_OLD_LIMIT:
+                print(f"  {since} 이전 상품이 {CONSECUTIVE_OLD_LIMIT}개 연속으로 나와 중단")
+                break
+            time.sleep(REQUEST_DELAY)
+            continue
+        consecutive_old = 0
         products.append(p)
         print(f"  [{i}/{len(product_nos)}] {p['name']} - {p['price_sale']}원 (제조일자 {p['mfg_date']})")
         time.sleep(REQUEST_DELAY)
