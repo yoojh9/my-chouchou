@@ -2282,5 +2282,33 @@
       }
     ],
     "mfg_date": "2026-06-29"
+  },
+  {
+    "id": "2607100012",
+    "brand": "요거트맨션",
+    "name": "요거트맨션.(세일) 피그랜드티",
+    "price_sale": 14000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Y000AD1783627370/1_39_1111775417125.jpg?kvdl=xls_ykwon89_1783772681_e74f9a32",
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-10"
   }
 ]
