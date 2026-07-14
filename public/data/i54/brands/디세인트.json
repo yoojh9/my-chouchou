@@ -6260,11 +6260,11 @@
     "mfg_date": "2026-07-06"
   },
   {
-    "id": "2607060145",
+    "id": "2607130006",
     "brand": "디세인트",
     "name": "디세인트.(세일) 야호1+1랍빠티세트",
     "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000AD1783318624/1_5_8011781804748.jpg?kvdl=xls_ykwon89_1783383341_2b5fd635",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Z000AD1783944765/1_5_8011781804748.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
     "colors": [
       {
         "name": "검정",
@@ -6309,7 +6309,7 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-07-06"
+    "mfg_date": "2026-07-13"
   },
   {
     "id": "2607060146",
@@ -7794,5 +7794,389 @@
       }
     ],
     "mfg_date": "2026-07-07"
+  },
+  {
+    "id": "2607130082",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 월넛나시세트",
+    "price_sale": 12000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/S000AD1783945074/1_17_2291779297293.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "소라(진밤)",
+        "add_price": 0
+      },
+      {
+        "name": "핑크(검정)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 1375
+      },
+      {
+        "name": "15",
+        "add_price": 1375
+      },
+      {
+        "name": "17",
+        "add_price": 1375
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130092",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 게임오버티",
+    "price_sale": 7000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/R000AD1783945326/1_10_3051778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "코발트",
+        "add_price": 0
+      },
+      {
+        "name": "백색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 625
+      },
+      {
+        "name": "15",
+        "add_price": 625
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130125",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 이노베이트티",
+    "price_sale": 7000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000AD1783945520/1_40_1921778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "백색",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130134",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 핑퐁팡카라세트",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1783941746/1_9_7031781804751.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "체핑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130135",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 하프카고팬츠",
+    "price_sale": 10000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1783941671/1_54_8461778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 1400
+      },
+      {
+        "name": "15",
+        "add_price": 1400
+      },
+      {
+        "name": "17",
+        "add_price": 1400
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130144",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 어디든4부팬츠",
+    "price_sale": 6000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/M000AD1783944986/1_36_6381778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 625
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130172",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 플레이어티",
+    "price_sale": 7000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000AD1783941809/1_53_5921778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "백색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 625
+      },
+      {
+        "name": "15",
+        "add_price": 625
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130181",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 퀄리티5부스판진",
+    "price_sale": 15000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J000AD1783945256/1_44_6061778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 1575
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 1575
+      }
+    ],
+    "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607130198",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 앞주름5부팬츠",
+    "price_sale": 8000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000AD1783945430/1_35_2461778604060.jpg?kvdl=xls_ykwon89_1783997998_3d6062c9",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "백염",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-13"
   }
 ]
