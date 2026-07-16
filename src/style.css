@@ -809,6 +809,13 @@ html, body {
   letter-spacing: -0.3px;
 }
 
+.price-qty {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--gray);
+  letter-spacing: -0.3px;
+}
+
 .price-total {
   font-size: 20px;
   font-weight: 700;

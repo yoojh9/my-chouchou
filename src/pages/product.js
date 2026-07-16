@@ -180,9 +180,16 @@ export async function renderProduct(app, brandId, productId, backHash) {
     const el = document.getElementById("display-price");
     if (!el) return;
     const add = Math.round(totalAddPrice() * 1.6);
-    const total = product.price_sale + add;
-    if (add > 0) {
-      el.innerHTML = `${formatPrice(product.price_sale)}<span class="price-add"> +${formatPrice(add)}</span><span class="price-total"> = ${formatPrice(total)}</span>`;
+    const unit = product.price_sale + add;
+    const total = unit * quantity;
+    const unitHTML = add > 0
+      ? `${formatPrice(product.price_sale)}<span class="price-add"> +${formatPrice(add)}</span>`
+      : formatPrice(product.price_sale);
+    if (quantity > 1) {
+      const grouped = add > 0 ? `(${unitHTML})` : unitHTML;
+      el.innerHTML = `${grouped}<span class="price-qty"> × ${quantity}</span><span class="price-total"> = ${formatPrice(total)}</span>`;
+    } else if (add > 0) {
+      el.innerHTML = `${unitHTML}<span class="price-total"> = ${formatPrice(total)}</span>`;
     } else {
       el.textContent = formatPrice(product.price_sale);
     }
@@ -245,6 +252,7 @@ export async function renderProduct(app, brandId, productId, backHash) {
       if (quantity > 1) {
         quantity--;
         document.getElementById("qty-num").textContent = quantity;
+        updateDisplayPrice();
       }
       return;
     }
@@ -252,6 +260,7 @@ export async function renderProduct(app, brandId, productId, backHash) {
     if (e.target.id === "qty-plus") {
       quantity++;
       document.getElementById("qty-num").textContent = quantity;
+      updateDisplayPrice();
       return;
     }
 
