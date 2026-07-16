@@ -816,6 +816,12 @@ html, body {
   letter-spacing: -0.3px;
 }
 
+.price-paren {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--gray);
+}
+
 .price-total {
   font-size: 20px;
   font-weight: 700;

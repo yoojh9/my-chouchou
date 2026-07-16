@@ -186,7 +186,9 @@ export async function renderProduct(app, brandId, productId, backHash) {
       ? `${formatPrice(product.price_sale)}<span class="price-add"> +${formatPrice(add)}</span>`
       : formatPrice(product.price_sale);
     if (quantity > 1) {
-      const grouped = add > 0 ? `(${unitHTML})` : unitHTML;
+      const grouped = add > 0
+        ? `<span class="price-paren">(</span>${unitHTML}<span class="price-paren">)</span>`
+        : unitHTML;
       el.innerHTML = `${grouped}<span class="price-qty"> × ${quantity}</span><span class="price-total"> = ${formatPrice(total)}</span>`;
     } else if (add > 0) {
       el.innerHTML = `${unitHTML}<span class="price-total"> = ${formatPrice(total)}</span>`;
