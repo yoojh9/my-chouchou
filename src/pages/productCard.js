@@ -43,7 +43,7 @@ export function productCardHTML(product, brandId, soldoutIds) {
           <span class="product-card__price">${formatPrice(product.price_sale)}</span>
           ${product.colors?.length ? `<span class="product-card__color">${product.colors.map(c => c.name).join('/')}</span>` : ''}
         </div>
-        ${product.mfg_date ? `<div class="product-card__mfg">${product.mfg_date.replaceAll('-', '/')} 업데이트</div>` : ''}
+        ${product.mfg_date ? `<div class="product-card__mfg">${product.mfg_date.replaceAll('-', '/')}</div>` : ''}
       </div>
     </div>`
 }
