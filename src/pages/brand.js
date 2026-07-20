@@ -44,6 +44,8 @@ function probeImage(url) {
   })
 }
 
+const FALLBACK_SIZE_CHART = 'data/size-charts/아동복토탈_참고.jpg'
+
 async function findSizeChart(brandId) {
   const exts = ['jpg', 'jpeg', 'png', 'webp']
   const norms = [brandId, brandId.normalize('NFD')]
@@ -68,7 +70,7 @@ async function findSizeChart(brandId) {
     }
     if (results.length) return results
   }
-  return null
+  return [FALLBACK_SIZE_CHART]
 }
 
 export async function renderBrand(app, brandId, initialShown = 0) {
