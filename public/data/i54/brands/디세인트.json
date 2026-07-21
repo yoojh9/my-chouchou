@@ -8178,5 +8178,77 @@
       }
     ],
     "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2607140024",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 크레이티브스튜디오티",
+    "price_sale": 7000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000AD1783961492/1_45_8221778604060.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
+    "colors": [
+      {
+        "name": "백색",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-14"
+  },
+  {
+    "id": "2607140061",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) 프리플로워티",
+    "price_sale": 8000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000AD1783961729/1_52_7121778604060.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
+    "colors": [
+      {
+        "name": "백색",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 625
+      }
+    ],
+    "mfg_date": "2026-07-14"
   }
 ]
