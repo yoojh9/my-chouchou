@@ -4702,5 +4702,173 @@
       }
     ],
     "mfg_date": "2026-07-08"
+  },
+  {
+    "id": "2607270209",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨조바위",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-210.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270210",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨헤어밴드",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-211.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270211",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨한복",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-212.jpg",
+    "colors": [
+      {
+        "name": "여아",
+        "add_price": 0
+      },
+      {
+        "name": "남아",
+        "add_price": 2000
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270212",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지조바위",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-213.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270213",
+    "brand": "포크칩스",
+    "name": "포크칩스.곤지보넷",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-214.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270214",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지곤지한복",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-215.jpg",
+    "colors": [
+      {
+        "name": "남아",
+        "add_price": 0
+      },
+      {
+        "name": "여아",
+        "add_price": 3000
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607270215",
+    "brand": "포크칩스",
+    "name": "포크칩스.한복돌띠",
+    "price_sale": 8800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-216.jpg",
+    "colors": [
+      {
+        "name": "분홍",
+        "add_price": 0
+      },
+      {
+        "name": "청곤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
   }
 ]
