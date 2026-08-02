@@ -5438,5 +5438,57 @@
       }
     ],
     "mfg_date": "2026-07-22"
+  },
+  {
+    "id": "2608010363",
+    "brand": "디그린",
+    "name": "디그린.메이든반팔티맘",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-138.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010364",
+    "brand": "디그린",
+    "name": "디그린.테디브이맨투맨맘",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-139.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
   }
 ]
