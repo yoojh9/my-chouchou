@@ -2639,5 +2639,40 @@
       }
     ],
     "mfg_date": "2026-08-03"
+  },
+  {
+    "id": "2608030427",
+    "brand": "콘",
+    "name": "콘.노르딕스웨터",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0803/mo0803-427.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0803/mo0803-427.jpg"
+    ],
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-03"
   }
 ]
