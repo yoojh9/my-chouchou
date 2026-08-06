@@ -3884,11 +3884,11 @@
     "mfg_date": "2026-07-27"
   },
   {
-    "id": "2607270200",
+    "id": "2607200087",
     "brand": "엠키즈",
     "name": "엠키즈.솜솜돌띠",
     "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-201.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784478130/1_7_4651784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
     "colors": [
       {
         "name": "파스텔",
@@ -3901,14 +3901,14 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-20"
   },
   {
-    "id": "2607270201",
+    "id": "2607200260",
     "brand": "엠키즈",
     "name": "엠키즈.아리복주머니",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-202.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784478130/1_12_6371784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
     "colors": [
       {
         "name": "크림",
@@ -3921,7 +3921,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-20"
   },
   {
     "id": "2607270202",
@@ -4150,5 +4150,413 @@
       }
     ],
     "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "2607200076",
+    "brand": "엠키즈",
+    "name": "엠키즈.수채화원피스세트",
+    "price_sale": 68800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784478130/1_9_5831784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200081",
+    "brand": "엠키즈",
+    "name": "엠키즈.수채화롬퍼세트",
+    "price_sale": 64000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784478130/1_8_4991784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "S(8~16m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200099",
+    "brand": "엠키즈",
+    "name": "엠키즈.베이직플라워보넷",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784478130/1_6_5751784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "수채화",
+        "add_price": 0
+      },
+      {
+        "name": "하루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(3m~4y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200115",
+    "brand": "엠키즈",
+    "name": "엠키즈.베이직보넷",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784478130/1_5_7541784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(3m~4y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200133",
+    "brand": "엠키즈",
+    "name": "엠키즈.버들팬츠세트",
+    "price_sale": 54400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784478130/1_4_8691784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200159",
+    "brand": "엠키즈",
+    "name": "엠키즈.버들원피스세트",
+    "price_sale": 70400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784478130/1_3_4901784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200193",
+    "brand": "엠키즈",
+    "name": "엠키즈.버들롬퍼세트",
+    "price_sale": 65600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784478130/1_2_31784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "S(8~16m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200240",
+    "brand": "엠키즈",
+    "name": "엠키즈.아리한복슈트(여아)",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784478130/1_16_2341784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "S(8~16m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200245",
+    "brand": "엠키즈",
+    "name": "엠키즈.아리한복슈트(남아)",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784478130/1_15_9621784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3~8m)",
+        "add_price": 0
+      },
+      {
+        "name": "S(8~16m)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200250",
+    "brand": "엠키즈",
+    "name": "엠키즈.아리팬츠세트",
+    "price_sale": 62400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784478130/1_14_2991784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200255",
+    "brand": "엠키즈",
+    "name": "엠키즈.아리원피스세트",
+    "price_sale": 80000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784478130/1_13_5091784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200265",
+    "brand": "엠키즈",
+    "name": "엠키즈.아리보넷",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784478130/1_11_8741784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(3m~4y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200270",
+    "brand": "엠키즈",
+    "name": "엠키즈.수채화팬츠세트",
+    "price_sale": 52800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784478130/1_10_3361784478130.jpg?kvdl=xls_ykwon89_1785217274_16eb8b58",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(6m-1y)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2y)",
+        "add_price": 0
+      },
+      {
+        "name": "M(2-3y)",
+        "add_price": 0
+      },
+      {
+        "name": "L(4-5y)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(5-6y)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
   }
 ]
