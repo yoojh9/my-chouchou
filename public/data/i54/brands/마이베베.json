@@ -1,33 +1,5 @@
 [
   {
-    "id": "2605000087",
-    "brand": "마이베베",
-    "name": "마이베베.매쉬슈트",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1778025802/1_9_5361778025802.jpg",
-    "colors": [
-      {
-        "name": "꽃가라",
-        "add_price": 0
-      },
-      {
-        "name": "하트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2606150436",
     "brand": "마이베베",
     "name": "마이베베.리치프릴세트",
@@ -66,114 +38,6 @@
       }
     ],
     "mfg_date": "2026-06-15"
-  },
-  {
-    "id": "2605000408",
-    "brand": "마이베베",
-    "name": "마이베베.레이스퍼프블라우스",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1778025800/1_7_611778025800.jpg",
-    "colors": [
-      {
-        "name": "무지아이",
-        "add_price": 0
-      },
-      {
-        "name": "레드나염",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605000601",
-    "brand": "마이베베",
-    "name": "마이베베.두가지커치프(하트)",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1778025800/1_6_2971778025800.jpg",
-    "colors": [
-      {
-        "name": "하트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605000825",
-    "brand": "마이베베",
-    "name": "마이베베.두가지커치프(망사)",
-    "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1778025799/1_5_5301778025799.jpg",
-    "colors": [
-      {
-        "name": "망사",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605001116",
-    "brand": "마이베베",
-    "name": "마이베베.눈꽃샤슈트세트(보넷세트)",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778025798/1_4_3151778025798.jpg",
-    "colors": [
-      {
-        "name": "리본",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2606150550",
@@ -260,38 +124,6 @@
     "mfg_date": "2026-06-15"
   },
   {
-    "id": "2605002872",
-    "brand": "마이베베",
-    "name": "마이베베.하트헤어밴드",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1778025811/1_18_8471778025811.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2606150134",
     "brand": "마이베베",
     "name": "마이베베.트임블라우스",
@@ -330,54 +162,6 @@
       }
     ],
     "mfg_date": "2026-06-15"
-  },
-  {
-    "id": "2605003051",
-    "brand": "마이베베",
-    "name": "마이베베.토끼똑딱이핀",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1778025809/1_16_2181778025809.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605003149",
-    "brand": "마이베베",
-    "name": "마이베베.테리딸기집게핀",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1778025809/1_15_6281778025809.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2606150199",
@@ -464,38 +248,6 @@
     "mfg_date": "2026-06-15"
   },
   {
-    "id": "2605003473",
-    "brand": "마이베베",
-    "name": "마이베베.야옹똑딱이핀(2개1세트)",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1778025806/1_12_431778025806.jpg",
-    "colors": [
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "하늘",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2606150345",
     "brand": "마이베베",
     "name": "마이베베.샤샤원피스",
@@ -534,34 +286,6 @@
       }
     ],
     "mfg_date": "2026-06-15"
-  },
-  {
-    "id": "2605003717",
-    "brand": "마이베베",
-    "name": "마이베베.배색날나리슈트",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1778025803/1_10_5471778025803.jpg",
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "하트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2606210181",

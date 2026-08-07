@@ -1,1 +1,754 @@
-[]
+[
+  {
+    "id": "2608060404",
+    "brand": "구루구루",
+    "name": "구루구루.곰돌이빕",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-404.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060405",
+    "brand": "구루구루",
+    "name": "구루구루.구름반바지",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-405.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060406",
+    "brand": "구루구루",
+    "name": "구루구루.구름베스트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-406.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060407",
+    "brand": "구루구루",
+    "name": "구루구루.꽈배기니트가디건",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-407.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060408",
+    "brand": "구루구루",
+    "name": "구루구루.농구맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-408.jpg",
+    "colors": [
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060409",
+    "brand": "구루구루",
+    "name": "구루구루.달콤세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-409.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060410",
+    "brand": "구루구루",
+    "name": "구루구루.데님오버롤",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-410.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060411",
+    "brand": "구루구루",
+    "name": "구루구루.도트세트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-411.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060412",
+    "brand": "구루구루",
+    "name": "구루구루.두두보넷",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-412.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060413",
+    "brand": "구루구루",
+    "name": "구루구루.두두세트",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-413.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060414",
+    "brand": "구루구루",
+    "name": "구루구루.마일드티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-414.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060415",
+    "brand": "구루구루",
+    "name": "구루구루.마일드팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-415.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060416",
+    "brand": "구루구루",
+    "name": "구루구루.말랑이실내복",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-416.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060417",
+    "brand": "구루구루",
+    "name": "구루구루.바이브팬츠",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-417.jpg",
+    "colors": [
+      {
+        "name": "진베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060418",
+    "brand": "구루구루",
+    "name": "구루구루.발롱자켓",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-418.jpg",
+    "colors": [
+      {
+        "name": "데님",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060419",
+    "brand": "구루구루",
+    "name": "구루구루.베어세트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-419.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "진밤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060420",
+    "brand": "구루구루",
+    "name": "구루구루.줄맨투맨",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-420.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "초록",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060421",
+    "brand": "구루구루",
+    "name": "구루구루.줄줄이티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-421.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060422",
+    "brand": "구루구루",
+    "name": "구루구루.체크팬츠",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-422.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  },
+  {
+    "id": "2608060423",
+    "brand": "구루구루",
+    "name": "구루구루.쿠키보넷",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-423.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-06"
+  }
+]

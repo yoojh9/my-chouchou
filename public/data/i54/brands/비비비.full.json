@@ -217,5 +217,75 @@
       }
     ],
     "mfg_date": "2026-07-28"
+  },
+  {
+    "id": "2608060733",
+    "brand": "비비비",
+    "name": "비비비.고운배자",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0807/mo0807-310.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0807/mo0807-310.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-07"
+  },
+  {
+    "id": "2608060734",
+    "brand": "비비비",
+    "name": "비비비.고운한복",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0807/mo0807-311.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0807/mo0807-311.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-07"
   }
 ]

@@ -36,26 +36,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605000091",
-    "brand": "키들리",
-    "name": "키들리.리얼굿테이핑방수토트백",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1778015961/1_9_5401778015961.jpg",
-    "colors": [
-      {
-        "name": "one",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로38~세로25~폭16)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605000207",
     "brand": "키들리",
     "name": "키들리.NONO배색드라이핏캡",
@@ -82,38 +62,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605000244",
-    "brand": "키들리",
-    "name": "키들리.레터링자수터번캡",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1778015960/1_8_1541778015960.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(50~56)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2605000371",
@@ -144,38 +92,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605000412",
-    "brand": "키들리",
-    "name": "키들리.다이브홀릭와이드물안경",
-    "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1778015959/1_7_9731778015959.jpg",
-    "colors": [
-      {
-        "name": "네이비&화이트",
-        "add_price": 0
-      },
-      {
-        "name": "민트&핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블랙&옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "핑크&화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로13~세로5.5)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605000559",
     "brand": "키들리",
     "name": "키들리.[매쉬]스마일포인트4종세트",
@@ -202,38 +118,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605000605",
-    "brand": "키들리",
-    "name": "키들리.areyou숄더백",
-    "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1778015958/1_6_711778015958.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로35~세로32)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2605000778",
@@ -264,34 +148,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605000829",
-    "brand": "키들리",
-    "name": "키들리.[매쉬]플레이쿨5종세트",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1778015957/1_5_6711778015957.jpg",
-    "colors": [
-      {
-        "name": "5컬러1세트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M(130mm~150mm)",
-        "add_price": 0
-      },
-      {
-        "name": "L(160mm~180mm)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(190mm~220mm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605001064",
     "brand": "키들리",
     "name": "키들리.[매쉬]다이내믹스포츠5종세트",
@@ -318,34 +174,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605001120",
-    "brand": "키들리",
-    "name": "키들리.[매쉬]점프쿨5종세트",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778015957/1_4_6731778015957.jpg",
-    "colors": [
-      {
-        "name": "5컬러1세트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M(130mm~150mm)",
-        "add_price": 0
-      },
-      {
-        "name": "L(160mm~180mm)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(190mm~220mm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2605001402",
@@ -408,34 +236,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605001532",
-    "brand": "키들리",
-    "name": "키들리.[매쉬]비비드믹스패턴5종세트",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778015955/1_3_9801778015955.jpg",
-    "colors": [
-      {
-        "name": "5컬러1세트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M(130mm~150mm)",
-        "add_price": 0
-      },
-      {
-        "name": "L(160mm~180mm)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(190mm~220mm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605001961",
     "brand": "키들리",
     "name": "키들리.보스톤이어매쉬캡",
@@ -496,186 +296,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605002102",
-    "brand": "키들리",
-    "name": "키들리.[매쉬]러블리레이스5종세트",
-    "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778015954/1_2_6011778015954.jpg",
-    "colors": [
-      {
-        "name": "5컬러1세트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M(130mm~150mm)",
-        "add_price": 0
-      },
-      {
-        "name": "L(160mm~180mm)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(190mm~220mm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605002876",
-    "brand": "키들리",
-    "name": "키들리.팝팝멀티포켓비치백",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1778015968/1_18_3411778015968.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로39~세로29~폭16)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605002962",
-    "brand": "키들리",
-    "name": "키들리.체커보드팝선글라스",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1778015968/1_17_9361778015968.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605003055",
-    "brand": "키들리",
-    "name": "키들리.워터프루프투명백",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1778015967/1_16_6871778015967.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "블루네이비",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로19~세로20)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605003153",
-    "brand": "키들리",
-    "name": "키들리.스터드캣아이선글라스",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1778015966/1_15_291778015966.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
-    "id": "2605003256",
-    "brand": "키들리",
-    "name": "키들리.스마일메쉬윙크플랩햇",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1778015966/1_14_1101778015966.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(48~52cm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605003332",
     "brand": "키들리",
     "name": "키들리.클래식에어매쉬버킷햇",
@@ -706,42 +326,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605003364",
-    "brand": "키들리",
-    "name": "키들리.삼각넥파우치크로스백",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1778015965/1_13_8721778015965.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "오렌지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로12~세로12~폭3.5~끈길이최장160최단80)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2605003444",
@@ -776,34 +360,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605003477",
-    "brand": "키들리",
-    "name": "키들리.사이드믹스컬러물안경",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1778015964/1_12_4871778015964.jpg",
-    "colors": [
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로15~세로5)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605003561",
     "brand": "키들리",
     "name": "키들리.스윔라탄펀칭썬캡",
@@ -836,30 +392,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605003596",
-    "brand": "키들리",
-    "name": "키들리.메탈릭힙선글라스",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1778015963/1_11_1231778015963.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "실버",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
-  },
-  {
     "id": "2605003685",
     "brand": "키들리",
     "name": "키들리.내셔널레터링배색캡",
@@ -890,42 +422,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605003721",
-    "brand": "키들리",
-    "name": "키들리.마카롱스트링미니백팩",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1778015962/1_10_7411778015962.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "딥네이비",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "free(가로23~세로29~폭8)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-06"
   },
   {
     "id": "2606030050",
