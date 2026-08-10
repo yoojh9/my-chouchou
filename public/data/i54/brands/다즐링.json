@@ -228,54 +228,6 @@
     "mfg_date": "2026-05-26"
   },
   {
-    "id": "2605001099",
-    "brand": "다즐링",
-    "name": "다즐링.쿨잔골지7부레깅스",
-    "price_sale": 5600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778245996/1_4_6481778245996.jpg",
-    "colors": [
-      {
-        "name": "인핑",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-08"
-  },
-  {
     "id": "2605001398",
     "brand": "다즐링",
     "name": "다즐링.곱창안개블라우스",
@@ -314,50 +266,6 @@
       }
     ],
     "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001509",
-    "brand": "다즐링",
-    "name": "다즐링.줄지지미바지",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778245996/1_3_5601778245996.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-08"
   },
   {
     "id": "2605001957",
@@ -406,46 +314,6 @@
       }
     ],
     "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605002075",
-    "brand": "다즐링",
-    "name": "다즐링.서핑강아지티",
-    "price_sale": 12000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778245996/1_2_7681778245996.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-08"
   },
   {
     "id": "2605003637",
@@ -742,5 +610,121 @@
       }
     ],
     "mfg_date": "2026-06-10"
+  },
+  {
+    "id": "2608080584",
+    "brand": "다즐링",
+    "name": "다즐링.단아율한복세트(복주머니 포함)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0810/mo0810-001.jpg",
+    "colors": [
+      {
+        "name": "빨강",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-10"
+  },
+  {
+    "id": "2608080585",
+    "brand": "다즐링",
+    "name": "다즐링.단아추석빔세트(복주머니 포함)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0810/mo0810-002.jpg",
+    "colors": [
+      {
+        "name": "무지바지(남아)",
+        "add_price": 0
+      },
+      {
+        "name": "꽃바지(남아)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-10"
+  },
+  {
+    "id": "2608080586",
+    "brand": "다즐링",
+    "name": "다즐링.수수한복세트(복주머니 포함)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0810/mo0810-003.jpg",
+    "colors": [
+      {
+        "name": "카키(남아)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-10"
   }
 ]

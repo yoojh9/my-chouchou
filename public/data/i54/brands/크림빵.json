@@ -52,58 +52,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605000078",
-    "brand": "크림빵",
-    "name": "크림빵.밴드반팔티",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1778139837/1_9_2281778139837.jpg",
-    "colors": [
-      {
-        "name": "연소라",
-        "add_price": 0
-      },
-      {
-        "name": "연보라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605000212",
     "brand": "크림빵",
     "name": "크림빵.스트라이프하프팬츠추가",
@@ -154,58 +102,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605000231",
-    "brand": "크림빵",
-    "name": "크림빵.린넨와이드팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1778139836/1_8_9391778139836.jpg",
-    "colors": [
-      {
-        "name": "연카키",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605000377",
@@ -260,66 +156,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605000397",
-    "brand": "크림빵",
-    "name": "크림빵.로이끈나시",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1778139835/1_7_4911778139835.jpg",
-    "colors": [
-      {
-        "name": "레몬",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605000566",
     "brand": "크림빵",
     "name": "크림빵.린넨와이드팬츠추가",
@@ -372,62 +208,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605000589",
-    "brand": "크림빵",
-    "name": "크림빵.레몬데끼티",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1778139835/1_6_8161778139835.jpg",
-    "colors": [
-      {
-        "name": "레몬",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605000785",
     "brand": "크림빵",
     "name": "크림빵.도트날라리티추가",
@@ -474,54 +254,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605000811",
-    "brand": "크림빵",
-    "name": "크림빵.도트날라리티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1778139834/1_5_5691778139834.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605001072",
@@ -578,62 +310,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605001101",
-    "brand": "크림빵",
-    "name": "크림빵.단가라랍빠나시",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1778139832/1_4_3731778139832.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "오렌지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605001479",
@@ -696,66 +372,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605001511",
-    "brand": "크림빵",
-    "name": "크림빵.노웨이나염티",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1778139832/1_3_4831778139832.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "연그린",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002042",
     "brand": "크림빵",
     "name": "크림빵.구제데님반바지추가",
@@ -806,262 +422,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605002076",
-    "brand": "크림빵",
-    "name": "크림빵.레이스골지티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778214129/1_2_3141778214129.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-08"
-  },
-  {
-    "id": "2605002079",
-    "brand": "크림빵",
-    "name": "크림빵.구제데님반바지",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1778139831/1_2_8171778139831.jpg",
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
-    "id": "2605002234",
-    "brand": "크림빵",
-    "name": "크림빵.홀리데이나염티",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/28C1778139851/1_28_6931778139851.jpg",
-    "colors": [
-      {
-        "name": "카키",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브릭",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
-    "id": "2605002283",
-    "brand": "크림빵",
-    "name": "크림빵.피그먼트단가라티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1778139851/1_27_9911778139851.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
-    "id": "2605002333",
-    "brand": "크림빵",
-    "name": "크림빵.프렌드나염티",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/26C1778139850/1_26_9811778139850.jpg",
-    "colors": [
-      {
-        "name": "진그린",
-        "add_price": 0
-      },
-      {
-        "name": "진네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605002378",
@@ -1120,54 +480,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002390",
-    "brand": "크림빵",
-    "name": "크림빵.포켓자수티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/25C1778139850/1_25_9661778139850.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002435",
     "brand": "크림빵",
     "name": "크림빵.피그먼트단가라티추가",
@@ -1224,58 +536,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002447",
-    "brand": "크림빵",
-    "name": "크림빵.텐셀골지나시",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1778139849/1_24_5261778139849.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002494",
     "brand": "크림빵",
     "name": "크림빵.프렌드나염티추가",
@@ -1328,58 +588,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002507",
-    "brand": "크림빵",
-    "name": "크림빵.크런치나염티",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1778139849/1_23_2211778139849.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "다홍",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002559",
     "brand": "크림빵",
     "name": "크림빵.텐셀4부데님추가",
@@ -1426,58 +634,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605002572",
-    "brand": "크림빵",
-    "name": "크림빵.쿨단가라티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1778139848/1_22_5381778139848.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605002625",
@@ -1532,62 +688,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002638",
-    "brand": "크림빵",
-    "name": "크림빵.초콜릿붐반바지",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1778139846/1_21_9771778139846.jpg",
-    "colors": [
-      {
-        "name": "초콜릿",
-        "add_price": 0
-      },
-      {
-        "name": "와사비",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002696",
     "brand": "크림빵",
     "name": "크림빵.쿨단가라티추가",
@@ -1638,54 +738,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605002711",
-    "brand": "크림빵",
-    "name": "크림빵.챠밍데님셔츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1778139846/1_20_61778139846.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605002771",
@@ -1744,54 +796,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002787",
-    "brand": "크림빵",
-    "name": "크림빵.조이텐셀6부데님팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1778139845/1_19_7981778139845.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002852",
     "brand": "크림빵",
     "name": "크림빵.챠밍데님셔츠추가",
@@ -1840,58 +844,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605002868",
-    "brand": "크림빵",
-    "name": "크림빵.엔젤나염티",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1778139845/1_18_4221778139845.jpg",
-    "colors": [
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605002937",
     "brand": "크림빵",
     "name": "크림빵.조이텐셀6부데님팬츠추가",
@@ -1938,58 +890,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605002953",
-    "brand": "크림빵",
-    "name": "크림빵.에어와이드팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1778139845/1_17_3251778139845.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605003029",
@@ -2044,58 +944,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605003045",
-    "brand": "크림빵",
-    "name": "크림빵.에어밴딩블라우스",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1778139844/1_16_6061778139844.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605003127",
     "brand": "크림빵",
     "name": "크림빵.에어와이드팬츠추가",
@@ -2148,62 +996,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605003143",
-    "brand": "크림빵",
-    "name": "크림빵.썸머카고하프팬츠",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1778139843/1_15_3361778139843.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "연카키",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605003230",
     "brand": "크림빵",
     "name": "크림빵.에어밴딩블라우스추가",
@@ -2254,58 +1046,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605003246",
-    "brand": "크림빵",
-    "name": "크림빵.썸머와이드데님팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1778139842/1_14_9441778139842.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605003336",
@@ -2364,58 +1104,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605003353",
-    "brand": "크림빵",
-    "name": "크림빵.썸머베이직데님",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1778139841/1_13_6871778139841.jpg",
-    "colors": [
-      {
-        "name": "진청",
-        "add_price": 0
-      },
-      {
-        "name": "연청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605003448",
     "brand": "크림빵",
     "name": "크림빵.썸머와이드데님팬츠추가",
@@ -2466,54 +1154,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605003466",
-    "brand": "크림빵",
-    "name": "크림빵.썸머데님배기팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1778139840/1_12_2261778139840.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2605003566",
@@ -2568,58 +1208,6 @@
     "mfg_date": "2026-05-13"
   },
   {
-    "id": "2605003584",
-    "brand": "크림빵",
-    "name": "크림빵.스티치배색코튼팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1778139839/1_11_7011778139839.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
-  },
-  {
     "id": "2605003690",
     "brand": "크림빵",
     "name": "크림빵.썸머데님배기팬츠추가",
@@ -2666,58 +1254,6 @@
       }
     ],
     "mfg_date": "2026-05-13"
-  },
-  {
-    "id": "2605003708",
-    "brand": "크림빵",
-    "name": "크림빵.스트라이프하프팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1778139838/1_10_6081778139838.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-07"
   },
   {
     "id": "2606030084",
