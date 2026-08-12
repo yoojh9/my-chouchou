@@ -4704,11 +4704,11 @@
     "mfg_date": "2026-07-08"
   },
   {
-    "id": "2607270209",
+    "id": "2607240074",
     "brand": "포크칩스",
     "name": "포크칩스.아기씨조바위",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-210.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784874753/1_3_9371784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
     "colors": [
       {
         "name": "아이보리",
@@ -4721,14 +4721,14 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-24"
   },
   {
-    "id": "2607270210",
+    "id": "2607240019",
     "brand": "포크칩스",
     "name": "포크칩스.아기씨헤어밴드",
     "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-211.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784874753/1_6_7901784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
     "colors": [
       {
         "name": "네이비",
@@ -4741,7 +4741,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-24"
   },
   {
     "id": "2607270211",
@@ -4776,11 +4776,11 @@
     "mfg_date": "2026-07-27"
   },
   {
-    "id": "2607270212",
+    "id": "2607240004",
     "brand": "포크칩스",
     "name": "포크칩스.연지조바위",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-213.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784874753/1_9_201784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
     "colors": [
       {
         "name": "아이보리",
@@ -4793,14 +4793,14 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-24"
   },
   {
-    "id": "2607270213",
+    "id": "2607240114",
     "brand": "포크칩스",
     "name": "포크칩스.곤지보넷",
     "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-214.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784874753/1_2_8661784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
     "colors": [
       {
         "name": "네이비",
@@ -4813,7 +4813,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-24"
   },
   {
     "id": "2607270214",
@@ -4848,11 +4848,11 @@
     "mfg_date": "2026-07-27"
   },
   {
-    "id": "2607270215",
+    "id": "2607240195",
     "brand": "포크칩스",
     "name": "포크칩스.한복돌띠",
     "price_sale": 8800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-216.jpg",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784874753/1_10_351784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
     "colors": [
       {
         "name": "분홍",
@@ -4869,7 +4869,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-27"
+    "mfg_date": "2026-07-24"
   },
   {
     "id": "2608020103",
@@ -6938,5 +6938,117 @@
       }
     ],
     "mfg_date": "2026-08-03"
+  },
+  {
+    "id": "2607240009",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지곤지한복(여아)",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784874753/1_8_3151784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "여아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240014",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지곤지한복(남아)",
+    "price_sale": 33600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784874753/1_7_2921784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "남아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240024",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨한복(여아)",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784874753/1_5_6781784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "여아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240039",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨한복(남아)",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784874753/1_4_3381784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "남아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
   }
 ]

@@ -1,1 +1,1270 @@
-[]
+[
+  {
+    "id": "2607240005",
+    "brand": "하이커",
+    "name": "하이커.마들렌와플맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784868160/1_9_3541784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240010",
+    "brand": "하이커",
+    "name": "하이커.슈아브테리조거",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784868160/1_8_7231784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240015",
+    "brand": "하이커",
+    "name": "하이커.슈아브테리나시",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784868160/1_7_7971784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240020",
+    "brand": "하이커",
+    "name": "하이커.아바물결팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784868160/1_6_9551784868160.PNG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240025",
+    "brand": "하이커",
+    "name": "하이커.아바물결티셔츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784868160/1_5_9161784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240040",
+    "brand": "하이커",
+    "name": "하이커.타이니데일리티셔츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784868160/1_4_2391784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "라일락",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240075",
+    "brand": "하이커",
+    "name": "하이커.슈크레테리맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784868160/1_3_1011784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240094",
+    "brand": "하이커",
+    "name": "하이커.포포핸드메이드비니",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1784868160/1_34_2101784868160.png?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240098",
+    "brand": "하이커",
+    "name": "하이커.어텀체크볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1784868160/1_33_7411784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240102",
+    "brand": "하이커",
+    "name": "하이커.타이니스타볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1784868160/1_32_1991784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240106",
+    "brand": "하이커",
+    "name": "하이커.유니크레오파드볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1784868160/1_31_3781784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240110",
+    "brand": "하이커",
+    "name": "하이커.더기오버롤팬츠",
+    "price_sale": 48000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1784868160/1_30_251784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "플라워",
+        "add_price": 0
+      },
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240115",
+    "brand": "하이커",
+    "name": "하이커.더블버블쭉티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784868160/1_2_6211784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "공군",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240119",
+    "brand": "하이커",
+    "name": "하이커.퐁퐁이포켓팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1784868160/1_29_7001784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240123",
+    "brand": "하이커",
+    "name": "하이커.컬러쫀득이팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1784868160/1_28_4161784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "다홍",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240127",
+    "brand": "하이커",
+    "name": "하이커.버디스트라이프조거",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1784868160/1_27_131784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240131",
+    "brand": "하이커",
+    "name": "하이커.피그아방다트팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1784868160/1_26_1251784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240135",
+    "brand": "하이커",
+    "name": "하이커.튀튀레이어드랩스커트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1784868160/1_25_8121784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240139",
+    "brand": "하이커",
+    "name": "하이커.제임스카펜더7부데님",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1784868160/1_24_9141784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240143",
+    "brand": "하이커",
+    "name": "하이커.도토리시보리팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1784868160/1_23_9891784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240147",
+    "brand": "하이커",
+    "name": "하이커.나나도트팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1784868160/1_22_6671784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "인디고블루",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240151",
+    "brand": "하이커",
+    "name": "하이커.코니버튼댕고조거",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1784868160/1_21_1191784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "진핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240155",
+    "brand": "하이커",
+    "name": "하이커.뽀식이체크후디점퍼",
+    "price_sale": 62400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1784868160/1_20_9591784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240159",
+    "brand": "하이커",
+    "name": "하이커.딘딘레이어드후디",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1784868160/1_19_701784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "보라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240163",
+    "brand": "하이커",
+    "name": "하이커.틸다핀코트티셔츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1784868160/1_18_3351784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240167",
+    "brand": "하이커",
+    "name": "하이커.팝핑도기티셔츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1784868160/1_17_6231784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240171",
+    "brand": "하이커",
+    "name": "하이커.캔디스트라이프티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784868160/1_16_2481784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240175",
+    "brand": "하이커",
+    "name": "하이커.빅드리미나그랑티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784868160/1_15_1411784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240179",
+    "brand": "하이커",
+    "name": "하이커.레코드레이어드쭉티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784868160/1_14_9671784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240183",
+    "brand": "하이커",
+    "name": "하이커.잇츠래빗맨투맨",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784868160/1_13_7291784868160.PNG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240187",
+    "brand": "하이커",
+    "name": "하이커.프레클스트라이프티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784868160/1_12_3931784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240191",
+    "brand": "하이커",
+    "name": "하이커.하니도트티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784868160/1_11_7741784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  },
+  {
+    "id": "2607240196",
+    "brand": "하이커",
+    "name": "하이커.마들렌와플조거",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784868160/1_10_4321784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-24"
+  }
+]

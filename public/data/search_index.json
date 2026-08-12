@@ -162792,12 +162792,320 @@
     ]
   },
   {
-    "id": "2607270483",
+    "id": "2607240194",
+    "brand": "미니로브",
+    "name": "미니로브.라운드st긴팔티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784892033/1_10_2291784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240190",
+    "brand": "미니로브",
+    "name": "미니로브.러플숏트렌치",
+    "price_sale": 46400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784892033/1_11_4731784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240166",
+    "brand": "미니로브",
+    "name": "미니로브.벌룬블라우스",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1784892033/1_17_9491784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브릭",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240118",
+    "brand": "미니로브",
+    "name": "미니로브.에디st단작티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1784892033/1_29_1781784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240097",
+    "brand": "미니로브",
+    "name": "미니로브.우디st셔츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1784892033/1_33_4831784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240038",
+    "brand": "미니로브",
+    "name": "미니로브.논페이드데님팬츠",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784892033/1_4_5381784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240023",
+    "brand": "미니로브",
+    "name": "미니로브.논페이드베스트",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784892033/1_5_3421784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "검정청",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240003",
+    "brand": "미니로브",
+    "name": "미니로브.데이st조거팬츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784892033/1_9_31784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240078",
     "brand": "미니로브",
     "name": "미니로브.크로쉐니트백",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-484.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/39C1784892033/1_39_8951784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -162824,12 +163132,12 @@
     ]
   },
   {
-    "id": "2607270482",
+    "id": "2607240158",
     "brand": "미니로브",
     "name": "미니로브.베이직와플삭스",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-483.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1784892033/1_19_8531784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "3개1세트",
@@ -162852,12 +163160,12 @@
     ]
   },
   {
-    "id": "2607270481",
+    "id": "2607240049",
     "brand": "미니로브",
     "name": "미니로브.하트로고삭스",
     "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-482.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/47C1784892033/1_47_8161784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "3개1세트",
@@ -162880,12 +163188,12 @@
     ]
   },
   {
-    "id": "2607270480",
+    "id": "2607240084",
     "brand": "미니로브",
     "name": "미니로브.코튼립삭스",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-481.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/37C1784892033/1_37_511784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "3개1세트",
@@ -162908,12 +163216,12 @@
     ]
   },
   {
-    "id": "2607270479",
+    "id": "2607240052",
     "brand": "미니로브",
     "name": "미니로브.플레이캡모자",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-480.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/46C1784892033/1_46_9281784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "올리브",
@@ -162940,12 +163248,12 @@
     ]
   },
   {
-    "id": "2607270478",
+    "id": "2607240058",
     "brand": "미니로브",
     "name": "미니로브.포실캣비니",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-479.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/44C1784892033/1_44_1571784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -162976,12 +163284,12 @@
     ]
   },
   {
-    "id": "2607270477",
+    "id": "2607240174",
     "brand": "미니로브",
     "name": "미니로브.멜로우버킷햇",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-478.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784892033/1_15_5631784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -163012,12 +163320,12 @@
     ]
   },
   {
-    "id": "2607270476",
+    "id": "2607240046",
     "brand": "미니로브",
     "name": "미니로브.하트비니",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-477.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/48C1784892033/1_48_411784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -163048,12 +163356,12 @@
     ]
   },
   {
-    "id": "2607270475",
+    "id": "2607240142",
     "brand": "미니로브",
     "name": "미니로브.스티치데님조거팬츠",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-476.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1784892033/1_23_7301784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "중청",
@@ -163156,12 +163464,12 @@
     ]
   },
   {
-    "id": "2607270472",
+    "id": "2607240138",
     "brand": "미니로브",
     "name": "미니로브.아델체크팬츠",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-473.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1784892033/1_24_9781784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "체크",
@@ -163224,12 +163532,12 @@
     ]
   },
   {
-    "id": "2607270470",
+    "id": "2607240081",
     "brand": "미니로브",
     "name": "미니로브.코튼아일렛긴팔티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-471.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/38C1784892033/1_38_2221784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -163260,12 +163568,12 @@
     ]
   },
   {
-    "id": "2607270469",
+    "id": "2607240064",
     "brand": "미니로브",
     "name": "미니로브.테리오버롤팬츠",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-470.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/42C1784892033/1_42_8071784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -163420,12 +163728,12 @@
     ]
   },
   {
-    "id": "2607270465",
+    "id": "2607240122",
     "brand": "미니로브",
     "name": "미니로브.언발맨투맨",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-466.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1784892033/1_28_8961784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -163456,12 +163764,12 @@
     ]
   },
   {
-    "id": "2607270464",
+    "id": "2607240090",
     "brand": "미니로브",
     "name": "미니로브.카일리단작티",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-465.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/35C1784892033/1_35_6831784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -163500,12 +163808,12 @@
     ]
   },
   {
-    "id": "2607270463",
+    "id": "2607240061",
     "brand": "미니로브",
     "name": "미니로브.통통8부조거팬츠",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-464.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/43C1784892033/1_43_5021784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "보라",
@@ -163544,12 +163852,12 @@
     ]
   },
   {
-    "id": "2607270462",
+    "id": "2607240101",
     "brand": "미니로브",
     "name": "미니로브.오리베스트",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-463.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1784892033/1_32_331784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -163580,12 +163888,12 @@
     ]
   },
   {
-    "id": "2607270461",
+    "id": "2607240067",
     "brand": "미니로브",
     "name": "미니로브.킨도팬츠",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-462.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/41C1784892033/1_41_6521784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "머스타드",
@@ -163620,12 +163928,12 @@
     ]
   },
   {
-    "id": "2607270460",
+    "id": "2607240186",
     "brand": "미니로브",
     "name": "미니로브.레이스맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-461.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784892033/1_12_4111784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -163660,12 +163968,12 @@
     ]
   },
   {
-    "id": "2607270459",
+    "id": "2607240013",
     "brand": "미니로브",
     "name": "미니로브.다나팬츠",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-460.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784892033/1_7_8011784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "딥그린",
@@ -163696,12 +164004,12 @@
     ]
   },
   {
-    "id": "2607270458",
+    "id": "2607240093",
     "brand": "미니로브",
     "name": "미니로브.위니테리후드",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-459.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1784892033/1_34_4611784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -163768,12 +164076,12 @@
     ]
   },
   {
-    "id": "2607270456",
+    "id": "2607240162",
     "brand": "미니로브",
     "name": "미니로브.벌룬워크자켓",
     "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-457.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1784892033/1_18_6531784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "핑크",
@@ -163848,12 +164156,12 @@
     ]
   },
   {
-    "id": "2607270454",
+    "id": "2607240126",
     "brand": "미니로브",
     "name": "미니로브.어텀리틀팬츠",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-455.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1784892033/1_27_3641784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "중청",
@@ -163884,12 +164192,12 @@
     ]
   },
   {
-    "id": "2607270453",
+    "id": "2607240043",
     "brand": "미니로브",
     "name": "미니로브.홀터넥니트",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-454.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/49C1784892033/1_49_4171784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -163928,12 +164236,12 @@
     ]
   },
   {
-    "id": "2607270452",
+    "id": "2607240055",
     "brand": "미니로브",
     "name": "미니로브.프롬골지티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-453.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/45C1784892033/1_45_2621784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "블루꽃",
@@ -163964,12 +164272,12 @@
     ]
   },
   {
-    "id": "2607270451",
+    "id": "2607240178",
     "brand": "미니로브",
     "name": "미니로브.룹빠조거팬츠",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-452.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784892033/1_14_9401784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -164004,12 +164312,12 @@
     ]
   },
   {
-    "id": "2607270450",
+    "id": "2607240182",
     "brand": "미니로브",
     "name": "미니로브.로우브이넥맨투맨",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-451.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784892033/1_13_1181784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -164044,12 +164352,12 @@
     ]
   },
   {
-    "id": "2607270449",
+    "id": "2607240146",
     "brand": "미니로브",
     "name": "미니로브.스트링후드점퍼",
     "price_sale": 46400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-450.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1784892033/1_22_1681784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "체크",
@@ -164084,12 +164392,12 @@
     ]
   },
   {
-    "id": "2607270448",
+    "id": "2607240130",
     "brand": "미니로브",
     "name": "미니로브.어반로고반팔티",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-449.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1784892033/1_26_4591784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -164128,12 +164436,12 @@
     ]
   },
   {
-    "id": "2607270447",
+    "id": "2607240018",
     "brand": "미니로브",
     "name": "미니로브.논페이드오버롤",
     "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-448.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784892033/1_6_8871784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "데님",
@@ -164164,12 +164472,12 @@
     ]
   },
   {
-    "id": "2607270446",
+    "id": "2607240154",
     "brand": "미니로브",
     "name": "미니로브.블라썸반폴라티",
     "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-447.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1784892033/1_20_3881784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -164212,12 +164520,12 @@
     ]
   },
   {
-    "id": "2607270445",
+    "id": "2607240113",
     "brand": "미니로브",
     "name": "미니로브.골덴4부팬츠",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-446.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784892033/1_2_4271784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "올리브",
@@ -164256,12 +164564,12 @@
     ]
   },
   {
-    "id": "2607270444",
+    "id": "2607240105",
     "brand": "미니로브",
     "name": "미니로브.엠블럼7부니트",
     "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-445.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1784892033/1_31_181784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -164296,12 +164604,12 @@
     ]
   },
   {
-    "id": "2607270443",
+    "id": "2607240170",
     "brand": "미니로브",
     "name": "미니로브.버블맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-444.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784892033/1_16_7191784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -164340,12 +164648,12 @@
     ]
   },
   {
-    "id": "2607270442",
+    "id": "2607240008",
     "brand": "미니로브",
     "name": "미니로브.다잉트윌팬츠",
     "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-443.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784892033/1_8_2211784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네이비",
@@ -164376,12 +164684,12 @@
     ]
   },
   {
-    "id": "2607270441",
+    "id": "2607240134",
     "brand": "미니로브",
     "name": "미니로브.아일렛가디건",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-442.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1784892033/1_25_4191784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -164412,12 +164720,12 @@
     ]
   },
   {
-    "id": "2607270440",
+    "id": "2607240150",
     "brand": "미니로브",
     "name": "미니로브.소프트하렘팬츠",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-441.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1784892033/1_21_2261784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -164452,12 +164760,12 @@
     ]
   },
   {
-    "id": "2607270439",
+    "id": "2607240087",
     "brand": "미니로브",
     "name": "미니로브.코지ST7부티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-440.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/36C1784892033/1_36_451784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "블루",
@@ -164492,12 +164800,12 @@
     ]
   },
   {
-    "id": "2607270438",
+    "id": "2607240073",
     "brand": "미니로브",
     "name": "미니로브.골덴카프리팬츠",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-439.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784892033/1_3_7881784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네추럴",
@@ -164532,12 +164840,12 @@
     ]
   },
   {
-    "id": "2607270437",
+    "id": "2607240109",
     "brand": "미니로브",
     "name": "미니로브.에티베스트",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-438.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1784892033/1_30_6941784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -164572,12 +164880,12 @@
     ]
   },
   {
-    "id": "2607270436",
+    "id": "2607240070",
     "brand": "미니로브",
     "name": "미니로브.크리틱골지티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-437.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/40C1784892033/1_40_1671784892033.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -250634,12 +250942,172 @@
     ]
   },
   {
-    "id": "2607270541",
+    "id": "2607240168",
+    "brand": "보니토",
+    "name": "보니토.나그랑삥줄맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784902504/1_16_7521784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "주황",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      }
+    ]
+  },
+  {
+    "id": "2607240079",
+    "brand": "보니토",
+    "name": "보니토.슈가골지티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/38C1784902504/1_38_3871784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "연보라브라운",
+        "add_price": 0
+      },
+      {
+        "name": "소라네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      }
+    ]
+  },
+  {
+    "id": "2607240068",
+    "brand": "보니토",
+    "name": "보니토.시리즈골지티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/40C1784902504/1_40_3281784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "크림도트",
+        "add_price": 0
+      },
+      {
+        "name": "ST감장",
+        "add_price": 0
+      },
+      {
+        "name": "검정꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      }
+    ]
+  },
+  {
+    "id": "2607240041",
     "brand": "보니토",
     "name": "보니토.체크캉캉스커트",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-542.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/49C1784902504/1_49_8291784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "검정",
@@ -250690,12 +251158,12 @@
     ]
   },
   {
-    "id": "2607270540",
+    "id": "2607240082",
     "brand": "보니토",
     "name": "보니토.셔링카라집업세트",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-541.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/37C1784902504/1_37_5721784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "핑크",
@@ -250742,12 +251210,12 @@
     ]
   },
   {
-    "id": "2607270539",
+    "id": "2607240152",
     "brand": "보니토",
     "name": "보니토.도트프릴조거팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-540.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1784902504/1_20_5471784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "핑크",
@@ -250794,12 +251262,12 @@
     ]
   },
   {
-    "id": "2607270538",
+    "id": "2607240128",
     "brand": "보니토",
     "name": "보니토.미니와플조끼세트",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-539.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1784902504/1_26_1431784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "검정",
@@ -250898,12 +251366,12 @@
     ]
   },
   {
-    "id": "2607270536",
+    "id": "2607240103",
     "brand": "보니토",
     "name": "보니토.부츠컷스판데님팬츠",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-537.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1784902504/1_31_7291784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "중청",
@@ -250950,12 +251418,12 @@
     ]
   },
   {
-    "id": "2607270535",
+    "id": "2607240062",
     "brand": "보니토",
     "name": "보니토.아일렛티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-536.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/42C1784902504/1_42_3201784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -251006,12 +251474,12 @@
     ]
   },
   {
-    "id": "2607270534",
+    "id": "2607240006",
     "brand": "보니토",
     "name": "보니토.9부카프리팬츠",
     "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-535.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784902504/1_8_1391784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -251058,12 +251526,12 @@
     ]
   },
   {
-    "id": "2607270533",
+    "id": "2607240099",
     "brand": "보니토",
     "name": "보니토.뷔스티에",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-534.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1784902504/1_32_5151784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -251170,12 +251638,12 @@
     ]
   },
   {
-    "id": "2607270531",
+    "id": "2607240085",
     "brand": "보니토",
     "name": "보니토.샤프릴조거팬츠",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-532.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/36C1784902504/1_36_5991784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -251222,12 +251690,12 @@
     ]
   },
   {
-    "id": "2607270530",
+    "id": "2607240027",
     "brand": "보니토",
     "name": "보니토.하트버튼ST티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-531.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/58C1784902504/1_58_7751784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "보라",
@@ -251278,12 +251746,12 @@
     ]
   },
   {
-    "id": "2607270529",
+    "id": "2607240091",
     "brand": "보니토",
     "name": "보니토.비욘드가디건",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-530.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1784902504/1_34_5891784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "머스타드",
@@ -251334,12 +251802,12 @@
     ]
   },
   {
-    "id": "2607270528",
+    "id": "2607240032",
     "brand": "보니토",
     "name": "보니토.탄탄ST슬림세트",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-529.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/53C1784902504/1_53_8311784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -251386,12 +251854,12 @@
     ]
   },
   {
-    "id": "2607270527",
+    "id": "2607240011",
     "brand": "보니토",
     "name": "보니토.5부레이스치마",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-528.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784902504/1_7_4701784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -251434,12 +251902,12 @@
     ]
   },
   {
-    "id": "2607270526",
+    "id": "2607240044",
     "brand": "보니토",
     "name": "보니토.체크셔츠",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-527.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/48C1784902504/1_48_2021784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "그린",
@@ -251486,12 +251954,12 @@
     ]
   },
   {
-    "id": "2607270525",
+    "id": "2607240095",
     "brand": "보니토",
     "name": "보니토.브이넥맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-526.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1784902504/1_33_2331784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -251538,12 +252006,12 @@
     ]
   },
   {
-    "id": "2607270524",
+    "id": "2607240001",
     "brand": "보니토",
     "name": "보니토.ST니트조거팬츠",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-525.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784902504/1_9_2001784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "버건디",
@@ -251642,12 +252110,12 @@
     ]
   },
   {
-    "id": "2607270522",
+    "id": "2607240034",
     "brand": "보니토",
     "name": "보니토.카라반집업",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-523.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/51C1784902504/1_51_6181784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아쿠아블루",
@@ -251694,12 +252162,12 @@
     ]
   },
   {
-    "id": "2607270521",
+    "id": "2607240029",
     "brand": "보니토",
     "name": "보니토.필링ST맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-522.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/56C1784902504/1_56_3511784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "파랑",
@@ -251750,12 +252218,12 @@
     ]
   },
   {
-    "id": "2607270520",
+    "id": "2607240180",
     "brand": "보니토",
     "name": "보니토.골데님자켓",
     "price_sale": 49600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-521.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784902504/1_13_2631784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -251802,12 +252270,12 @@
     ]
   },
   {
-    "id": "2607270519",
+    "id": "2607240184",
     "brand": "보니토",
     "name": "보니토.골데님원피스",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-520.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784902504/1_12_3611784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -251854,12 +252322,12 @@
     ]
   },
   {
-    "id": "2607270518",
+    "id": "2607240050",
     "brand": "보니토",
     "name": "보니토.찐골데님팬츠",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-519.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/46C1784902504/1_46_381784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -251906,12 +252374,12 @@
     ]
   },
   {
-    "id": "2607270517",
+    "id": "2607240030",
     "brand": "보니토",
     "name": "보니토.포그피그먼트맨투맨",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-518.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/55C1784902504/1_55_3421784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "차콜",
@@ -251962,12 +252430,12 @@
     ]
   },
   {
-    "id": "2607270516",
+    "id": "2607240164",
     "brand": "보니토",
     "name": "보니토.단작후드티",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-517.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1784902504/1_17_3881784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "노랑",
@@ -252018,12 +252486,12 @@
     ]
   },
   {
-    "id": "2607270515",
+    "id": "2607240088",
     "brand": "보니토",
     "name": "보니토.사이드삥줄팬츠",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-516.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/35C1784902504/1_35_2931784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -252070,12 +252538,12 @@
     ]
   },
   {
-    "id": "2607270514",
+    "id": "2607240156",
     "brand": "보니토",
     "name": "보니토.데끼단작맨투맨",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-515.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1784902504/1_19_511784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "핑크",
@@ -252122,12 +252590,12 @@
     ]
   },
   {
-    "id": "2607270513",
+    "id": "2607240140",
     "brand": "보니토",
     "name": "보니토.리멤버버튼맨투맨",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-514.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1784902504/1_23_5391784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "소라",
@@ -252178,12 +252646,12 @@
     ]
   },
   {
-    "id": "2607270512",
+    "id": "2607240148",
     "brand": "보니토",
     "name": "보니토.러브맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-513.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1784902504/1_21_1601784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "차콜",
@@ -252230,12 +252698,12 @@
     ]
   },
   {
-    "id": "2607270511",
+    "id": "2607240116",
     "brand": "보니토",
     "name": "보니토.보니토패치자수맨투맨",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-512.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1784902504/1_29_1131784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "올리브",
@@ -252282,12 +252750,12 @@
     ]
   },
   {
-    "id": "2607270510",
+    "id": "2607240059",
     "brand": "보니토",
     "name": "보니토.에디후드세트",
     "price_sale": 54400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-511.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/43C1784902504/1_43_3431784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "메란지",
@@ -252338,12 +252806,12 @@
     ]
   },
   {
-    "id": "2607270509",
+    "id": "2607240056",
     "brand": "보니토",
     "name": "보니토.와플ST조거팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-510.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/44C1784902504/1_44_8671784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "노랑",
@@ -252390,12 +252858,12 @@
     ]
   },
   {
-    "id": "2607270508",
+    "id": "2607240107",
     "brand": "보니토",
     "name": "보니토.볼록보니토맨투맨",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-509.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1784902504/1_30_8901784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "노랑",
@@ -252446,12 +252914,12 @@
     ]
   },
   {
-    "id": "2607270507",
+    "id": "2607240192",
     "brand": "보니토",
     "name": "보니토.ST카라티",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-508.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784902504/1_10_4931784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "차콜",
@@ -252498,12 +252966,12 @@
     ]
   },
   {
-    "id": "2607270506",
+    "id": "2607240026",
     "brand": "보니토",
     "name": "보니토.헨리넥맨투맨",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-507.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/59C1784902504/1_59_7751784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -252550,12 +253018,12 @@
     ]
   },
   {
-    "id": "2607270505",
+    "id": "2607240144",
     "brand": "보니토",
     "name": "보니토.레더카라자켓",
     "price_sale": 48000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-506.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1784902504/1_22_221784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -252598,12 +253066,12 @@
     ]
   },
   {
-    "id": "2607270504",
+    "id": "2607240136",
     "brand": "보니토",
     "name": "보니토.리틀띵스티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-505.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1784902504/1_24_931784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "차콜",
@@ -252650,12 +253118,12 @@
     ]
   },
   {
-    "id": "2607270503",
+    "id": "2607240035",
     "brand": "보니토",
     "name": "보니토.카고스커트",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-504.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/50C1784902504/1_50_2541784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "검정",
@@ -252702,12 +253170,12 @@
     ]
   },
   {
-    "id": "2607270502",
+    "id": "2607240053",
     "brand": "보니토",
     "name": "보니토.쭈리카고팬츠",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-503.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/45C1784902504/1_45_6721784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "검정",
@@ -252754,12 +253222,12 @@
     ]
   },
   {
-    "id": "2607270501",
+    "id": "2607240033",
     "brand": "보니토",
     "name": "보니토.코튼브이가디건",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-502.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/52C1784902504/1_52_1801784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "검정",
@@ -252806,12 +253274,12 @@
     ]
   },
   {
-    "id": "2607270500",
+    "id": "2607240028",
     "brand": "보니토",
     "name": "보니토.하루ST시보리티",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-501.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/57C1784902504/1_57_7801784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "차콜",
@@ -252862,12 +253330,12 @@
     ]
   },
   {
-    "id": "2607270499",
+    "id": "2607240076",
     "brand": "보니토",
     "name": "보니토.스티치코튼팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-500.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/39C1784902504/1_39_2631784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -252918,12 +253386,12 @@
     ]
   },
   {
-    "id": "2607270498",
+    "id": "2607240132",
     "brand": "보니토",
     "name": "보니토.모먼트맨투맨",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-499.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1784902504/1_25_6611784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "백메란지",
@@ -252970,12 +253438,12 @@
     ]
   },
   {
-    "id": "2607270497",
+    "id": "2607240047",
     "brand": "보니토",
     "name": "보니토.체크삥줄바람막이",
     "price_sale": 49600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-498.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/47C1784902504/1_47_9421784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -253034,12 +253502,12 @@
     ]
   },
   {
-    "id": "2607270496",
+    "id": "2607240172",
     "brand": "보니토",
     "name": "보니토.구름카모조거팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-497.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784902504/1_15_2981784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "그레이",
@@ -253086,12 +253554,12 @@
     ]
   },
   {
-    "id": "2607270495",
+    "id": "2607240160",
     "brand": "보니토",
     "name": "보니토.더보니토레터링맨투맨",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-496.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1784902504/1_18_151784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "백메란지",
@@ -253146,12 +253614,12 @@
     ]
   },
   {
-    "id": "2607270494",
+    "id": "2607240188",
     "brand": "보니토",
     "name": "보니토.가이나그랑세트",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-495.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784902504/1_11_2801784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네이비",
@@ -253202,12 +253670,12 @@
     ]
   },
   {
-    "id": "2607270493",
+    "id": "2607240124",
     "brand": "보니토",
     "name": "보니토.박스비시보리티",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-494.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1784902504/1_27_9101784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -253254,12 +253722,12 @@
     ]
   },
   {
-    "id": "2607270492",
+    "id": "2607240120",
     "brand": "보니토",
     "name": "보니토.반팔레이어드티",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-493.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1784902504/1_28_2001784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "올리브",
@@ -253310,12 +253778,12 @@
     ]
   },
   {
-    "id": "2607270491",
+    "id": "2607240176",
     "brand": "보니토",
     "name": "보니토.골덴반바지",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-492.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784902504/1_14_1541784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "블루",
@@ -253374,12 +253842,12 @@
     ]
   },
   {
-    "id": "2607270490",
+    "id": "2607240031",
     "brand": "보니토",
     "name": "보니토.트랙ST시보니티",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-491.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/54C1784902504/1_54_201784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "올리브",
@@ -253430,12 +253898,12 @@
     ]
   },
   {
-    "id": "2607270489",
+    "id": "2607240016",
     "brand": "보니토",
     "name": "보니토.(기획)크레용맨투맨",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-490.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784902504/1_6_3491784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -253498,12 +253966,12 @@
     ]
   },
   {
-    "id": "2607270488",
+    "id": "2607240071",
     "brand": "보니토",
     "name": "보니토.(기획)브러쉬데님팬츠",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-489.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784902504/1_3_3391784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -253554,12 +254022,12 @@
     ]
   },
   {
-    "id": "2607270487",
+    "id": "2607240036",
     "brand": "보니토",
     "name": "보니토.(기획)소프드조거팬츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-488.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784902504/1_4_6851784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네이비",
@@ -253618,12 +254086,12 @@
     ]
   },
   {
-    "id": "2607270486",
+    "id": "2607240111",
     "brand": "보니토",
     "name": "보니토.(기획)골지레이어드나시",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-487.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784902504/1_2_1511784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "멜란지",
@@ -253674,12 +254142,12 @@
     ]
   },
   {
-    "id": "2607270485",
+    "id": "2607240021",
     "brand": "보니토",
     "name": "보니토.(기획)컬러골지티",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-486.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784902504/1_5_1971784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "딥레드",
@@ -253746,12 +254214,12 @@
     ]
   },
   {
-    "id": "2607270484",
+    "id": "2607240065",
     "brand": "보니토",
     "name": "보니토.심플그루브캡",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-485.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/41C1784902504/1_41_951784902504.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "카키",
@@ -372058,6 +372526,110 @@
     ]
   },
   {
+    "id": "2607240161",
+    "brand": "아토메메",
+    "name": "아토메메.모엔st티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1784894855/1_18_4421784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240153",
+    "brand": "아토메메",
+    "name": "아토메메.버니st팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1784894855/1_20_6081784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240112",
+    "brand": "아토메메",
+    "name": "아토메메.at캡",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784894855/1_2_9651784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비(배색)",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "보라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
     "id": "2608020478",
     "brand": "아토메메",
     "name": "아토메메.AT캡",
@@ -372650,12 +373222,12 @@
     ]
   },
   {
-    "id": "2607270613",
+    "id": "2607240037",
     "brand": "아토메메",
     "name": "아토메메.도토리버킷햇",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-614.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784894855/1_4_6751784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "베이지",
@@ -372678,12 +373250,12 @@
     ]
   },
   {
-    "id": "2607270612",
+    "id": "2607240169",
     "brand": "아토메메",
     "name": "아토메메.멜로우니트스카프",
     "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-613.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784894855/1_16_4661784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -372710,12 +373282,12 @@
     ]
   },
   {
-    "id": "2607270611",
+    "id": "2607240108",
     "brand": "아토메메",
     "name": "아토메메.써니데이보넷",
     "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-612.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1784894855/1_30_7061784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -372742,12 +373314,12 @@
     ]
   },
   {
-    "id": "2607270610",
+    "id": "2607240080",
     "brand": "아토메메",
     "name": "아토메메.쿠키비니",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-611.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/38C1784894855/1_38_4301784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -372778,12 +373350,12 @@
     ]
   },
   {
-    "id": "2607270609",
+    "id": "2607240057",
     "brand": "아토메메",
     "name": "아토메메.퐁글패딩조끼",
     "price_sale": 46400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-610.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/44C1784894855/1_44_3961784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -372814,12 +373386,12 @@
     ]
   },
   {
-    "id": "2607270608",
+    "id": "2607240100",
     "brand": "아토메메",
     "name": "아토메메.에버니트원피스",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-609.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1784894855/1_32_9281784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -372854,12 +373426,12 @@
     ]
   },
   {
-    "id": "2607270607",
+    "id": "2607240077",
     "brand": "아토메메",
     "name": "아토메메.크레페골덴팬츠",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-608.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/39C1784894855/1_39_921784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -372894,12 +373466,12 @@
     ]
   },
   {
-    "id": "2607270606",
+    "id": "2607240149",
     "brand": "아토메메",
     "name": "아토메메.버터맨투맨",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-607.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1784894855/1_21_7251784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -372930,12 +373502,12 @@
     ]
   },
   {
-    "id": "2607270605",
+    "id": "2607240125",
     "brand": "아토메메",
     "name": "아토메메.시나몬백",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-606.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1784894855/1_27_5771784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -372954,12 +373526,12 @@
     ]
   },
   {
-    "id": "2607270604",
+    "id": "2607240117",
     "brand": "아토메메",
     "name": "아토메메.시나몬헤어밴드",
     "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-605.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1784894855/1_29_2281784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -372978,12 +373550,12 @@
     ]
   },
   {
-    "id": "2607270603",
+    "id": "2607240121",
     "brand": "아토메메",
     "name": "아토메메.시나몬팬츠",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-604.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1784894855/1_28_2511784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "레드",
@@ -373014,12 +373586,12 @@
     ]
   },
   {
-    "id": "2607270602",
+    "id": "2607240048",
     "brand": "아토메메",
     "name": "아토메메.헤링본오버롤팬츠",
     "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-603.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/47C1784894855/1_47_7901784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373050,12 +373622,12 @@
     ]
   },
   {
-    "id": "2607270601",
+    "id": "2607240096",
     "brand": "아토메메",
     "name": "아토메메.에이든카라티",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-602.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1784894855/1_33_1661784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "와인",
@@ -373086,12 +373658,12 @@
     ]
   },
   {
-    "id": "2607270600",
+    "id": "2607240129",
     "brand": "아토메메",
     "name": "아토메메.스콘팬츠",
     "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-601.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1784894855/1_26_7811784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373126,12 +373698,12 @@
     ]
   },
   {
-    "id": "2607270599",
+    "id": "2607240054",
     "brand": "아토메메",
     "name": "아토메메.프렌치니트가디건",
     "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-600.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/45C1784894855/1_45_7691784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "오트밀",
@@ -373166,12 +373738,12 @@
     ]
   },
   {
-    "id": "2607270598",
+    "id": "2607240145",
     "brand": "아토메메",
     "name": "아토메메.베리부츠컷데님팬츠",
     "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-599.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1784894855/1_22_3611784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -373242,12 +373814,12 @@
     ]
   },
   {
-    "id": "2607270596",
+    "id": "2607240083",
     "brand": "아토메메",
     "name": "아토메메.체리블라우스",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-597.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/37C1784894855/1_37_3491784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -373278,12 +373850,12 @@
     ]
   },
   {
-    "id": "2607270595",
+    "id": "2607240066",
     "brand": "아토메메",
     "name": "아토메메.클레이뷔스티에",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-596.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/41C1784894855/1_41_3751784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -373318,12 +373890,12 @@
     ]
   },
   {
-    "id": "2607270594",
+    "id": "2607240137",
     "brand": "아토메메",
     "name": "아토메메.블랭킷워크자켓",
     "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-595.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1784894855/1_24_3861784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "블루",
@@ -373354,12 +373926,12 @@
     ]
   },
   {
-    "id": "2607270593",
+    "id": "2607240072",
     "brand": "아토메메",
     "name": "아토메메.넛트울베스트",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-594.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784894855/1_3_7781784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "베이지",
@@ -373430,12 +374002,12 @@
     ]
   },
   {
-    "id": "2607270591",
+    "id": "2607240133",
     "brand": "아토메메",
     "name": "아토메메.쁘띠주르맨투맨",
     "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-592.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1784894855/1_25_4041784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373470,12 +374042,12 @@
     ]
   },
   {
-    "id": "2607270590",
+    "id": "2607240086",
     "brand": "아토메메",
     "name": "아토메메.윈디자켓",
     "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-591.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/36C1784894855/1_36_7071784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373506,12 +374078,12 @@
     ]
   },
   {
-    "id": "2607270589",
+    "id": "2607240042",
     "brand": "아토메메",
     "name": "아토메메.헤이체크원피스",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-590.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/49C1784894855/1_49_1251784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373546,12 +374118,12 @@
     ]
   },
   {
-    "id": "2607270588",
+    "id": "2607240157",
     "brand": "아토메메",
     "name": "아토메메.밀키골지레깅스",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-589.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1784894855/1_19_4841784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373590,12 +374162,12 @@
     ]
   },
   {
-    "id": "2607270587",
+    "id": "2607240177",
     "brand": "아토메메",
     "name": "아토메메.마레레이어드세트",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-588.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784894855/1_14_2781784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373634,12 +374206,12 @@
     ]
   },
   {
-    "id": "2607270586",
+    "id": "2607240051",
     "brand": "아토메메",
     "name": "아토메메.허니비퍼티그데님팬츠",
     "price_sale": 33600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-587.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/46C1784894855/1_46_4911784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "연청",
@@ -373670,12 +374242,12 @@
     ]
   },
   {
-    "id": "2607270585",
+    "id": "2607240045",
     "brand": "아토메메",
     "name": "아토메메.헤이즐티",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-586.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/48C1784894855/1_48_3221784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373714,12 +374286,12 @@
     ]
   },
   {
-    "id": "2607270584",
+    "id": "2607240012",
     "brand": "아토메메",
     "name": "아토메메.라떼팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-585.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784894855/1_7_9321784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373750,12 +374322,12 @@
     ]
   },
   {
-    "id": "2607270583",
+    "id": "2607240017",
     "brand": "아토메메",
     "name": "아토메메.라떼티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-584.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784894855/1_6_5761784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373786,12 +374358,12 @@
     ]
   },
   {
-    "id": "2607270582",
+    "id": "2607240104",
     "brand": "아토메메",
     "name": "아토메메.아이비뷔스티에",
     "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-583.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1784894855/1_31_7881784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373826,12 +374398,12 @@
     ]
   },
   {
-    "id": "2607270581",
+    "id": "2607240063",
     "brand": "아토메메",
     "name": "아토메메.포니원피스",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-582.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/42C1784894855/1_42_7321784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373862,12 +374434,12 @@
     ]
   },
   {
-    "id": "2607270580",
+    "id": "2607240181",
     "brand": "아토메메",
     "name": "아토메메.마들렌팬츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-581.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784894855/1_13_4021784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373898,12 +374470,12 @@
     ]
   },
   {
-    "id": "2607270579",
+    "id": "2607240185",
     "brand": "아토메메",
     "name": "아토메메.마들렌가디건",
     "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-580.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784894855/1_12_7061784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373934,12 +374506,12 @@
     ]
   },
   {
-    "id": "2607270578",
+    "id": "2607240141",
     "brand": "아토메메",
     "name": "아토메메.벨로아팬츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-579.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1784894855/1_23_4661784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -373974,12 +374546,12 @@
     ]
   },
   {
-    "id": "2607270577",
+    "id": "2607240165",
     "brand": "아토메메",
     "name": "아토메메.모어티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-578.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1784894855/1_17_5991784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -374014,12 +374586,12 @@
     ]
   },
   {
-    "id": "2607270576",
+    "id": "2607240092",
     "brand": "아토메메",
     "name": "아토메메.에크루니트조끼",
     "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-577.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1784894855/1_34_2281784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -374054,12 +374626,12 @@
     ]
   },
   {
-    "id": "2607270575",
+    "id": "2607240173",
     "brand": "아토메메",
     "name": "아토메메.머쉬룸오버롤팬츠",
     "price_sale": 36800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-576.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784894855/1_15_5211784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374090,12 +374662,12 @@
     ]
   },
   {
-    "id": "2607270574",
+    "id": "2607240193",
     "brand": "아토메메",
     "name": "아토메메.리엔블라우스",
     "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-575.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784894855/1_10_9991784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -374126,12 +374698,12 @@
     ]
   },
   {
-    "id": "2607270573",
+    "id": "2607240002",
     "brand": "아토메메",
     "name": "아토메메.레브팬츠",
     "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-574.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784894855/1_9_4341784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374162,12 +374734,12 @@
     ]
   },
   {
-    "id": "2607270572",
+    "id": "2607240007",
     "brand": "아토메메",
     "name": "아토메메.레브가디건",
     "price_sale": 33600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-573.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784894855/1_8_6161784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374198,12 +374770,12 @@
     ]
   },
   {
-    "id": "2607270571",
+    "id": "2607240069",
     "brand": "아토메메",
     "name": "아토메메.클레이부츠컷팬츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-572.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/40C1784894855/1_40_8381784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374242,12 +374814,12 @@
     ]
   },
   {
-    "id": "2607270570",
+    "id": "2607240060",
     "brand": "아토메메",
     "name": "아토메메.포레티셔츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-571.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/43C1784894855/1_43_7521784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -374282,12 +374854,12 @@
     ]
   },
   {
-    "id": "2607270569",
+    "id": "2607240022",
     "brand": "아토메메",
     "name": "아토메메.도트골덴팬츠",
     "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-570.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784894855/1_5_4691784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374322,12 +374894,12 @@
     ]
   },
   {
-    "id": "2607270568",
+    "id": "2607240089",
     "brand": "아토메메",
     "name": "아토메메.오브맨투맨",
     "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-569.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/35C1784894855/1_35_4771784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "크림",
@@ -374362,12 +374934,12 @@
     ]
   },
   {
-    "id": "2607270567",
+    "id": "2607240189",
     "brand": "아토메메",
     "name": "아토메메.릴리셔링티",
     "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-568.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784894855/1_11_9061784894855.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -532102,6 +532674,118 @@
     ]
   },
   {
+    "id": "2607240039",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨한복(남아)",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784874753/1_4_3381784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "남아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240024",
+    "brand": "포크칩스",
+    "name": "포크칩스.아기씨한복(여아)",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784874753/1_5_6781784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "여아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240014",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지곤지한복(남아)",
+    "price_sale": 33600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784874753/1_7_2921784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "남아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240009",
+    "brand": "포크칩스",
+    "name": "포크칩스.연지곤지한복(여아)",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784874753/1_8_3151784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "여아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ]
+  },
+  {
     "id": "2608020152",
     "brand": "포크칩스",
     "name": "포크칩스.허니양말세트",
@@ -534170,12 +534854,12 @@
     ]
   },
   {
-    "id": "2607270215",
+    "id": "2607240195",
     "brand": "포크칩스",
     "name": "포크칩스.한복돌띠",
     "price_sale": 8800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-216.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784874753/1_10_351784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "분홍",
@@ -534226,12 +534910,12 @@
     ]
   },
   {
-    "id": "2607270213",
+    "id": "2607240114",
     "brand": "포크칩스",
     "name": "포크칩스.곤지보넷",
     "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-214.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784874753/1_2_8661784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네이비",
@@ -534246,12 +534930,12 @@
     ]
   },
   {
-    "id": "2607270212",
+    "id": "2607240004",
     "brand": "포크칩스",
     "name": "포크칩스.연지조바위",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-213.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784874753/1_9_201784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -534298,12 +534982,12 @@
     ]
   },
   {
-    "id": "2607270210",
+    "id": "2607240019",
     "brand": "포크칩스",
     "name": "포크칩스.아기씨헤어밴드",
     "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-211.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784874753/1_6_7901784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "네이비",
@@ -534318,12 +535002,12 @@
     ]
   },
   {
-    "id": "2607270209",
+    "id": "2607240074",
     "brand": "포크칩스",
     "name": "포크칩스.아기씨조바위",
     "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-210.jpg",
-    "mfg_date": "2026-07-27",
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784874753/1_3_9371784874753.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
     "colors": [
       {
         "name": "아이보리",
@@ -562410,6 +563094,1274 @@
       {
         "name": "JL",
         "add_price": 3000
+      }
+    ]
+  },
+  {
+    "id": "2607240196",
+    "brand": "하이커",
+    "name": "하이커.마들렌와플조거",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1784868160/1_10_4321784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240191",
+    "brand": "하이커",
+    "name": "하이커.하니도트티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1784868160/1_11_7741784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240187",
+    "brand": "하이커",
+    "name": "하이커.프레클스트라이프티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1784868160/1_12_3931784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240183",
+    "brand": "하이커",
+    "name": "하이커.잇츠래빗맨투맨",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1784868160/1_13_7291784868160.PNG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240179",
+    "brand": "하이커",
+    "name": "하이커.레코드레이어드쭉티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1784868160/1_14_9671784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240175",
+    "brand": "하이커",
+    "name": "하이커.빅드리미나그랑티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1784868160/1_15_1411784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240171",
+    "brand": "하이커",
+    "name": "하이커.캔디스트라이프티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1784868160/1_16_2481784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240167",
+    "brand": "하이커",
+    "name": "하이커.팝핑도기티셔츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1784868160/1_17_6231784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240163",
+    "brand": "하이커",
+    "name": "하이커.틸다핀코트티셔츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1784868160/1_18_3351784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240159",
+    "brand": "하이커",
+    "name": "하이커.딘딘레이어드후디",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1784868160/1_19_701784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "보라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240155",
+    "brand": "하이커",
+    "name": "하이커.뽀식이체크후디점퍼",
+    "price_sale": 62400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1784868160/1_20_9591784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240151",
+    "brand": "하이커",
+    "name": "하이커.코니버튼댕고조거",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/21C1784868160/1_21_1191784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "진핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240147",
+    "brand": "하이커",
+    "name": "하이커.나나도트팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/22C1784868160/1_22_6671784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "인디고블루",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240143",
+    "brand": "하이커",
+    "name": "하이커.도토리시보리팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/23C1784868160/1_23_9891784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240139",
+    "brand": "하이커",
+    "name": "하이커.제임스카펜더7부데님",
+    "price_sale": 28800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/24C1784868160/1_24_9141784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240135",
+    "brand": "하이커",
+    "name": "하이커.튀튀레이어드랩스커트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/25C1784868160/1_25_8121784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240131",
+    "brand": "하이커",
+    "name": "하이커.피그아방다트팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/26C1784868160/1_26_1251784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240127",
+    "brand": "하이커",
+    "name": "하이커.버디스트라이프조거",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/27C1784868160/1_27_131784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240123",
+    "brand": "하이커",
+    "name": "하이커.컬러쫀득이팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/28C1784868160/1_28_4161784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "다홍",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240119",
+    "brand": "하이커",
+    "name": "하이커.퐁퐁이포켓팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/29C1784868160/1_29_7001784868160.jpg?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240115",
+    "brand": "하이커",
+    "name": "하이커.더블버블쭉티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784868160/1_2_6211784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "공군",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240110",
+    "brand": "하이커",
+    "name": "하이커.더기오버롤팬츠",
+    "price_sale": 48000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/30C1784868160/1_30_251784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "플라워",
+        "add_price": 0
+      },
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240106",
+    "brand": "하이커",
+    "name": "하이커.유니크레오파드볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/31C1784868160/1_31_3781784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240102",
+    "brand": "하이커",
+    "name": "하이커.타이니스타볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/32C1784868160/1_32_1991784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240098",
+    "brand": "하이커",
+    "name": "하이커.어텀체크볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/33C1784868160/1_33_7411784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240094",
+    "brand": "하이커",
+    "name": "하이커.포포핸드메이드비니",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/34C1784868160/1_34_2101784868160.png?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240075",
+    "brand": "하이커",
+    "name": "하이커.슈크레테리맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784868160/1_3_1011784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240040",
+    "brand": "하이커",
+    "name": "하이커.타이니데일리티셔츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784868160/1_4_2391784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "라일락",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240025",
+    "brand": "하이커",
+    "name": "하이커.아바물결티셔츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784868160/1_5_9161784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240020",
+    "brand": "하이커",
+    "name": "하이커.아바물결팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784868160/1_6_9551784868160.PNG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240015",
+    "brand": "하이커",
+    "name": "하이커.슈아브테리나시",
+    "price_sale": 17600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784868160/1_7_7971784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240010",
+    "brand": "하이커",
+    "name": "하이커.슈아브테리조거",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1784868160/1_8_7231784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ]
+  },
+  {
+    "id": "2607240005",
+    "brand": "하이커",
+    "name": "하이커.마들렌와플맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1784868160/1_9_3541784868160.JPG?kvdl=xls_ykwon89_1786520267_c096dd10",
+    "mfg_date": "2026-07-24",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
       }
     ]
   },
