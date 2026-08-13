@@ -1,77 +1,5 @@
 [
   {
-    "id": "2605000580",
-    "brand": "아이언더스탠드",
-    "name": "아이언더스탠드.프릴나시원피스",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1778527752/1_6_7641778527752.jpg",
-    "colors": [
-      {
-        "name": "도트",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-12"
-  },
-  {
-    "id": "2605000799",
-    "brand": "아이언더스탠드",
-    "name": "아이언더스탠드.크로셰셔츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1778527752/1_5_321778527752.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-12"
-  },
-  {
     "id": "2605001062",
     "brand": "아이언더스탠드",
     "name": "아이언더스탠드.하트리벳하프데님",
@@ -104,38 +32,6 @@
     "mfg_date": "2026-05-15"
   },
   {
-    "id": "2605001086",
-    "brand": "아이언더스탠드",
-    "name": "아이언더스탠드.애니멀티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1778527752/1_4_8231778527752.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-12"
-  },
-  {
     "id": "2605001468",
     "brand": "아이언더스탠드",
     "name": "아이언더스탠드.플라워카라티셔츠",
@@ -166,42 +62,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605001494",
-    "brand": "아이언더스탠드",
-    "name": "아이언더스탠드.발수하프팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778527752/1_3_2601778527752.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "보라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-12"
   },
   {
     "id": "2605002030",
@@ -238,38 +98,6 @@
       }
     ],
     "mfg_date": "2026-05-15"
-  },
-  {
-    "id": "2605002059",
-    "brand": "아이언더스탠드",
-    "name": "아이언더스탠드.레이스오픈카라셔츠",
-    "price_sale": 41600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778527752/1_2_7741778527752.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-12"
   },
   {
     "id": "2606030042",
@@ -410,5 +238,929 @@
       }
     ],
     "mfg_date": "2026-06-03"
+  },
+  {
+    "id": "2608120001",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.깔롱워크자켓",
+    "price_sale": 64000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-049.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120002",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.깔롱자가드팬츠",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-050.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120003",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.더블레이어드티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-051.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120004",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.돌핀카모티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-052.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120005",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.러블리레깅스",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-053.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120006",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.레오파드와이드팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-054.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120007",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.레이어드워머팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-055.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120008",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.레인보우니트비니",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-056.jpg",
+    "colors": [
+      {
+        "name": "멀티",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120009",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.리버시블가디건",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-057.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120010",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.리버시블머플러",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-058.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120011",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.말랑부츠컷팬츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-059.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120012",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.머플러티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-060.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120013",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.무드데님팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-061.jpg",
+    "colors": [
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120014",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.베이직단가라티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-062.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120015",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.스웨이드블루종",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-063.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120016",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.웨이브골지팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-064.jpg",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120017",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.캔디윈드점퍼",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-065.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120018",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.컬러믹스홀터레이어드",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-066.jpg",
+    "colors": [
+      {
+        "name": "컬러믹스",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120019",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.컬러팝스트라이프티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-067.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120020",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.클로버골덴팬츠",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-068.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120021",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.투톤나그랑상하세트",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-069.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120022",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.트윙클치렝스",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-070.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120023",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.팔레트티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-071.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120024",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.팝콘후드집업",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-072.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120025",
+    "brand": "아이언더스탠드",
+    "name": "아이언더스탠드.하트자수팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-073.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
   }
 ]

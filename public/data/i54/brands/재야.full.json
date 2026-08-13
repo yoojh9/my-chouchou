@@ -2633,5 +2633,114 @@
       }
     ],
     "mfg_date": "2026-08-03"
+  },
+  {
+    "id": "2608120028",
+    "brand": "재야",
+    "name": "재야.베푸맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-076.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-076.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120030",
+    "brand": "재야",
+    "name": "재야.제니세트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-078.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-078.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3~6)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6~12)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120032",
+    "brand": "재야",
+    "name": "재야.테리점프수트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-080.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-080.jpg"
+    ],
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
   }
 ]
