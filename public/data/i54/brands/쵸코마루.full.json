@@ -48,44 +48,6 @@
     "mfg_date": "2026-05-14"
   },
   {
-    "id": "2605001484",
-    "brand": "쵸코마루",
-    "name": "쵸코마루.뽀앤똑딱핀3판세트",
-    "price_sale": 9600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1778609972/1_3_8191778609972.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/3C1778609972/1_3_8191778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/2_3_8661778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/3_3_3351778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/4_3_8111778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/5_3_8781778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/6_3_8121778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/7_3_2851778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/8_3_6101778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/9_3_8291778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/10_3_1731778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/11_3_9461778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1778609972/12_3_9871778609972.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(핀대3cm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-13"
-  },
-  {
     "id": "2605002035",
     "brand": "쵸코마루",
     "name": "쵸코마루.따뜻한하루12개세트",
@@ -113,34 +75,6 @@
       }
     ],
     "mfg_date": "2026-05-14"
-  },
-  {
-    "id": "2605002048",
-    "brand": "쵸코마루",
-    "name": "쵸코마루.따뜻한봄날12개세트",
-    "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1778609972/1_2_2491778609972.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/2C1778609972/1_2_2491778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1778609972/2_2_3151778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1778609972/3_2_6101778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1778609972/4_2_921778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1778609972/5_2_9231778609972.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1778609972/6_2_1661778609972.jpg"
-    ],
-    "colors": [
-      {
-        "name": "컬러랜덤",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(핀대4cm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-13"
   },
   {
     "id": "2606210120",
@@ -516,5 +450,696 @@
       }
     ],
     "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "2608130279",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.가든스토리3컬러세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-146.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-146.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130280",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.가을쁘띠소피아10개세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-147.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-147.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130281",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.가을소피아핀10개세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-148.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-148.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130282",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.기획노블트위드리본핀5컬러3판세트",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-149.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-149.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130283",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.기획베럴트위드똑딱핀5컬러3판세트",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-150.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-150.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130284",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.기획통통도트리본6컬러3판세트",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-151.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-151.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130285",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.꽃송이니트핀3판세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-152.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-152.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크세트",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130286",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.나니헤어핀6컬러세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-153.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-153.jpg"
+    ],
+    "colors": [
+      {
+        "name": "6세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130287",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.다이안헤어링10개세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-154.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-154.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130288",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.더블하트방울10개세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-155.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-155.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130289",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.동물의숲3판세트",
+    "price_sale": 12000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-156.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-156.jpg"
+    ],
+    "colors": [
+      {
+        "name": "토끼",
+        "add_price": 0
+      },
+      {
+        "name": "곰",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130290",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.러블리스완집게핀5컬러세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-157.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-157.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130291",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.뭉게뭉게똑딱핀1판세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-158.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-158.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130292",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.미니인판타방울10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-159.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-159.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130293",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.바이츠똑딱핀10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-160.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-160.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130294",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.비바체3판세트",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-161.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-161.jpg"
+    ],
+    "colors": [
+      {
+        "name": "랜덤3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130295",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.빅리본쿠션집게핀5컬러세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-162.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-162.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130296",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.센티멘탈3판세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-163.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-163.jpg"
+    ],
+    "colors": [
+      {
+        "name": "랜덤3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130297",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.솔리드린넨헤어밴드5컬러3세트",
+    "price_sale": 12000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-164.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-164.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130298",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.스티치퐁핀10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-165.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-165.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130299",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.시크레더리본똑딱핀3판세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-166.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-166.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130300",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.아나이스핀10개세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-167.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-167.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130301",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.알린레이스똑딱핀10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-168.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-168.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130302",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.엘가리본핀10개세트",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-169.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-169.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130303",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.오블린똑딱핀3컬러세트",
+    "price_sale": 7200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-170.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-170.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3컬러세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130304",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.크리미미니핀2판세트",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-171.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-171.jpg"
+    ],
+    "colors": [
+      {
+        "name": "2판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130305",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.펄와이어리본핀3판세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-172.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-172.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "라일락",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130306",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.하리보젤리방울10개세트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-173.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-173.jpg"
+    ],
+    "colors": [
+      {
+        "name": "1판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130307",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.하이래빗3세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-174.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-174.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
   }
 ]

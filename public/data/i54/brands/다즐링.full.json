@@ -860,5 +860,83 @@
       }
     ],
     "mfg_date": "2026-08-10"
+  },
+  {
+    "id": "2608130422",
+    "brand": "다즐링",
+    "name": "다즐링.나무한복세트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-289.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-289.jpg"
+    ],
+    "colors": [
+      {
+        "name": "초코",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608130423",
+    "brand": "다즐링",
+    "name": "다즐링.장미한복세트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-290.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0814/mo0814-290.jpg"
+    ],
+    "colors": [
+      {
+        "name": "빨강",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-14"
   }
 ]
