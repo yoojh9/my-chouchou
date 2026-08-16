@@ -2,12 +2,12 @@
 set -e
 cd "$(dirname "$0")"
 
-# python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513&sort_method=5#Product_ListMenu" --end-page 33 --since 2026-08-13
+# python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513&sort_method=5#Product_ListMenu" --end-page 33 --since 2026-08-14
 
 echo
 echo "====================="
 echo
-python3 convert_excel.py data/page_crawl_2026-08-13.xlsx --clean-thumbnails --duplicate never
+python3 convert_excel.py data/page_crawl_2026-08-15.xlsx --clean-thumbnails --duplicate never
 echo
 echo "====================="
 echo
@@ -15,7 +15,7 @@ echo
 echo
 echo "====================="
 echo
-python3 convert_excel.py --purge 2026-05-13
+python3 convert_excel.py --purge 2026-05-15
 echo
 echo "====================="
 echo
