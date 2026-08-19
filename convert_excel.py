@@ -108,12 +108,20 @@ def parse_options(opt_name, opt_val, opt_price):
 
 
 def strip_kvdl(url: str) -> str:
-    """kidsvillage 이미지 URL의 ?kvdl=xls_... 트래픽 태그 쿼리 제거.
+    """kidsvillage 이미지 URL의 kvdl=xls_... 트래픽 태그 쿼리 파라미터 제거.
 
     이 토큰은 접근 제어가 아닌 계정 트래픽 태그로, 제거해도 이미지는 정상 로드된다.
     붙은 채로 두면 뷰어에서 이미지가 뜰 때마다 계정 트래픽으로 집계된다.
+
+    쿼리 파라미터 단위로 제거하므로 kvdl이 첫 번째든 중간이든 처리되고,
+    경로에 우연히 'kvdl=' 문자열이 있거나 'mykvdl'·'kvdl2' 처럼 이름이 비슷한
+    다른 파라미터는 건드리지 않는다.
     """
-    return re.sub(r"\?kvdl=[^&\s\"']*", "", url) if url else url
+    if not url or "?" not in url:
+        return url
+    base, query = url.split("?", 1)
+    kept = [p for p in query.split("&") if p and not p.startswith("kvdl=")]
+    return base + "?" + "&".join(kept) if kept else base
 
 
 def extract_detail_images(html) -> list:
