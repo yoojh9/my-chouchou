@@ -1,3258 +1,1898 @@
 [
-  {
-    "id": "2605000034",
-    "brand": "나비",
-    "name": "나비.사자팬츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1779127800/1_9_4101779127800.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000185",
-    "brand": "나비",
-    "name": "나비.사자나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1779127798/1_8_3771779127798.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000349",
-    "brand": "나비",
-    "name": "나비.브릿즈티셔츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1779127796/1_7_241779127796.jpg",
-    "colors": [
-      {
-        "name": "소라",
-        "add_price": 0
-      },
-      {
-        "name": "머스타드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000536",
-    "brand": "나비",
-    "name": "나비.문원피스",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1779127796/1_6_7051779127796.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 5000
-      },
-      {
-        "name": "JS",
-        "add_price": 5000
-      },
-      {
-        "name": "JM",
-        "add_price": 5000
-      },
-      {
-        "name": "JL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000754",
-    "brand": "나비",
-    "name": "나비.몬스터티셔츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1779127794/1_5_2161779127794.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605001038",
-    "brand": "나비",
-    "name": "나비.모먼트티셔츠",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1779127793/1_4_9411779127793.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605001444",
-    "brand": "나비",
-    "name": "나비.로나팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1779127792/1_3_7711779127792.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002005",
-    "brand": "나비",
-    "name": "나비.도트팬츠",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1779127791/1_2_6911779127791.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002264",
-    "brand": "나비",
-    "name": "나비.하트나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/27C1779127825/1_27_6031779127825.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "연그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002314",
-    "brand": "나비",
-    "name": "나비.피플팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/26C1779127824/1_26_5301779127824.jpg",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002369",
-    "brand": "나비",
-    "name": "나비.피플나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/25C1779127822/1_25_3971779127822.jpg",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002426",
-    "brand": "나비",
-    "name": "나비.타미팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/24C1779127821/1_24_8011779127821.jpg",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      },
-      {
-        "name": "딥그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002484",
-    "brand": "나비",
-    "name": "나비.컬트팬츠",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1779127819/1_23_6321779127819.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002547",
-    "brand": "나비",
-    "name": "나비.컬트티셔츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1779127818/1_22_3221779127818.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002613",
-    "brand": "나비",
-    "name": "나비.칼라나시",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1779127816/1_21_101779127816.jpg",
-    "colors": [
-      {
-        "name": "차콜",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "딥그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002684",
-    "brand": "나비",
-    "name": "나비.카라꽃스커트",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1779127815/1_20_2511779127815.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002758",
-    "brand": "나비",
-    "name": "나비.카라꽃나시",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1779127814/1_19_1241779127814.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002839",
-    "brand": "나비",
-    "name": "나비.치크4부데님팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1779127813/1_18_9281779127813.jpg",
-    "colors": [
-      {
-        "name": "진청",
-        "add_price": 0
-      },
-      {
-        "name": "흑청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002923",
-    "brand": "나비",
-    "name": "나비.윙스팬츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1779127811/1_17_3021779127811.jpg",
-    "colors": [
-      {
-        "name": "브릭",
-        "add_price": 0
-      },
-      {
-        "name": "오트밀",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003014",
-    "brand": "나비",
-    "name": "나비.윙스나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1779127809/1_16_5801779127809.jpg",
-    "colors": [
-      {
-        "name": "브릭",
-        "add_price": 0
-      },
-      {
-        "name": "오트밀",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003110",
-    "brand": "나비",
-    "name": "나비.아쿠아팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1779127808/1_15_3021779127808.jpg",
-    "colors": [
-      {
-        "name": "공군",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003213",
-    "brand": "나비",
-    "name": "나비.아쿠아티셔츠",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1779127807/1_14_5111779127807.jpg",
-    "colors": [
-      {
-        "name": "공군",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003318",
-    "brand": "나비",
-    "name": "나비.아론나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1779127805/1_13_7951779127805.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003429",
-    "brand": "나비",
-    "name": "나비.스윗원피스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1779127804/1_12_4841779127804.jpg",
-    "colors": [
-      {
-        "name": "라임",
-        "add_price": 0
-      },
-      {
-        "name": "민트그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003546",
-    "brand": "나비",
-    "name": "나비.스마일팬츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1779127803/1_11_6631779127803.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605003669",
-    "brand": "나비",
-    "name": "나비.스마일티셔츠",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1779127801/1_10_1901779127801.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2608040461",
-    "brand": "나비",
-    "name": "나비.골지레깅스",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-167.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 2000
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040462",
-    "brand": "나비",
-    "name": "나비.마일드폴라티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-168.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "연핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040463",
-    "brand": "나비",
-    "name": "나비.드림조거팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-169.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040464",
-    "brand": "나비",
-    "name": "나비.드림맨투맨",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-170.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040465",
-    "brand": "나비",
-    "name": "나비.드림후드집업",
-    "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-171.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040466",
-    "brand": "나비",
-    "name": "나비.루틴롱티셔츠",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-172.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040467",
-    "brand": "나비",
-    "name": "나비.스톤팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-173.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "공군",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040468",
-    "brand": "나비",
-    "name": "나비.스톤후드조끼",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-174.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "공군",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040469",
-    "brand": "나비",
-    "name": "나비.이지원피스",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-175.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 4000
-      },
-      {
-        "name": "JS",
-        "add_price": 4000
-      },
-      {
-        "name": "JM",
-        "add_price": 4000
-      },
-      {
-        "name": "JL",
-        "add_price": 4000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040470",
-    "brand": "나비",
-    "name": "나비.로뎀팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-176.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040471",
-    "brand": "나비",
-    "name": "나비.돌리팬츠",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-177.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040472",
-    "brand": "나비",
-    "name": "나비.돌리스커트",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-178.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040473",
-    "brand": "나비",
-    "name": "나비.돌리크롭맨투맨",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-179.jpg",
-    "colors": [
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040474",
-    "brand": "나비",
-    "name": "나비.데이티셔츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-180.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "오트밀",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040475",
-    "brand": "나비",
-    "name": "나비.포인트맨투맨",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-181.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "라임",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040476",
-    "brand": "나비",
-    "name": "나비.마가렛원피스",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-182.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 5000
-      },
-      {
-        "name": "JS",
-        "add_price": 5000
-      },
-      {
-        "name": "JM",
-        "add_price": 5000
-      },
-      {
-        "name": "JL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040477",
-    "brand": "나비",
-    "name": "나비.테리팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-183.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040478",
-    "brand": "나비",
-    "name": "나비.테리후드티셔츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-184.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040479",
-    "brand": "나비",
-    "name": "나비.클래식티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-185.jpg",
-    "colors": [
-      {
-        "name": "먹색",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040480",
-    "brand": "나비",
-    "name": "나비.체스후드점퍼",
-    "price_sale": 62400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-186.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 4000
-      },
-      {
-        "name": "JS",
-        "add_price": 4000
-      },
-      {
-        "name": "JM",
-        "add_price": 4000
-      },
-      {
-        "name": "JL",
-        "add_price": 4000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040481",
-    "brand": "나비",
-    "name": "나비.플라잉팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-187.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040482",
-    "brand": "나비",
-    "name": "나비.플라잉맨투맨",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-188.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040483",
-    "brand": "나비",
-    "name": "나비.에디배기팬츠",
-    "price_sale": 36800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-189.jpg",
-    "colors": [
-      {
-        "name": "중청",
-        "add_price": 0
-      },
-      {
-        "name": "흑청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040484",
-    "brand": "나비",
-    "name": "나비.플레이캡모자",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-190.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040485",
-    "brand": "나비",
-    "name": "나비.들꽃팬츠",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-191.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040486",
-    "brand": "나비",
-    "name": "나비.들꽃후드집업",
-    "price_sale": 44800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-192.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040487",
-    "brand": "나비",
-    "name": "나비.포스트나그랑티셔츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-193.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040488",
-    "brand": "나비",
-    "name": "나비.모닝팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-194.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040489",
-    "brand": "나비",
-    "name": "나비.모닝반집업티셔츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-195.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "연그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040490",
-    "brand": "나비",
-    "name": "나비.위드와이드팬츠",
-    "price_sale": 33600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-196.jpg",
-    "colors": [
-      {
-        "name": "진청",
-        "add_price": 0
-      },
-      {
-        "name": "흑청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040491",
-    "brand": "나비",
-    "name": "나비.버드캡모자",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-197.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040492",
-    "brand": "나비",
-    "name": "나비.안나배색팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-198.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040493",
-    "brand": "나비",
-    "name": "나비.안나배색점퍼",
-    "price_sale": 56000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-199.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 4000
-      },
-      {
-        "name": "JS",
-        "add_price": 4000
-      },
-      {
-        "name": "JM",
-        "add_price": 4000
-      },
-      {
-        "name": "JL",
-        "add_price": 4000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040494",
-    "brand": "나비",
-    "name": "나비.바이브조거팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-200.jpg",
-    "colors": [
-      {
-        "name": "먹색",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040495",
-    "brand": "나비",
-    "name": "나비.바이브맨투맨",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-201.jpg",
-    "colors": [
-      {
-        "name": "먹색",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040496",
-    "brand": "나비",
-    "name": "나비.요트셔츠",
-    "price_sale": 33600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-202.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040497",
-    "brand": "나비",
-    "name": "나비.퍼피티셔츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-203.jpg",
-    "colors": [
-      {
-        "name": "올리브",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  }
+    {
+        "id": "2608040461",
+        "brand": "나비",
+        "name": "나비.골지레깅스",
+        "price_sale": 8000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-167.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 2000
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            },
+            {
+                "name": "JL",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040462",
+        "brand": "나비",
+        "name": "나비.마일드폴라티",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-168.jpg",
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "연핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040463",
+        "brand": "나비",
+        "name": "나비.드림조거팬츠",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-169.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040464",
+        "brand": "나비",
+        "name": "나비.드림맨투맨",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-170.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040465",
+        "brand": "나비",
+        "name": "나비.드림후드집업",
+        "price_sale": 41600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-171.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040466",
+        "brand": "나비",
+        "name": "나비.루틴롱티셔츠",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-172.jpg",
+        "colors": [
+            {
+                "name": "퍼플",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040467",
+        "brand": "나비",
+        "name": "나비.스톤팬츠",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-173.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "공군",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040468",
+        "brand": "나비",
+        "name": "나비.스톤후드조끼",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-174.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "공군",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040469",
+        "brand": "나비",
+        "name": "나비.이지원피스",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-175.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 4000
+            },
+            {
+                "name": "JS",
+                "add_price": 4000
+            },
+            {
+                "name": "JM",
+                "add_price": 4000
+            },
+            {
+                "name": "JL",
+                "add_price": 4000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040470",
+        "brand": "나비",
+        "name": "나비.로뎀팬츠",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-176.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040471",
+        "brand": "나비",
+        "name": "나비.돌리팬츠",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-177.jpg",
+        "colors": [
+            {
+                "name": "퍼플",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040472",
+        "brand": "나비",
+        "name": "나비.돌리스커트",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-178.jpg",
+        "colors": [
+            {
+                "name": "퍼플",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040473",
+        "brand": "나비",
+        "name": "나비.돌리크롭맨투맨",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-179.jpg",
+        "colors": [
+            {
+                "name": "퍼플",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040474",
+        "brand": "나비",
+        "name": "나비.데이티셔츠",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-180.jpg",
+        "colors": [
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "오트밀",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040475",
+        "brand": "나비",
+        "name": "나비.포인트맨투맨",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-181.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "라임",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040476",
+        "brand": "나비",
+        "name": "나비.마가렛원피스",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-182.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 5000
+            },
+            {
+                "name": "JS",
+                "add_price": 5000
+            },
+            {
+                "name": "JM",
+                "add_price": 5000
+            },
+            {
+                "name": "JL",
+                "add_price": 5000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040477",
+        "brand": "나비",
+        "name": "나비.테리팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-183.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040478",
+        "brand": "나비",
+        "name": "나비.테리후드티셔츠",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-184.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040479",
+        "brand": "나비",
+        "name": "나비.클래식티셔츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-185.jpg",
+        "colors": [
+            {
+                "name": "먹색",
+                "add_price": 0
+            },
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040480",
+        "brand": "나비",
+        "name": "나비.체스후드점퍼",
+        "price_sale": 62400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-186.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 4000
+            },
+            {
+                "name": "JS",
+                "add_price": 4000
+            },
+            {
+                "name": "JM",
+                "add_price": 4000
+            },
+            {
+                "name": "JL",
+                "add_price": 4000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040481",
+        "brand": "나비",
+        "name": "나비.플라잉팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-187.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040482",
+        "brand": "나비",
+        "name": "나비.플라잉맨투맨",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-188.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040483",
+        "brand": "나비",
+        "name": "나비.에디배기팬츠",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-189.jpg",
+        "colors": [
+            {
+                "name": "중청",
+                "add_price": 0
+            },
+            {
+                "name": "흑청",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040484",
+        "brand": "나비",
+        "name": "나비.플레이캡모자",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-190.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040485",
+        "brand": "나비",
+        "name": "나비.들꽃팬츠",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-191.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040486",
+        "brand": "나비",
+        "name": "나비.들꽃후드집업",
+        "price_sale": 44800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-192.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040487",
+        "brand": "나비",
+        "name": "나비.포스트나그랑티셔츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-193.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040488",
+        "brand": "나비",
+        "name": "나비.모닝팬츠",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-194.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040489",
+        "brand": "나비",
+        "name": "나비.모닝반집업티셔츠",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-195.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "연그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040490",
+        "brand": "나비",
+        "name": "나비.위드와이드팬츠",
+        "price_sale": 33600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-196.jpg",
+        "colors": [
+            {
+                "name": "진청",
+                "add_price": 0
+            },
+            {
+                "name": "흑청",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040491",
+        "brand": "나비",
+        "name": "나비.버드캡모자",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-197.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040492",
+        "brand": "나비",
+        "name": "나비.안나배색팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-198.jpg",
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040493",
+        "brand": "나비",
+        "name": "나비.안나배색점퍼",
+        "price_sale": 56000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-199.jpg",
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 4000
+            },
+            {
+                "name": "JS",
+                "add_price": 4000
+            },
+            {
+                "name": "JM",
+                "add_price": 4000
+            },
+            {
+                "name": "JL",
+                "add_price": 4000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040494",
+        "brand": "나비",
+        "name": "나비.바이브조거팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-200.jpg",
+        "colors": [
+            {
+                "name": "먹색",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040495",
+        "brand": "나비",
+        "name": "나비.바이브맨투맨",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-201.jpg",
+        "colors": [
+            {
+                "name": "먹색",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040496",
+        "brand": "나비",
+        "name": "나비.요트셔츠",
+        "price_sale": 33600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-202.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040497",
+        "brand": "나비",
+        "name": "나비.퍼피티셔츠",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-203.jpg",
+        "colors": [
+            {
+                "name": "올리브",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            },
+            {
+                "name": "JL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    }
 ]

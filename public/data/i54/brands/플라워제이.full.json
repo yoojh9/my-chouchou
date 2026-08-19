@@ -1,1057 +1,396 @@
 [
-  {
-    "id": "2605310607",
-    "brand": "플라워제이",
-    "name": "플라워제이.웨이브셋업",
-    "price_sale": 41600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780115947/1_6_2611780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/6C1780115947/1_6_2611780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1780115947/2_6_7251780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1780115947/3_6_5941780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1780115947/4_6_4441780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1780115947/5_6_301780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1780115947/6_6_2901780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605000192",
-    "brand": "플라워제이",
-    "name": "플라워제이.포포셋업",
-    "price_sale": 36800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780115947/1_8_7961780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/8C1780115947/1_8_7961780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/2_8_4391780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/3_8_9151780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/4_8_7771780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/5_8_621780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/6_8_6171780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/7_8_8141780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1780115947/8_8_1171780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605000387",
-    "brand": "플라워제이",
-    "name": "플라워제이.채리팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780115947/1_7_681780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/7C1780115947/1_7_681780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1780115947/2_7_4101780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1780115947/3_7_6611780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1780115947/4_7_5941780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "체리",
-        "add_price": 0
-      },
-      {
-        "name": "레몬",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605000858",
-    "brand": "플라워제이",
-    "name": "플라워제이.메이셋업",
-    "price_sale": 41600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780115947/1_5_5241780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/5C1780115947/1_5_5241780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1780115947/2_5_2801780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1780115947/3_5_3071780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1780115947/4_5_6921780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1780115947/5_5_7201780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1780115947/6_5_2661780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605001177",
-    "brand": "플라워제이",
-    "name": "플라워제이.데니셋업",
-    "price_sale": 44800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780115947/1_4_2631780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/4C1780115947/1_4_2631780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1780115947/2_4_461780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1780115947/3_4_3821780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "데님",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605001623",
-    "brand": "플라워제이",
-    "name": "플라워제이.니카셋업",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780115947/1_3_9801780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/3C1780115947/1_3_9801780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1780115947/2_3_6231780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1780115947/3_3_7011780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1780115947/4_3_371780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605002258",
-    "brand": "플라워제이",
-    "name": "플라워제이.꽃밭셋업",
-    "price_sale": 44800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780115947/1_2_1201780115947.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/2C1780115947/1_2_1201780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1780115947/2_2_2201780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1780115947/3_2_5251780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1780115947/4_2_6361780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1780115947/5_2_1341780115947.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1780115947/6_2_8451780115947.jpg"
-    ],
-    "colors": [
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "오렌지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2606210051",
-    "brand": "플라워제이",
-    "name": "플라워제이.미호팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1781937710/1_9_9361781937710.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/9C1781937710/1_9_9361781937710.jpg",
-      "https://img2.kidsvillage.co.kr/9C1781937710/2_9_8251781937710.jpg",
-      "https://img2.kidsvillage.co.kr/9C1781937710/3_9_401781937710.jpg",
-      "https://img2.kidsvillage.co.kr/9C1781937710/4_9_2031781937710.jpg",
-      "https://img2.kidsvillage.co.kr/9C1781937710/5_9_9071781937710.jpg",
-      "https://img2.kidsvillage.co.kr/9C1781937710/6_9_5221781937711.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210071",
-    "brand": "플라워제이",
-    "name": "플라워제이.뭉치나시",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1781937710/1_8_2441781937710.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/8C1781937710/1_8_2441781937710.jpg",
-      "https://img2.kidsvillage.co.kr/8C1781937710/2_8_5101781937710.jpg",
-      "https://img2.kidsvillage.co.kr/8C1781937710/3_8_8291781937710.jpg",
-      "https://img2.kidsvillage.co.kr/8C1781937710/4_8_6891781937710.jpg",
-      "https://img2.kidsvillage.co.kr/8C1781937710/5_8_4991781937710.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210092",
-    "brand": "플라워제이",
-    "name": "플라워제이.마일로셋업",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1781937710/1_7_2141781937710.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/7C1781937710/1_7_2141781937710.jpg",
-      "https://img2.kidsvillage.co.kr/7C1781937710/2_7_5471781937710.jpg",
-      "https://img2.kidsvillage.co.kr/7C1781937710/3_7_8801781937710.jpg",
-      "https://img2.kidsvillage.co.kr/7C1781937710/4_7_3591781937710.jpg",
-      "https://img2.kidsvillage.co.kr/7C1781937710/5_7_5361781937710.jpg",
-      "https://img2.kidsvillage.co.kr/7C1781937710/6_7_8101781937710.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210113",
-    "brand": "플라워제이",
-    "name": "플라워제이.마로셋업",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1781937709/1_6_711781937709.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/6C1781937709/1_6_711781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/2_6_7581781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/3_6_2361781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/4_6_8891781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/5_6_3061781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/6_6_8041781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/7_6_5771781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/8_6_2681781937709.jpg",
-      "https://img2.kidsvillage.co.kr/6C1781937709/9_6_3761781937709.jpg"
-    ],
-    "colors": [
-      {
-        "name": "연베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210135",
-    "brand": "플라워제이",
-    "name": "플라워제이.리본스퀘어티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781937709/1_5_2671781937709.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/5C1781937709/1_5_2671781937709.jpg",
-      "https://img2.kidsvillage.co.kr/5C1781937709/2_5_811781937709.jpg",
-      "https://img2.kidsvillage.co.kr/5C1781937709/3_5_4821781937709.jpg",
-      "https://img2.kidsvillage.co.kr/5C1781937709/4_5_6711781937709.jpg"
-    ],
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210157",
-    "brand": "플라워제이",
-    "name": "플라워제이.로미치마바지",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781937709/1_4_6021781937709.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/4C1781937709/1_4_6021781937709.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781937709/2_4_2461781937709.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781937709/3_4_3261781937709.jpg"
-    ],
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210179",
-    "brand": "플라워제이",
-    "name": "플라워제이.레미티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781937708/1_3_1651781937708.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/3C1781937708/1_3_1651781937708.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781937708/2_3_7081781937708.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781937708/3_3_6991781937708.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781937708/4_3_3041781937709.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781937708/5_3_4451781937709.jpg"
-    ],
-    "colors": [
-      {
-        "name": "라벤더",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210211",
-    "brand": "플라워제이",
-    "name": "플라워제이.노아치마바지",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781937708/1_2_8751781937708.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1781937708/1_2_8751781937708.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781937708/2_2_1441781937708.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781937708/3_2_9881781937708.jpg"
-    ],
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210260",
-    "brand": "플라워제이",
-    "name": "플라워제이.치크미니원피스",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1781937712/1_14_7681781937712.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/14C1781937712/1_14_7681781937712.jpg",
-      "https://img2.kidsvillage.co.kr/14C1781937712/2_14_5691781937712.jpg",
-      "https://img2.kidsvillage.co.kr/14C1781937712/3_14_8501781937712.jpg",
-      "https://img2.kidsvillage.co.kr/14C1781937712/4_14_5941781937712.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210265",
-    "brand": "플라워제이",
-    "name": "플라워제이.치치티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1781937712/1_13_7581781937712.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/13C1781937712/1_13_7581781937712.jpg",
-      "https://img2.kidsvillage.co.kr/13C1781937712/2_13_3071781937712.jpg",
-      "https://img2.kidsvillage.co.kr/13C1781937712/3_13_2241781937712.jpg",
-      "https://img2.kidsvillage.co.kr/13C1781937712/4_13_2691781937712.jpg",
-      "https://img2.kidsvillage.co.kr/13C1781937712/5_13_1371781937712.jpg"
-    ],
-    "colors": [
-      {
-        "name": "버터",
-        "add_price": 0
-      },
-      {
-        "name": "라벤더",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210270",
-    "brand": "플라워제이",
-    "name": "플라워제이.쟈스민셋업",
-    "price_sale": 40000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1781937711/1_12_8951781937711.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/12C1781937711/1_12_8951781937711.jpg",
-      "https://img2.kidsvillage.co.kr/12C1781937711/2_12_671781937711.jpg",
-      "https://img2.kidsvillage.co.kr/12C1781937711/3_12_4231781937711.jpg",
-      "https://img2.kidsvillage.co.kr/12C1781937711/4_12_4431781937711.jpg",
-      "https://img2.kidsvillage.co.kr/12C1781937711/5_12_9471781937712.jpg",
-      "https://img2.kidsvillage.co.kr/12C1781937711/6_12_7831781937712.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210275",
-    "brand": "플라워제이",
-    "name": "플라워제이.잔꽃러플티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1781937711/1_11_4841781937711.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/11C1781937711/1_11_4841781937711.jpg",
-      "https://img2.kidsvillage.co.kr/11C1781937711/2_11_9401781937711.jpg",
-      "https://img2.kidsvillage.co.kr/11C1781937711/3_11_5191781937711.jpg",
-      "https://img2.kidsvillage.co.kr/11C1781937711/4_11_611781937711.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2606210280",
-    "brand": "플라워제이",
-    "name": "플라워제이.봉봉티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1781937711/1_10_4771781937711.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/10C1781937711/1_10_4771781937711.jpg",
-      "https://img2.kidsvillage.co.kr/10C1781937711/2_10_5941781937711.jpg",
-      "https://img2.kidsvillage.co.kr/10C1781937711/3_10_6341781937711.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "화이트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 1000
-      }
-    ],
-    "mfg_date": "2026-06-20"
-  },
-  {
-    "id": "2607270272",
-    "brand": "플라워제이",
-    "name": "플라워제이.니코블라우스",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-273.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0727/mo0727-273.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-27"
-  }
+    {
+        "id": "2605310607",
+        "brand": "플라워제이",
+        "name": "플라워제이.웨이브셋업",
+        "price_sale": 41600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780115947/1_6_2611780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/6C1780115947/1_6_2611780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1780115947/2_6_7251780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1780115947/3_6_5941780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1780115947/4_6_4441780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1780115947/5_6_301780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1780115947/6_6_2901780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "민트",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605000192",
+        "brand": "플라워제이",
+        "name": "플라워제이.포포셋업",
+        "price_sale": 36800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780115947/1_8_7961780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/8C1780115947/1_8_7961780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/2_8_4391780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/3_8_9151780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/4_8_7771780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/5_8_621780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/6_8_6171780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/7_8_8141780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1780115947/8_8_1171780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605000387",
+        "brand": "플라워제이",
+        "name": "플라워제이.채리팬츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780115947/1_7_681780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/7C1780115947/1_7_681780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1780115947/2_7_4101780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1780115947/3_7_6611780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1780115947/4_7_5941780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "체리",
+                "add_price": 0
+            },
+            {
+                "name": "레몬",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 1000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605000858",
+        "brand": "플라워제이",
+        "name": "플라워제이.메이셋업",
+        "price_sale": 41600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780115947/1_5_5241780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/5C1780115947/1_5_5241780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1780115947/2_5_2801780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1780115947/3_5_3071780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1780115947/4_5_6921780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1780115947/5_5_7201780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1780115947/6_5_2661780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605001177",
+        "brand": "플라워제이",
+        "name": "플라워제이.데니셋업",
+        "price_sale": 44800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780115947/1_4_2631780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/4C1780115947/1_4_2631780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1780115947/2_4_461780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1780115947/3_4_3821780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "데님",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605001623",
+        "brand": "플라워제이",
+        "name": "플라워제이.니카셋업",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780115947/1_3_9801780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/3C1780115947/1_3_9801780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1780115947/2_3_6231780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1780115947/3_3_7011780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1780115947/4_3_371780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "플라워",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605002258",
+        "brand": "플라워제이",
+        "name": "플라워제이.꽃밭셋업",
+        "price_sale": 44800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780115947/1_2_1201780115947.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/2C1780115947/1_2_1201780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1780115947/2_2_2201780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1780115947/3_2_5251780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1780115947/4_2_6361780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1780115947/5_2_1341780115947.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1780115947/6_2_8451780115947.jpg"
+        ],
+        "colors": [
+            {
+                "name": "민트",
+                "add_price": 0
+            },
+            {
+                "name": "오렌지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2607270272",
+        "brand": "플라워제이",
+        "name": "플라워제이.니코블라우스",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-273.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202607/mo0727/mo0727-273.jpg"
+        ],
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-27"
+    }
 ]

@@ -1,998 +1,770 @@
 [
-  {
-    "id": "2605000001",
-    "brand": "오조드파파",
-    "name": "오조드파파.하니블라우스(M)",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1779792224/1_9_3831779792224.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000150",
-    "brand": "오조드파파",
-    "name": "오조드파파.이미지셔츠(M)",
-    "price_sale": 57600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779792224/1_8_2091779792224.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000310",
-    "brand": "오조드파파",
-    "name": "오조드파파.베리망스커트(M)",
-    "price_sale": 38400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779792224/1_7_1311779792224.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000494",
-    "brand": "오조드파파",
-    "name": "오조드파파.망고원피스(M)",
-    "price_sale": 72000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779792224/1_6_7721779792224.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "도트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000710",
-    "brand": "오조드파파",
-    "name": "오조드파파.리조트팬츠(M)",
-    "price_sale": 38400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779792224/1_5_4741779792224.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000992",
-    "brand": "오조드파파",
-    "name": "오조드파파.로렌지스커트(M)",
-    "price_sale": 44800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779792224/1_4_3361779792224.jpg",
-    "colors": [
-      {
-        "name": "소라",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001397",
-    "brand": "오조드파파",
-    "name": "오조드파파.딸기셔츠(M)",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779792224/1_3_4791779792224.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "카멜",
-        "add_price": 0
-      },
-      {
-        "name": "도트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001956",
-    "brand": "오조드파파",
-    "name": "오조드파파.깃털셔츠(M)",
-    "price_sale": 51200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779792224/1_2_4881779792224.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "코랄",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605003636",
-    "brand": "오조드파파",
-    "name": "오조드파파.훌리카팬츠(M)",
-    "price_sale": 36800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1779792224/1_10_6401779792224.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2606090052",
-    "brand": "오조드파파",
-    "name": "오조드파파.윤슬원피스",
-    "price_sale": 78400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986208/1_4_4861780986208.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "스카이블루",
-        "add_price": 0
-      },
-      {
-        "name": "라임",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-09"
-  },
-  {
-    "id": "2606090068",
-    "brand": "오조드파파",
-    "name": "오조드파파.소르베원피스",
-    "price_sale": 70400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986208/1_3_5881780986208.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-09"
-  },
-  {
-    "id": "2606090086",
-    "brand": "오조드파파",
-    "name": "오조드파파.리본트임원피스",
-    "price_sale": 75200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986208/1_2_9671780986208.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-09"
-  },
-  {
-    "id": "2606120012",
-    "brand": "오조드파파",
-    "name": "오조드파파.볼팔찌(오로라)",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781244739/1_4_5321781244739.jpg",
-    "colors": [
-      {
-        "name": "오로라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-12"
-  },
-  {
-    "id": "2606120014",
-    "brand": "오조드파파",
-    "name": "오조드파파.볼팔찌(실버)",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781244739/1_3_201781244739.jpg",
-    "colors": [
-      {
-        "name": "실버",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-12"
-  },
-  {
-    "id": "2606120016",
-    "brand": "오조드파파",
-    "name": "오조드파파.골드링뱅글",
-    "price_sale": 54400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781244739/1_2_9981781244739.jpg",
-    "colors": [
-      {
-        "name": "골드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-12"
-  },
-  {
-    "id": "2606270225",
-    "brand": "오조드파파",
-    "name": "오조드파파.마인티(M)",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1782549688/1_2_1051782549688.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "백메란지",
-        "add_price": 0
-      },
-      {
-        "name": "라임",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-27"
-  },
-  {
-    "id": "2606290079",
-    "brand": "오조드파파",
-    "name": "오조드파파.모로실스커트(M)",
-    "price_sale": 52800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1782696789/1_4_9721782696789.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-29"
-  },
-  {
-    "id": "2606290080",
-    "brand": "오조드파파",
-    "name": "오조드파파.도엔셔츠(M)",
-    "price_sale": 48000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1782696788/1_3_8821782696788.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-29"
-  },
-  {
-    "id": "2606290081",
-    "brand": "오조드파파",
-    "name": "오조드파파.쥬비원피스(M)",
-    "price_sale": 88000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1782734568/1_2_4751782734568.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
-    "colors": [
-      {
-        "name": "스트라이프",
-        "add_price": 0
-      },
-      {
-        "name": "라이트옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-29"
-  },
-  {
-    "id": "2606290082",
-    "brand": "오조드파파",
-    "name": "오조드파파.누메로스커트(M)",
-    "price_sale": 36800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1782696787/1_2_8541782696787.jpg?kvdl=xls_ykwon89_1782874395_3910649b",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "빈티지블루",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-29"
-  },
-  {
-    "id": "2607200002",
-    "brand": "오조드파파",
-    "name": "오조드파파.볼팔찌",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-002.jpg",
-    "colors": [
-      {
-        "name": "실버",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200003",
-    "brand": "오조드파파",
-    "name": "오조드파파.볼팔찌",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-003.jpg",
-    "colors": [
-      {
-        "name": "오로라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200004",
-    "brand": "오조드파파",
-    "name": "오조드파파.마인티mom",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-004.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "백메란지",
-        "add_price": 0
-      },
-      {
-        "name": "라임",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200005",
-    "brand": "오조드파파",
-    "name": "오조드파파.모로실스커트mom",
-    "price_sale": 52800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-005.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200006",
-    "brand": "오조드파파",
-    "name": "오조드파파.도엔셔츠mom",
-    "price_sale": 48000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-006.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200007",
-    "brand": "오조드파파",
-    "name": "오조드파파.누메로스커트mom",
-    "price_sale": 36800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-007.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "빈티지블루",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200008",
-    "brand": "오조드파파",
-    "name": "오조드파파.쥬비원피스mom",
-    "price_sale": 88000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-008.jpg",
-    "colors": [
-      {
-        "name": "스트라이프",
-        "add_price": 0
-      },
-      {
-        "name": "라이트옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "미스티블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200009",
-    "brand": "오조드파파",
-    "name": "오조드파파.로렐라이원피스mom",
-    "price_sale": 86400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-009.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200010",
-    "brand": "오조드파파",
-    "name": "오조드파파.썬데이원피스mom",
-    "price_sale": 62400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-010.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200011",
-    "brand": "오조드파파",
-    "name": "오조드파파.모로실블라우스mom",
-    "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-011.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200012",
-    "brand": "오조드파파",
-    "name": "오조드파파.이오원피스mom",
-    "price_sale": 64000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-012.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200013",
-    "brand": "오조드파파",
-    "name": "오조드파파.발렌시아티mom",
-    "price_sale": 49600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-013.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "카멜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200014",
-    "brand": "오조드파파",
-    "name": "오조드파파.테리프릴숏팬츠mom",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-014.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "카멜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607200015",
-    "brand": "오조드파파",
-    "name": "오조드파파.하라팬츠mom",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-015.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "실버",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-20"
-  },
-  {
-    "id": "2607140134",
-    "brand": "오조드파파",
-    "name": "오조드파파.쥬비원피스(M)",
-    "price_sale": 88000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1784034469/1_6_5101784034469.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
-    "colors": [
-      {
-        "name": "미스티블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140135",
-    "brand": "오조드파파",
-    "name": "오조드파파.이오원피스(M)",
-    "price_sale": 64000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1784034467/1_5_7351784034467.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140136",
-    "brand": "오조드파파",
-    "name": "오조드파파.썬데이원피스(M)",
-    "price_sale": 62400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1784034466/1_4_6441784034466.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140137",
-    "brand": "오조드파파",
-    "name": "오조드파파.모로실블라우스(M)",
-    "price_sale": 41600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1784034464/1_3_4151784034464.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140138",
-    "brand": "오조드파파",
-    "name": "오조드파파.로렐라이원피스(M)",
-    "price_sale": 86400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1784034463/1_2_5571784034463.jpg?kvdl=xls_ykwon89_1784611101_1a3c0396",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "네추럴",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  }
+    {
+        "id": "2605000001",
+        "brand": "오조드파파",
+        "name": "오조드파파.하니블라우스(M)",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1779792224/1_9_3831779792224.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "네추럴",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605000150",
+        "brand": "오조드파파",
+        "name": "오조드파파.이미지셔츠(M)",
+        "price_sale": 57600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779792224/1_8_2091779792224.jpg",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605000310",
+        "brand": "오조드파파",
+        "name": "오조드파파.베리망스커트(M)",
+        "price_sale": 38400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779792224/1_7_1311779792224.jpg",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605000494",
+        "brand": "오조드파파",
+        "name": "오조드파파.망고원피스(M)",
+        "price_sale": 72000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779792224/1_6_7721779792224.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "도트",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605000710",
+        "brand": "오조드파파",
+        "name": "오조드파파.리조트팬츠(M)",
+        "price_sale": 38400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779792224/1_5_4741779792224.jpg",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605000992",
+        "brand": "오조드파파",
+        "name": "오조드파파.로렌지스커트(M)",
+        "price_sale": 44800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779792224/1_4_3361779792224.jpg",
+        "colors": [
+            {
+                "name": "소라",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605001397",
+        "brand": "오조드파파",
+        "name": "오조드파파.딸기셔츠(M)",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779792224/1_3_4791779792224.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "카멜",
+                "add_price": 0
+            },
+            {
+                "name": "도트",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605001956",
+        "brand": "오조드파파",
+        "name": "오조드파파.깃털셔츠(M)",
+        "price_sale": 51200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779792224/1_2_4881779792224.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "코랄",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605003636",
+        "brand": "오조드파파",
+        "name": "오조드파파.훌리카팬츠(M)",
+        "price_sale": 36800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1779792224/1_10_6401779792224.jpg",
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2606090052",
+        "brand": "오조드파파",
+        "name": "오조드파파.윤슬원피스",
+        "price_sale": 78400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780986208/1_4_4861780986208.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "스카이블루",
+                "add_price": 0
+            },
+            {
+                "name": "라임",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-09"
+    },
+    {
+        "id": "2606090068",
+        "brand": "오조드파파",
+        "name": "오조드파파.소르베원피스",
+        "price_sale": 70400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780986208/1_3_5881780986208.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "네추럴",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-09"
+    },
+    {
+        "id": "2606090086",
+        "brand": "오조드파파",
+        "name": "오조드파파.리본트임원피스",
+        "price_sale": 75200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780986208/1_2_9671780986208.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-09"
+    },
+    {
+        "id": "2606120012",
+        "brand": "오조드파파",
+        "name": "오조드파파.볼팔찌(오로라)",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781244739/1_4_5321781244739.jpg",
+        "colors": [
+            {
+                "name": "오로라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-12"
+    },
+    {
+        "id": "2606120014",
+        "brand": "오조드파파",
+        "name": "오조드파파.볼팔찌(실버)",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781244739/1_3_201781244739.jpg",
+        "colors": [
+            {
+                "name": "실버",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-12"
+    },
+    {
+        "id": "2606120016",
+        "brand": "오조드파파",
+        "name": "오조드파파.골드링뱅글",
+        "price_sale": 54400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781244739/1_2_9981781244739.jpg",
+        "colors": [
+            {
+                "name": "골드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-12"
+    },
+    {
+        "id": "2606270225",
+        "brand": "오조드파파",
+        "name": "오조드파파.마인티(M)",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1782549688/1_2_1051782549688.jpg?kvdl=xls_ykwon89_1782874401_e3dde2d1",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "백메란지",
+                "add_price": 0
+            },
+            {
+                "name": "라임",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE(맘사이즈)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-27"
+    },
+    {
+        "id": "2607200002",
+        "brand": "오조드파파",
+        "name": "오조드파파.볼팔찌",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-002.jpg",
+        "colors": [
+            {
+                "name": "실버",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200003",
+        "brand": "오조드파파",
+        "name": "오조드파파.볼팔찌",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-003.jpg",
+        "colors": [
+            {
+                "name": "오로라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200004",
+        "brand": "오조드파파",
+        "name": "오조드파파.마인티mom",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-004.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "백메란지",
+                "add_price": 0
+            },
+            {
+                "name": "라임",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200005",
+        "brand": "오조드파파",
+        "name": "오조드파파.모로실스커트mom",
+        "price_sale": 52800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-005.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200006",
+        "brand": "오조드파파",
+        "name": "오조드파파.도엔셔츠mom",
+        "price_sale": 48000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-006.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "네추럴",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200007",
+        "brand": "오조드파파",
+        "name": "오조드파파.누메로스커트mom",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-007.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "빈티지블루",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200008",
+        "brand": "오조드파파",
+        "name": "오조드파파.쥬비원피스mom",
+        "price_sale": 88000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-008.jpg",
+        "colors": [
+            {
+                "name": "스트라이프",
+                "add_price": 0
+            },
+            {
+                "name": "라이트옐로우",
+                "add_price": 0
+            },
+            {
+                "name": "미스티블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200009",
+        "brand": "오조드파파",
+        "name": "오조드파파.로렐라이원피스mom",
+        "price_sale": 86400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-009.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "네추럴",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200010",
+        "brand": "오조드파파",
+        "name": "오조드파파.썬데이원피스mom",
+        "price_sale": 62400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-010.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200011",
+        "brand": "오조드파파",
+        "name": "오조드파파.모로실블라우스mom",
+        "price_sale": 41600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-011.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200012",
+        "brand": "오조드파파",
+        "name": "오조드파파.이오원피스mom",
+        "price_sale": 64000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-012.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200013",
+        "brand": "오조드파파",
+        "name": "오조드파파.발렌시아티mom",
+        "price_sale": 49600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-013.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "카멜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200014",
+        "brand": "오조드파파",
+        "name": "오조드파파.테리프릴숏팬츠mom",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-014.jpg",
+        "colors": [
+            {
+                "name": "옐로우",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "카멜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    },
+    {
+        "id": "2607200015",
+        "brand": "오조드파파",
+        "name": "오조드파파.하라팬츠mom",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0720/mo0720-015.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "실버",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-07-20"
+    }
 ]

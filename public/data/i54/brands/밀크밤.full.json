@@ -1,1830 +1,1373 @@
 [
-  {
-    "id": "2606150499",
-    "brand": "밀크밤",
-    "name": "밀크밤.아일렛X자반팔티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780441056/1_4_3181780441056.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/4C1780441056/1_4_3181780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/2_4_9201780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/3_4_6881780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/4_4_9611780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/5_4_7071780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/6_4_5501780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/7_4_6041780441056.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780441056/8_4_501780441056.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030004",
-    "brand": "밀크밤",
-    "name": "밀크밤.프릴나시셋업",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1780441059/1_9_4831780441059.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/9C1780441059/1_9_4831780441059.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/2_9_8241780441059.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/3_9_6021780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/4_9_2811780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/5_9_501780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/6_9_9981780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/7_9_7681780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/8_9_2371780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/9_9_1011780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/10_9_8061780441060.jpg",
-      "https://img2.kidsvillage.co.kr/9C1780441059/11_9_281780441060.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030012",
-    "brand": "밀크밤",
-    "name": "밀크밤.코첼라플리츠셋업",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1780441059/1_8_6361780441059.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/8C1780441059/1_8_6361780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/2_8_5811780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/3_8_4481780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/4_8_6061780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/5_8_5161780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/6_8_5601780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/7_8_9171780441059.jpg",
-      "https://img2.kidsvillage.co.kr/8C1780441059/8_8_1271780441059.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블루ST",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030021",
-    "brand": "밀크밤",
-    "name": "밀크밤.코첼라멜빵슈트",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1780441058/1_7_581780441058.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/7C1780441058/1_7_581780441058.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/2_7_6071780441058.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/3_7_3451780441058.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/4_7_3861780441058.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/5_7_2701780441059.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/6_7_5041780441059.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/7_7_1261780441059.jpg",
-      "https://img2.kidsvillage.co.kr/7C1780441058/8_7_191780441059.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블루ST",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(~6m)",
-        "add_price": 0
-      },
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12m~18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030031",
-    "brand": "밀크밤",
-    "name": "밀크밤.쭈글이조거바지",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1780441057/1_6_9701780441057.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/6C1780441057/1_6_9701780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/2_6_9351780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/3_6_1111780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/4_6_3111780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/5_6_6101780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/6_6_9221780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/7_6_9061780441057.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/8_6_4751780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/9_6_7981780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/10_6_2251780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/11_6_3951780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/12_6_4871780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/13_6_1861780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/14_6_1031780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/15_6_371780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/16_6_7911780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/17_6_1541780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/18_6_5111780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/19_6_5961780441058.jpg",
-      "https://img2.kidsvillage.co.kr/6C1780441057/20_6_3351780441058.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "올리브",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030041",
-    "brand": "밀크밤",
-    "name": "밀크밤.쟈뎅홀더블라우스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780441056/1_5_4731780441056.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/5C1780441056/1_5_4731780441056.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/2_5_8051780441056.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/3_5_1801780441056.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/4_5_5471780441056.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/5_5_101780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/6_5_101780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/7_5_3271780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/8_5_6621780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/9_5_1581780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/10_5_7401780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/11_5_7491780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/12_5_1321780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/13_5_4541780441057.jpg",
-      "https://img2.kidsvillage.co.kr/5C1780441056/14_5_4291780441057.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크꽃",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030070",
-    "brand": "밀크밤",
-    "name": "밀크밤.딸기플리츠셋업",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780441055/1_3_4801780441055.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/3C1780441055/1_3_4801780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/2_3_6821780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/3_3_3411780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/4_3_6751780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/5_3_8111780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/6_3_5951780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/7_3_8641780441055.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780441055/8_3_8751780441056.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030085",
-    "brand": "밀크밤",
-    "name": "밀크밤.딸기멜빵슈트",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780441055/1_2_4121780441055.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1780441055/1_2_4121780441055.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780441055/2_2_861780441055.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780441055/3_2_9731780441055.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780441055/4_2_7141780441055.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780441055/5_2_6801780441055.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780441055/6_2_8371780441055.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(~6m)",
-        "add_price": 0
-      },
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12m~18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030110",
-    "brand": "밀크밤",
-    "name": "밀크밤.하이텐션나시",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780441060/1_10_2551780441060.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/10C1780441060/1_10_2551780441060.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/2_10_3171780441060.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/3_10_6251780441060.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/4_10_5901780441060.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/5_10_3761780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/6_10_2331780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/7_10_9351780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/8_10_7621780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/9_10_5031780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/10_10_4401780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/11_10_8881780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/12_10_5231780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/13_10_771780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/14_10_4701780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/15_10_9721780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/16_10_6831780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/17_10_9871780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/18_10_5321780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/19_10_6011780441061.jpg",
-      "https://img2.kidsvillage.co.kr/10C1780441060/20_10_1141780441061.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS(1~2y)",
-        "add_price": 0
-      },
-      {
-        "name": "S(2y~3y)",
-        "add_price": 0
-      },
-      {
-        "name": "M(3~4y)",
-        "add_price": 0
-      },
-      {
-        "name": "L(4~5y)",
-        "add_price": 0
-      },
-      {
-        "name": "XL(6~7y)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2608130246",
-    "brand": "밀크밤",
-    "name": "밀크밤.동글이데님팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-113.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-113.jpg"
-    ],
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      },
-      {
-        "name": "진청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130247",
-    "brand": "밀크밤",
-    "name": "밀크밤.듀이바지",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-114.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-114.jpg"
-    ],
-    "colors": [
-      {
-        "name": "체리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130248",
-    "brand": "밀크밤",
-    "name": "밀크밤.듀이베스트",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-115.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-115.jpg"
-    ],
-    "colors": [
-      {
-        "name": "체리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130249",
-    "brand": "밀크밤",
-    "name": "밀크밤.롤리팝나시티",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-116.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-116.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130250",
-    "brand": "밀크밤",
-    "name": "밀크밤.롤리팝프릴팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-117.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-117.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130251",
-    "brand": "밀크밤",
-    "name": "밀크밤.롤리팝헤어밴드",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-118.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-118.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130252",
-    "brand": "밀크밤",
-    "name": "밀크밤.마일로ST슈트",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-119.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-119.jpg"
-    ],
-    "colors": [
-      {
-        "name": "코코아",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130253",
-    "brand": "밀크밤",
-    "name": "밀크밤.마일로세일러티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-120.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-120.jpg"
-    ],
-    "colors": [
-      {
-        "name": "코코아",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130254",
-    "brand": "밀크밤",
-    "name": "밀크밤.머쉬룸티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-121.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-121.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "멜란그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130255",
-    "brand": "밀크밤",
-    "name": "밀크밤.멜로스카프",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-122.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-122.jpg"
-    ],
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130256",
-    "brand": "밀크밤",
-    "name": "밀크밤.모모뷔스티에",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-123.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-123.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130257",
-    "brand": "밀크밤",
-    "name": "밀크밤.모모스칼럽바지",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-124.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-124.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130258",
-    "brand": "밀크밤",
-    "name": "밀크밤.발랄캉캉레깅스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-125.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-125.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130259",
-    "brand": "밀크밤",
-    "name": "밀크밤.베일리슈트",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-126.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-126.jpg"
-    ],
-    "colors": [
-      {
-        "name": "올리브",
-        "add_price": 0
-      },
-      {
-        "name": "자주",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130260",
-    "brand": "밀크밤",
-    "name": "밀크밤.베일리원피스",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-127.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-127.jpg"
-    ],
-    "colors": [
-      {
-        "name": "올리브",
-        "add_price": 0
-      },
-      {
-        "name": "자주",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130261",
-    "brand": "밀크밤",
-    "name": "밀크밤.봉봉고쟁이바지",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-128.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-128.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130262",
-    "brand": "밀크밤",
-    "name": "밀크밤.봉봉블루머",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-129.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-129.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130263",
-    "brand": "밀크밤",
-    "name": "밀크밤.블룸뷔스티에",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-130.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-130.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130264",
-    "brand": "밀크밤",
-    "name": "밀크밤.블룸와플팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-131.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-131.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130265",
-    "brand": "밀크밤",
-    "name": "밀크밤.아일렛X자티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-132.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-132.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130266",
-    "brand": "밀크밤",
-    "name": "밀크밤.애플오버롤팬츠",
-    "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-133.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-133.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130267",
-    "brand": "밀크밤",
-    "name": "밀크밤.엠보쟈가드원피스",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-134.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-134.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130268",
-    "brand": "밀크밤",
-    "name": "밀크밤.울베레모",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-135.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-135.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130269",
-    "brand": "밀크밤",
-    "name": "밀크밤.제리단가라티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-136.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-136.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130270",
-    "brand": "밀크밤",
-    "name": "밀크밤.주드블라우스",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-137.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-137.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130271",
-    "brand": "밀크밤",
-    "name": "밀크밤.체크베어블라우스",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-138.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-138.jpg"
-    ],
-    "colors": [
-      {
-        "name": "레드체크",
-        "add_price": 0
-      },
-      {
-        "name": "그린체크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130272",
-    "brand": "밀크밤",
-    "name": "밀크밤.캔디체크뷔스티에",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-139.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-139.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130273",
-    "brand": "밀크밤",
-    "name": "밀크밤.캔디체크팬츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-140.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-140.jpg"
-    ],
-    "colors": [
-      {
-        "name": "머스타드",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130274",
-    "brand": "밀크밤",
-    "name": "밀크밤.튜튜레이어드밴드",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-141.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-141.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130275",
-    "brand": "밀크밤",
-    "name": "밀크밤.펀칭뷔스티에",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-142.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-142.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130276",
-    "brand": "밀크밤",
-    "name": "밀크밤.펌킨원피스",
-    "price_sale": 33600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-143.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-143.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130277",
-    "brand": "밀크밤",
-    "name": "밀크밤.피콧프릴티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-144.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-144.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130278",
-    "brand": "밀크밤",
-    "name": "밀크밤.하트골지가디건세트",
-    "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-145.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202608/mo0814/mo0814-145.jpg"
-    ],
-    "colors": [
-      {
-        "name": "멜란그레이",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  }
+    {
+        "id": "2608130246",
+        "brand": "밀크밤",
+        "name": "밀크밤.동글이데님팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-113.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-113.jpg"
+        ],
+        "colors": [
+            {
+                "name": "연청",
+                "add_price": 0
+            },
+            {
+                "name": "진청",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130247",
+        "brand": "밀크밤",
+        "name": "밀크밤.듀이바지",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-114.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-114.jpg"
+        ],
+        "colors": [
+            {
+                "name": "체리",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130248",
+        "brand": "밀크밤",
+        "name": "밀크밤.듀이베스트",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-115.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-115.jpg"
+        ],
+        "colors": [
+            {
+                "name": "체리",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130249",
+        "brand": "밀크밤",
+        "name": "밀크밤.롤리팝나시티",
+        "price_sale": 11200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-116.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-116.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130250",
+        "brand": "밀크밤",
+        "name": "밀크밤.롤리팝프릴팬츠",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-117.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-117.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130251",
+        "brand": "밀크밤",
+        "name": "밀크밤.롤리팝헤어밴드",
+        "price_sale": 8000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-118.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-118.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130252",
+        "brand": "밀크밤",
+        "name": "밀크밤.마일로ST슈트",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-119.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-119.jpg"
+        ],
+        "colors": [
+            {
+                "name": "코코아",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130253",
+        "brand": "밀크밤",
+        "name": "밀크밤.마일로세일러티",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-120.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-120.jpg"
+        ],
+        "colors": [
+            {
+                "name": "코코아",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130254",
+        "brand": "밀크밤",
+        "name": "밀크밤.머쉬룸티",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-121.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-121.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "멜란그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130255",
+        "brand": "밀크밤",
+        "name": "밀크밤.멜로스카프",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-122.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-122.jpg"
+        ],
+        "colors": [
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130256",
+        "brand": "밀크밤",
+        "name": "밀크밤.모모뷔스티에",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-123.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-123.jpg"
+        ],
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130257",
+        "brand": "밀크밤",
+        "name": "밀크밤.모모스칼럽바지",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-124.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-124.jpg"
+        ],
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130258",
+        "brand": "밀크밤",
+        "name": "밀크밤.발랄캉캉레깅스",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-125.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-125.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130259",
+        "brand": "밀크밤",
+        "name": "밀크밤.베일리슈트",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-126.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-126.jpg"
+        ],
+        "colors": [
+            {
+                "name": "올리브",
+                "add_price": 0
+            },
+            {
+                "name": "자주",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130260",
+        "brand": "밀크밤",
+        "name": "밀크밤.베일리원피스",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-127.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-127.jpg"
+        ],
+        "colors": [
+            {
+                "name": "올리브",
+                "add_price": 0
+            },
+            {
+                "name": "자주",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130261",
+        "brand": "밀크밤",
+        "name": "밀크밤.봉봉고쟁이바지",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-128.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-128.jpg"
+        ],
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130262",
+        "brand": "밀크밤",
+        "name": "밀크밤.봉봉블루머",
+        "price_sale": 12800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-129.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-129.jpg"
+        ],
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130263",
+        "brand": "밀크밤",
+        "name": "밀크밤.블룸뷔스티에",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-130.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-130.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130264",
+        "brand": "밀크밤",
+        "name": "밀크밤.블룸와플팬츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-131.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-131.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130265",
+        "brand": "밀크밤",
+        "name": "밀크밤.아일렛X자티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-132.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-132.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130266",
+        "brand": "밀크밤",
+        "name": "밀크밤.애플오버롤팬츠",
+        "price_sale": 41600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-133.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-133.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130267",
+        "brand": "밀크밤",
+        "name": "밀크밤.엠보쟈가드원피스",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-134.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-134.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130268",
+        "brand": "밀크밤",
+        "name": "밀크밤.울베레모",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-135.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-135.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130269",
+        "brand": "밀크밤",
+        "name": "밀크밤.제리단가라티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-136.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-136.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130270",
+        "brand": "밀크밤",
+        "name": "밀크밤.주드블라우스",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-137.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-137.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130271",
+        "brand": "밀크밤",
+        "name": "밀크밤.체크베어블라우스",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-138.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-138.jpg"
+        ],
+        "colors": [
+            {
+                "name": "레드체크",
+                "add_price": 0
+            },
+            {
+                "name": "그린체크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130272",
+        "brand": "밀크밤",
+        "name": "밀크밤.캔디체크뷔스티에",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-139.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-139.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130273",
+        "brand": "밀크밤",
+        "name": "밀크밤.캔디체크팬츠",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-140.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-140.jpg"
+        ],
+        "colors": [
+            {
+                "name": "머스타드",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130274",
+        "brand": "밀크밤",
+        "name": "밀크밤.튜튜레이어드밴드",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-141.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-141.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130275",
+        "brand": "밀크밤",
+        "name": "밀크밤.펀칭뷔스티에",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-142.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-142.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130276",
+        "brand": "밀크밤",
+        "name": "밀크밤.펌킨원피스",
+        "price_sale": 33600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-143.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-143.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130277",
+        "brand": "밀크밤",
+        "name": "밀크밤.피콧프릴티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-144.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-144.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130278",
+        "brand": "밀크밤",
+        "name": "밀크밤.하트골지가디건세트",
+        "price_sale": 38400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-145.jpg",
+        "detail_images": [
+            "https://mamacool.diskn.com/202608/mo0814/mo0814-145.jpg"
+        ],
+        "colors": [
+            {
+                "name": "멜란그레이",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    }
 ]

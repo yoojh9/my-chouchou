@@ -1,346 +1,554 @@
 [
-  {
-    "id": "2605000327",
-    "brand": "에끌레어",
-    "name": "에끌레어.써머스윗팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1779517328/1_7_9591779517328.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605000513",
-    "brand": "에끌레어",
-    "name": "에끌레어.써머스윗티",
-    "price_sale": 33600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1779517326/1_6_2761779517326.jpg",
-    "colors": [
-      {
-        "name": "핑크핑크",
-        "add_price": 0
-      },
-      {
-        "name": "핑크아이",
-        "add_price": 0
-      },
-      {
-        "name": "블루아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605000730",
-    "brand": "에끌레어",
-    "name": "에끌레어.써머스윗세트",
-    "price_sale": 52800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1779517325/1_5_2081779517325.jpg",
-    "colors": [
-      {
-        "name": "핑크핑크",
-        "add_price": 0
-      },
-      {
-        "name": "핑크아이",
-        "add_price": 0
-      },
-      {
-        "name": "블루아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605001014",
-    "brand": "에끌레어",
-    "name": "에끌레어.스윗레깅스6부",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1779517325/1_4_3761779517325.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605001420",
-    "brand": "에끌레어",
-    "name": "에끌레어.리엔블라우스",
-    "price_sale": 36800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1779517324/1_3_4691779517324.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605001979",
-    "brand": "에끌레어",
-    "name": "에끌레어.그랑팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1779517323/1_2_4901779517323.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-23"
-  },
-  {
-    "id": "2605001178",
-    "brand": "에끌레어",
-    "name": "에끌레어.프릴티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780109994/1_4_9521780109994.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605001625",
-    "brand": "에끌레어",
-    "name": "에끌레어.앙뚜아원피스",
-    "price_sale": 54400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780109994/1_3_5251780109994.jpg",
-    "colors": [
-      {
-        "name": "원컬러",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  },
-  {
-    "id": "2605002260",
-    "brand": "에끌레어",
-    "name": "에끌레어.베니치바",
-    "price_sale": 36800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780109994/1_2_7591780109994.jpg",
-    "colors": [
-      {
-        "name": "핑꽃",
-        "add_price": 0
-      },
-      {
-        "name": "블꽃",
-        "add_price": 0
-      },
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-30"
-  }
+    {
+        "id": "2605001178",
+        "brand": "에끌레어",
+        "name": "에끌레어.프릴티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780109994/1_4_9521780109994.jpg",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2605002260",
+        "brand": "에끌레어",
+        "name": "에끌레어.베니치바",
+        "price_sale": 36800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780109994/1_2_7591780109994.jpg",
+        "colors": [
+            {
+                "name": "핑꽃",
+                "add_price": 0
+            },
+            {
+                "name": "블꽃",
+                "add_price": 0
+            },
+            {
+                "name": "아이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-30"
+    },
+    {
+        "id": "2608180863",
+        "brand": "에끌레어",
+        "name": "에끌레어.넬리cd",
+        "price_sale": 33600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-165.jpg",
+        "colors": [
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "아이보리",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180864",
+        "brand": "에끌레어",
+        "name": "에끌레어.데이원피스",
+        "price_sale": 52800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-166.jpg",
+        "colors": [
+            {
+                "name": "원컬러",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180865",
+        "brand": "에끌레어",
+        "name": "에끌레어.루센트원피스",
+        "price_sale": 48000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-167.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180866",
+        "brand": "에끌레어",
+        "name": "에끌레어.모모세트",
+        "price_sale": 62400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-168.jpg",
+        "colors": [
+            {
+                "name": "원컬러",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180867",
+        "brand": "에끌레어",
+        "name": "에끌레어.몰리자켓",
+        "price_sale": 64000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-169.jpg",
+        "colors": [
+            {
+                "name": "꽃",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180868",
+        "brand": "에끌레어",
+        "name": "에끌레어.미뇽BL",
+        "price_sale": 40000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-170.jpg",
+        "colors": [
+            {
+                "name": "원컬러",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180869",
+        "brand": "에끌레어",
+        "name": "에끌레어.바노P",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-171.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180870",
+        "brand": "에끌레어",
+        "name": "에끌레어.보들베스트",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-172.jpg",
+        "colors": [
+            {
+                "name": "원컬러",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180871",
+        "brand": "에끌레어",
+        "name": "에끌레어.아띠블라우스",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-173.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180872",
+        "brand": "에끌레어",
+        "name": "에끌레어.아띠치바",
+        "price_sale": 38400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-174.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180873",
+        "brand": "에끌레어",
+        "name": "에끌레어.에클튜튜sk",
+        "price_sale": 40000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-175.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "차콜블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180874",
+        "brand": "에끌레어",
+        "name": "에끌레어.웰디P",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-176.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    },
+    {
+        "id": "2608180875",
+        "brand": "에끌레어",
+        "name": "에끌레어.크림블라우스",
+        "price_sale": 38400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0818/mo0818-177.jpg",
+        "colors": [
+            {
+                "name": "원컬러",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-18"
+    }
 ]

@@ -1,1730 +1,1522 @@
 [
-  {
-    "id": "2605000339",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.어덜트리덴니트모자",
-    "price_sale": 49600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1779277934/1_7_641779277934.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2605000526",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.미오니트베스트",
-    "price_sale": 43200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1779277933/1_6_5451779277933.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2605000718",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.쿠야레깅스",
-    "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779724845/1_5_8781779724845.jpg",
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605000744",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.모리오티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1779277933/1_5_9761779277933.jpg",
-    "colors": [
-      {
-        "name": "피치",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2605001002",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.일마르티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779724845/1_4_6111779724845.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001028",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.리덴니트모자",
-    "price_sale": 46400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1779277931/1_4_611779277931.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2605001408",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.메르바팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779724845/1_3_6651779724845.jpg",
-    "colors": [
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      },
-      {
-        "name": "라이트그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001434",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.라크데님팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1779277931/1_3_9361779277931.jpg",
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      },
-      {
-        "name": "중천",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2605001967",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.라쿠티셔츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779724845/1_2_6211779724845.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-26"
-  },
-  {
-    "id": "2605001995",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.라미오니트팬츠",
-    "price_sale": 46400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1779277930/1_2_5001779277930.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-20"
-  },
-  {
-    "id": "2606280012",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 베일로셔츠",
-    "price_sale": 33600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/X00ACD1782579552/1_5_6901776151697.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280018",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 어덜트본네스티셔츠",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W00AID1782579558/1_3_8181775636574.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280021",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 팡니팬츠",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W00AAD1782579551/1_6_5201777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "라이트그린",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280022",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 코린리버시블팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000RD1782579545/1_6_2831778068416.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "라이트옐로",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280023",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 소라빈팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000ND1782579543/1_5_9031778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280024",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 미오니트베스트",
-    "price_sale": 43200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000FD1782579538/1_6_5451779277933.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280035",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 페노팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/U00ABD1782579552/1_6_3941776151699.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "올리브",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280037",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 보키니트풀오버",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/U000VD1782579550/1_2_2291778068414.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280040",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 리덴니트모자",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/U000GD1782579538/1_4_611779277931.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280044",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 카비아팔토시",
-    "price_sale": 17600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000TD1782579547/1_5_6421778068416.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "피치",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280050",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 엘보스케미탑",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/S000YD1782579551/1_4_9361777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280055",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 나스원피스",
-    "price_sale": 49600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/R000KD1782579542/1_2_9781778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "체크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280058",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 라크데님팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000JD1782579541/1_3_9361779277931.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      },
-      {
-        "name": "중천",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280062",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 오스카스커트",
-    "price_sale": 40000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000ZD1782579551/1_5_2821777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280063",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 엘로나팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000PD1782579543/1_7_1171778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280068",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 안느티셔츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000SD1782579546/1_4_8271778068415.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280073",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 레오팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/M00AFD1782579555/1_2_7841776151694.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280080",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 라쿠티셔츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/M000AD1782579535/1_2_6211779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280087",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 라빈케미탑",
-    "price_sale": 20800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000LD1782579542/1_3_8381778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280089",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 어덜트리덴니트모자",
-    "price_sale": 49600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000ED1782579536/1_7_641779277934.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280090",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 쿠야레깅스",
-    "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000DD1782579536/1_5_8781779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "플라워",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280096",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 일마르티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000CD1782579536/1_4_6111779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280100",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 어덜트엘딘팬츠",
-    "price_sale": 38400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J00AHD1782579558/1_4_6551775636575.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "먹색",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280101",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 젠트빅백",
-    "price_sale": 38400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J00AGD1782579556/1_5_8501775636576.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280109",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 본네스티셔츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I00AJD1782579559/1_2_3871775636572.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280111",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 네사르블라우스",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000WD1782579550/1_2_5251777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "체크",
-        "add_price": 0
-      },
-      {
-        "name": "플라워",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280121",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 알벤썬캡",
-    "price_sale": 28800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/H000OD1782579543/1_6_7601778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280128",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 프리마점퍼",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/G000QD1782579543/1_7_4431778068417.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280139",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 비코캠프캡",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000UD1782579548/1_3_7741778068414.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "라임",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280141",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 밀라티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000MD1782579542/1_4_8971778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "라이트그린",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280142",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 라미오니트팬츠",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000ID1782579540/1_2_5001779277930.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280145",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 마레오케미탑",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D00AED1782579554/1_3_9061776151695.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280150",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 세린스카시니트가디건",
-    "price_sale": 49600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/C000XD1782579551/1_3_6041777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280160",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 모리오티셔츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/B000HD1782579539/1_5_9761779277933.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "피치",
-        "add_price": 0
-      },
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280161",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 메르바팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/B000BD1782579536/1_3_6651779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "라이트블루",
-        "add_price": 0
-      },
-      {
-        "name": "라이트그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  },
-  {
-    "id": "2606280164",
-    "brand": "비엔어비엔",
-    "name": "비엔어비엔.(세일) 마레티셔츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/A00ADD1782579554/1_4_2431776151696.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-28"
-  }
+    {
+        "id": "2605000718",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.쿠야레깅스",
+        "price_sale": 14400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779724845/1_5_8781779724845.jpg",
+        "colors": [
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            },
+            {
+                "name": "민트",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605001002",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.일마르티셔츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779724845/1_4_6111779724845.jpg",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605001408",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.메르바팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779724845/1_3_6651779724845.jpg",
+        "colors": [
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            },
+            {
+                "name": "라이트그린",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2605001967",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.라쿠티셔츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779724845/1_2_6211779724845.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-26"
+    },
+    {
+        "id": "2606280012",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 베일로셔츠",
+        "price_sale": 33600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/X00ACD1782579552/1_5_6901776151697.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280018",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 어덜트본네스티셔츠",
+        "price_sale": 35200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/W00AID1782579558/1_3_8181775636574.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280021",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 팡니팬츠",
+        "price_sale": 35200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/W00AAD1782579551/1_6_5201777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "라이트그린",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280022",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 코린리버시블팬츠",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000RD1782579545/1_6_2831778068416.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "라이트옐로",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280023",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 소라빈팬츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000ND1782579543/1_5_9031778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280024",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 미오니트베스트",
+        "price_sale": 43200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000FD1782579538/1_6_5451779277933.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280035",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 페노팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/U00ABD1782579552/1_6_3941776151699.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "와인",
+                "add_price": 0
+            },
+            {
+                "name": "올리브",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280037",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 보키니트풀오버",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/U000VD1782579550/1_2_2291778068414.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280040",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 리덴니트모자",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/U000GD1782579538/1_4_611779277931.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280044",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 카비아팔토시",
+        "price_sale": 17600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000TD1782579547/1_5_6421778068416.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "피치",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280050",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 엘보스케미탑",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/S000YD1782579551/1_4_9361777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280055",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 나스원피스",
+        "price_sale": 49600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/R000KD1782579542/1_2_9781778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "체크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280058",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 라크데님팬츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000JD1782579541/1_3_9361779277931.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "연청",
+                "add_price": 0
+            },
+            {
+                "name": "중천",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280062",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 오스카스커트",
+        "price_sale": 40000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000ZD1782579551/1_5_2821777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280063",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 엘로나팬츠",
+        "price_sale": 25600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000PD1782579543/1_7_1171778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280068",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 안느티셔츠",
+        "price_sale": 28800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000SD1782579546/1_4_8271778068415.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280073",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 레오팬츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/M00AFD1782579555/1_2_7841776151694.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280080",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 라쿠티셔츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/M000AD1782579535/1_2_6211779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280087",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 라빈케미탑",
+        "price_sale": 20800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000LD1782579542/1_3_8381778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280089",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 어덜트리덴니트모자",
+        "price_sale": 49600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000ED1782579536/1_7_641779277934.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280090",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 쿠야레깅스",
+        "price_sale": 14400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/L000DD1782579536/1_5_8781779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "플라워",
+                "add_price": 0
+            },
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            },
+            {
+                "name": "민트",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280096",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 일마르티셔츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000CD1782579536/1_4_6111779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280100",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 어덜트엘딘팬츠",
+        "price_sale": 38400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/J00AHD1782579558/1_4_6551775636575.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "먹색",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280101",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 젠트빅백",
+        "price_sale": 38400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/J00AGD1782579556/1_5_8501775636576.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "퍼플",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280109",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 본네스티셔츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/I00AJD1782579559/1_2_3871775636572.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280111",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 네사르블라우스",
+        "price_sale": 35200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000WD1782579550/1_2_5251777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "체크",
+                "add_price": 0
+            },
+            {
+                "name": "플라워",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280121",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 알벤썬캡",
+        "price_sale": 28800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/H000OD1782579543/1_6_7601778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "오렌지",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280128",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 프리마점퍼",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/G000QD1782579543/1_7_4431778068417.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280139",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 비코캠프캡",
+        "price_sale": 35200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000UD1782579548/1_3_7741778068414.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "라임",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280141",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 밀라티셔츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000MD1782579542/1_4_8971778585029.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "라이트그린",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280142",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 라미오니트팬츠",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000ID1782579540/1_2_5001779277930.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280145",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 마레오케미탑",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/D00AED1782579554/1_3_9061776151695.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "레드",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280150",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 세린스카시니트가디건",
+        "price_sale": 49600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/C000XD1782579551/1_3_6041777436318.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            },
+            {
+                "name": "네이비",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280160",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 모리오티셔츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/B000HD1782579539/1_5_9761779277933.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "피치",
+                "add_price": 0
+            },
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280161",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 메르바팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/B000BD1782579536/1_3_6651779724845.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "라이트블루",
+                "add_price": 0
+            },
+            {
+                "name": "라이트그린",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    },
+    {
+        "id": "2606280164",
+        "brand": "비엔어비엔",
+        "name": "비엔어비엔.(세일) 마레티셔츠",
+        "price_sale": 28800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/A00ADD1782579554/1_4_2431776151696.jpg?kvdl=xls_ykwon89_1782874398_2b84000b",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "2XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-28"
+    }
 ]

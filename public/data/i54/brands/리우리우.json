@@ -1,502 +1,194 @@
 [
-  {
-    "id": "2605000183",
-    "brand": "리우리우",
-    "name": "리우리우.RW릴렉스스트링팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1779177941/1_8_2521779177941.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 3000
-      },
-      {
-        "name": "4XL",
-        "add_price": 3000
-      },
-      {
-        "name": "5XL",
-        "add_price": 3000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000347",
-    "brand": "리우리우",
-    "name": "리우리우.RW스몰모던반팔",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1779177937/1_7_5631779177937.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 2000
-      },
-      {
-        "name": "4XL",
-        "add_price": 2000
-      },
-      {
-        "name": "5XL",
-        "add_price": 2000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000534",
-    "brand": "리우리우",
-    "name": "리우리우.코바벌룬팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1779177935/1_6_5221779177935.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 3000
-      },
-      {
-        "name": "4XL",
-        "add_price": 3000
-      },
-      {
-        "name": "5XL",
-        "add_price": 3000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605000752",
-    "brand": "리우리우",
-    "name": "리우리우.엔드피그다잉반팔티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1779177933/1_5_9491779177933.jpg",
-    "colors": [
-      {
-        "name": "피그그레이",
-        "add_price": 0
-      },
-      {
-        "name": "피그먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 2000
-      },
-      {
-        "name": "4XL",
-        "add_price": 2000
-      },
-      {
-        "name": "5XL",
-        "add_price": 2000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605001036",
-    "brand": "리우리우",
-    "name": "리우리우.리미티드RW반팔",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1779177929/1_4_7651779177929.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 2000
-      },
-      {
-        "name": "4XL",
-        "add_price": 2000
-      },
-      {
-        "name": "5XL",
-        "add_price": 2000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605001442",
-    "brand": "리우리우",
-    "name": "리우리우.베를린소프트박스반팔티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1779177926/1_3_6151779177926.jpg",
-    "colors": [
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 2000
-      },
-      {
-        "name": "4XL",
-        "add_price": 2000
-      },
-      {
-        "name": "5XL",
-        "add_price": 2000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2605002003",
-    "brand": "리우리우",
-    "name": "리우리우.온오프반팔",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1779177922/1_2_6801779177922.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "XXL",
-        "add_price": 0
-      },
-      {
-        "name": "3XL",
-        "add_price": 2000
-      },
-      {
-        "name": "4XL",
-        "add_price": 2000
-      },
-      {
-        "name": "5XL",
-        "add_price": 2000
-      },
-      {
-        "name": "6XL",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-05-19"
-  },
-  {
-    "id": "2608130433",
-    "brand": "리우리우",
-    "name": "리우리우.RW릴렉스스트링팬츠",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-300.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "1X",
-        "add_price": 0
-      },
-      {
-        "name": "2X",
-        "add_price": 0
-      },
-      {
-        "name": "3X",
-        "add_price": 3000
-      },
-      {
-        "name": "4X",
-        "add_price": 3000
-      },
-      {
-        "name": "5X",
-        "add_price": 3000
-      },
-      {
-        "name": "6X",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130434",
-    "brand": "리우리우",
-    "name": "리우리우.RW스몰모던반팔",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-301.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "1X",
-        "add_price": 0
-      },
-      {
-        "name": "2X",
-        "add_price": 0
-      },
-      {
-        "name": "3X",
-        "add_price": 2000
-      },
-      {
-        "name": "4X",
-        "add_price": 2000
-      },
-      {
-        "name": "5X",
-        "add_price": 2000
-      },
-      {
-        "name": "6X",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130435",
-    "brand": "리우리우",
-    "name": "리우리우.리우감동라운드티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-302.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "스카이(소라)",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "1X",
-        "add_price": 0
-      },
-      {
-        "name": "2X",
-        "add_price": 0
-      },
-      {
-        "name": "3X",
-        "add_price": 2000
-      },
-      {
-        "name": "4X",
-        "add_price": 2000
-      },
-      {
-        "name": "5X",
-        "add_price": 2000
-      },
-      {
-        "name": "6X",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  },
-  {
-    "id": "2608130436",
-    "brand": "리우리우",
-    "name": "리우리우.리우피그와펜반티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-303.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "1X",
-        "add_price": 0
-      },
-      {
-        "name": "2X",
-        "add_price": 0
-      },
-      {
-        "name": "3X",
-        "add_price": 2000
-      },
-      {
-        "name": "4X",
-        "add_price": 2000
-      },
-      {
-        "name": "5X",
-        "add_price": 2000
-      },
-      {
-        "name": "6X",
-        "add_price": 5000
-      }
-    ],
-    "mfg_date": "2026-08-14"
-  }
+    {
+        "id": "2608130433",
+        "brand": "리우리우",
+        "name": "리우리우.RW릴렉스스트링팬츠",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-300.jpg",
+        "colors": [
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "1X",
+                "add_price": 0
+            },
+            {
+                "name": "2X",
+                "add_price": 0
+            },
+            {
+                "name": "3X",
+                "add_price": 3000
+            },
+            {
+                "name": "4X",
+                "add_price": 3000
+            },
+            {
+                "name": "5X",
+                "add_price": 3000
+            },
+            {
+                "name": "6X",
+                "add_price": 5000
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130434",
+        "brand": "리우리우",
+        "name": "리우리우.RW스몰모던반팔",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-301.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "1X",
+                "add_price": 0
+            },
+            {
+                "name": "2X",
+                "add_price": 0
+            },
+            {
+                "name": "3X",
+                "add_price": 2000
+            },
+            {
+                "name": "4X",
+                "add_price": 2000
+            },
+            {
+                "name": "5X",
+                "add_price": 2000
+            },
+            {
+                "name": "6X",
+                "add_price": 5000
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130435",
+        "brand": "리우리우",
+        "name": "리우리우.리우감동라운드티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-302.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "스카이(소라)",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "1X",
+                "add_price": 0
+            },
+            {
+                "name": "2X",
+                "add_price": 0
+            },
+            {
+                "name": "3X",
+                "add_price": 2000
+            },
+            {
+                "name": "4X",
+                "add_price": 2000
+            },
+            {
+                "name": "5X",
+                "add_price": 2000
+            },
+            {
+                "name": "6X",
+                "add_price": 5000
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    },
+    {
+        "id": "2608130436",
+        "brand": "리우리우",
+        "name": "리우리우.리우피그와펜반티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-303.jpg",
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "1X",
+                "add_price": 0
+            },
+            {
+                "name": "2X",
+                "add_price": 0
+            },
+            {
+                "name": "3X",
+                "add_price": 2000
+            },
+            {
+                "name": "4X",
+                "add_price": 2000
+            },
+            {
+                "name": "5X",
+                "add_price": 2000
+            },
+            {
+                "name": "6X",
+                "add_price": 5000
+            }
+        ],
+        "mfg_date": "2026-08-14"
+    }
 ]

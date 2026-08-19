@@ -1,2274 +1,1598 @@
 [
-  {
-    "id": "2606030002",
-    "brand": "한스",
-    "name": "한스.래쉬가드",
-    "price_sale": 38400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1780487637/1_9_1291780487637.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030010",
-    "brand": "한스",
-    "name": "한스.니지나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1780487636/1_8_8911780487636.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "연두",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030019",
-    "brand": "한스",
-    "name": "한스.네오호박팬츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1780487635/1_7_3641780487635.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030029",
-    "brand": "한스",
-    "name": "한스.냉감이불",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1780487634/1_6_3161780487634.jpg",
-    "colors": [
-      {
-        "name": "소라강아지",
-        "add_price": 0
-      },
-      {
-        "name": "소라토끼",
-        "add_price": 0
-      },
-      {
-        "name": "핑크강아지",
-        "add_price": 0
-      },
-      {
-        "name": "핑크토끼",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "90X150",
-        "add_price": 0
-      },
-      {
-        "name": "150X200",
-        "add_price": 9000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030039",
-    "brand": "한스",
-    "name": "한스.납작단작나시",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780487633/1_5_8251780487633.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030051",
-    "brand": "한스",
-    "name": "한스.골지머리띠",
-    "price_sale": 6400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780487632/1_4_2061780487632.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030066",
-    "brand": "한스",
-    "name": "한스.ST홀릭나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780487631/1_3_211780487631.jpg",
-    "colors": [
-      {
-        "name": "곤색",
-        "add_price": 0
-      },
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030081",
-    "brand": "한스",
-    "name": "한스.9부린넨오버롤",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780487630/1_2_8201780487630.jpg",
-    "colors": [
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030094",
-    "brand": "한스",
-    "name": "한스.쿨링팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1780487644/1_17_2491780487644.jpg",
-    "colors": [
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "핫핑",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030095",
-    "brand": "한스",
-    "name": "한스.쿨나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1780487642/1_16_4261780487642.jpg",
-    "colors": [
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "핫핑",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030097",
-    "brand": "한스",
-    "name": "한스.여아스윔수트",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1780487641/1_15_9531780487641.jpg",
-    "colors": [
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030099",
-    "brand": "한스",
-    "name": "한스.스포티팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1780487640/1_14_6981780487640.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030101",
-    "brand": "한스",
-    "name": "한스.스윔캡",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1780487640/1_13_1181780487640.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030103",
-    "brand": "한스",
-    "name": "한스.미니고양이티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1780487639/1_12_2151780487639.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030105",
-    "brand": "한스",
-    "name": "한스.망사치마바지",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1780487638/1_11_4601780487638.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2606030108",
-    "brand": "한스",
-    "name": "한스.레이반바지",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780487637/1_10_5091780487637.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-06-03"
-  },
-  {
-    "id": "2608120400",
-    "brand": "한스",
-    "name": "한스.ST7부팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-148.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120401",
-    "brand": "한스",
-    "name": "한스.기본청팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-149.jpg",
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "중청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120402",
-    "brand": "한스",
-    "name": "한스.뉴트로숏워피스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-150.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120403",
-    "brand": "한스",
-    "name": "한스.단가라비니",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-151.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "카키베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120404",
-    "brand": "한스",
-    "name": "한스.랍빠홀터티",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-152.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120405",
-    "brand": "한스",
-    "name": "한스.레이어체크앞치마",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-153.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120406",
-    "brand": "한스",
-    "name": "한스.레터링7부티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-154.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "노랑",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120407",
-    "brand": "한스",
-    "name": "한스.로제팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-155.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120408",
-    "brand": "한스",
-    "name": "한스.리미트나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-156.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우그린",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120409",
-    "brand": "한스",
-    "name": "한스.리미트티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-157.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우그린",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120410",
-    "brand": "한스",
-    "name": "한스.리버시블점퍼(양면)",
-    "price_sale": 52800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-158.jpg",
-    "colors": [
-      {
-        "name": "라임",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120411",
-    "brand": "한스",
-    "name": "한스.리본고양이맨투맨",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-159.jpg",
-    "colors": [
-      {
-        "name": "차콜",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120412",
-    "brand": "한스",
-    "name": "한스.리쥬란팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-160.jpg",
-    "colors": [
-      {
-        "name": "겨자",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120413",
-    "brand": "한스",
-    "name": "한스.리치두건",
-    "price_sale": 6400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-161.jpg",
-    "colors": [
-      {
-        "name": "민트그린",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120414",
-    "brand": "한스",
-    "name": "한스.리치앞치마",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-162.jpg",
-    "colors": [
-      {
-        "name": "민트그린",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120415",
-    "brand": "한스",
-    "name": "한스.머리띠",
-    "price_sale": 6400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-163.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120416",
-    "brand": "한스",
-    "name": "한스.볼레로가디건",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-164.jpg",
-    "colors": [
-      {
-        "name": "레몬",
-        "add_price": 0
-      },
-      {
-        "name": "메란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120417",
-    "brand": "한스",
-    "name": "한스.브이맨투맨",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-165.jpg",
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120418",
-    "brand": "한스",
-    "name": "한스.삼색비니",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-166.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120419",
-    "brand": "한스",
-    "name": "한스.슈가단가라티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-167.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "카키베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120420",
-    "brand": "한스",
-    "name": "한스.앵두자수스커트",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-168.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120421",
-    "brand": "한스",
-    "name": "한스.에쿠양말",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-169.jpg",
-    "colors": [
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "메란",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120422",
-    "brand": "한스",
-    "name": "한스.와플뷔스티에",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-170.jpg",
-    "colors": [
-      {
-        "name": "백메란",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 0
-      },
-      {
-        "name": "JM",
-        "add_price": 0
-      },
-      {
-        "name": "JL",
-        "add_price": 0
-      },
-      {
-        "name": "JXL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120423",
-    "brand": "한스",
-    "name": "한스.제니후드티",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-171.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "연핑",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120424",
-    "brand": "한스",
-    "name": "한스.제스티9부팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-172.jpg",
-    "colors": [
-      {
-        "name": "딥블루",
-        "add_price": 0
-      },
-      {
-        "name": "인핑",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120425",
-    "brand": "한스",
-    "name": "한스.제스티조끼",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-173.jpg",
-    "colors": [
-      {
-        "name": "딥블루",
-        "add_price": 0
-      },
-      {
-        "name": "인핑",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120426",
-    "brand": "한스",
-    "name": "한스.컬러단작티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-174.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "보라",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120427",
-    "brand": "한스",
-    "name": "한스.코튼ST티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-175.jpg",
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "자주",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120428",
-    "brand": "한스",
-    "name": "한스.타미핀턱팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-176.jpg",
-    "colors": [
-      {
-        "name": "딥블루",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120429",
-    "brand": "한스",
-    "name": "한스.타미헤어끈",
-    "price_sale": 6400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-177.jpg",
-    "colors": [
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "메란",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120430",
-    "brand": "한스",
-    "name": "한스.테리ST나시",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-178.jpg",
-    "colors": [
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120431",
-    "brand": "한스",
-    "name": "한스.테리ST팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-179.jpg",
-    "colors": [
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120432",
-    "brand": "한스",
-    "name": "한스.테리나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-180.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아쿠아",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120433",
-    "brand": "한스",
-    "name": "한스.테리팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-181.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아쿠아",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120434",
-    "brand": "한스",
-    "name": "한스.프라이아톰맨투맨",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-182.jpg",
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120435",
-    "brand": "한스",
-    "name": "한스.프릴자스민팬츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-183.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120436",
-    "brand": "한스",
-    "name": "한스.핀프릴티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-184.jpg",
-    "colors": [
-      {
-        "name": "연두",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  }
+    {
+        "id": "2608120400",
+        "brand": "한스",
+        "name": "한스.ST7부팬츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-148.jpg",
+        "colors": [
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120401",
+        "brand": "한스",
+        "name": "한스.기본청팬츠",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-149.jpg",
+        "colors": [
+            {
+                "name": "블랙",
+                "add_price": 0
+            },
+            {
+                "name": "중청",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120402",
+        "brand": "한스",
+        "name": "한스.뉴트로숏워피스",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-150.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120403",
+        "brand": "한스",
+        "name": "한스.단가라비니",
+        "price_sale": 11200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-151.jpg",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "카키베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120404",
+        "brand": "한스",
+        "name": "한스.랍빠홀터티",
+        "price_sale": 12800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-152.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120405",
+        "brand": "한스",
+        "name": "한스.레이어체크앞치마",
+        "price_sale": 11200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-153.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120406",
+        "brand": "한스",
+        "name": "한스.레터링7부티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-154.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "노랑",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120407",
+        "brand": "한스",
+        "name": "한스.로제팬츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-155.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "진베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120408",
+        "brand": "한스",
+        "name": "한스.리미트나시",
+        "price_sale": 12800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-156.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "옐로우그린",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120409",
+        "brand": "한스",
+        "name": "한스.리미트티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-157.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "옐로우그린",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120410",
+        "brand": "한스",
+        "name": "한스.리버시블점퍼(양면)",
+        "price_sale": 52800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-158.jpg",
+        "colors": [
+            {
+                "name": "라임",
+                "add_price": 0
+            },
+            {
+                "name": "와인",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120411",
+        "brand": "한스",
+        "name": "한스.리본고양이맨투맨",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-159.jpg",
+        "colors": [
+            {
+                "name": "차콜",
+                "add_price": 0
+            },
+            {
+                "name": "크림",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120412",
+        "brand": "한스",
+        "name": "한스.리쥬란팬츠",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-160.jpg",
+        "colors": [
+            {
+                "name": "겨자",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120413",
+        "brand": "한스",
+        "name": "한스.리치두건",
+        "price_sale": 6400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-161.jpg",
+        "colors": [
+            {
+                "name": "민트그린",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120414",
+        "brand": "한스",
+        "name": "한스.리치앞치마",
+        "price_sale": 11200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-162.jpg",
+        "colors": [
+            {
+                "name": "민트그린",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120415",
+        "brand": "한스",
+        "name": "한스.머리띠",
+        "price_sale": 6400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-163.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "노랑",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120416",
+        "brand": "한스",
+        "name": "한스.볼레로가디건",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-164.jpg",
+        "colors": [
+            {
+                "name": "레몬",
+                "add_price": 0
+            },
+            {
+                "name": "메란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120417",
+        "brand": "한스",
+        "name": "한스.브이맨투맨",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-165.jpg",
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120418",
+        "brand": "한스",
+        "name": "한스.삼색비니",
+        "price_sale": 11200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-166.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "노랑",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "레드",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120419",
+        "brand": "한스",
+        "name": "한스.슈가단가라티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-167.jpg",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "카키베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120420",
+        "brand": "한스",
+        "name": "한스.앵두자수스커트",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-168.jpg",
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120421",
+        "brand": "한스",
+        "name": "한스.에쿠양말",
+        "price_sale": 8000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-169.jpg",
+        "colors": [
+            {
+                "name": "노랑",
+                "add_price": 0
+            },
+            {
+                "name": "메란",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120422",
+        "brand": "한스",
+        "name": "한스.와플뷔스티에",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-170.jpg",
+        "colors": [
+            {
+                "name": "백메란",
+                "add_price": 0
+            },
+            {
+                "name": "차콜",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 0
+            },
+            {
+                "name": "JM",
+                "add_price": 0
+            },
+            {
+                "name": "JL",
+                "add_price": 0
+            },
+            {
+                "name": "JXL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120423",
+        "brand": "한스",
+        "name": "한스.제니후드티",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-171.jpg",
+        "colors": [
+            {
+                "name": "블루",
+                "add_price": 0
+            },
+            {
+                "name": "연핑",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120424",
+        "brand": "한스",
+        "name": "한스.제스티9부팬츠",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-172.jpg",
+        "colors": [
+            {
+                "name": "딥블루",
+                "add_price": 0
+            },
+            {
+                "name": "인핑",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120425",
+        "brand": "한스",
+        "name": "한스.제스티조끼",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-173.jpg",
+        "colors": [
+            {
+                "name": "딥블루",
+                "add_price": 0
+            },
+            {
+                "name": "인핑",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120426",
+        "brand": "한스",
+        "name": "한스.컬러단작티",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-174.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "보라",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120427",
+        "brand": "한스",
+        "name": "한스.코튼ST티",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-175.jpg",
+        "colors": [
+            {
+                "name": "네이비",
+                "add_price": 0
+            },
+            {
+                "name": "자주",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120428",
+        "brand": "한스",
+        "name": "한스.타미핀턱팬츠",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-176.jpg",
+        "colors": [
+            {
+                "name": "딥블루",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120429",
+        "brand": "한스",
+        "name": "한스.타미헤어끈",
+        "price_sale": 6400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-177.jpg",
+        "colors": [
+            {
+                "name": "노랑",
+                "add_price": 0
+            },
+            {
+                "name": "메란",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "FREE",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120430",
+        "brand": "한스",
+        "name": "한스.테리ST나시",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-178.jpg",
+        "colors": [
+            {
+                "name": "와인",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120431",
+        "brand": "한스",
+        "name": "한스.테리ST팬츠",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-179.jpg",
+        "colors": [
+            {
+                "name": "와인",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 3000
+            },
+            {
+                "name": "JM",
+                "add_price": 3000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120432",
+        "brand": "한스",
+        "name": "한스.테리나시",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-180.jpg",
+        "colors": [
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "아쿠아",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120433",
+        "brand": "한스",
+        "name": "한스.테리팬츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-181.jpg",
+        "colors": [
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "아쿠아",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120434",
+        "brand": "한스",
+        "name": "한스.프라이아톰맨투맨",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-182.jpg",
+        "colors": [
+            {
+                "name": "그린",
+                "add_price": 0
+            },
+            {
+                "name": "노랑",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120435",
+        "brand": "한스",
+        "name": "한스.프릴자스민팬츠",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-183.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    },
+    {
+        "id": "2608120436",
+        "brand": "한스",
+        "name": "한스.핀프릴티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-184.jpg",
+        "colors": [
+            {
+                "name": "연두",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            },
+            {
+                "name": "JS",
+                "add_price": 2000
+            },
+            {
+                "name": "JM",
+                "add_price": 2000
+            }
+        ],
+        "mfg_date": "2026-08-12"
+    }
 ]

@@ -1,229 +1,72 @@
 [
-  {
-    "id": "2605270106",
-    "brand": "밀키",
-    "name": "밀키.알로하상하",
-    "price_sale": 14400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779823046/1_2_3661779823046.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/2C1779823046/1_2_3661779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/2_2_9861779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/3_2_9111779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/4_2_4511779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/5_2_3361779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/6_2_5421779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/7_2_9471779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/8_2_9371779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/9_2_3011779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/10_2_9571779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/11_2_2301779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/12_2_8941779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/13_2_6741779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/14_2_3391779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/15_2_8931779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/16_2_6241779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/17_2_8561779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/18_2_6351779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/19_2_5271779823046.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823046/20_2_5641779823046.jpg"
-    ],
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      },
-      {
-        "name": "연두",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2606020045",
-    "brand": "밀키",
-    "name": "밀키.패밀리아이스넥쿨러",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780339226/1_4_8541780339226.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/4C1780339226/1_4_8541780339226.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/2_4_3441780339226.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/3_4_2441780339226.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/4_4_2611780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/5_4_3531780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/6_4_5901780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/7_4_7381780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/8_4_2001780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/9_4_1941780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/10_4_7851780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/11_4_3441780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/12_4_7521780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/13_4_5581780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/14_4_261780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/15_4_1301780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/16_4_3431780339227.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/17_4_9131780339228.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/18_4_6911780339228.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/19_4_3531780339228.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780339226/20_4_9741780339228.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S아동",
-        "add_price": 0
-      },
-      {
-        "name": "M(8세~성인)",
-        "add_price": 0
-      },
-      {
-        "name": "L(성인남성용)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2606020069",
-    "brand": "밀키",
-    "name": "밀키.썸머래쉬가드",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780339226/1_3_451780339226.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/3C1780339226/1_3_451780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/2_3_1281780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/3_3_5351780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/4_3_1851780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/5_3_9451780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/6_3_3061780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/7_3_1901780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/8_3_9591780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/9_3_2541780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/10_3_1621780339226.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780339226/11_3_2531780339226.jpg"
-    ],
-    "colors": [
-      {
-        "name": "도트핑크",
-        "add_price": 0
-      },
-      {
-        "name": "도트블루",
-        "add_price": 0
-      },
-      {
-        "name": "도트옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "체크핑크",
-        "add_price": 0
-      },
-      {
-        "name": "체크블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2606020098",
-    "brand": "밀키",
-    "name": "밀키.비치볼2개세트",
-    "price_sale": 8000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780339225/1_2_7721780339225.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1780339225/1_2_7721780339225.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/2_2_6821780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/3_2_3771780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/4_2_7851780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/5_2_8861780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/6_2_5611780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/7_2_101780339226.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780339225/8_2_601780339226.jpg"
-    ],
-    "colors": [
-      {
-        "name": "유니콘",
-        "add_price": 0
-      },
-      {
-        "name": "플라밍고",
-        "add_price": 0
-      },
-      {
-        "name": "블루펄",
-        "add_price": 0
-      },
-      {
-        "name": "실버펄",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(30~40cm)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  }
+    {
+        "id": "2605270106",
+        "brand": "밀키",
+        "name": "밀키.알로하상하",
+        "price_sale": 14400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779823046/1_2_3661779823046.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/2C1779823046/1_2_3661779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/2_2_9861779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/3_2_9111779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/4_2_4511779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/5_2_3361779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/6_2_5421779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/7_2_9471779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/8_2_9371779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/9_2_3011779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/10_2_9571779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/11_2_2301779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/12_2_8941779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/13_2_6741779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/14_2_3391779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/15_2_8931779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/16_2_6241779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/17_2_8561779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/18_2_6351779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/19_2_5271779823046.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823046/20_2_5641779823046.jpg"
+        ],
+        "colors": [
+            {
+                "name": "옐로우",
+                "add_price": 0
+            },
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            },
+            {
+                "name": "연두",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    }
 ]

@@ -1,2722 +1,1898 @@
 [
-  {
-    "id": "2606040003",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베디톡스티",
-    "price_sale": 13600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1780559647/1_9_9511780559647.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040008",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베듀드티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1780559646/1_8_6621780559646.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040013",
-    "brand": "누누비엘",
-    "name": "누누비엘.머핀나시",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1780559645/1_7_3451780559645.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040018",
-    "brand": "누누비엘",
-    "name": "누누비엘.루트팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1780559644/1_6_1301780559644.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040023",
-    "brand": "누누비엘",
-    "name": "누누비엘.루트룸퍼",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1780559642/1_5_5751780559642.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040028",
-    "brand": "누누비엘",
-    "name": "누누비엘.디톡스티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780559641/1_4_8981780559641.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040033",
-    "brand": "누누비엘",
-    "name": "누누비엘.듀드티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780559641/1_3_521780559641.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040038",
-    "brand": "누누비엘",
-    "name": "누누비엘.그물조끼",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780559639/1_2_5031780559639.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040042",
-    "brand": "누누비엘",
-    "name": "누누비엘.하이슈트",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/23C1780559661/1_23_1411780559661.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040044",
-    "brand": "누누비엘",
-    "name": "누누비엘.하이세트",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/22C1780559661/1_22_421780559661.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040046",
-    "brand": "누누비엘",
-    "name": "누누비엘.톡톡가디건",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/21C1780559660/1_21_4391780559660.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "연핑크",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040048",
-    "brand": "누누비엘",
-    "name": "누누비엘.요요나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1780559660/1_20_8961780559660.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040051",
-    "brand": "누누비엘",
-    "name": "누누비엘.와플레깅스",
-    "price_sale": 13600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/19C1780559659/1_19_3711780559659.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040054",
-    "brand": "누누비엘",
-    "name": "누누비엘.와튼팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/18C1780559657/1_18_5401780559657.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040057",
-    "brand": "누누비엘",
-    "name": "누누비엘.와튼블루머",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/17C1780559656/1_17_4041780559656.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040060",
-    "brand": "누누비엘",
-    "name": "누누비엘.연꽃티",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/16C1780559655/1_16_2091780559655.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040063",
-    "brand": "누누비엘",
-    "name": "누누비엘.엠보나시",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1780559654/1_15_7151780559654.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040066",
-    "brand": "누누비엘",
-    "name": "누누비엘.아일렛나시",
-    "price_sale": 13600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1780559653/1_14_3701780559653.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040069",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베요요나시",
-    "price_sale": 11200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1780559652/1_13_3961780559652.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040072",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베와플레깅스",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1780559651/1_12_5801780559651.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040076",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베아일렛나시",
-    "price_sale": 12000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1780559650/1_11_8711780559650.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2606040081",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베머핀나시",
-    "price_sale": 12800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780559648/1_10_2621780559648.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-04"
-  },
-  {
-    "id": "2608040746",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베시나몬레깅스",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-452.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040747",
-    "brand": "누누비엘",
-    "name": "누누비엘.시나몬레깅스",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-453.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040748",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베어반티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-454.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040749",
-    "brand": "누누비엘",
-    "name": "누누비엘.어반티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-455.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040750",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베와플셔츠",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-456.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040751",
-    "brand": "누누비엘",
-    "name": "누누비엘.와플셔츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-457.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040752",
-    "brand": "누누비엘",
-    "name": "누누비엘.도쿄슈트",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-458.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "청록",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040753",
-    "brand": "누누비엘",
-    "name": "누누비엘.도쿄티",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-459.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "청록",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040754",
-    "brand": "누누비엘",
-    "name": "누누비엘.라라슈트",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-460.jpg",
-    "colors": [
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040755",
-    "brand": "누누비엘",
-    "name": "누누비엘.라라티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-461.jpg",
-    "colors": [
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040756",
-    "brand": "누누비엘",
-    "name": "누누비엘.조말론블루머",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-462.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040757",
-    "brand": "누누비엘",
-    "name": "누누비엘.조말론팬츠",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-463.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040758",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베크랙블라우스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-464.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "청록",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040759",
-    "brand": "누누비엘",
-    "name": "누누비엘.크랙블라우스",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-465.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "청록",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040760",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베수선화블라우스",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-466.jpg",
-    "colors": [
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040761",
-    "brand": "누누비엘",
-    "name": "누누비엘.수선화블라우스",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-467.jpg",
-    "colors": [
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040762",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베타이블라우스",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-468.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040763",
-    "brand": "누누비엘",
-    "name": "누누비엘.타이블라우스",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-469.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040764",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베체크블라우스",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-470.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040765",
-    "brand": "누누비엘",
-    "name": "누누비엘.체크블라우스",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-471.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040766",
-    "brand": "누누비엘",
-    "name": "누누비엘.에픽가디건",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-472.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040767",
-    "brand": "누누비엘",
-    "name": "누누비엘.골지슈트",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-473.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040768",
-    "brand": "누누비엘",
-    "name": "누누비엘.골지원피스",
-    "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-474.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040769",
-    "brand": "누누비엘",
-    "name": "누누비엘.몽블랑룸퍼",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-475.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040770",
-    "brand": "누누비엘",
-    "name": "누누비엘.몽블랑팬츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-476.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040771",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베프라다티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-477.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040772",
-    "brand": "누누비엘",
-    "name": "누누비엘.프라다티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-478.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040773",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베주사기티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-479.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040774",
-    "brand": "누누비엘",
-    "name": "누누비엘.주사기티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-480.jpg",
-    "colors": [
-      {
-        "name": "오트밀",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040775",
-    "brand": "누누비엘",
-    "name": "누누비엘.도로시룸퍼",
-    "price_sale": 36800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-481.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040776",
-    "brand": "누누비엘",
-    "name": "누누비엘.도로시원피스",
-    "price_sale": 46400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-482.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040777",
-    "brand": "누누비엘",
-    "name": "누누비엘.소녀원피스",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-483.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040778",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베글로리아티",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-484.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040779",
-    "brand": "누누비엘",
-    "name": "누누비엘.글로리아티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-485.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040780",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베마블티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-486.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040781",
-    "brand": "누누비엘",
-    "name": "누누비엘.마블티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-487.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040782",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베에이샤블라우스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-488.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040783",
-    "brand": "누누비엘",
-    "name": "누누비엘.에이샤블라우스",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-489.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040784",
-    "brand": "누누비엘",
-    "name": "누누비엘.데님팬츠",
-    "price_sale": 29600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-490.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040785",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베재클린티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-491.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040786",
-    "brand": "누누비엘",
-    "name": "누누비엘.재클린티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-492.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040787",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베무화과조끼",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-493.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040788",
-    "brand": "누누비엘",
-    "name": "누누비엘.무화과조끼",
-    "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-494.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040789",
-    "brand": "누누비엘",
-    "name": "누누비엘.오르너룸퍼",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-495.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040790",
-    "brand": "누누비엘",
-    "name": "누누비엘.오르너스커트",
-    "price_sale": 36800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-496.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040791",
-    "brand": "누누비엘",
-    "name": "누누비엘.베베나비티",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-497.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040792",
-    "brand": "누누비엘",
-    "name": "누누비엘.나비티",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-498.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040793",
-    "brand": "누누비엘",
-    "name": "누누비엘.레이스슈트",
-    "price_sale": 28800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-499.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040794",
-    "brand": "누누비엘",
-    "name": "누누비엘.레이스맨투맨",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-500.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  },
-  {
-    "id": "2608040795",
-    "brand": "누누비엘",
-    "name": "누누비엘.조이조끼",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-501.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-05"
-  }
+    {
+        "id": "2608040746",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베시나몬레깅스",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-452.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040747",
+        "brand": "누누비엘",
+        "name": "누누비엘.시나몬레깅스",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-453.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040748",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베어반티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-454.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040749",
+        "brand": "누누비엘",
+        "name": "누누비엘.어반티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-455.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040750",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베와플셔츠",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-456.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040751",
+        "brand": "누누비엘",
+        "name": "누누비엘.와플셔츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-457.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040752",
+        "brand": "누누비엘",
+        "name": "누누비엘.도쿄슈트",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-458.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "청록",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040753",
+        "brand": "누누비엘",
+        "name": "누누비엘.도쿄티",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-459.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "청록",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040754",
+        "brand": "누누비엘",
+        "name": "누누비엘.라라슈트",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-460.jpg",
+        "colors": [
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040755",
+        "brand": "누누비엘",
+        "name": "누누비엘.라라티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-461.jpg",
+        "colors": [
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040756",
+        "brand": "누누비엘",
+        "name": "누누비엘.조말론블루머",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-462.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040757",
+        "brand": "누누비엘",
+        "name": "누누비엘.조말론팬츠",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-463.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040758",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베크랙블라우스",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-464.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "청록",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040759",
+        "brand": "누누비엘",
+        "name": "누누비엘.크랙블라우스",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-465.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "청록",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040760",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베수선화블라우스",
+        "price_sale": 24000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-466.jpg",
+        "colors": [
+            {
+                "name": "오렌지",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040761",
+        "brand": "누누비엘",
+        "name": "누누비엘.수선화블라우스",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-467.jpg",
+        "colors": [
+            {
+                "name": "오렌지",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040762",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베타이블라우스",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-468.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040763",
+        "brand": "누누비엘",
+        "name": "누누비엘.타이블라우스",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-469.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040764",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베체크블라우스",
+        "price_sale": 27200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-470.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040765",
+        "brand": "누누비엘",
+        "name": "누누비엘.체크블라우스",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-471.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040766",
+        "brand": "누누비엘",
+        "name": "누누비엘.에픽가디건",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-472.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040767",
+        "brand": "누누비엘",
+        "name": "누누비엘.골지슈트",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-473.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040768",
+        "brand": "누누비엘",
+        "name": "누누비엘.골지원피스",
+        "price_sale": 38400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-474.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040769",
+        "brand": "누누비엘",
+        "name": "누누비엘.몽블랑룸퍼",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-475.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040770",
+        "brand": "누누비엘",
+        "name": "누누비엘.몽블랑팬츠",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-476.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040771",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베프라다티",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-477.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040772",
+        "brand": "누누비엘",
+        "name": "누누비엘.프라다티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-478.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "카키",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040773",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베주사기티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-479.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040774",
+        "brand": "누누비엘",
+        "name": "누누비엘.주사기티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-480.jpg",
+        "colors": [
+            {
+                "name": "오트밀",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040775",
+        "brand": "누누비엘",
+        "name": "누누비엘.도로시룸퍼",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-481.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040776",
+        "brand": "누누비엘",
+        "name": "누누비엘.도로시원피스",
+        "price_sale": 46400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-482.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040777",
+        "brand": "누누비엘",
+        "name": "누누비엘.소녀원피스",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-483.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040778",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베글로리아티",
+        "price_sale": 14400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-484.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040779",
+        "brand": "누누비엘",
+        "name": "누누비엘.글로리아티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-485.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040780",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베마블티",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-486.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040781",
+        "brand": "누누비엘",
+        "name": "누누비엘.마블티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-487.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040782",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베에이샤블라우스",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-488.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040783",
+        "brand": "누누비엘",
+        "name": "누누비엘.에이샤블라우스",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-489.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040784",
+        "brand": "누누비엘",
+        "name": "누누비엘.데님팬츠",
+        "price_sale": 29600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-490.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040785",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베재클린티",
+        "price_sale": 17600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-491.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040786",
+        "brand": "누누비엘",
+        "name": "누누비엘.재클린티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-492.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040787",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베무화과조끼",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-493.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040788",
+        "brand": "누누비엘",
+        "name": "누누비엘.무화과조끼",
+        "price_sale": 40000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-494.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "그레이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040789",
+        "brand": "누누비엘",
+        "name": "누누비엘.오르너룸퍼",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-495.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040790",
+        "brand": "누누비엘",
+        "name": "누누비엘.오르너스커트",
+        "price_sale": 36800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-496.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040791",
+        "brand": "누누비엘",
+        "name": "누누비엘.베베나비티",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-497.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040792",
+        "brand": "누누비엘",
+        "name": "누누비엘.나비티",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-498.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040793",
+        "brand": "누누비엘",
+        "name": "누누비엘.레이스슈트",
+        "price_sale": 28800,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-499.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040794",
+        "brand": "누누비엘",
+        "name": "누누비엘.레이스맨투맨",
+        "price_sale": 25600,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-500.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    },
+    {
+        "id": "2608040795",
+        "brand": "누누비엘",
+        "name": "누누비엘.조이조끼",
+        "price_sale": 19200,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-501.jpg",
+        "colors": [
+            {
+                "name": "크림",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-05"
+    }
 ]

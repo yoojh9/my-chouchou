@@ -1,998 +1,890 @@
 [
-  {
-    "id": "2606020040",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.로즈플라워슈트",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780373953/1_4_4381780373953.jpg",
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2606020064",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.로렌블라우스",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780373951/1_3_5761780373951.jpg",
-    "colors": [
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "머스타드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2606020093",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.드메르원피스",
-    "price_sale": 36800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780373950/1_2_8691780373950.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2608030624",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.베이글리오버롤",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-133.jpg",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030625",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.누비아가디건",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-134.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030626",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.멜로우카라세트",
-    "price_sale": 48000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-135.jpg",
-    "colors": [
-      {
-        "name": "베이지꽃",
-        "add_price": 0
-      },
-      {
-        "name": "블랙꽃",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030627",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.마카롱블루머",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-136.jpg",
-    "colors": [
-      {
-        "name": "오트밀베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진밤",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030628",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.데일리포켓팬츠",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-137.jpg",
-    "colors": [
-      {
-        "name": "브릭",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030629",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.아멜리아슈트",
-    "price_sale": 32000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-138.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "더스티블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-04"
-  },
-  {
-    "id": "2608030454",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.크리미스커트",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1785736418/1_20_7811785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "더스티베이지",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030065",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.루비플라워팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1785736418/1_7_891785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진곤색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030092",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.루루캉캉티",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1785736418/1_6_6871785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "딥핑크",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030329",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.라비앙블라우스",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1785736418/1_2_3361785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030544",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.미니콩오버롤",
-    "price_sale": 41600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1785736418/1_14_4371785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "밤색",
-        "add_price": 0
-      },
-      {
-        "name": "먹색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030608",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.마렌프릴티",
-    "price_sale": 20800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1785736418/1_10_5951785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030013",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.마렌터킹팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1785736418/1_9_2711785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "모카",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030039",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.리샤줄티",
-    "price_sale": 16000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1785736418/1_8_3861785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "핑크줄",
-        "add_price": 0
-      },
-      {
-        "name": "밤색줄",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030576",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.메종플레르세트",
-    "price_sale": 38400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1785736418/1_12_2881785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "인디핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030468",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.주름에이프런원피스",
-    "price_sale": 35200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1785736418/1_19_3951785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "밤색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030483",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.안나앤카라티",
-    "price_sale": 24000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1785736418/1_18_9201785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "연베이지",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030118",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.레브코튼오버롤",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1785736418/1_5_5971785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "진밤",
-        "add_price": 0
-      },
-      {
-        "name": "연베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030513",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.세인트블라우스",
-    "price_sale": 27200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1785736418/1_16_3911785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030151",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.데일리포켓팬츠",
-    "price_sale": 22400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1785736418/1_4_2441785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "브릭",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      },
-      {
-        "name": "L(18~24m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030207",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.누비아가디건",
-    "price_sale": 22400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1785736418/1_3_3251785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "모카",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      },
-      {
-        "name": "L(18~24m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030498",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.아멜리아슈트",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1785736418/1_17_6441785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "더스티블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030529",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.베이글리오버롤",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1785736418/1_15_7571785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      },
-      {
-        "name": "L(18~24m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030560",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.멜로우카라세트",
-    "price_sale": 48000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1785736418/1_13_511785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "베이지꽃",
-        "add_price": 0
-      },
-      {
-        "name": "블랙꽃",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~12m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(12~18m)",
-        "add_price": 0
-      },
-      {
-        "name": "L(18~24m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  },
-  {
-    "id": "2608030592",
-    "brand": "몽쁘띠베베",
-    "name": "몽쁘띠베베.마카롱블루머",
-    "price_sale": 32000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1785736418/1_11_5971785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
-    "colors": [
-      {
-        "name": "오트밀베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진밤",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S(6~10m)",
-        "add_price": 0
-      },
-      {
-        "name": "M(10~16m)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-03"
-  }
+    {
+        "id": "2608030624",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.베이글리오버롤",
+        "price_sale": 30400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-133.jpg",
+        "colors": [
+            {
+                "name": "버건디",
+                "add_price": 0
+            },
+            {
+                "name": "진베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030625",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.누비아가디건",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-134.jpg",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030626",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.멜로우카라세트",
+        "price_sale": 48000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-135.jpg",
+        "colors": [
+            {
+                "name": "베이지꽃",
+                "add_price": 0
+            },
+            {
+                "name": "블랙꽃",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030627",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.마카롱블루머",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-136.jpg",
+        "colors": [
+            {
+                "name": "오트밀베이지",
+                "add_price": 0
+            },
+            {
+                "name": "진밤",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030628",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.데일리포켓팬츠",
+        "price_sale": 22400,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-137.jpg",
+        "colors": [
+            {
+                "name": "브릭",
+                "add_price": 0
+            },
+            {
+                "name": "진베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030629",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.아멜리아슈트",
+        "price_sale": 32000,
+        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0804/mo0804-138.jpg",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "더스티블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-04"
+    },
+    {
+        "id": "2608030454",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.크리미스커트",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/20C1785736418/1_20_7811785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "더스티베이지",
+                "add_price": 0
+            },
+            {
+                "name": "크림",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030065",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.루비플라워팬츠",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1785736418/1_7_891785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "진곤색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030092",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.루루캉캉티",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1785736418/1_6_6871785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "딥핑크",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030329",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.라비앙블라우스",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1785736418/1_2_3361785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030544",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.미니콩오버롤",
+        "price_sale": 41600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/14C1785736418/1_14_4371785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "밤색",
+                "add_price": 0
+            },
+            {
+                "name": "먹색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030608",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.마렌프릴티",
+        "price_sale": 20800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1785736418/1_10_5951785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030013",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.마렌터킹팬츠",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1785736418/1_9_2711785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "모카",
+                "add_price": 0
+            },
+            {
+                "name": "베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030039",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.리샤줄티",
+        "price_sale": 16000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1785736418/1_8_3861785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "핑크줄",
+                "add_price": 0
+            },
+            {
+                "name": "밤색줄",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030576",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.메종플레르세트",
+        "price_sale": 38400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1785736418/1_12_2881785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "그레이",
+                "add_price": 0
+            },
+            {
+                "name": "인디핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030468",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.주름에이프런원피스",
+        "price_sale": 35200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1785736418/1_19_3951785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "밤색",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030483",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.안나앤카라티",
+        "price_sale": 24000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/18C1785736418/1_18_9201785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "연베이지",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030118",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.레브코튼오버롤",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1785736418/1_5_5971785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "진밤",
+                "add_price": 0
+            },
+            {
+                "name": "연베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030513",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.세인트블라우스",
+        "price_sale": 27200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1785736418/1_16_3911785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "브라운",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "XS",
+                "add_price": 0
+            },
+            {
+                "name": "S",
+                "add_price": 0
+            },
+            {
+                "name": "M",
+                "add_price": 0
+            },
+            {
+                "name": "L",
+                "add_price": 0
+            },
+            {
+                "name": "XL",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030151",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.데일리포켓팬츠",
+        "price_sale": 22400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1785736418/1_4_2441785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "브릭",
+                "add_price": 0
+            },
+            {
+                "name": "진베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~12m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(12~18m)",
+                "add_price": 0
+            },
+            {
+                "name": "L(18~24m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030207",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.누비아가디건",
+        "price_sale": 22400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1785736418/1_3_3251785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            },
+            {
+                "name": "모카",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~12m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(12~18m)",
+                "add_price": 0
+            },
+            {
+                "name": "L(18~24m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030498",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.아멜리아슈트",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/17C1785736418/1_17_6441785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "베이지",
+                "add_price": 0
+            },
+            {
+                "name": "더스티블루",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~12m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(12~18m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030529",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.베이글리오버롤",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1785736418/1_15_7571785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "버건디",
+                "add_price": 0
+            },
+            {
+                "name": "진베이지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~12m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(12~18m)",
+                "add_price": 0
+            },
+            {
+                "name": "L(18~24m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030560",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.멜로우카라세트",
+        "price_sale": 48000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1785736418/1_13_511785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "베이지꽃",
+                "add_price": 0
+            },
+            {
+                "name": "블랙꽃",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~12m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(12~18m)",
+                "add_price": 0
+            },
+            {
+                "name": "L(18~24m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    },
+    {
+        "id": "2608030592",
+        "brand": "몽쁘띠베베",
+        "name": "몽쁘띠베베.마카롱블루머",
+        "price_sale": 32000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1785736418/1_11_5971785736418.jpg?kvdl=xls_ykwon89_1785854856_77bc1b11",
+        "colors": [
+            {
+                "name": "오트밀베이지",
+                "add_price": 0
+            },
+            {
+                "name": "진밤",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "S(6~10m)",
+                "add_price": 0
+            },
+            {
+                "name": "M(10~16m)",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-08-03"
+    }
 ]

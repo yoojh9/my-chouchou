@@ -1,222 +1,74 @@
 [
-  {
-    "id": "2606010071",
-    "brand": "푸딩",
-    "name": "푸딩.26여름끈상하",
-    "price_sale": 35200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1780298222/1_15_7981780298222.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-01"
-  },
-  {
-    "id": "2606050014",
-    "brand": "푸딩",
-    "name": "푸딩.26민소매브라우스",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1780625591/1_10_5511780625591.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-05"
-  },
-  {
-    "id": "2606080148",
-    "brand": "푸딩",
-    "name": "푸딩.26여름엘리브라우스",
-    "price_sale": 17600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780881434/1_19_9581780881434.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-08"
-  },
-  {
-    "id": "2606110032",
-    "brand": "푸딩",
-    "name": "푸딩.26여름루아원피스",
-    "price_sale": 44800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781147371/1_4_9081781147371.jpg",
-    "colors": [
-      {
-        "name": "살구핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-11"
-  },
-  {
-    "id": "2606160017",
-    "brand": "푸딩",
-    "name": "푸딩.여름자수하프팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1781602151/1_5_7811781602151.jpg",
-    "colors": [
-      {
-        "name": "버건디",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-16"
-  },
-  {
-    "id": "2606160023",
-    "brand": "푸딩",
-    "name": "푸딩.여름시스루가디건",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781602151/1_4_1221781602151.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-16"
-  }
+    {
+        "id": "2606080148",
+        "brand": "푸딩",
+        "name": "푸딩.26여름엘리브라우스",
+        "price_sale": 17600,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/19C1780881434/1_19_9581780881434.jpg",
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "5",
+                "add_price": 0
+            },
+            {
+                "name": "7",
+                "add_price": 0
+            },
+            {
+                "name": "9",
+                "add_price": 0
+            },
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-08"
+    },
+    {
+        "id": "2606110032",
+        "brand": "푸딩",
+        "name": "푸딩.26여름루아원피스",
+        "price_sale": 44800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781147371/1_4_9081781147371.jpg",
+        "colors": [
+            {
+                "name": "살구핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "5",
+                "add_price": 0
+            },
+            {
+                "name": "7",
+                "add_price": 0
+            },
+            {
+                "name": "9",
+                "add_price": 0
+            },
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-11"
+    }
 ]

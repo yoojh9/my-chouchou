@@ -1,165 +1,127 @@
 [
-  {
-    "id": "2606020091",
-    "brand": "러블리",
-    "name": "러블리.15번원피스",
-    "price_sale": 52800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780377451/1_2_251780377451.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1780377451/1_2_251780377451.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780377451/2_2_5881780377451.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780377451/3_2_6071780377451.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780377451/4_2_4211780377451.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-02"
-  },
-  {
-    "id": "2606100061",
-    "brand": "러블리",
-    "name": "러블리.NO18번원피스",
-    "price_sale": 44800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781079467/1_4_5131781079467.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/4C1781079467/1_4_5131781079467.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1781079467/2_4_2991781079467.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1781079467/3_4_9931781079467.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-10"
-  },
-  {
-    "id": "2606100076",
-    "brand": "러블리",
-    "name": "러블리.NO17번원피스",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781079467/1_3_4481781079467.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/3C1781079467/1_3_4481781079467.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1781079467/2_3_8151781079467.jpg"
-    ],
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-10"
-  },
-  {
-    "id": "2606100091",
-    "brand": "러블리",
-    "name": "러블리.NO16번원피스",
-    "price_sale": 51200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781079467/1_2_8361781079467.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/2C1781079467/1_2_8361781079467.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1781079467/2_2_4371781079467.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-10"
-  }
+    {
+        "id": "2606100061",
+        "brand": "러블리",
+        "name": "러블리.NO18번원피스",
+        "price_sale": 44800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1781079467/1_4_5131781079467.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/4C1781079467/1_4_5131781079467.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1781079467/2_4_2991781079467.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1781079467/3_4_9931781079467.jpg"
+        ],
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "5",
+                "add_price": 0
+            },
+            {
+                "name": "7",
+                "add_price": 0
+            },
+            {
+                "name": "9",
+                "add_price": 0
+            },
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-10"
+    },
+    {
+        "id": "2606100076",
+        "brand": "러블리",
+        "name": "러블리.NO17번원피스",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781079467/1_3_4481781079467.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/3C1781079467/1_3_4481781079467.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1781079467/2_3_8151781079467.jpg"
+        ],
+        "colors": [
+            {
+                "name": "핑크",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "5",
+                "add_price": 0
+            },
+            {
+                "name": "7",
+                "add_price": 0
+            },
+            {
+                "name": "9",
+                "add_price": 0
+            },
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-10"
+    },
+    {
+        "id": "2606100091",
+        "brand": "러블리",
+        "name": "러블리.NO16번원피스",
+        "price_sale": 51200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781079467/1_2_8361781079467.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/2C1781079467/1_2_8361781079467.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1781079467/2_2_4371781079467.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "5",
+                "add_price": 0
+            },
+            {
+                "name": "7",
+                "add_price": 0
+            },
+            {
+                "name": "9",
+                "add_price": 0
+            },
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-06-10"
+    }
 ]

@@ -1,734 +1,401 @@
 [
-  {
-    "id": "2605270018",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.하트냥이티",
-    "price_sale": 28800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779823026/1_8_9361779823026.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/8C1779823026/1_8_9361779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/2_8_7741779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/3_8_8441779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/4_8_7001779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/5_8_2151779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/6_8_3551779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/7_8_8761779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/8_8_1531779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/9_8_9201779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/10_8_4881779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/11_8_9951779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/12_8_3621779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/13_8_6041779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/14_8_7091779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/15_8_1561779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/16_8_8421779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/17_8_4121779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/18_8_1511779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/8C1779823026/19_8_2631779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "멜란지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270028",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.쿨링벌룬바지",
-    "price_sale": 30400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779823026/1_7_4411779823026.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/7C1779823026/1_7_4411779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/2_7_1161779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/3_7_7141779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/4_7_7941779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/5_7_2371779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/6_7_7021779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/7_7_9951779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/8_7_4211779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/9_7_8511779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/10_7_6751779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/11_7_5901779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/12_7_9961779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/13_7_6291779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/14_7_7751779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/15_7_3301779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/16_7_771779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/17_7_8311779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/18_7_3031779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/19_7_4941779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/7C1779823026/20_7_6401779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270038",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.스쿨치마",
-    "price_sale": 19200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779823026/1_6_7631779823026.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/6C1779823026/1_6_7631779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/2_6_4401779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/3_6_5101779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/4_6_1761779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/5_6_9381779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/6_6_5651779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/7_6_6111779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/6C1779823026/8_6_8411779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "보라",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      },
-      {
-        "name": "19",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270048",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.삼선쇼츠",
-    "price_sale": 27200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779823026/1_5_3521779823026.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/5C1779823026/1_5_3521779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/2_5_1211779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/3_5_9871779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/4_5_2011779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/5_5_1831779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/6_5_1481779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/7_5_6791779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/8_5_1681779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/9_5_1451779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/10_5_9541779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/11_5_1841779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/12_5_3331779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/13_5_4481779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/14_5_561779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/15_5_9721779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/16_5_4161779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/17_5_8091779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/18_5_6321779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/19_5_2801779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/5C1779823026/20_5_2041779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "메란지",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270059",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.랩부츠컷바지(래쉬가드겸용)",
-    "price_sale": 28800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779823026/1_4_1881779823026.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/4C1779823026/1_4_1881779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/2_4_4941779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/3_4_8711779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/4_4_6381779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/5_4_9681779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/6_4_7521779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/7_4_6601779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/8_4_8631779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/9_4_3941779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/10_4_1301779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/11_4_1601779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/12_4_3061779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/13_4_4121779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/14_4_4971779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/15_4_541779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/16_4_4341779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/17_4_9031779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/18_4_8751779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/19_4_5051779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/4C1779823026/20_4_8731779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270075",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.데님쇼츠",
-    "price_sale": 40000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779823025/1_3_2811779823025.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/3C1779823025/1_3_2811779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/2_3_3361779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/3_3_7481779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/4_3_221779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/5_3_4051779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/6_3_8201779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/7_3_701779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/8_3_9701779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/9_3_4761779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/10_3_6151779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/11_3_1141779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/12_3_8481779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/13_3_621779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/14_3_1611779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/15_3_4781779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/16_3_9851779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/17_3_9961779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/18_3_2741779823026.jpg",
-      "https://kidsvillage.co.kr/data/item/3C1779823025/19_3_161779823026.jpg"
-    ],
-    "colors": [
-      {
-        "name": "진청",
-        "add_price": 0
-      },
-      {
-        "name": "중청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2605270108",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.6부벌룬데님",
-    "price_sale": 46400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779823025/1_2_4461779823025.jpg",
-    "detail_images": [
-      "https://kidsvillage.co.kr/data/item/2C1779823025/1_2_4461779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/2_2_471779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/3_2_6291779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/4_2_9221779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/5_2_8351779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/6_2_7961779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/7_2_311779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/8_2_1911779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/9_2_2191779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/10_2_8541779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/11_2_4501779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/12_2_4731779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/13_2_8811779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/14_2_211779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/15_2_8951779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/16_2_6421779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/17_2_4701779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/18_2_2971779823025.jpg",
-      "https://kidsvillage.co.kr/data/item/2C1779823025/19_2_9111779823025.jpg"
-    ],
-    "colors": [
-      {
-        "name": "청",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-05-27"
-  },
-  {
-    "id": "2606010025",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.베이직티",
-    "price_sale": 25600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1780251983/1_4_5561780251983.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/4C1780251983/1_4_5561780251983.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/2_4_8211780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/3_4_7361780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/4_4_3351780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/5_4_2611780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/6_4_9811780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/7_4_7421780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/8_4_691780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/9_4_9421780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/10_4_8571780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/11_4_5631780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/12_4_2951780251984.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/13_4_7521780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/14_4_9501780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/15_4_6901780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/16_4_9241780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/17_4_2321780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/18_4_2311780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/19_4_4981780251985.jpg",
-      "https://img2.kidsvillage.co.kr/4C1780251983/20_4_4081780251985.jpg"
-    ],
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "곤색",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-01"
-  },
-  {
-    "id": "2606010030",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.랩통바지",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1780251982/1_3_1711780251982.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/3C1780251982/1_3_1711780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/2_3_2811780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/3_3_5411780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/4_3_5741780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/5_3_1761780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/6_3_4391780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/7_3_3551780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/8_3_7151780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/9_3_2141780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/10_3_6001780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/11_3_6901780251982.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/12_3_9331780251983.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/13_3_2901780251983.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/14_3_5741780251983.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/15_3_7641780251983.jpg",
-      "https://img2.kidsvillage.co.kr/3C1780251982/16_3_3811780251983.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-01"
-  },
-  {
-    "id": "2606010041",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.래쉬가드레이어드티",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1780251980/1_2_561780251980.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1780251980/1_2_561780251980.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/2_2_3541780251980.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/3_2_7791780251980.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/4_2_4401780251980.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/5_2_2451780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/6_2_4061780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/7_2_8081780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/8_2_9611780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/9_2_1151780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/10_2_4931780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/11_2_3521780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/12_2_8941780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/13_2_3871780251981.jpg",
-      "https://img2.kidsvillage.co.kr/2C1780251980/14_2_3951780251982.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-01"
-  },
-  {
-    "id": "2606160022",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.라벨이중티",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1781621566/1_4_6461781621566.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/4C1781621566/1_4_6461781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/2_4_4791781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/3_4_4871781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/4_4_8181781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/5_4_6131781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/6_4_5481781621566.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/7_4_4981781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/8_4_601781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/9_4_3671781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/10_4_7701781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/11_4_731781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/12_4_2471781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/13_4_8651781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/14_4_9831781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/15_4_221781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/16_4_8781781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/17_4_9611781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/18_4_3551781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/19_4_6821781621567.jpg",
-      "https://img2.kidsvillage.co.kr/4C1781621566/20_4_8091781621567.jpg"
-    ],
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-16"
-  },
-  {
-    "id": "2606160028",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.단작티",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1781621565/1_3_941781621565.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/3C1781621565/1_3_941781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/2_3_9091781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/3_3_7751781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/4_3_121781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/5_3_9781781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/6_3_3321781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/7_3_8041781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/8_3_8471781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/9_3_7381781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/10_3_8091781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/11_3_7151781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/12_3_7961781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/13_3_5711781621565.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/14_3_9601781621566.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/15_3_6451781621566.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/16_3_2141781621566.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/17_3_1971781621566.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/18_3_7641781621566.jpg",
-      "https://img2.kidsvillage.co.kr/3C1781621565/19_3_4861781621566.jpg"
-    ],
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-16"
-  },
-  {
-    "id": "2606160034",
-    "brand": "삐삐다이어리",
-    "name": "삐삐다이어리.골지카라티",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1781621563/1_2_571781621563.jpg",
-    "detail_images": [
-      "https://img2.kidsvillage.co.kr/2C1781621563/1_2_571781621563.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/2_2_7621781621563.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/3_2_2441781621563.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/4_2_8491781621563.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/5_2_6431781621563.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/6_2_2371781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/7_2_1191781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/8_2_2721781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/9_2_4481781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/10_2_7151781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/11_2_01781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/12_2_1721781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/13_2_1341781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/14_2_611781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/15_2_6791781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/16_2_4461781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/17_2_8181781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/18_2_2721781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/19_2_121781621564.jpg",
-      "https://img2.kidsvillage.co.kr/2C1781621563/20_2_8791781621565.jpg"
-    ],
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "소라",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      },
-      {
-        "name": "15",
-        "add_price": 0
-      },
-      {
-        "name": "17",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-16"
-  }
+    {
+        "id": "2605270018",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.하트냥이티",
+        "price_sale": 28800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779823026/1_8_9361779823026.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/8C1779823026/1_8_9361779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/2_8_7741779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/3_8_8441779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/4_8_7001779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/5_8_2151779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/6_8_3551779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/7_8_8761779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/8_8_1531779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/9_8_9201779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/10_8_4881779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/11_8_9951779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/12_8_3621779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/13_8_6041779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/14_8_7091779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/15_8_1561779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/16_8_8421779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/17_8_4121779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/18_8_1511779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/8C1779823026/19_8_2631779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "화이트",
+                "add_price": 0
+            },
+            {
+                "name": "멜란지",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270028",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.쿨링벌룬바지",
+        "price_sale": 30400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779823026/1_7_4411779823026.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/7C1779823026/1_7_4411779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/2_7_1161779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/3_7_7141779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/4_7_7941779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/5_7_2371779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/6_7_7021779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/7_7_9951779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/8_7_4211779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/9_7_8511779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/10_7_6751779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/11_7_5901779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/12_7_9961779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/13_7_6291779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/14_7_7751779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/15_7_3301779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/16_7_771779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/17_7_8311779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/18_7_3031779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/19_7_4941779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/7C1779823026/20_7_6401779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270038",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.스쿨치마",
+        "price_sale": 19200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779823026/1_6_7631779823026.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/6C1779823026/1_6_7631779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/2_6_4401779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/3_6_5101779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/4_6_1761779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/5_6_9381779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/6_6_5651779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/7_6_6111779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/6C1779823026/8_6_8411779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "아이보리",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            },
+            {
+                "name": "보라",
+                "add_price": 0
+            },
+            {
+                "name": "소라",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            },
+            {
+                "name": "19",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270048",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.삼선쇼츠",
+        "price_sale": 27200,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779823026/1_5_3521779823026.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/5C1779823026/1_5_3521779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/2_5_1211779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/3_5_9871779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/4_5_2011779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/5_5_1831779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/6_5_1481779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/7_5_6791779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/8_5_1681779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/9_5_1451779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/10_5_9541779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/11_5_1841779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/12_5_3331779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/13_5_4481779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/14_5_561779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/15_5_9721779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/16_5_4161779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/17_5_8091779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/18_5_6321779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/19_5_2801779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/5C1779823026/20_5_2041779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "메란지",
+                "add_price": 0
+            },
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270059",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.랩부츠컷바지(래쉬가드겸용)",
+        "price_sale": 28800,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779823026/1_4_1881779823026.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/4C1779823026/1_4_1881779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/2_4_4941779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/3_4_8711779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/4_4_6381779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/5_4_9681779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/6_4_7521779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/7_4_6601779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/8_4_8631779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/9_4_3941779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/10_4_1301779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/11_4_1601779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/12_4_3061779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/13_4_4121779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/14_4_4971779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/15_4_541779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/16_4_4341779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/17_4_9031779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/18_4_8751779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/19_4_5051779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/4C1779823026/20_4_8731779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "검정",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270075",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.데님쇼츠",
+        "price_sale": 40000,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779823025/1_3_2811779823025.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/3C1779823025/1_3_2811779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/2_3_3361779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/3_3_7481779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/4_3_221779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/5_3_4051779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/6_3_8201779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/7_3_701779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/8_3_9701779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/9_3_4761779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/10_3_6151779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/11_3_1141779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/12_3_8481779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/13_3_621779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/14_3_1611779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/15_3_4781779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/16_3_9851779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/17_3_9961779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/18_3_2741779823026.jpg",
+            "https://kidsvillage.co.kr/data/item/3C1779823025/19_3_161779823026.jpg"
+        ],
+        "colors": [
+            {
+                "name": "진청",
+                "add_price": 0
+            },
+            {
+                "name": "중청",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    },
+    {
+        "id": "2605270108",
+        "brand": "삐삐다이어리",
+        "name": "삐삐다이어리.6부벌룬데님",
+        "price_sale": 46400,
+        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779823025/1_2_4461779823025.jpg",
+        "detail_images": [
+            "https://kidsvillage.co.kr/data/item/2C1779823025/1_2_4461779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/2_2_471779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/3_2_6291779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/4_2_9221779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/5_2_8351779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/6_2_7961779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/7_2_311779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/8_2_1911779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/9_2_2191779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/10_2_8541779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/11_2_4501779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/12_2_4731779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/13_2_8811779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/14_2_211779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/15_2_8951779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/16_2_6421779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/17_2_4701779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/18_2_2971779823025.jpg",
+            "https://kidsvillage.co.kr/data/item/2C1779823025/19_2_9111779823025.jpg"
+        ],
+        "colors": [
+            {
+                "name": "청",
+                "add_price": 0
+            },
+            {
+                "name": "블랙",
+                "add_price": 0
+            }
+        ],
+        "sizes": [
+            {
+                "name": "11",
+                "add_price": 0
+            },
+            {
+                "name": "13",
+                "add_price": 0
+            },
+            {
+                "name": "15",
+                "add_price": 0
+            },
+            {
+                "name": "17",
+                "add_price": 0
+            }
+        ],
+        "mfg_date": "2026-05-27"
+    }
 ]
