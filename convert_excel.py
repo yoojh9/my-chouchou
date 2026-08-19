@@ -107,10 +107,20 @@ def parse_options(opt_name, opt_val, opt_price):
     return colors, sizes
 
 
+def strip_kvdl(url: str) -> str:
+    """kidsvillage 이미지 URL의 ?kvdl=xls_... 트래픽 태그 쿼리 제거.
+
+    이 토큰은 접근 제어가 아닌 계정 트래픽 태그로, 제거해도 이미지는 정상 로드된다.
+    붙은 채로 두면 뷰어에서 이미지가 뜰 때마다 계정 트래픽으로 집계된다.
+    """
+    return re.sub(r"\?kvdl=[^&\s\"']*", "", url) if url else url
+
+
 def extract_detail_images(html) -> list:
     if not html:
         return []
-    return re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
+    urls = re.findall(r"""<img[^>]+src=['"]([^'"]+)['"]""", str(html))
+    return [strip_kvdl(u) for u in urls]
 
 
 def download_thumbnails(new_by_brand: dict, clean: bool = False) -> None:
@@ -455,7 +465,7 @@ def main():
             price_sale = 0
 
         colors, sizes = parse_options(row[13].value, row[14].value, row[15].value)
-        thumbnail_url = (row[22].value or "").strip()
+        thumbnail_url = strip_kvdl((row[22].value or "").strip())
         detail_images = extract_detail_images(row[24].value)
 
         mfg_date = str(row[27].value or "").strip()[:10]
