@@ -1,1 +1,822 @@
-[]
+[
+  {
+    "id": "2608190539",
+    "brand": "데이데이",
+    "name": "데이데이.코코와플T",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-001.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190540",
+    "brand": "데이데이",
+    "name": "데이데이.포근단가라T",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-002.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190541",
+    "brand": "데이데이",
+    "name": "데이데이.파이브T",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-003.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190542",
+    "brand": "데이데이",
+    "name": "데이데이.베리노르딕CD",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-004.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190543",
+    "brand": "데이데이",
+    "name": "데이데이.마린레이스CD",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-005.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190544",
+    "brand": "데이데이",
+    "name": "데이데이.코지카라니트",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-006.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190545",
+    "brand": "데이데이",
+    "name": "데이데이.루나캐시CD",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-007.jpg",
+    "colors": [
+      {
+        "name": "버터노랑",
+        "add_price": 0
+      },
+      {
+        "name": "메란지차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190546",
+    "brand": "데이데이",
+    "name": "데이데이.소프트스위트집업",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-008.jpg",
+    "colors": [
+      {
+        "name": "라벤더",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190547",
+    "brand": "데이데이",
+    "name": "데이데이.소프트스위트Pt",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-009.jpg",
+    "colors": [
+      {
+        "name": "라벤더",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190548",
+    "brand": "데이데이",
+    "name": "데이데이.애플포켓pt",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-010.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190549",
+    "brand": "데이데이",
+    "name": "데이데이.플라워가든pt",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-011.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190550",
+    "brand": "데이데이",
+    "name": "데이데이.포근레깅스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-012.jpg",
+    "colors": [
+      {
+        "name": "딥블루",
+        "add_price": 0
+      },
+      {
+        "name": "인디고블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190551",
+    "brand": "데이데이",
+    "name": "데이데이.코지데님pt",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-013.jpg",
+    "colors": [
+      {
+        "name": "중청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190552",
+    "brand": "데이데이",
+    "name": "데이데이.클라우드데님pt",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-014.jpg",
+    "colors": [
+      {
+        "name": "인디고블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190553",
+    "brand": "데이데이",
+    "name": "데이데이.어반스트링pt",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-015.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190554",
+    "brand": "데이데이",
+    "name": "데이데이.피크닉데님pt",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-016.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190555",
+    "brand": "데이데이",
+    "name": "데이데이.데일리스트링pt",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-017.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190556",
+    "brand": "데이데이",
+    "name": "데이데이.로지프릴sk",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-018.jpg",
+    "colors": [
+      {
+        "name": "라벤더핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190557",
+    "brand": "데이데이",
+    "name": "데이데이.플라워캔디sk",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-019.jpg",
+    "colors": [
+      {
+        "name": "파우더블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190558",
+    "brand": "데이데이",
+    "name": "데이데이.엔젤레이스sk",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-020.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190559",
+    "brand": "데이데이",
+    "name": "데이데이.모먼트바바리",
+    "price_sale": 76800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-021.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190560",
+    "brand": "데이데이",
+    "name": "데이데이.포근플리스패딩점퍼",
+    "price_sale": 68800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-022.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  }
+]

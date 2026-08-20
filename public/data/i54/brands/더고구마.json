@@ -1366,5 +1366,913 @@
       }
     ],
     "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2607150020",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 773티",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/W000AD1784070131/1_2_6291778629844.jpg",
+    "colors": [
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150059",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 빈티지스트라이프pt",
+    "price_sale": 14000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/S000AD1784070657/1_9_4031778629844.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150082",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 건빵위장지pt",
+    "price_sale": 19600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000AD1784070576/1_3_4681778629844.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150083",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 클립체크pt",
+    "price_sale": 14000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000AD1784070451/1_17_2431778629844.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "연두",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150094",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 와라유티",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000AD1784070153/1_13_4521778629844.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150111",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 유스컬러나시",
+    "price_sale": 8400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1784070336/1_14_8731778629844.jpg",
+    "colors": [
+      {
+        "name": "자주색",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150119",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 써니나시",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/M000AD1784070410/1_6_4351773696931.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "청록",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150143",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 컬러쿨pt",
+    "price_sale": 14000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000AD1784070635/1_16_4291778629844.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "자주색",
+        "add_price": 0
+      },
+      {
+        "name": "코발트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150144",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 알록달록나시",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/K000AD1784070390/1_12_6511778629844.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150155",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 프릴프릴나시",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J000AD1784070371/1_19_3861778629844.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150161",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 썸캉캉sk",
+    "price_sale": 18200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000AD1784070500/1_11_8261778629844.jpg",
+    "colors": [
+      {
+        "name": "이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150163",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 비비날라리t",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/H000AD1784070317/1_8_3541778629844.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "연베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150179",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 서프티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/F000AD1784070177/1_10_5331778629844.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150186",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 냉장고pt",
+    "price_sale": 14000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000AD1784070607/1_4_5971778629844.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "파랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150200",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 탐스단가라t",
+    "price_sale": 9800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D000AD1784070196/1_18_9771778629844.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 1750
+      },
+      {
+        "name": "JM",
+        "add_price": 1750
+      },
+      {
+        "name": "JL",
+        "add_price": 1750
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150210",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 라벨버뮤다청pt",
+    "price_sale": 23800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/C000AD1784070469/1_5_2761778629844.jpg",
+    "colors": [
+      {
+        "name": "청",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607150227",
+    "brand": "더고구마",
+    "name": "더고구마.(세일) 스티치청pt",
+    "price_sale": 23800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/A000AD1784070521/1_5_3671773696928.jpg",
+    "colors": [
+      {
+        "name": "블루블랙(진청)",
+        "add_price": 0
+      },
+      {
+        "name": "중청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 875
+      },
+      {
+        "name": "JM",
+        "add_price": 875
+      },
+      {
+        "name": "JL",
+        "add_price": 875
+      }
+    ],
+    "mfg_date": "2026-07-15"
   }
 ]

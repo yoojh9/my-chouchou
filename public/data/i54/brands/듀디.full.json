@@ -128,5 +128,94 @@
       }
     ],
     "mfg_date": "2026-05-26"
+  },
+  {
+    "id": "2608190810",
+    "brand": "듀디",
+    "name": "듀디.다잉포리캡",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-272.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0820/mo0820-272.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190811",
+    "brand": "듀디",
+    "name": "듀디.에스캡",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-273.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0820/mo0820-273.jpg"
+    ],
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "2608190812",
+    "brand": "듀디",
+    "name": "듀디.포마운틴캡",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-274.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0820/mo0820-274.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "청블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-20"
   }
 ]
