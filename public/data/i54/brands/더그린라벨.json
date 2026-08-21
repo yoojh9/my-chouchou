@@ -1714,5 +1714,41 @@
       }
     ],
     "mfg_date": "2026-07-29"
+  },
+  {
+    "id": "2608201141",
+    "brand": "더그린라벨",
+    "name": "더그린라벨.퍼플레깅스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-593.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "90",
+        "add_price": 0
+      },
+      {
+        "name": "100",
+        "add_price": 0
+      },
+      {
+        "name": "110",
+        "add_price": 0
+      },
+      {
+        "name": "120",
+        "add_price": 0
+      },
+      {
+        "name": "130",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-21"
   }
 ]

@@ -1808,5 +1808,75 @@
       }
     ],
     "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608200629",
+    "brand": "도미니코",
+    "name": "도미니코.노블헤어밴드KIDS",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-081.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0821/mo0821-081.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-21"
+  },
+  {
+    "id": "2608200630",
+    "brand": "도미니코",
+    "name": "도미니코.플로우머플러KIDS",
+    "price_sale": 4800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-082.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0821/mo0821-082.jpg"
+    ],
+    "colors": [
+      {
+        "name": "머스터드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-21"
   }
 ]

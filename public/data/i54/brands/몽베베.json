@@ -1,1854 +1,1794 @@
 [
-    {
-        "id": "2605001624",
-        "brand": "몽베베",
-        "name": "몽베베.퓨어린넨멜빵슈트",
-        "price_sale": 54400,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/38C1779212619/1_38_7291779212619.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "린넨",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-20"
-    },
-    {
-        "id": "2605003542",
-        "brand": "몽베베",
-        "name": "몽베베.레이스스모크슈트",
-        "price_sale": 51200,
-        "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1779212590/1_11_131779212590.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-20"
-    },
-    {
-        "id": "2605270004",
-        "brand": "몽베베",
-        "name": "몽베베.스핑클수영복(보넷포함)",
-        "price_sale": 59200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1779842637/1_9_6681779842637.jpg",
-        "colors": [
-            {
-                "name": "아이",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270013",
-        "brand": "몽베베",
-        "name": "몽베베.브라우니스윔세트(상하의세트)",
-        "price_sale": 62400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779842637/1_8_6201779842637.jpg",
-        "colors": [
-            {
-                "name": "브라운+민트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270023",
-        "brand": "몽베베",
-        "name": "몽베베.브라우니벙거지",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779842637/1_7_2001779842637.jpg",
-        "colors": [
-            {
-                "name": "민트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "프리(둘레50cm)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270033",
-        "brand": "몽베베",
-        "name": "몽베베.로잘린수영복엄마",
-        "price_sale": 60800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779842637/1_6_4451779842637.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "연카키",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "엄마",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270043",
-        "brand": "몽베베",
-        "name": "몽베베.로잘린수영복",
-        "price_sale": 48000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779842637/1_5_9891779842637.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "연카키",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270054",
-        "brand": "몽베베",
-        "name": "몽베베.데이지수영복",
-        "price_sale": 54400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779842637/1_4_5571779842637.jpg",
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270069",
-        "brand": "몽베베",
-        "name": "몽베베.26로로수영복엄마",
-        "price_sale": 80000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779842637/1_3_2341779842637.jpg",
-        "colors": [
-            {
-                "name": "체리",
-                "add_price": 0
-            },
-            {
-                "name": "풀잎",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "엄마",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2605270100",
-        "brand": "몽베베",
-        "name": "몽베베.26로로수영복(모자포함)",
-        "price_sale": 67200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779842637/1_2_4971779842637.jpg",
-        "colors": [
-            {
-                "name": "체리",
-                "add_price": 0
-            },
-            {
-                "name": "풀잎",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-27"
-    },
-    {
-        "id": "2608040697",
-        "brand": "몽베베",
-        "name": "몽베베.26레이스스페셜슈트",
-        "price_sale": 43200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-403.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040698",
-        "brand": "몽베베",
-        "name": "몽베베.NEW세인트슈트",
-        "price_sale": 30400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-404.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "연보라",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040699",
-        "brand": "몽베베",
-        "name": "몽베베.NEW세인트티",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-405.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "연보라",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040700",
-        "brand": "몽베베",
-        "name": "몽베베.NEW세인트티엄마",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-406.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "연보라",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040701",
-        "brand": "몽베베",
-        "name": "몽베베.NEW캉캉멜빵블루머스커트",
-        "price_sale": 41600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-407.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "브릭",
-                "add_price": 0
-            },
-            {
-                "name": "연보라",
-                "add_price": 0
-            },
-            {
-                "name": "검정",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(24-36개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040702",
-        "brand": "몽베베",
-        "name": "몽베베.골지샤샤슈트",
-        "price_sale": 48000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-408.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040703",
-        "brand": "몽베베",
-        "name": "몽베베.골지샤샤원피스",
-        "price_sale": 54400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-409.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040704",
-        "brand": "몽베베",
-        "name": "몽베베.골지점프슈트",
-        "price_sale": 40000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-410.jpg",
-        "colors": [
-            {
-                "name": "메란지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-3세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-5세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-7세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040705",
-        "brand": "몽베베",
-        "name": "몽베베.골지점프슈트엄마",
-        "price_sale": 68800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-411.jpg",
-        "colors": [
-            {
-                "name": "메란지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040706",
-        "brand": "몽베베",
-        "name": "몽베베.나염글로리슈트",
-        "price_sale": 46400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-412.jpg",
-        "colors": [
-            {
-                "name": "블루플라워",
-                "add_price": 0
-            },
-            {
-                "name": "베이지플라워",
-                "add_price": 0
-            },
-            {
-                "name": "열기구",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "뉴본(0-3개월)",
-                "add_price": 0
-            },
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040707",
-        "brand": "몽베베",
-        "name": "몽베베.다트배럴핏팬츠",
-        "price_sale": 30400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-413.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "연보라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040708",
-        "brand": "몽베베",
-        "name": "몽베베.런던자켓",
-        "price_sale": 73600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-414.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(2-3세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(4-5세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(6-7세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040709",
-        "brand": "몽베베",
-        "name": "몽베베.레이어드주름에이프런",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-415.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040710",
-        "brand": "몽베베",
-        "name": "몽베베.레이어드주름에이프런엄마",
-        "price_sale": 44800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-416.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040711",
-        "brand": "몽베베",
-        "name": "몽베베.로얄골덴멜빵팬츠",
-        "price_sale": 36800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-417.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            },
-            {
-                "name": "로얄블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040712",
-        "brand": "몽베베",
-        "name": "몽베베.로얄골덴베이비슈트",
-        "price_sale": 43200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-418.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            },
-            {
-                "name": "로얄블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(24-36개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040713",
-        "brand": "몽베베",
-        "name": "몽베베.로즈레이스원피스",
-        "price_sale": 65600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-419.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040714",
-        "brand": "몽베베",
-        "name": "몽베베.로즈레이스원피스엄마",
-        "price_sale": 100800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-420.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040715",
-        "brand": "몽베베",
-        "name": "몽베베.루이주름멜빵슈트",
-        "price_sale": 59200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-421.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040716",
-        "brand": "몽베베",
-        "name": "몽베베.루이주름멜빵스커트",
-        "price_sale": 57600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-422.jpg",
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040717",
-        "brand": "몽베베",
-        "name": "몽베베.릴리레이어드원피스베이비",
-        "price_sale": 46400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-423.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "아기(6-12M)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040718",
-        "brand": "몽베베",
-        "name": "몽베베.릴리레이어드원피스키즈",
-        "price_sale": 54400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-424.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(2-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(5-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040719",
-        "brand": "몽베베",
-        "name": "몽베베.릴리튜튜레깅스",
-        "price_sale": 49600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-425.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "먹브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040720",
-        "brand": "몽베베",
-        "name": "몽베베.마랑슈트",
-        "price_sale": 54400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-426.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040721",
-        "brand": "몽베베",
-        "name": "몽베베.마랑원피스",
-        "price_sale": 62400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-427.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040722",
-        "brand": "몽베베",
-        "name": "몽베베.마랑원피스엄마",
-        "price_sale": 92800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-428.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040723",
-        "brand": "몽베베",
-        "name": "몽베베.모노골지티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-429.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "연겨자",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            },
-            {
-                "name": "연그레이",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040724",
-        "brand": "몽베베",
-        "name": "몽베베.새틴핀턱베이비드레스",
-        "price_sale": 52800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-430.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040725",
-        "brand": "몽베베",
-        "name": "몽베베.새틴핀턱보넷",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-431.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040726",
-        "brand": "몽베베",
-        "name": "몽베베.새틴핀턱키즈드레스",
-        "price_sale": 56000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-432.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-3세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(4-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(7-9세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040727",
-        "brand": "몽베베",
-        "name": "몽베베.쉬폰프릴스페셜슈트",
-        "price_sale": 41600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-433.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(0-3개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(6-12개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040728",
-        "brand": "몽베베",
-        "name": "몽베베.아가일가디건",
-        "price_sale": 33600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-434.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "연카키",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "XS(3-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040729",
-        "brand": "몽베베",
-        "name": "몽베베.에드벌룬슈트(보넷포함)",
-        "price_sale": 41600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-435.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "뉴본(0-3개월)",
-                "add_price": 0
-            },
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040730",
-        "brand": "몽베베",
-        "name": "몽베베.에드벌룬티",
-        "price_sale": 27200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-436.jpg",
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040731",
-        "brand": "몽베베",
-        "name": "몽베베.엘리글로리슈트",
-        "price_sale": 46400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-437.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "뉴본(0-3개월)",
-                "add_price": 0
-            },
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040732",
-        "brand": "몽베베",
-        "name": "몽베베.올리비아자수슈트",
-        "price_sale": 60800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-438.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040733",
-        "brand": "몽베베",
-        "name": "몽베베.올리비아자수원피스",
-        "price_sale": 60800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-439.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040734",
-        "brand": "몽베베",
-        "name": "몽베베.올리비아자수원피스엄마",
-        "price_sale": 96000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-440.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "카멜",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040735",
-        "brand": "몽베베",
-        "name": "몽베베.이중벌룬블루머",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-441.jpg",
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(24-36개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040736",
-        "brand": "몽베베",
-        "name": "몽베베.자가드조거팬츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-442.jpg",
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040737",
-        "brand": "몽베베",
-        "name": "몽베베.자가드코튼바니보넷",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-443.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040738",
-        "brand": "몽베베",
-        "name": "몽베베.자가드코튼빕",
-        "price_sale": 17600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-444.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040739",
-        "brand": "몽베베",
-        "name": "몽베베.잔꽃체크조거팬츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-445.jpg",
-        "colors": [
-            {
-                "name": "카멜",
-                "add_price": 0
-            },
-            {
-                "name": "진밤",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040740",
-        "brand": "몽베베",
-        "name": "몽베베.카라멜모자",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-446.jpg",
-        "colors": [
-            {
-                "name": "연베이지",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            },
-            {
-                "name": "카키",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040741",
-        "brand": "몽베베",
-        "name": "몽베베.크림와플슈트",
-        "price_sale": 44800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-447.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "뉴본(0-3개월)",
-                "add_price": 0
-            },
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040742",
-        "brand": "몽베베",
-        "name": "몽베베.클로이레이스블라우스",
-        "price_sale": 30400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-448.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040743",
-        "brand": "몽베베",
-        "name": "몽베베.클로이레이스슈트",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-449.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "크림",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(3-6개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "L(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040744",
-        "brand": "몽베베",
-        "name": "몽베베.플라워엘더블라우스",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-450.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(1-2세)",
-                "add_price": 0
-            },
-            {
-                "name": "M(3-4세)",
-                "add_price": 0
-            },
-            {
-                "name": "L(5-6세)",
-                "add_price": 0
-            },
-            {
-                "name": "XL(7-8세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    },
-    {
-        "id": "2608040745",
-        "brand": "몽베베",
-        "name": "몽베베.플라워엘더슈트",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-451.jpg",
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S(6-12개월)",
-                "add_price": 0
-            },
-            {
-                "name": "M(12-24개월)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-05"
-    }
+  {
+    "id": "2605270004",
+    "brand": "몽베베",
+    "name": "몽베베.스핑클수영복(보넷포함)",
+    "price_sale": 59200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1779842637/1_9_6681779842637.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270013",
+    "brand": "몽베베",
+    "name": "몽베베.브라우니스윔세트(상하의세트)",
+    "price_sale": 62400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1779842637/1_8_6201779842637.jpg",
+    "colors": [
+      {
+        "name": "브라운+민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270023",
+    "brand": "몽베베",
+    "name": "몽베베.브라우니벙거지",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1779842637/1_7_2001779842637.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "프리(둘레50cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270033",
+    "brand": "몽베베",
+    "name": "몽베베.로잘린수영복엄마",
+    "price_sale": 60800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1779842637/1_6_4451779842637.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "엄마",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270043",
+    "brand": "몽베베",
+    "name": "몽베베.로잘린수영복",
+    "price_sale": 48000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1779842637/1_5_9891779842637.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270054",
+    "brand": "몽베베",
+    "name": "몽베베.데이지수영복",
+    "price_sale": 54400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1779842637/1_4_5571779842637.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270069",
+    "brand": "몽베베",
+    "name": "몽베베.26로로수영복엄마",
+    "price_sale": 80000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1779842637/1_3_2341779842637.jpg",
+    "colors": [
+      {
+        "name": "체리",
+        "add_price": 0
+      },
+      {
+        "name": "풀잎",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "엄마",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2605270100",
+    "brand": "몽베베",
+    "name": "몽베베.26로로수영복(모자포함)",
+    "price_sale": 67200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1779842637/1_2_4971779842637.jpg",
+    "colors": [
+      {
+        "name": "체리",
+        "add_price": 0
+      },
+      {
+        "name": "풀잎",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-05-27"
+  },
+  {
+    "id": "2608040697",
+    "brand": "몽베베",
+    "name": "몽베베.26레이스스페셜슈트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-403.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040698",
+    "brand": "몽베베",
+    "name": "몽베베.NEW세인트슈트",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-404.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040699",
+    "brand": "몽베베",
+    "name": "몽베베.NEW세인트티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-405.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040700",
+    "brand": "몽베베",
+    "name": "몽베베.NEW세인트티엄마",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-406.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040701",
+    "brand": "몽베베",
+    "name": "몽베베.NEW캉캉멜빵블루머스커트",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-407.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브릭",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(24-36개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040702",
+    "brand": "몽베베",
+    "name": "몽베베.골지샤샤슈트",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-408.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040703",
+    "brand": "몽베베",
+    "name": "몽베베.골지샤샤원피스",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-409.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040704",
+    "brand": "몽베베",
+    "name": "몽베베.골지점프슈트",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-410.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-3세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-5세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-7세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040705",
+    "brand": "몽베베",
+    "name": "몽베베.골지점프슈트엄마",
+    "price_sale": 68800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-411.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040706",
+    "brand": "몽베베",
+    "name": "몽베베.나염글로리슈트",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-412.jpg",
+    "colors": [
+      {
+        "name": "블루플라워",
+        "add_price": 0
+      },
+      {
+        "name": "베이지플라워",
+        "add_price": 0
+      },
+      {
+        "name": "열기구",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "뉴본(0-3개월)",
+        "add_price": 0
+      },
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040707",
+    "brand": "몽베베",
+    "name": "몽베베.다트배럴핏팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-413.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "연보라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040708",
+    "brand": "몽베베",
+    "name": "몽베베.런던자켓",
+    "price_sale": 73600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-414.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(2-3세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(4-5세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(6-7세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040709",
+    "brand": "몽베베",
+    "name": "몽베베.레이어드주름에이프런",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-415.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040710",
+    "brand": "몽베베",
+    "name": "몽베베.레이어드주름에이프런엄마",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-416.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040711",
+    "brand": "몽베베",
+    "name": "몽베베.로얄골덴멜빵팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-417.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      },
+      {
+        "name": "로얄블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040712",
+    "brand": "몽베베",
+    "name": "몽베베.로얄골덴베이비슈트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-418.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      },
+      {
+        "name": "로얄블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(24-36개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040713",
+    "brand": "몽베베",
+    "name": "몽베베.로즈레이스원피스",
+    "price_sale": 65600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-419.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040714",
+    "brand": "몽베베",
+    "name": "몽베베.로즈레이스원피스엄마",
+    "price_sale": 100800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-420.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040715",
+    "brand": "몽베베",
+    "name": "몽베베.루이주름멜빵슈트",
+    "price_sale": 59200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-421.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040716",
+    "brand": "몽베베",
+    "name": "몽베베.루이주름멜빵스커트",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-422.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040717",
+    "brand": "몽베베",
+    "name": "몽베베.릴리레이어드원피스베이비",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-423.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "아기(6-12M)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040718",
+    "brand": "몽베베",
+    "name": "몽베베.릴리레이어드원피스키즈",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-424.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(2-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(5-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040719",
+    "brand": "몽베베",
+    "name": "몽베베.릴리튜튜레깅스",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-425.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "먹브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040720",
+    "brand": "몽베베",
+    "name": "몽베베.마랑슈트",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-426.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040721",
+    "brand": "몽베베",
+    "name": "몽베베.마랑원피스",
+    "price_sale": 62400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-427.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040722",
+    "brand": "몽베베",
+    "name": "몽베베.마랑원피스엄마",
+    "price_sale": 92800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-428.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040723",
+    "brand": "몽베베",
+    "name": "몽베베.모노골지티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-429.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "연겨자",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040724",
+    "brand": "몽베베",
+    "name": "몽베베.새틴핀턱베이비드레스",
+    "price_sale": 52800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-430.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040725",
+    "brand": "몽베베",
+    "name": "몽베베.새틴핀턱보넷",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-431.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040726",
+    "brand": "몽베베",
+    "name": "몽베베.새틴핀턱키즈드레스",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-432.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-3세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(4-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(7-9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040727",
+    "brand": "몽베베",
+    "name": "몽베베.쉬폰프릴스페셜슈트",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-433.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(0-3개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(6-12개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040728",
+    "brand": "몽베베",
+    "name": "몽베베.아가일가디건",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-434.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS(3-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040729",
+    "brand": "몽베베",
+    "name": "몽베베.에드벌룬슈트(보넷포함)",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-435.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "뉴본(0-3개월)",
+        "add_price": 0
+      },
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040730",
+    "brand": "몽베베",
+    "name": "몽베베.에드벌룬티",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-436.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040731",
+    "brand": "몽베베",
+    "name": "몽베베.엘리글로리슈트",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-437.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "뉴본(0-3개월)",
+        "add_price": 0
+      },
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040732",
+    "brand": "몽베베",
+    "name": "몽베베.올리비아자수슈트",
+    "price_sale": 60800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-438.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040733",
+    "brand": "몽베베",
+    "name": "몽베베.올리비아자수원피스",
+    "price_sale": 60800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-439.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040734",
+    "brand": "몽베베",
+    "name": "몽베베.올리비아자수원피스엄마",
+    "price_sale": 96000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-440.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040735",
+    "brand": "몽베베",
+    "name": "몽베베.이중벌룬블루머",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-441.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(24-36개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040736",
+    "brand": "몽베베",
+    "name": "몽베베.자가드조거팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-442.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040737",
+    "brand": "몽베베",
+    "name": "몽베베.자가드코튼바니보넷",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-443.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040738",
+    "brand": "몽베베",
+    "name": "몽베베.자가드코튼빕",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-444.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040739",
+    "brand": "몽베베",
+    "name": "몽베베.잔꽃체크조거팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-445.jpg",
+    "colors": [
+      {
+        "name": "카멜",
+        "add_price": 0
+      },
+      {
+        "name": "진밤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040740",
+    "brand": "몽베베",
+    "name": "몽베베.카라멜모자",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-446.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040741",
+    "brand": "몽베베",
+    "name": "몽베베.크림와플슈트",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-447.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "뉴본(0-3개월)",
+        "add_price": 0
+      },
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040742",
+    "brand": "몽베베",
+    "name": "몽베베.클로이레이스블라우스",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-448.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040743",
+    "brand": "몽베베",
+    "name": "몽베베.클로이레이스슈트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-449.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3-6개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "L(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040744",
+    "brand": "몽베베",
+    "name": "몽베베.플라워엘더블라우스",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-450.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(1-2세)",
+        "add_price": 0
+      },
+      {
+        "name": "M(3-4세)",
+        "add_price": 0
+      },
+      {
+        "name": "L(5-6세)",
+        "add_price": 0
+      },
+      {
+        "name": "XL(7-8세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  },
+  {
+    "id": "2608040745",
+    "brand": "몽베베",
+    "name": "몽베베.플라워엘더슈트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0805/mo0805-451.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(6-12개월)",
+        "add_price": 0
+      },
+      {
+        "name": "M(12-24개월)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-05"
+  }
 ]
