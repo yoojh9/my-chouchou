@@ -1,5 +1,4 @@
 import { getCart, removeFromCart, updateCartItemQty, updateCartBadge, clearCart, getSource } from '../cart.js'
-import { goBack } from '../navigation.js'
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
@@ -128,7 +127,11 @@ export function renderCart(app) {
     <div id="cart-content" style="padding-bottom:100px"></div>`
 
   document.getElementById('back-btn').addEventListener('click', () => {
-    goBack('#/')
+    if (history.length > 1) {
+      history.back()
+    } else {
+      location.hash = '#/'
+    }
   })
 
   document.getElementById('cart-content').addEventListener('click', handleClick(app))

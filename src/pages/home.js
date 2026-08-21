@@ -1,5 +1,4 @@
 import { productCardHTML } from './productCard.js'
-import { navigate } from '../navigation.js'
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
 
@@ -428,19 +427,19 @@ export async function renderHome(app) {
   // 브랜드 카드 / 검색 결과 클릭
   list.addEventListener("click", e => {
     const product = e.target.closest("[data-href]")
-    if (product) { navigate(product.dataset.href); return }
+    if (product) { location.hash = product.dataset.href; return }
     const card = e.target.closest(".brand-card")
     if (!card) return
-    navigate(`#/brand/${card.dataset.brand}`)
+    location.hash = `#/brand/${card.dataset.brand}`
   })
 
   list.addEventListener("keydown", e => {
     if (e.key === "Enter" || e.key === " ") {
       const product = e.target.closest("[data-href]")
-      if (product) { navigate(product.dataset.href); return }
+      if (product) { location.hash = product.dataset.href; return }
       const card = e.target.closest(".brand-card")
       if (!card) return
-      navigate(`#/brand/${card.dataset.brand}`)
+      location.hash = `#/brand/${card.dataset.brand}`
     }
   })
 }
