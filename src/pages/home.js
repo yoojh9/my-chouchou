@@ -80,6 +80,7 @@ function brandCardHTML(brand) {
 
 let sortMode = 'date'
 let searchQuery = ''
+let preSearchScrollY = 0
 
 export function resetHomeState() {
   sortMode = 'date'
@@ -315,6 +316,7 @@ export async function renderHome(app) {
   let searchDebounce = null
 
   function openSearch() {
+    preSearchScrollY = window.scrollY
     searchWrap.classList.remove("home-search--hidden")
     searchWrap.classList.add("home-search--expanded")
     toggleEl.style.display = "none"
@@ -352,7 +354,6 @@ export async function renderHome(app) {
     searchInput.value = ""
     closeSearch()
     runSearch("")
-    window.scrollTo({ top: 0, behavior: "instant" })
   }
 
   async function runSearch(query) {
@@ -366,6 +367,7 @@ export async function renderHome(app) {
       searchNavEl.innerHTML = ""
       list.classList.remove("page--search")
       renderList()
+      window.scrollTo({ top: preSearchScrollY, behavior: "instant" })
       updateActive()
       return
     }
@@ -373,10 +375,12 @@ export async function renderHome(app) {
     toggleEl.style.display = "none"
     indexEl.style.display = "none"
     list.classList.remove("page--indexed")
+    const enteringSearch = !list.classList.contains("page--search")
     list.classList.add("page--search")
     searchNavEl.innerHTML = searchResultsHeaderHTML()
     searchNavEl.style.top = document.querySelector('.home-header').offsetHeight + 'px'
     list.innerHTML = `<div class="state-empty">검색 중...</div>`
+    if (enteringSearch) window.scrollTo({ top: 0, behavior: "instant" })
 
     let items, soldoutIds
     try {

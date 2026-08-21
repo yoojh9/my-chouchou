@@ -49,13 +49,16 @@ async function router() {
   } else if (hash === '#/cart') {
     if (!getSource()) { location.hash = '#/'; return }
     renderCart(app)
+    window.scrollTo(0, 0)
   } else if (hash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(hash.slice('#/brand/'.length))
     currentBrandGetShown = await renderBrand(app, brandId, brandShownCount[brandId] || 0)
     if (restoreBrandScroll === brandId) {
       window.scrollTo(0, brandScrollY[brandId] || 0)
-      restoreBrandScroll = null
+    } else {
+      window.scrollTo(0, 0)
     }
+    restoreBrandScroll = null
   } else if (hash.startsWith('#/product/')) {
     const rest = hash.slice('#/product/'.length)
     const slashIdx = rest.indexOf('/')
@@ -63,6 +66,7 @@ async function router() {
     const brandId = decodeURIComponent(rest.slice(0, slashIdx))
     const productId = decodeURIComponent(rest.slice(slashIdx + 1))
     await renderProduct(app, brandId, productId, lastListHash)
+    window.scrollTo(0, 0)
   } else {
     await renderHome(app)
   }
@@ -86,7 +90,15 @@ window.addEventListener('hashchange', (e) => {
   if (newHash === '#/' || newHash === '#') {
     restoreHomeScroll = true
   } else if (newHash.startsWith('#/brand/')) {
-    restoreBrandScroll = decodeURIComponent(newHash.slice('#/brand/'.length))
+    const newBrandId = decodeURIComponent(newHash.slice('#/brand/'.length))
+    if (oldHash.startsWith('#/product/') || oldHash === '#/cart') {
+      // 상품 상세나 장바구니에서 뒤로 왔을 때만 스크롤/로드 상태 복원
+      restoreBrandScroll = newBrandId
+    } else {
+      // 홈 등 다른 곳에서 새로 진입하면 처음부터 보여준다
+      delete brandScrollY[newBrandId]
+      delete brandShownCount[newBrandId]
+    }
   }
 
   router()
