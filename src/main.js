@@ -4,6 +4,7 @@ import { renderBrand } from './pages/brand.js'
 import { renderProduct } from './pages/product.js'
 import { renderCart } from './pages/cart.js'
 import { updateCartBadge, saveSourceFromUrl, getSource } from './cart.js'
+import { navigate, replaceHash, getCurrentHash, setRouteHandler, startRouter } from './navigation.js'
 
 saveSourceFromUrl()
 
@@ -24,7 +25,7 @@ document.body.appendChild(fab)
 
 document.getElementById('cart-fab-btn').addEventListener('click', () => {
   if (!getSource()) return
-  location.hash = '#/cart'
+  navigate('#/cart')
 })
 
 updateCartBadge()
@@ -38,7 +39,7 @@ let currentBrandGetShown = null
 let lastListHash = '#/'
 
 async function router() {
-  const hash = location.hash || '#/'
+  const hash = getCurrentHash()
 
   if (hash === '#/' || hash === '#') {
     await renderHome(app)
@@ -47,7 +48,7 @@ async function router() {
       restoreHomeScroll = false
     }
   } else if (hash === '#/cart') {
-    if (!getSource()) { location.hash = '#/'; return }
+    if (!getSource()) { replaceHash('#/'); await renderHome(app); window.scrollTo(0, 0); return }
     renderCart(app)
     window.scrollTo(0, 0)
   } else if (hash.startsWith('#/brand/')) {
@@ -72,26 +73,27 @@ async function router() {
   }
 }
 
-window.addEventListener('hashchange', (e) => {
-  const oldHash = new URL(e.oldURL).hash || '#/'
-  const newHash = new URL(e.newURL).hash || '#/'
-
-  if (oldHash === '#/' || oldHash === '#') {
-    homeScrollY = window.scrollY
-    lastListHash = '#/'
-  } else if (oldHash.startsWith('#/brand/')) {
-    const brandId = decodeURIComponent(oldHash.slice('#/brand/'.length))
-    brandScrollY[brandId] = window.scrollY
-    if (currentBrandGetShown) brandShownCount[brandId] = currentBrandGetShown()
-    currentBrandGetShown = null
-    lastListHash = oldHash
+// oldHash를 떠날 때 스크롤/로드 상태를 저장하고, newHash로 들어갈 때 복원 플래그를 세운 뒤 렌더.
+// 앞으로 이동(navigate)과 뒤로 이동(popstate) 양쪽에서 같은 로직을 태워 동작을 일치시킨다.
+function handleRoute(oldHash, newHash) {
+  if (oldHash != null) {
+    if (oldHash === '#/' || oldHash === '#') {
+      homeScrollY = window.scrollY
+      lastListHash = '#/'
+    } else if (oldHash.startsWith('#/brand/')) {
+      const brandId = decodeURIComponent(oldHash.slice('#/brand/'.length))
+      brandScrollY[brandId] = window.scrollY
+      if (currentBrandGetShown) brandShownCount[brandId] = currentBrandGetShown()
+      currentBrandGetShown = null
+      lastListHash = oldHash
+    }
   }
 
   if (newHash === '#/' || newHash === '#') {
     restoreHomeScroll = true
   } else if (newHash.startsWith('#/brand/')) {
     const newBrandId = decodeURIComponent(newHash.slice('#/brand/'.length))
-    if (oldHash.startsWith('#/product/') || oldHash === '#/cart') {
+    if (oldHash && (oldHash.startsWith('#/product/') || oldHash === '#/cart')) {
       // 상품 상세나 장바구니에서 뒤로 왔을 때만 스크롤/로드 상태 복원
       restoreBrandScroll = newBrandId
     } else {
@@ -102,19 +104,21 @@ window.addEventListener('hashchange', (e) => {
   }
 
   router()
-})
+}
 
-window.addEventListener('load', router)
+setRouteHandler(handleRoute)
+window.addEventListener('load', startRouter)
 
 app.addEventListener('click', e => {
   if (!e.target.closest('.header__logo, .home-header__logo')) return
   resetHomeState()
   homeScrollY = 0
   restoreHomeScroll = false
-  if (location.hash === '#/' || location.hash === '#' || !location.hash) {
+  const hash = getCurrentHash()
+  if (hash === '#/' || hash === '#') {
     renderHome(app)
     window.scrollTo(0, 0)
   } else {
-    location.hash = '#/'
+    navigate('#/')
   }
 })

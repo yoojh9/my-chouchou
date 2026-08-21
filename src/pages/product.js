@@ -1,4 +1,5 @@
 import { addToCart, updateCartBadge } from "../cart.js";
+import { goBack } from "../navigation.js";
 
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`;
 
@@ -91,7 +92,7 @@ export async function renderProduct(app, brandId, productId, backHash) {
     </div>`;
 
   document.getElementById("back-btn").addEventListener("click", () => {
-    location.hash = backHash || `#/brand/${encodeURIComponent(brandId)}`;
+    goBack(backHash || `#/brand/${encodeURIComponent(brandId)}`);
   });
 
   let allProducts, soldoutIds;

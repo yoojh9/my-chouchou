@@ -1,4 +1,5 @@
 import { productCardHTML } from './productCard.js'
+import { navigate, goBack } from '../navigation.js'
 
 const PAGE_SIZE = 20
 const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>`
@@ -92,7 +93,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
     </div>`
 
   document.getElementById('back-btn').addEventListener('click', () => {
-    location.hash = '#/'
+    goBack('#/')
   })
 
   let products, soldoutIds
@@ -168,7 +169,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
     if (sizeCard) { openSizeCharts(sizeCard); return }
     const card = e.target.closest('[data-href]')
     if (!card) return
-    location.hash = card.dataset.href
+    navigate(card.dataset.href)
   })
 
   grid.addEventListener('keydown', e => {
@@ -177,7 +178,7 @@ export async function renderBrand(app, brandId, initialShown = 0) {
       if (sizeCard) { openSizeCharts(sizeCard); return }
       const card = e.target.closest('[data-href]')
       if (!card) return
-      location.hash = card.dataset.href
+      navigate(card.dataset.href)
     }
   })
 
