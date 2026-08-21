@@ -28,6 +28,12 @@ document.getElementById('cart-fab-btn').addEventListener('click', () => {
   navigate('#/cart')
 })
 
+// 배포 버전 확인용 표식 (카톡 웹뷰 캐시 구분용 — 확인 후 제거 가능)
+const buildTag = document.createElement('div')
+buildTag.textContent = `build ${typeof __BUILD_ID__ !== 'undefined' ? __BUILD_ID__ : 'dev'}`
+buildTag.style.cssText = 'position:fixed;left:6px;bottom:6px;z-index:9999;font-size:10px;line-height:1;padding:3px 6px;border-radius:6px;background:rgba(0,0,0,0.55);color:#fff;pointer-events:none;font-family:monospace;letter-spacing:0.3px'
+document.body.appendChild(buildTag)
+
 updateCartBadge()
 
 let homeScrollY = 0
