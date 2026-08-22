@@ -153,9 +153,12 @@ def download_thumbnails(new_by_brand: dict, clean: bool = False) -> None:
             url = p.get("thumbnail_url")
             if not url:
                 continue
+            safe_brand = re.sub(r'[\\/:*?"<>|.]', "_", brand)
             safe_name = re.sub(r'[\\/:*?"<>|.]', "_", p["name"])
             ext = os.path.splitext(url.split("?")[0])[1] or ".jpg"
-            dest = out_dir / f"{safe_name}{ext}"
+            brand_dir = out_dir / safe_brand
+            brand_dir.mkdir(parents=True, exist_ok=True)
+            dest = brand_dir / f"{safe_name}{ext}"
             if not clean and dest.exists():
                 skipped += 1
                 continue
