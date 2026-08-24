@@ -1,1 +1,926 @@
-[]
+[
+  {
+    "id": "2608230297",
+    "brand": "아이짱",
+    "name": "아이짱.니코삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-297.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230298",
+    "brand": "아이짱",
+    "name": "아이짱.도넛삭스",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-298.jpg",
+    "colors": [
+      {
+        "name": "6p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230299",
+    "brand": "아이짱",
+    "name": "아이짱.로미오부삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-299.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230300",
+    "brand": "아이짱",
+    "name": "아이짱.롤베이비비니",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-300.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "살구",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230301",
+    "brand": "아이짱",
+    "name": "아이짱.리더오부삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-301.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230302",
+    "brand": "아이짱",
+    "name": "아이짱.배색고잉삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-302.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230303",
+    "brand": "아이짱",
+    "name": "아이짱.배색엘르삭스",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-303.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230304",
+    "brand": "아이짱",
+    "name": "아이짱.베이직골지삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-304.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230305",
+    "brand": "아이짱",
+    "name": "아이짱.베키삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-305.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230306",
+    "brand": "아이짱",
+    "name": "아이짱.부릉이삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-306.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230307",
+    "brand": "아이짱",
+    "name": "아이짱.비비두오부삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-307.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230308",
+    "brand": "아이짱",
+    "name": "아이짱.송이삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-308.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230309",
+    "brand": "아이짱",
+    "name": "아이짱.앙고라비니",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-309.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "코코아",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230310",
+    "brand": "아이짱",
+    "name": "아이짱.어텐션삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-310.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230311",
+    "brand": "아이짱",
+    "name": "아이짱.오보에삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-311.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230312",
+    "brand": "아이짱",
+    "name": "아이짱.유니콘삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-312.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230313",
+    "brand": "아이짱",
+    "name": "아이짱.체커보드삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-313.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230314",
+    "brand": "아이짱",
+    "name": "아이짱.체크라떼삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-314.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230315",
+    "brand": "아이짱",
+    "name": "아이짱.초코곰삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-315.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230316",
+    "brand": "아이짱",
+    "name": "아이짱.토스트삭스",
+    "price_sale": 16800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-316.jpg",
+    "colors": [
+      {
+        "name": "6p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230317",
+    "brand": "아이짱",
+    "name": "아이짱.트롱삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-317.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230318",
+    "brand": "아이짱",
+    "name": "아이짱.티라노삭스",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-318.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230498",
+    "brand": "아이짱",
+    "name": "아이짱.빠방이삭스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-498.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "2608230499",
+    "brand": "아이짱",
+    "name": "아이짱.스텝삭스",
+    "price_sale": 15200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-499.jpg",
+    "colors": [
+      {
+        "name": "5p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-24"
+  }
+]
