@@ -558,5 +558,69 @@
       }
     ],
     "mfg_date": "2026-08-14"
+  },
+  {
+    "id": "2608241336",
+    "brand": "도화한복",
+    "name": "도화한복.도화여아베베한복",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-609.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "BS",
+        "add_price": 0
+      },
+      {
+        "name": "BM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-25"
+  },
+  {
+    "id": "2608241337",
+    "brand": "도화한복",
+    "name": "도화한복.도화여아한복",
+    "price_sale": 68800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-610.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-25"
   }
 ]

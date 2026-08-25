@@ -2930,5 +2930,57 @@
       }
     ],
     "mfg_date": "2026-08-10"
+  },
+  {
+    "id": "2608240887",
+    "brand": "멜멜",
+    "name": "멜멜.라운지맨투맨",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-160.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "에쉬블루",
+        "add_price": 0
+      },
+      {
+        "name": "밀크로즈",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-25"
   }
 ]
