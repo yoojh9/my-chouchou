@@ -6501,5 +6501,106 @@
       }
     ],
     "mfg_date": "2026-08-04"
+  },
+  {
+    "id": "2608250964",
+    "brand": "마론",
+    "name": "마론.브라우니슈트",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-354.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0826/mo0826-354.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "18M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-26"
+  },
+  {
+    "id": "2608250965",
+    "brand": "마론",
+    "name": "마론.브라우니드레스",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-355.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0826/mo0826-355.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-26"
+  },
+  {
+    "id": "2608250966",
+    "brand": "마론",
+    "name": "마론.아망떼퍼베스트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-356.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0826/mo0826-356.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-26"
   }
 ]
