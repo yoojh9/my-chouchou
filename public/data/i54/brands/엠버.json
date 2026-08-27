@@ -1,13 +1,285 @@
 [
   {
-    "id": "2606210004",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 포비팬츠",
-    "price_sale": 18200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Y000AD1781847027/1_10_8401774446846.jpg",
+    "id": "2608270593",
+    "brand": "엠버",
+    "name": "엠버.리틀버니블루종",
+    "price_sale": 76800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-129.jpg",
     "colors": [
       {
+        "name": "라이트그린",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270594",
+    "brand": "엠버",
+    "name": "엠버.에이라인라운드자켓",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-130.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "애쉬블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270595",
+    "brand": "엠버",
+    "name": "엠버.데일리니트가디건",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-131.jpg",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270596",
+    "brand": "엠버",
+    "name": "엠버.클라우드니트베스트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-132.jpg",
+    "colors": [
+      {
+        "name": "버터",
+        "add_price": 0
+      },
+      {
+        "name": "라이트블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270597",
+    "brand": "엠버",
+    "name": "엠버.어텀니트베스트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-133.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
         "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270598",
+    "brand": "엠버",
+    "name": "엠버.포밍원피스",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-134.jpg",
+    "colors": [
+      {
+        "name": "라이트블루",
+        "add_price": 0
+      },
+      {
+        "name": "라이트베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270599",
+    "brand": "엠버",
+    "name": "엠버.빈스체크원피스",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-135.jpg",
+    "colors": [
+      {
+        "name": "애쉬그레이",
         "add_price": 0
       },
       {
@@ -35,23 +307,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210005",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 카라플레어팬츠",
-    "price_sale": 19600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Y000AD1781846706/1_9_2971774446845.jpg",
+    "id": "2608270600",
+    "brand": "엠버",
+    "name": "엠버.네이보점프슈트",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-136.jpg",
     "colors": [
       {
         "name": "크림",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "다크브라운",
         "add_price": 0
       }
     ],
@@ -75,23 +351,211 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210006",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 릴리블라우스",
-    "price_sale": 29400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Y000AD1781846123/1_20_2571774446855.jpg",
+    "id": "2608270601",
+    "brand": "엠버",
+    "name": "엠버.차차카라블라우스",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-137.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270602",
+    "brand": "엠버",
+    "name": "엠버.콤마프릴블라우스",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-138.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270603",
+    "brand": "엠버",
+    "name": "엠버.릴리나시티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-139.jpg",
+    "colors": [
+      {
+        "name": "메란지그레이",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "시안블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270604",
+    "brand": "엠버",
+    "name": "엠버.체크셔링나시",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-140.jpg",
+    "colors": [
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270605",
+    "brand": "엠버",
+    "name": "엠버.파티스웻풀오버",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-141.jpg",
     "colors": [
       {
         "name": "크림",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "민트",
         "add_price": 0
       }
     ],
@@ -115,23 +579,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210008",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 블룸스커트",
-    "price_sale": 25200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/X000AD1781846445/1_7_9831774446843.jpg",
+    "id": "2608270606",
+    "brand": "엠버",
+    "name": "엠버.프레아티셔츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-142.jpg",
     "colors": [
       {
-        "name": "베이지",
+        "name": "핑크",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "블루",
         "add_price": 0
       }
     ],
@@ -155,23 +623,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210012",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 코코쇼츠",
-    "price_sale": 16800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/U000AD1781846774/1_25_8761774446859.jpg",
+    "id": "2608270607",
+    "brand": "엠버",
+    "name": "엠버.피치오티셔츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-143.jpg",
     "colors": [
       {
-        "name": "베이지",
+        "name": "그린",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "라이트블루",
         "add_price": 0
       }
     ],
@@ -195,16 +667,440 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210013",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 모스플레어쇼츠",
+    "id": "2608270608",
+    "brand": "엠버",
+    "name": "엠버.오브티셔츠",
     "price_sale": 22400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000AD1781847193/1_12_6691774446848.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-144.jpg",
+    "colors": [
+      {
+        "name": "메란지그레이",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270609",
+    "brand": "엠버",
+    "name": "엠버.토리티셔츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-145.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "다크브라운",
+        "add_price": 0
+      },
+      {
+        "name": "시안블루",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270610",
+    "brand": "엠버",
+    "name": "엠버.멜리제티셔츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-146.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270611",
+    "brand": "엠버",
+    "name": "엠버.멜리조거팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-147.jpg",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270612",
+    "brand": "엠버",
+    "name": "엠버.헤이드데님팬츠",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-148.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270613",
+    "brand": "엠버",
+    "name": "엠버.푸디프릴팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-149.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270614",
+    "brand": "엠버",
+    "name": "엠버.야채가게팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-150.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270615",
+    "brand": "엠버",
+    "name": "엠버.빈체팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-151.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270616",
+    "brand": "엠버",
+    "name": "엠버.툰스절개팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-152.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "다크브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270617",
+    "brand": "엠버",
+    "name": "엠버.코튼와이드팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-153.jpg",
     "colors": [
       {
         "name": "베이지",
@@ -213,45 +1109,9 @@
       {
         "name": "브라운",
         "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
       },
       {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210014",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 토토티셔츠",
-    "price_sale": 14000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000AD1781846860/1_18_9951774446853.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
+        "name": "네이비",
         "add_price": 0
       }
     ],
@@ -275,23 +1135,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210015",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 미미블라우스",
-    "price_sale": 29400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000AD1781846337/1_22_9491774446856.jpg",
+    "id": "2608270618",
+    "brand": "엠버",
+    "name": "엠버.폴체크팬츠",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-154.jpg",
     "colors": [
       {
-        "name": "화이트",
+        "name": "레드",
         "add_price": 0
       },
       {
-        "name": "핑크",
+        "name": "블루그린",
         "add_price": 0
       }
     ],
@@ -315,23 +1179,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210018",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 포레원피스",
-    "price_sale": 35000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000AD1781846974/1_5_811774446841.jpg",
+    "id": "2608270619",
+    "brand": "엠버",
+    "name": "엠버.더클링도트팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-155.jpg",
     "colors": [
       {
-        "name": "베이지",
+        "name": "머스타드",
         "add_price": 0
       },
       {
-        "name": "핑크",
+        "name": "네이비",
         "add_price": 0
       }
     ],
@@ -355,47 +1223,27 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210019",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 포레헤어리본",
-    "price_sale": 6300,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000AD1781846909/1_2_6401774446838.jpg",
+    "id": "2608270620",
+    "brand": "엠버",
+    "name": "엠버.프롬체크스커트",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-156.jpg",
     "colors": [
       {
-        "name": "베이지",
+        "name": "레드",
         "add_price": 0
       },
       {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "Free",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210020",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 써니원피스",
-    "price_sale": 25200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000AD1781846497/1_6_5111774446842.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
+        "name": "블루",
         "add_price": 0
       }
     ],
@@ -419,23 +1267,131 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210022",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 로지블라우스",
-    "price_sale": 25200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000AD1781845940/1_23_7901774446857.jpg",
+    "id": "2608270621",
+    "brand": "엠버",
+    "name": "엠버.돌체스커트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-157.jpg",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      },
+      {
+        "name": "스트라이프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270622",
+    "brand": "엠버",
+    "name": "엠버.버터리레깅스",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-158.jpg",
+    "colors": [
+      {
+        "name": "라이트멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "버터",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지레드",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270623",
+    "brand": "엠버",
+    "name": "엠버.슈슈레깅스",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-159.jpg",
     "colors": [
       {
         "name": "크림",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "다크브라운",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
         "add_price": 0
       }
     ],
@@ -459,519 +1415,203 @@
       {
         "name": "XL",
         "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-19"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2606210025",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 플로라티셔츠",
-    "price_sale": 16800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1781847099/1_19_8921774446854.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210026",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 조이레이스쇼츠",
-    "price_sale": 22400,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1781846642/1_11_7151774446846.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "내츄럴",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210027",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 리아볼레로",
-    "price_sale": 26600,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/N000AD1781846066/1_24_3971774446858.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210028",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 모모블라우스",
-    "price_sale": 30800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/M000AD1781846272/1_21_5681774446855.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "내추럴",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210029",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 코코점퍼",
-    "price_sale": 30800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J000AD1781846820/1_26_6551774446860.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210030",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 데이지팬츠",
-    "price_sale": 21000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000AD1781845890/1_8_6131774446844.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "올리브",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210032",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 루루티셔츠",
-    "price_sale": 16800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/H000AD1781846014/1_16_3981774446851.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210035",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 베라쇼츠",
-    "price_sale": 21000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/E000AD1781846392/1_13_9641774446849.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "내츄럴",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210036",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 엘리티셔츠",
-    "price_sale": 16800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D000AD1781846584/1_17_1871774446852.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210037",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 엔젤원피스",
-    "price_sale": 32200,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D000AD1781846534/1_4_2631774446840.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210038",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 멜로디티셔츠",
-    "price_sale": 21000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D000AD1781846221/1_15_4791774446850.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210039",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 멜로디레깅스",
-    "price_sale": 9800,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/D000AD1781846169/1_14_7201774446849.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2606210044",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.(세일) 모모헤어핀",
-    "price_sale": 4900,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/B000AD1781847254/1_3_2231774446839.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "내추럴",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "Free",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-19"
-  },
-  {
-    "id": "2607160054",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.안나니삭스",
+    "id": "2608270624",
+    "brand": "엠버",
+    "name": "엠버.조약돌헤어핀",
     "price_sale": 9600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1784169358/1_2_4441784169358.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-160.jpg",
+    "colors": [
+      {
+        "name": "라이트블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270625",
+    "brand": "엠버",
+    "name": "엠버.더블헤어핀",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-161.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270626",
+    "brand": "엠버",
+    "name": "엠버.스타베어캡",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-162.jpg",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블루그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270627",
+    "brand": "엠버",
+    "name": "엠버.왈츠누빔백팩",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-163.jpg",
     "colors": [
       {
         "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "다크브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270628",
+    "brand": "엠버",
+    "name": "엠버.코티머플러",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-164.jpg",
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "라이트블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270629",
+    "brand": "엠버",
+    "name": "엠버.크레용삭스세트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-165.jpg",
+    "colors": [
+      {
+        "name": "퍼플세트",
+        "add_price": 0
+      },
+      {
+        "name": "브라운세트",
+        "add_price": 0
+      },
+      {
+        "name": "레드레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270630",
+    "brand": "엠버",
+    "name": "엠버.어덜트빈스체크원피스",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-166.jpg",
+    "colors": [
+      {
+        "name": "애쉬그레이",
         "add_price": 0
       },
       {
@@ -985,522 +1625,70 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-16"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2607160052",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.에밀리멜빵스커트",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1784169360/1_3_1181784169360.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160050",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.루나부츠컷팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1784169363/1_4_2131784169363.jpg",
-    "colors": [
-      {
-        "name": "연베이지",
-        "add_price": 0
-      },
-      {
-        "name": "진베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160048",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.포니팬츠",
-    "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1784169366/1_5_7611784169366.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607130005",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.카스테라팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0713/mo0713-005.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-13"
-  },
-  {
-    "id": "2607160046",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.아이비골덴쇼츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1784169370/1_7_641784169370.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160045",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.라라롱티셔츠",
-    "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1784169373/1_8_6151784169373.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160044",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.소피반폴라티",
-    "price_sale": 17600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1784169374/1_9_8801784169374.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "오트밀",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160059",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.마리티셔츠",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1784169378/1_10_2701784169378.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160058",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.레나블라우스",
+    "id": "2608270631",
+    "brand": "엠버",
+    "name": "엠버.어덜트토리티셔츠",
     "price_sale": 38400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1784169380/1_11_4751784169380.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-167.jpg",
     "colors": [
       {
-        "name": "크림",
+        "name": "다크브라운",
         "add_price": 0
       },
       {
-        "name": "브라운",
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "시안블루",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
         "add_price": 0
       }
     ],
     "sizes": [
       {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
+        "name": "FREE",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-16"
+    "mfg_date": "2026-08-27"
   },
   {
-    "id": "2607160057",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.애니블라우스",
-    "price_sale": 40000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1784169384/1_12_8511784169384.jpg",
+    "id": "2608270632",
+    "brand": "엠버",
+    "name": "엠버.어덜트코튼와이드팬츠",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-168.jpg",
     "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
       {
         "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160056",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.머핀베스트",
-    "price_sale": 20800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1784169386/1_13_4911784169386.jpg",
-    "colors": [
-      {
-        "name": "크림",
         "add_price": 0
       },
       {
         "name": "베이지",
         "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
       },
       {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160055",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.포포가디건",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1784169389/1_14_5351784169389.jpg",
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
+        "name": "네이비",
         "add_price": 0
       }
     ],
     "sizes": [
       {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
+        "name": "FREE",
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160047",
-    "brand": "고고피크닉",
-    "name": "고고피크닉.카스테라팬츠",
-    "price_sale": 24000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1784169368/1_6_3241784169368.jpg",
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
+    "mfg_date": "2026-08-27"
   }
 ]

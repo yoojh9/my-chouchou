@@ -4462,5 +4462,37 @@
       }
     ],
     "mfg_date": "2026-07-15"
+  },
+  {
+    "id": "2607160014",
+    "brand": "보네오네",
+    "name": "보네오네.(세일) 멀티체크셔츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000AD1784133895/1_17_1271776271767.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2625
+      },
+      {
+        "name": "JM",
+        "add_price": 2625
+      },
+      {
+        "name": "JL",
+        "add_price": 2625
+      }
+    ],
+    "mfg_date": "2026-07-16"
   }
 ]

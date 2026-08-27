@@ -1987,5 +1987,150 @@
       }
     ],
     "mfg_date": "2026-08-18"
+  },
+  {
+    "id": "2608270543",
+    "brand": "라쿠",
+    "name": "라쿠.이너나시",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-079.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0827/mo0827-079.jpg"
+    ],
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "백색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "21",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270544",
+    "brand": "라쿠",
+    "name": "라쿠.new라쿠데님",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-080.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0827/mo0827-080.jpg"
+    ],
+    "colors": [
+      {
+        "name": "중청",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 4000
+      },
+      {
+        "name": "19",
+        "add_price": 4000
+      },
+      {
+        "name": "21",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608270545",
+    "brand": "라쿠",
+    "name": "라쿠.썸머카펜더",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-081.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0827/mo0827-081.jpg"
+    ],
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "백색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-08-27"
   }
 ]
