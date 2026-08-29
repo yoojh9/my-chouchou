@@ -1,25 +1,17 @@
 [
   {
-    "id": "2606240091",
-    "brand": "아커",
-    "name": "아커.남아잠옷2",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-001.jpg",
+    "id": "2608280425",
+    "brand": "에스떼",
+    "name": "에스떼.강아지티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-425.jpg",
     "colors": [
       {
-        "name": "강아지",
+        "name": "백메란지",
         "add_price": 0
       },
       {
-        "name": "곰돌이",
-        "add_price": 0
-      },
-      {
-        "name": "공룡",
-        "add_price": 0
-      },
-      {
-        "name": "자동차",
+        "name": "민트",
         "add_price": 0
       }
     ],
@@ -39,32 +31,28 @@
       {
         "name": "11",
         "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-23"
+    "mfg_date": "2026-08-28"
   },
   {
-    "id": "2606240092",
-    "brand": "아커",
-    "name": "아커.바캉스쓰리세트",
-    "price_sale": 20800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-002.jpg",
+    "id": "2608280426",
+    "brand": "에스떼",
+    "name": "에스떼.라이언티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-426.jpg",
     "colors": [
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
       {
         "name": "아이보리",
         "add_price": 0
-      },
-      {
-        "name": "검정",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
       }
     ],
     "sizes": [
@@ -89,117 +77,17 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-23"
+    "mfg_date": "2026-08-28"
   },
   {
-    "id": "2606240093",
-    "brand": "아커",
-    "name": "아커.슬랍나염실내복",
-    "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-003.jpg",
-    "colors": [
-      {
-        "name": "체리",
-        "add_price": 0
-      },
-      {
-        "name": "튤립",
-        "add_price": 0
-      },
-      {
-        "name": "토끼",
-        "add_price": 0
-      },
-      {
-        "name": "포크레인",
-        "add_price": 0
-      },
-      {
-        "name": "곰돌이",
-        "add_price": 0
-      },
-      {
-        "name": "공룡",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-23"
-  },
-  {
-    "id": "2606240094",
-    "brand": "아커",
-    "name": "아커.여아잠옷2",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-004.jpg",
-    "colors": [
-      {
-        "name": "유니콘",
-        "add_price": 0
-      },
-      {
-        "name": "리본목마",
-        "add_price": 0
-      },
-      {
-        "name": "토끼",
-        "add_price": 0
-      },
-      {
-        "name": "케이크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-23"
-  },
-  {
-    "id": "2606240095",
-    "brand": "아커",
-    "name": "아커.캔디프릴티",
+    "id": "2608280427",
+    "brand": "에스떼",
+    "name": "에스떼.로뎀스트라이프티",
     "price_sale": 17600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-005.jpg",
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-427.jpg",
     "colors": [
       {
-        "name": "소라",
+        "name": "메란지",
         "add_price": 0
       },
       {
@@ -229,61 +117,17 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-06-23"
+    "mfg_date": "2026-08-28"
   },
   {
-    "id": "2606240096",
-    "brand": "아커",
-    "name": "아커.쿨체크반바지",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-006.jpg",
+    "id": "2608280428",
+    "brand": "에스떼",
+    "name": "에스떼.로엠후드잠바",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-428.jpg",
     "colors": [
-      {
-        "name": "소라",
-        "add_price": 0
-      },
       {
         "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-23"
-  },
-  {
-    "id": "2608280407",
-    "brand": "아커",
-    "name": "아커.C반집업상하세트",
-    "price_sale": 24000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-407.jpg",
-    "colors": [
-      {
-        "name": "소라",
-        "add_price": 0
-      },
-      {
-        "name": "차콜",
         "add_price": 0
       },
       {
@@ -316,34 +160,18 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280408",
-    "brand": "아커",
-    "name": "아커.기획)고쟁이팬츠",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-408.jpg",
+    "id": "2608280429",
+    "brand": "에스떼",
+    "name": "에스떼.사파리후드잠바",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-429.jpg",
     "colors": [
       {
-        "name": "도트(크림)",
+        "name": "핑크",
         "add_price": 0
       },
       {
-        "name": "도트(검정)",
-        "add_price": 0
-      },
-      {
-        "name": "리본",
-        "add_price": 0
-      },
-      {
-        "name": "사선",
-        "add_price": 0
-      },
-      {
-        "name": "핑크체크",
-        "add_price": 0
-      },
-      {
-        "name": "검정체크",
+        "name": "베이지",
         "add_price": 0
       }
     ],
@@ -372,70 +200,18 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280409",
-    "brand": "아커",
-    "name": "아커.니트팬츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-409.jpg",
+    "id": "2608280430",
+    "brand": "에스떼",
+    "name": "에스떼.스트링후드잠바",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-430.jpg",
     "colors": [
       {
-        "name": "차콜",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
+        "name": "핑크",
         "add_price": 0
       },
       {
         "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "3",
-        "add_price": 0
-      },
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-28"
-  },
-  {
-    "id": "2608280410",
-    "brand": "아커",
-    "name": "아커.드로우카라상하",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-410.jpg",
-    "colors": [
-      {
-        "name": "오트",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
         "add_price": 0
       },
       {
@@ -468,18 +244,18 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280411",
-    "brand": "아커",
-    "name": "아커.똑딱셔츠",
-    "price_sale": 25600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-411.jpg",
+    "id": "2608280431",
+    "brand": "에스떼",
+    "name": "에스떼.야구잠바",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-431.jpg",
     "colors": [
       {
-        "name": "그레이",
+        "name": "네이비",
         "add_price": 0
       },
       {
-        "name": "차콜",
+        "name": "레드",
         "add_price": 0
       }
     ],
@@ -508,22 +284,22 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280412",
-    "brand": "아커",
-    "name": "아커.러브하트상하",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-412.jpg",
+    "id": "2608280432",
+    "brand": "에스떼",
+    "name": "에스떼.절개시보리팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-432.jpg",
     "colors": [
       {
-        "name": "백염",
+        "name": "오트밀",
         "add_price": 0
       },
       {
-        "name": "보라",
+        "name": "메란지",
         "add_price": 0
       },
       {
-        "name": "민트",
+        "name": "먹색",
         "add_price": 0
       }
     ],
@@ -552,18 +328,22 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280413",
-    "brand": "아커",
-    "name": "아커.맵스후드자켓",
-    "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-413.jpg",
+    "id": "2608280433",
+    "brand": "에스떼",
+    "name": "에스떼.절개주머니팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-433.jpg",
     "colors": [
       {
-        "name": "그레이",
+        "name": "베이지",
         "add_price": 0
       },
       {
-        "name": "차콜",
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "청",
         "add_price": 0
       }
     ],
@@ -592,26 +372,14 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280414",
-    "brand": "아커",
-    "name": "아커.베이직가디건나시세트",
-    "price_sale": 22400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-414.jpg",
+    "id": "2608280434",
+    "brand": "에스떼",
+    "name": "에스떼.지퍼후드잠바",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-434.jpg",
     "colors": [
       {
-        "name": "노랑",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
+        "name": "회색",
         "add_price": 0
       }
     ],
@@ -640,20 +408,212 @@
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280415",
-    "brand": "아커",
-    "name": "아커.세일-러브실내복",
-    "price_sale": 9600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-415.jpg",
+    "id": "2608280435",
+    "brand": "에스떼",
+    "name": "에스떼.체크남방",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-435.jpg",
     "colors": [
       {
-        "name": "민트",
+        "name": "곤색",
         "add_price": 0
       },
       {
-        "name": "보라",
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
         "add_price": 0
       },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280436",
+    "brand": "에스떼",
+    "name": "에스떼.초이스트라이프티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-436.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280437",
+    "brand": "에스떼",
+    "name": "에스떼.통건빵팬츠",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-437.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280438",
+    "brand": "에스떼",
+    "name": "에스떼.포근곰조끼",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-438.jpg",
+    "colors": [
+      {
+        "name": "인핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "연노랑",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "빨강",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "연밤",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280439",
+    "brand": "에스떼",
+    "name": "에스떼.프릴후드잠바",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-439.jpg",
+    "colors": [
       {
         "name": "핑크",
         "add_price": 0
@@ -679,23 +639,27 @@
       {
         "name": "11",
         "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
       }
     ],
     "mfg_date": "2026-08-28"
   },
   {
-    "id": "2608280416",
-    "brand": "아커",
-    "name": "아커.스트카라상하세트",
-    "price_sale": 27200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-416.jpg",
+    "id": "2608280440",
+    "brand": "에스떼",
+    "name": "에스떼.항공잠바",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-440.jpg",
     "colors": [
       {
-        "name": "그레이",
+        "name": "곤색",
         "add_price": 0
       },
       {
-        "name": "블루",
+        "name": "카키",
         "add_price": 0
       }
     ],
@@ -719,45 +683,9 @@
       {
         "name": "13",
         "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-08-28"
-  },
-  {
-    "id": "2608280417",
-    "brand": "아커",
-    "name": "아커.카고팬츠",
-    "price_sale": 30400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-417.jpg",
-    "colors": [
-      {
-        "name": "차콜",
-        "add_price": 0
       },
       {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "7",
-        "add_price": 0
-      },
-      {
-        "name": "9",
-        "add_price": 0
-      },
-      {
-        "name": "11",
-        "add_price": 0
-      },
-      {
-        "name": "13",
+        "name": "15",
         "add_price": 0
       }
     ],

@@ -1,118 +1,758 @@
 [
-    {
-        "id": "2606130026",
-        "brand": "씨티모자",
-        "name": "씨티모자.육각스타일캡",
-        "price_sale": 14400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781285558/1_3_4471781285558.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE(5~9세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-13"
-    },
-    {
-        "id": "2606130032",
-        "brand": "씨티모자",
-        "name": "씨티모자.공룡꼬리목덮개햇",
-        "price_sale": 16000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781285558/1_2_7981781285558.jpg",
-        "colors": [
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE(3~6세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-13"
-    },
-    {
-        "id": "2606240083",
-        "brand": "씨티모자",
-        "name": "씨티모자.알파벳워터햇",
-        "price_sale": 20800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1782310808/1_3_8771782310808.jpg",
-        "colors": [
-            {
-                "name": "연핑크",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE(5~9세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-24"
-    },
-    {
-        "id": "2606240088",
-        "brand": "씨티모자",
-        "name": "씨티모자.스누피워터햇(정품)",
-        "price_sale": 27200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1782310808/1_2_1511782310808.jpg",
-        "colors": [
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "베이지",
-                "add_price": 0
-            },
-            {
-                "name": "연핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE(5~10세)",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-06-24"
-    }
+  {
+    "id": "2606130026",
+    "brand": "씨티모자",
+    "name": "씨티모자.육각스타일캡",
+    "price_sale": 14400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1781285558/1_3_4471781285558.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(5~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606130032",
+    "brand": "씨티모자",
+    "name": "씨티모자.공룡꼬리목덮개햇",
+    "price_sale": 16000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1781285558/1_2_7981781285558.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(3~6세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-13"
+  },
+  {
+    "id": "2606240083",
+    "brand": "씨티모자",
+    "name": "씨티모자.알파벳워터햇",
+    "price_sale": 20800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1782310808/1_3_8771782310808.jpg",
+    "colors": [
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(5~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-24"
+  },
+  {
+    "id": "2606240088",
+    "brand": "씨티모자",
+    "name": "씨티모자.스누피워터햇(정품)",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1782310808/1_2_1511782310808.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(5~10세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-06-24"
+  },
+  {
+    "id": "2608280240",
+    "brand": "씨티모자",
+    "name": "씨티모자.1928미키볼캡",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-240.jpg",
+    "colors": [
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280241",
+    "brand": "씨티모자",
+    "name": "씨티모자.m자수캡",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-241.jpg",
+    "colors": [
+      {
+        "name": "보라",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280242",
+    "brand": "씨티모자",
+    "name": "씨티모자.POLO육각벙거지",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-242.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280243",
+    "brand": "씨티모자",
+    "name": "씨티모자.레옹캡",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-243.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "중청",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280244",
+    "brand": "씨티모자",
+    "name": "씨티모자.미키벙거지",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-244.jpg",
+    "colors": [
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280245",
+    "brand": "씨티모자",
+    "name": "씨티모자.아동POLO볼캡",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-245.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "50(3~4세)",
+        "add_price": 0
+      },
+      {
+        "name": "54(5~9세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280246",
+    "brand": "씨티모자",
+    "name": "씨티모자.아동골덴팔각모",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-246.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280247",
+    "brand": "씨티모자",
+    "name": "씨티모자.아동워싱벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-247.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280248",
+    "brand": "씨티모자",
+    "name": "씨티모자.울베레모(제질=울100%)",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-248.jpg",
+    "colors": [
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "살구핑크",
+        "add_price": 0
+      },
+      {
+        "name": "초록",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "유아",
+        "add_price": 0
+      },
+      {
+        "name": "아동",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280249",
+    "brand": "씨티모자",
+    "name": "씨티모자.워싱댄디벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-249.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "50(2~3세)",
+        "add_price": 0
+      },
+      {
+        "name": "52(4~6세)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280250",
+    "brand": "씨티모자",
+    "name": "씨티모자.유아POLO얌체",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-250.jpg",
+    "colors": [
+      {
+        "name": "연핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280251",
+    "brand": "씨티모자",
+    "name": "씨티모자.유아면팔각모",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-251.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280252",
+    "brand": "씨티모자",
+    "name": "씨티모자.유아미키마우스얌체",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-252.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280253",
+    "brand": "씨티모자",
+    "name": "씨티모자.유아워싱벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-253.jpg",
+    "colors": [
+      {
+        "name": "연그레이",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280254",
+    "brand": "씨티모자",
+    "name": "씨티모자.청리본벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-254.jpg",
+    "colors": [
+      {
+        "name": "연청",
+        "add_price": 0
+      },
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280255",
+    "brand": "씨티모자",
+    "name": "씨티모자.청벙거지",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-255.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      },
+      {
+        "name": "블랙청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280256",
+    "brand": "씨티모자",
+    "name": "씨티모자.폴로워싱벙거지",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-256.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "청",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  }
 ]

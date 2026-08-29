@@ -4249,5 +4249,110 @@
       }
     ],
     "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "2608280227",
+    "brand": "듀디",
+    "name": "듀디.칼스 3종",
+    "price_sale": 8800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-227.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0828/mo0828-227.jpg"
+    ],
+    "colors": [
+      {
+        "name": "A세트(블루",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "올리브)",
+        "add_price": 0
+      },
+      {
+        "name": "B세트(그린",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "그레이)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280228",
+    "brand": "듀디",
+    "name": "듀디.코스트캡",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-228.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0828/mo0828-228.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "2608280229",
+    "brand": "듀디",
+    "name": "듀디.프로젝트캡",
+    "price_sale": 13600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-229.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0828/mo0828-229.jpg"
+    ],
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-28"
   }
 ]
