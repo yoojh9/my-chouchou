@@ -1,2551 +1,1699 @@
 [
-    {
-        "id": "2605000011",
-        "brand": "세라",
-        "name": "세라.아이린팬츠",
-        "price_sale": 27200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/9C1780109581/1_9_9451780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/9C1780109581/1_9_9451780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/2_9_7301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/3_9_6321780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/4_9_4791780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/5_9_551780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/6_9_3301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/7_9_5911780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/8_9_3521780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/9_9_2301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/10_9_8671780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/11_9_4131780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/12_9_6241780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/13_9_3591780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/14_9_531780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/15_9_8711780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/16_9_3551780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/17_9_1561780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/18_9_8391780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/19_9_1951780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/9C1780109581/20_9_2001780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605000193",
-        "brand": "세라",
-        "name": "세라.아이린나시",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/8C1780109581/1_8_601780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/8C1780109581/1_8_601780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/2_8_3941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/3_8_4911780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/4_8_6401780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/5_8_2461780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/6_8_9961780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/7_8_1021780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/8_8_9681780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/9_8_8391780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/10_8_431780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/11_8_6471780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/12_8_6411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/13_8_7931780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/14_8_5651780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/15_8_6601780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/16_8_9771780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/17_8_2261780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/18_8_8911780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/19_8_2511780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/8C1780109581/20_8_2281780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "연블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605000388",
-        "brand": "세라",
-        "name": "세라.스트라이프원피스",
-        "price_sale": 20800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1780109581/1_7_6791780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/7C1780109581/1_7_6791780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/2_7_8021780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/3_7_7491780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/4_7_9171780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/5_7_181780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/6_7_1831780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/7_7_6611780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/8_7_2301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/9_7_2741780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/10_7_11780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/11_7_2501780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/12_7_6931780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/13_7_5011780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/14_7_4891780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/15_7_5341780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/16_7_3251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/17_7_6981780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/18_7_1111780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/19_7_2971780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/7C1780109581/20_7_9001780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605000608",
-        "brand": "세라",
-        "name": "세라.슈팅스타티셔츠",
-        "price_sale": 14400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1780109581/1_6_191780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/6C1780109581/1_6_191780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/2_6_4181780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/3_6_4991780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/4_6_2381780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/5_6_8411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/6_6_8231780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/7_6_2081780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/8_6_5761780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/9_6_9721780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/10_6_2011780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/11_6_1641780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/12_6_7631780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/13_6_4941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/14_6_2151780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/15_6_5791780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/16_6_8511780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/17_6_5041780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/18_6_4621780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/19_6_7211780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/6C1780109581/20_6_8431780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "연노랑",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "연블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605000859",
-        "brand": "세라",
-        "name": "세라.블라썸나시",
-        "price_sale": 16000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1780109581/1_5_5871780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/5C1780109581/1_5_5871780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/2_5_7901780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/3_5_2921780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/4_5_511780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/5_5_8161780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/6_5_3571780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/7_5_2881780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/8_5_8831780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/9_5_8701780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/10_5_3381780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/11_5_4771780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/12_5_9571780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/13_5_9591780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/14_5_8081780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/15_5_2371780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/16_5_2161780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/17_5_4341780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/18_5_7441780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/19_5_2121780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/5C1780109581/20_5_901780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605001179",
-        "brand": "세라",
-        "name": "세라.릴리롱티",
-        "price_sale": 25600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1780109581/1_4_5941780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/4C1780109581/1_4_5941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/2_4_871780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/3_4_6201780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/4_4_3311780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/5_4_2791780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/6_4_2571780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/7_4_6251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/8_4_5071780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/9_4_9961780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/10_4_6561780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/11_4_5961780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/12_4_8071780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/13_4_3281780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/14_4_1591780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/15_4_2191780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/16_4_4221780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/17_4_3231780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/18_4_9691780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/19_4_7351780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/4C1780109581/20_4_1481780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605001626",
-        "brand": "세라",
-        "name": "세라.러브스트라이프나시",
-        "price_sale": 14400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1780109581/1_3_881780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/3C1780109581/1_3_881780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/2_3_8111780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/3_3_6711780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/4_3_5631780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/5_3_4111780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/6_3_941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/7_3_1641780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/8_3_7501780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/9_3_3131780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/10_3_8251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/11_3_231780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/12_3_8511780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/13_3_6411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/14_3_2991780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/15_3_4631780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/16_3_251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/17_3_651780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/18_3_2371780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/19_3_671780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/3C1780109581/20_3_5121780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605002261",
-        "brand": "세라",
-        "name": "세라.도트샬롯세트",
-        "price_sale": 32000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1780109581/1_2_2721780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/2C1780109581/1_2_2721780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/2_2_5381780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/3_2_8161780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/4_2_2761780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/5_2_6111780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/6_2_3841780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/7_2_7651780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/8_2_7731780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/9_2_411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/10_2_4471780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/11_2_8121780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/12_2_5271780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/13_2_5751780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/14_2_5701780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/15_2_7361780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/16_2_1911780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/17_2_6361780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/18_2_2941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/19_2_2281780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/2C1780109581/20_2_7381780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605003434",
-        "brand": "세라",
-        "name": "세라.헤이즐스트라이프반바지",
-        "price_sale": 22400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/16C1780109581/1_16_6801780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/16C1780109581/1_16_6801780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/2_16_6551780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/3_16_3191780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/4_16_1591780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/5_16_3821780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/6_16_2471780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/7_16_3401780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/8_16_4501780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/9_16_181780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/10_16_8441780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/11_16_2971780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/12_16_1041780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/13_16_5861780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/14_16_8531780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/15_16_2151780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/16_16_1261780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/17_16_7761780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/18_16_1691780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/19_16_831780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/16C1780109581/20_16_731780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605003542",
-        "brand": "세라",
-        "name": "세라.핫썸머밴드",
-        "price_sale": 8000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/15C1780109581/1_15_8461780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/15C1780109581/1_15_8461780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/2_15_851780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/3_15_7421780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/4_15_5561780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/5_15_1101780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/6_15_5401780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/7_15_9231780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/8_15_9531780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/9_15_9561780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/10_15_2961780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/11_15_801780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/12_15_1031780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/13_15_8981780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/14_15_3121780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/15_15_2501780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/16_15_7881780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/17_15_6661780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/18_15_8641780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/19_15_5151780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/15C1780109581/20_15_9971780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "그린",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605003783",
-        "brand": "세라",
-        "name": "세라.토끼끈나시원피스",
-        "price_sale": 16000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/13C1780109581/1_13_9301780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/13C1780109581/1_13_9301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/2_13_4361780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/3_13_3271780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/4_13_3631780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/5_13_3151780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/6_13_681780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/7_13_191780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/8_13_7001780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/9_13_3411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/10_13_8421780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/11_13_3231780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/12_13_7781780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/13_13_3141780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/14_13_2381780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/15_13_7091780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/16_13_251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/17_13_7981780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/18_13_3661780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/19_13_8421780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/13C1780109581/20_13_4161780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605003915",
-        "brand": "세라",
-        "name": "세라.쿨도트팬츠",
-        "price_sale": 16000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/12C1780109581/1_12_6221780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/12C1780109581/1_12_6221780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/2_12_4361780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/3_12_4711780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/4_12_9141780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/5_12_9311780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/6_12_7101780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/7_12_5591780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/8_12_6561780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/9_12_8171780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/10_12_6181780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/11_12_61780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/12_12_2831780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/13_12_7301780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/14_12_2281780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/15_12_1051780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/16_12_9991780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/17_12_2881780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/18_12_1221780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/19_12_4681780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/12C1780109581/20_12_8361780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605004055",
-        "brand": "세라",
-        "name": "세라.와플프릴반바지",
-        "price_sale": 17600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/11C1780109581/1_11_3501780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/11C1780109581/1_11_3501780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/2_11_4661780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/3_11_1121780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/4_11_2211780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/5_11_8211780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/6_11_2681780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/7_11_601780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/8_11_161780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/9_11_4681780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/10_11_5471780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/11_11_8531780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/12_11_4621780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/13_11_6001780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/14_11_3511780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/15_11_4331780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/16_11_8781780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/17_11_7411780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/18_11_6551780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/19_11_3851780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/11C1780109581/20_11_2721780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2605004200",
-        "brand": "세라",
-        "name": "세라.아일렛블랑",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/10C1780109581/1_10_8371780109581.jpg",
-        "detail_images": [
-            "https://kidsvillage.co.kr/data/item/10C1780109581/1_10_8371780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/2_10_9931780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/3_10_521780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/4_10_4971780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/5_10_9701780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/6_10_2781780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/7_10_3891780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/8_10_2221780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/9_10_5061780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/10_10_5311780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/11_10_1671780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/12_10_2361780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/13_10_1631780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/14_10_6471780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/15_10_2921780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/16_10_4941780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/17_10_2391780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/18_10_6451780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/19_10_7251780109581.jpg",
-            "https://kidsvillage.co.kr/data/item/10C1780109581/20_10_1061780109581.jpg"
-        ],
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-05-30"
-    },
-    {
-        "id": "2608160192",
-        "brand": "세라",
-        "name": "세라.베베봉봉리본밴드",
-        "price_sale": 8000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-192.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-192.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160193",
-        "brand": "세라",
-        "name": "세라.베베엘리샤튜튜",
-        "price_sale": 19200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-193.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-193.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160194",
-        "brand": "세라",
-        "name": "세라.베베카라무릎빵상하",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-194.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-194.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "진그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160195",
-        "brand": "세라",
-        "name": "세라.베베브이넥베이스볼상하",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-195.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-195.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160196",
-        "brand": "세라",
-        "name": "세라.베베베스트프랜드st상하",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-196.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-196.jpg"
-        ],
-        "colors": [
-            {
-                "name": "그린",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160197",
-        "brand": "세라",
-        "name": "세라.베베다람쥐상하",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-197.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-197.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160198",
-        "brand": "세라",
-        "name": "세라.베베롤리프릴상하",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-198.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-198.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160199",
-        "brand": "세라",
-        "name": "세라.베베땡땡이바지상하",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-199.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-199.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160200",
-        "brand": "세라",
-        "name": "세라.베베블루머상하",
-        "price_sale": 33600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-200.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-200.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160201",
-        "brand": "세라",
-        "name": "세라.베베레깅스상하",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-201.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-201.jpg"
-        ],
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160202",
-        "brand": "세라",
-        "name": "세라.베베냐옹조끼상하",
-        "price_sale": 30400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-202.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-202.jpg"
-        ],
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160203",
-        "brand": "세라",
-        "name": "세라.베베쁘띠체크프릴상하",
-        "price_sale": 33600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-203.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-203.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160204",
-        "brand": "세라",
-        "name": "세라.베베쁘띠레깅스",
-        "price_sale": 12800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-204.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-204.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160205",
-        "brand": "세라",
-        "name": "세라.베베퐁퐁골지티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-205.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-205.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160206",
-        "brand": "세라",
-        "name": "세라.베베체크수트",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-206.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-206.jpg"
-        ],
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160207",
-        "brand": "세라",
-        "name": "세라.베베다람쥐스트라이프수트",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-207.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-207.jpg"
-        ],
-        "colors": [
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "연블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160208",
-        "brand": "세라",
-        "name": "세라.러브튜튜",
-        "price_sale": 20800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-208.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-208.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160209",
-        "brand": "세라",
-        "name": "세라.미미레이스스커트",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-209.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-209.jpg"
-        ],
-        "colors": [
-            {
-                "name": "멜란그레이",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160210",
-        "brand": "세라",
-        "name": "세라.체크쁘띠스커트",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-210.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-210.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160211",
-        "brand": "세라",
-        "name": "세라.러브데님팬츠",
-        "price_sale": 32000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-211.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-211.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연블루",
-                "add_price": 0
-            },
-            {
-                "name": "진블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160212",
-        "brand": "세라",
-        "name": "세라.클로이프릴팬츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-212.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-212.jpg"
-        ],
-        "colors": [
-            {
-                "name": "멜란그레이",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160213",
-        "brand": "세라",
-        "name": "세라.리본부츠컷팬츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-213.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-213.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160214",
-        "brand": "세라",
-        "name": "세라.푸딩웜업세트",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-214.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-214.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160215",
-        "brand": "세라",
-        "name": "세라.스타치마바지세트",
-        "price_sale": 41600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-215.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-215.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160216",
-        "brand": "세라",
-        "name": "세라.테리레이스세트",
-        "price_sale": 51200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-216.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-216.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160217",
-        "brand": "세라",
-        "name": "세라.샬롯자가드팬츠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-217.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-217.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160218",
-        "brand": "세라",
-        "name": "세라.샬롯레이어드맨투맨",
-        "price_sale": 28800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-218.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-218.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160219",
-        "brand": "세라",
-        "name": "세라.체크프릴부츠컷팬츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-219.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-219.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160220",
-        "brand": "세라",
-        "name": "세라.체크카라맨투맨",
-        "price_sale": 28800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-220.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-220.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160221",
-        "brand": "세라",
-        "name": "세라.도트하트배기팬츠",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-221.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-221.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160222",
-        "brand": "세라",
-        "name": "세라.냠냠맨투맨",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-222.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-222.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160223",
-        "brand": "세라",
-        "name": "세라.와플레이스프릴팬츠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-223.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-223.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "멜란그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160224",
-        "brand": "세라",
-        "name": "세라.리본레이스라글란맨투맨",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-224.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-224.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160225",
-        "brand": "세라",
-        "name": "세라.미유단가라맨투맨",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-225.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-225.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160226",
-        "brand": "세라",
-        "name": "세라.프릴하트스트라이프티",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-226.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-226.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160227",
-        "brand": "세라",
-        "name": "세라.제니망사레이어드티",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-227.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-227.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160228",
-        "brand": "세라",
-        "name": "세라.쁘띠라글란티",
-        "price_sale": 17600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-228.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-228.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160229",
-        "brand": "세라",
-        "name": "세라.도트리본퍼프티",
-        "price_sale": 20800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-229.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-229.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160230",
-        "brand": "세라",
-        "name": "세라.미니하트반목티",
-        "price_sale": 17600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-230.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-230.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160231",
-        "brand": "세라",
-        "name": "세라.리본레이어드티",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-231.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-231.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160232",
-        "brand": "세라",
-        "name": "세라.프릴레이스가디건세트",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-232.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-232.jpg"
-        ],
-        "colors": [
-            {
-                "name": "크림",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160233",
-        "brand": "세라",
-        "name": "세라.트위스커트",
-        "price_sale": 27200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-233.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-233.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    },
-    {
-        "id": "2608160234",
-        "brand": "세라",
-        "name": "세라.트위자켓",
-        "price_sale": 36800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-234.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0817/mo0817-234.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "S",
-                "add_price": 0
-            },
-            {
-                "name": "M",
-                "add_price": 0
-            },
-            {
-                "name": "L",
-                "add_price": 0
-            },
-            {
-                "name": "XL",
-                "add_price": 0
-            },
-            {
-                "name": "2XL",
-                "add_price": 1000
-            }
-        ],
-        "mfg_date": "2026-08-17"
-    }
+  {
+    "id": "2608160192",
+    "brand": "세라",
+    "name": "세라.베베봉봉리본밴드",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-192.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-192.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160193",
+    "brand": "세라",
+    "name": "세라.베베엘리샤튜튜",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-193.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-193.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160194",
+    "brand": "세라",
+    "name": "세라.베베카라무릎빵상하",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-194.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-194.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "진그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160195",
+    "brand": "세라",
+    "name": "세라.베베브이넥베이스볼상하",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-195.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-195.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160196",
+    "brand": "세라",
+    "name": "세라.베베베스트프랜드st상하",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-196.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-196.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160197",
+    "brand": "세라",
+    "name": "세라.베베다람쥐상하",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-197.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-197.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160198",
+    "brand": "세라",
+    "name": "세라.베베롤리프릴상하",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-198.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-198.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160199",
+    "brand": "세라",
+    "name": "세라.베베땡땡이바지상하",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-199.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-199.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160200",
+    "brand": "세라",
+    "name": "세라.베베블루머상하",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-200.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-200.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160201",
+    "brand": "세라",
+    "name": "세라.베베레깅스상하",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-201.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-201.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160202",
+    "brand": "세라",
+    "name": "세라.베베냐옹조끼상하",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-202.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-202.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160203",
+    "brand": "세라",
+    "name": "세라.베베쁘띠체크프릴상하",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-203.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-203.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160204",
+    "brand": "세라",
+    "name": "세라.베베쁘띠레깅스",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-204.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-204.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160205",
+    "brand": "세라",
+    "name": "세라.베베퐁퐁골지티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-205.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-205.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160206",
+    "brand": "세라",
+    "name": "세라.베베체크수트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-206.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-206.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160207",
+    "brand": "세라",
+    "name": "세라.베베다람쥐스트라이프수트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-207.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-207.jpg"
+    ],
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "연블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160208",
+    "brand": "세라",
+    "name": "세라.러브튜튜",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-208.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-208.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160209",
+    "brand": "세라",
+    "name": "세라.미미레이스스커트",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-209.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-209.jpg"
+    ],
+    "colors": [
+      {
+        "name": "멜란그레이",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160210",
+    "brand": "세라",
+    "name": "세라.체크쁘띠스커트",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-210.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-210.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160211",
+    "brand": "세라",
+    "name": "세라.러브데님팬츠",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-211.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-211.jpg"
+    ],
+    "colors": [
+      {
+        "name": "연블루",
+        "add_price": 0
+      },
+      {
+        "name": "진블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160212",
+    "brand": "세라",
+    "name": "세라.클로이프릴팬츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-212.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-212.jpg"
+    ],
+    "colors": [
+      {
+        "name": "멜란그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160213",
+    "brand": "세라",
+    "name": "세라.리본부츠컷팬츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-213.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-213.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160214",
+    "brand": "세라",
+    "name": "세라.푸딩웜업세트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-214.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-214.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160215",
+    "brand": "세라",
+    "name": "세라.스타치마바지세트",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-215.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-215.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160216",
+    "brand": "세라",
+    "name": "세라.테리레이스세트",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-216.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-216.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160217",
+    "brand": "세라",
+    "name": "세라.샬롯자가드팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-217.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-217.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160218",
+    "brand": "세라",
+    "name": "세라.샬롯레이어드맨투맨",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-218.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-218.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160219",
+    "brand": "세라",
+    "name": "세라.체크프릴부츠컷팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-219.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-219.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160220",
+    "brand": "세라",
+    "name": "세라.체크카라맨투맨",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-220.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-220.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160221",
+    "brand": "세라",
+    "name": "세라.도트하트배기팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-221.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-221.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160222",
+    "brand": "세라",
+    "name": "세라.냠냠맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-222.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-222.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160223",
+    "brand": "세라",
+    "name": "세라.와플레이스프릴팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-223.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-223.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "멜란그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160224",
+    "brand": "세라",
+    "name": "세라.리본레이스라글란맨투맨",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-224.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-224.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160225",
+    "brand": "세라",
+    "name": "세라.미유단가라맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-225.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-225.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160226",
+    "brand": "세라",
+    "name": "세라.프릴하트스트라이프티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-226.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-226.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160227",
+    "brand": "세라",
+    "name": "세라.제니망사레이어드티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-227.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-227.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160228",
+    "brand": "세라",
+    "name": "세라.쁘띠라글란티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-228.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-228.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160229",
+    "brand": "세라",
+    "name": "세라.도트리본퍼프티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-229.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-229.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160230",
+    "brand": "세라",
+    "name": "세라.미니하트반목티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-230.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-230.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160231",
+    "brand": "세라",
+    "name": "세라.리본레이어드티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-231.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-231.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160232",
+    "brand": "세라",
+    "name": "세라.프릴레이스가디건세트",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-232.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-232.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160233",
+    "brand": "세라",
+    "name": "세라.트위스커트",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-233.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-233.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  },
+  {
+    "id": "2608160234",
+    "brand": "세라",
+    "name": "세라.트위자켓",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-234.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0817/mo0817-234.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-08-17"
+  }
 ]

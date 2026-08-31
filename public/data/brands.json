@@ -178,12 +178,13 @@
   {
     "id": "나무",
     "name": "나무",
-    "total": 2,
+    "total": 3,
     "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-001.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-330.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-329.jpg"
     ],
-    "latest_mfg_date": "2026-08-26"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "나무키즈",
@@ -285,6 +286,17 @@
     "latest_mfg_date": "2026-08-12"
   },
   {
+    "id": "누누",
+    "name": "누누",
+    "total": 45,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-046.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-045.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-044.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "누누비엘",
     "name": "누누비엘",
     "total": 50,
@@ -309,18 +321,18 @@
   {
     "id": "뉴피에르",
     "name": "뉴피에르",
-    "total": 58,
+    "total": 63,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-359.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-358.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-357.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-051.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-050.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-049.jpg"
     ],
-    "latest_mfg_date": "2026-08-25"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "니니벨로",
     "name": "니니벨로",
-    "total": 87,
+    "total": 54,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-054.jpg",
       "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-053.jpg",
@@ -461,6 +473,17 @@
     "latest_mfg_date": "2026-08-20"
   },
   {
+    "id": "데이크",
+    "name": "데이크",
+    "total": 15,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-084.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-083.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-082.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "데일리베베",
     "name": "데일리베베",
     "total": 97,
@@ -562,13 +585,13 @@
   {
     "id": "듀디",
     "name": "듀디",
-    "total": 132,
+    "total": 140,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-229.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-228.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-227.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-092.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-091.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-090.jpg"
     ],
-    "latest_mfg_date": "2026-08-28"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "드레스몬스터",
@@ -584,7 +607,7 @@
   {
     "id": "디그린",
     "name": "디그린",
-    "total": 133,
+    "total": 122,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-139.jpg",
       "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-138.jpg",
@@ -747,6 +770,28 @@
     "latest_mfg_date": "2026-08-10"
   },
   {
+    "id": "레드몽",
+    "name": "레드몽",
+    "total": 4,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-055.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-054.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-053.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
+    "id": "레모네이드",
+    "name": "레모네이드",
+    "total": 93,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-185.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-184.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-183.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "레브",
     "name": "레브",
     "total": 17,
@@ -782,13 +827,13 @@
   {
     "id": "로그101",
     "name": "로그101",
-    "total": 42,
+    "total": 47,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-222.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-221.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0806/mo0806-220.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-223.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-222.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-209.jpg"
     ],
-    "latest_mfg_date": "2026-08-06"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "로다제이",
@@ -835,15 +880,26 @@
     "latest_mfg_date": "2026-08-03"
   },
   {
+    "id": "리버스",
+    "name": "리버스",
+    "total": 14,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-237.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-236.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-235.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "리우리우",
     "name": "리우리우",
-    "total": 12,
+    "total": 18,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-234.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-233.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0828/mo0828-232.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-243.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-242.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-241.jpg"
     ],
-    "latest_mfg_date": "2026-08-28"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "리카",
@@ -1196,6 +1252,17 @@
     "latest_mfg_date": "2026-08-04"
   },
   {
+    "id": "몽콕",
+    "name": "몽콕",
+    "total": 22,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-265.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-264.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-263.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "미끼",
     "name": "미끼",
     "total": 39,
@@ -1231,7 +1298,7 @@
   {
     "id": "미니로브",
     "name": "미니로브",
-    "total": 127,
+    "total": 116,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-475.jpg",
       "https://www.i54.co.kr/web/product/big/202607/mo0727/mo0727-474.jpg",
@@ -1385,13 +1452,13 @@
   {
     "id": "바닐라버니",
     "name": "바닐라버니",
-    "total": 63,
+    "total": 115,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-057.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-056.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-055.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-317.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-316.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-315.jpg"
     ],
-    "latest_mfg_date": "2026-08-17"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "바이미미",
@@ -1427,13 +1494,13 @@
   {
     "id": "밤바",
     "name": "밤바",
-    "total": 60,
+    "total": 71,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-345.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-344.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0821/mo0821-343.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-328.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-327.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-326.jpg"
     ],
-    "latest_mfg_date": "2026-08-21"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "백프로코튼",
@@ -1493,13 +1560,13 @@
   {
     "id": "베러제이",
     "name": "베러제이",
-    "total": 67,
+    "total": 70,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-095.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-094.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0814/mo0814-093.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-362.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-355.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-354.jpg"
     ],
-    "latest_mfg_date": "2026-08-14"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "베리베리",
@@ -1898,7 +1965,7 @@
   {
     "id": "세라",
     "name": "세라",
-    "total": 57,
+    "total": 43,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-234.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0817/mo0817-233.jpg",
@@ -1986,7 +2053,7 @@
   {
     "id": "소이빈",
     "name": "소이빈",
-    "total": 248,
+    "total": 216,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-390.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0820/mo0820-389.jpg",
@@ -2008,13 +2075,13 @@
   {
     "id": "수",
     "name": "수",
-    "total": 37,
+    "total": 44,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-299.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-298.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0825/mo0825-297.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-373.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-372.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-371.jpg"
     ],
-    "latest_mfg_date": "2026-08-25"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "슈에뜨",
@@ -2048,6 +2115,17 @@
       "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-230.jpg"
     ],
     "latest_mfg_date": "2026-08-11"
+  },
+  {
+    "id": "스마일허그",
+    "name": "스마일허그",
+    "total": 14,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-387.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-386.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-385.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "스엔스텔라",
@@ -2092,6 +2170,17 @@
       "https://kidsvillage.co.kr/data/item/12C1782310834/1_12_6491782310834.jpg"
     ],
     "latest_mfg_date": "2026-06-24"
+  },
+  {
+    "id": "스펠라",
+    "name": "스펠라",
+    "total": 9,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-064.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-063.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-062.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "씨티모자",
@@ -2228,13 +2317,13 @@
   {
     "id": "아이짱",
     "name": "아이짱",
-    "total": 24,
+    "total": 27,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-499.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-498.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0824/mo0824-318.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-067.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-066.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-065.jpg"
     ],
-    "latest_mfg_date": "2026-08-24"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "아젤리아",
@@ -2261,7 +2350,7 @@
   {
     "id": "아토메메",
     "name": "아토메메",
-    "total": 122,
+    "total": 114,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0803/mo0803-478.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0803/mo0803-473.jpg",
@@ -2382,7 +2471,7 @@
   {
     "id": "에끌레어",
     "name": "에끌레어",
-    "total": 24,
+    "total": 22,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-005.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-004.jpg",
@@ -2579,7 +2668,7 @@
   {
     "id": "오뜨베베",
     "name": "오뜨베베",
-    "total": 148,
+    "total": 146,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-432.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-431.jpg",
@@ -2612,13 +2701,13 @@
   {
     "id": "오아후",
     "name": "오아후",
-    "total": 45,
+    "total": 73,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/A000AD1782071883/1_31_6251776645894.jpg",
-      "https://kidsvillage.co.kr/data/item/A000ND1782071902/1_17_2871776645874.jpg",
-      "https://kidsvillage.co.kr/data/item/E000WD1782071913/1_7_5741776645860.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-415.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-414.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-413.jpg"
     ],
-    "latest_mfg_date": "2026-06-22"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "오오오",
@@ -2678,13 +2767,13 @@
   {
     "id": "오호",
     "name": "오호",
-    "total": 11,
+    "total": 35,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-135.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-134.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0623/mo0623-133.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-439.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-438.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-437.jpg"
     ],
-    "latest_mfg_date": "2026-06-23"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "올리브데님",
@@ -2799,35 +2888,35 @@
   {
     "id": "이니키즈",
     "name": "이니키즈",
-    "total": 518,
+    "total": 564,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-211.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-210.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-209.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-486.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-485.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-484.jpg"
     ],
-    "latest_mfg_date": "2026-08-27"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "이루",
     "name": "이루",
-    "total": 14,
+    "total": 48,
     "preview_thumbnails": [
-      "https://kidsvillage.co.kr/data/item/10C1780187929/1_10_7271780187929.jpg",
-      "https://kidsvillage.co.kr/data/item/11C1780187929/1_11_6421780187929.jpg",
-      "https://kidsvillage.co.kr/data/item/12C1780187929/1_12_3311780187929.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-520.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-519.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-518.jpg"
     ],
-    "latest_mfg_date": "2026-05-31"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "이지아이",
     "name": "이지아이",
-    "total": 45,
+    "total": 87,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-045.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-044.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0827/mo0827-043.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-562.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-561.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-560.jpg"
     ],
-    "latest_mfg_date": "2026-08-27"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "일센치",
@@ -2865,13 +2954,13 @@
   {
     "id": "제니베이직",
     "name": "제니베이직",
-    "total": 49,
+    "total": 55,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-353.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-352.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-351.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-568.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-567.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-566.jpg"
     ],
-    "latest_mfg_date": "2026-08-26"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "제르메인",
@@ -3160,6 +3249,17 @@
     "latest_mfg_date": "2026-08-20"
   },
   {
+    "id": "쿠도스",
+    "name": "쿠도스",
+    "total": 17,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-585.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-584.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-583.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "크림빵",
     "name": "크림빵",
     "total": 135,
@@ -3182,15 +3282,25 @@
     "latest_mfg_date": "2026-08-26"
   },
   {
+    "id": "키즈데일리",
+    "name": "키즈데일리",
+    "total": 2,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-069.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-068.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "키치키치",
     "name": "키치키치",
-    "total": 4,
+    "total": 20,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202606/mo0624/mo0624-069.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0624/mo0624-068.jpg",
-      "https://www.i54.co.kr/web/product/big/202606/mo0624/mo0624-067.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-602.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-601.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-600.jpg"
     ],
-    "latest_mfg_date": "2026-06-24"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "타이니하이커",
@@ -3403,13 +3513,13 @@
   {
     "id": "플라워제이",
     "name": "플라워제이",
-    "total": 17,
+    "total": 23,
     "preview_thumbnails": [
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-185.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-184.jpg",
-      "https://www.i54.co.kr/web/product/big/202608/mo0826/mo0826-183.jpg"
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-622.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-621.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-620.jpg"
     ],
-    "latest_mfg_date": "2026-08-26"
+    "latest_mfg_date": "2026-08-31"
   },
   {
     "id": "플레이",
@@ -3577,6 +3687,17 @@
     "latest_mfg_date": "2026-08-21"
   },
   {
+    "id": "하트",
+    "name": "하트",
+    "total": 66,
+    "preview_thumbnails": [
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-689.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-688.jpg",
+      "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-687.jpg"
+    ],
+    "latest_mfg_date": "2026-08-31"
+  },
+  {
     "id": "한스",
     "name": "한스",
     "total": 37,
@@ -3612,7 +3733,7 @@
   {
     "id": "헤이도",
     "name": "헤이도",
-    "total": 61,
+    "total": 48,
     "preview_thumbnails": [
       "https://www.i54.co.kr/web/product/big/202608/mo0807/mo0807-145.jpg",
       "https://www.i54.co.kr/web/product/big/202608/mo0807/mo0807-144.jpg",

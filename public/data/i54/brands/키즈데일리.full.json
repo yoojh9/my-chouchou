@@ -1,1 +1,88 @@
-[]
+[
+  {
+    "id": "2608300068",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.인어공주심플티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-068.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0831/mo0831-068.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "2608300069",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.카모음심플티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0831/mo0831-069.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0831/mo0831-069.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "올리브",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-31"
+  }
+]
