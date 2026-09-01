@@ -8,6 +8,7 @@
 - `src/pages/brand.js` — 브랜드별 상품 목록, 20개씩 무한 스크롤 로딩(IntersectionObserver)
 - `src/pages/product.js` — 상품 상세 + 색상·사이즈·수량 선택 + 장바구니 담기
 - `src/pages/cart.js` — 장바구니 페이지 + 구글 폼 주문서 연동
+- `src/pages/admin.js` — 품절 관리 페이지 (`#/admin`, URL 직접 진입). 전체 상품 검색 + 품절 토글 → soldout.json 복사/다운로드. 백엔드 없어 결과는 직접 커밋·푸시해야 반영
 - `public/data/` — 정적 JSON 데이터 (`convert_excel.py`로 갱신)
 
 ## 데이터 파일

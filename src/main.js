@@ -3,6 +3,7 @@ import { renderHome, resetHomeState } from './pages/home.js'
 import { renderBrand } from './pages/brand.js'
 import { renderProduct } from './pages/product.js'
 import { renderCart } from './pages/cart.js'
+import { renderAdmin } from './pages/admin.js'
 import { updateCartBadge, saveSourceFromUrl, getSource } from './cart.js'
 
 saveSourceFromUrl()
@@ -40,6 +41,9 @@ let lastListHash = '#/'
 async function router() {
   const hash = location.hash || '#/'
 
+  // 관리 페이지에는 하단 바가 있어 플로팅 장바구니 버튼과 겹치므로 숨긴다
+  fab.style.display = hash === '#/admin' ? 'none' : ''
+
   if (hash === '#/' || hash === '#') {
     await renderHome(app)
     if (restoreHomeScroll) {
@@ -49,6 +53,9 @@ async function router() {
   } else if (hash === '#/cart') {
     if (!getSource()) { location.hash = '#/'; return }
     renderCart(app)
+    window.scrollTo(0, 0)
+  } else if (hash === '#/admin') {
+    await renderAdmin(app)
     window.scrollTo(0, 0)
   } else if (hash.startsWith('#/brand/')) {
     const brandId = decodeURIComponent(hash.slice('#/brand/'.length))
