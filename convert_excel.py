@@ -39,19 +39,27 @@ LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors"
 
 
 def get_id_prefix(xlsx_path: str) -> str:
-    """파일명에서 ID 접두어 추출.
-    2026-05.xlsx             → '260500'
-    2026-05-27.xlsx          → '260527'
-    page_crawl_2026-06-30.xlsx → '260630'
+    """파일명에서 ID 접두어(날짜 6자리 + 소스 flag 1자리) 추출.
+
+    같은 날짜에 두 소스의 엑셀이 들어오므로(예: 2026-06-30.xlsx 와
+    page_crawl_2026-06-30.xlsx) 날짜만으로는 id가 겹친다. 소스 flag를 붙여
+    구분한다. (기존 10자리 id와 길이가 달라 과거 데이터와도 충돌하지 않음)
+      - page_crawl_* : flag '2'
+      - 그 외         : flag '1'
+
+    2026-05.xlsx               → '2605001'
+    2026-05-27.xlsx            → '2605271'
+    page_crawl_2026-06-30.xlsx → '2606302'
     """
     stem = Path(xlsx_path).stem
+    flag = "2" if stem.startswith("page_crawl") else "1"
     m = re.search(r'(\d{4})-(\d{2})-(\d{2})', stem)
     if m:
-        return f"{m.group(1)[2:]}{m.group(2)}{m.group(3)}"
+        return f"{m.group(1)[2:]}{m.group(2)}{m.group(3)}{flag}"
     m = re.search(r'(\d{4})-(\d{2})', stem)
     if m:
-        return f"{m.group(1)[2:]}{m.group(2)}00"
-    return re.sub(r"\D", "", stem)[:6]
+        return f"{m.group(1)[2:]}{m.group(2)}00{flag}"
+    return re.sub(r"\D", "", stem)[:6] + flag
 
 
 def load_brand(brand: str) -> list:
