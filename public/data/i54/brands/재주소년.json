@@ -10638,5 +10638,57 @@
       }
     ],
     "mfg_date": "2026-08-21"
+  },
+  {
+    "id": "26090121107",
+    "brand": "재주소년",
+    "name": "재주소년.유어후드",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0902/mo0902-150.jpg",
+    "colors": [
+      {
+        "name": "피크차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-09-02"
   }
 ]

@@ -1850,5 +1850,105 @@
       }
     ],
     "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "26090121009",
+    "brand": "슈크림",
+    "name": "슈크림.레이스스카프두건 (가을)",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0902/mo0902-052.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-02"
+  },
+  {
+    "id": "26090121010",
+    "brand": "슈크림",
+    "name": "슈크림.미니꽃멜빵바지",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0902/mo0902-053.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "bebeS",
+        "add_price": 0
+      },
+      {
+        "name": "bebeM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-02"
+  },
+  {
+    "id": "26090121011",
+    "brand": "슈크림",
+    "name": "슈크림.셔링블라우스set",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0902/mo0902-054.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "차콜블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "bebeS",
+        "add_price": 0
+      },
+      {
+        "name": "bebeM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-02"
+  },
+  {
+    "id": "26090121013",
+    "brand": "슈크림",
+    "name": "슈크림.스모크원피스",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0902/mo0902-056.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "bebeS",
+        "add_price": 0
+      },
+      {
+        "name": "bebeM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-02"
   }
 ]
