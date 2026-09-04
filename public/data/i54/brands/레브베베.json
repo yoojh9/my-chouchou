@@ -1902,5 +1902,69 @@
       }
     ],
     "mfg_date": "2026-08-26"
+  },
+  {
+    "id": "26090420348",
+    "brand": "레브베베",
+    "name": "레브베베.아일렛두건니트",
+    "price_sale": 6400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0904/mo0904-160.jpg",
+    "colors": [
+      {
+        "name": "레드플라워",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리플라워",
+        "add_price": 0
+      },
+      {
+        "name": "핑크딸기",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리딸기",
+        "add_price": 0
+      },
+      {
+        "name": "앵두",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우플라워",
+        "add_price": 0
+      },
+      {
+        "name": "당근",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-04"
+  },
+  {
+    "id": "26090420349",
+    "brand": "레브베베",
+    "name": "레브베베.곰돌이물티슈케이스",
+    "price_sale": 8800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0904/mo0904-161.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-04"
   }
 ]

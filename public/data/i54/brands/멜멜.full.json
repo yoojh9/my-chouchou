@@ -2622,5 +2622,123 @@
       }
     ],
     "mfg_date": "2026-09-02"
+  },
+  {
+    "id": "26090420301",
+    "brand": "멜멜",
+    "name": "멜멜.모크넥골지티색추가",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0904/mo0904-113.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0904/mo0904-113.jpg"
+    ],
+    "colors": [
+      {
+        "name": "밀크베이지",
+        "add_price": 0
+      },
+      {
+        "name": "모카",
+        "add_price": 0
+      },
+      {
+        "name": "애쉬블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "그레이베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-04"
+  },
+  {
+    "id": "26090420302",
+    "brand": "멜멜",
+    "name": "멜멜.밀크골지티색추가",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0904/mo0904-114.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0904/mo0904-114.jpg"
+    ],
+    "colors": [
+      {
+        "name": "L베이지",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "스모키블루",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "애쉬블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-04"
   }
 ]

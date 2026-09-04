@@ -2827,5 +2827,48 @@
       }
     ],
     "mfg_date": "2026-08-20"
+  },
+  {
+    "id": "26090420337",
+    "brand": "티티",
+    "name": "티티.딩딩패딩NB",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0904/mo0904-149.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0904/mo0904-149.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "J1",
+        "add_price": 2000
+      },
+      {
+        "name": "J2",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-09-04"
   }
 ]
