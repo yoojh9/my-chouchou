@@ -669,5 +669,115 @@
       }
     ],
     "mfg_date": "2026-09-01"
+  },
+  {
+    "id": "26090620130",
+    "brand": "오씨아이",
+    "name": "오씨아이.합포삥줄바지",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-130.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0907/mo0907-130.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 3000
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-09-07"
+  },
+  {
+    "id": "26090620131",
+    "brand": "오씨아이",
+    "name": "오씨아이.합포삥줄후드잠바",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-131.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0907/mo0907-131.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 3000
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-09-07"
   }
 ]

@@ -1038,5 +1038,45 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26090620114",
+    "brand": "아이짱",
+    "name": "아이짱.어반진삭스",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-114.jpg",
+    "colors": [
+      {
+        "name": "10p세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "4",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "6",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-07"
   }
 ]
