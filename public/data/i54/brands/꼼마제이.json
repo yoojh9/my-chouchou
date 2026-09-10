@@ -1194,5 +1194,89 @@
       }
     ],
     "mfg_date": "2026-08-28"
+  },
+  {
+    "id": "26090920060",
+    "brand": "꼼마제이",
+    "name": "꼼마제이.닝닝원피스",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0909/mo0909-001.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-09"
+  },
+  {
+    "id": "26090920061",
+    "brand": "꼼마제이",
+    "name": "꼼마제이.크룽지체크스커트",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0909/mo0909-002.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      },
+      {
+        "name": "3XL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-09-09"
   }
 ]

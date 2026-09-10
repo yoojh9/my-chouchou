@@ -994,5 +994,107 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26090920102",
+    "brand": "키치키치",
+    "name": "키치키치.무브파이핑집업상하세트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0909/mo0909-043.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0909/mo0909-043.jpg"
+    ],
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-09-09"
+  },
+  {
+    "id": "26090920103",
+    "brand": "키치키치",
+    "name": "키치키치.팔레트주름버뮤다상하세트",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0909/mo0909-044.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0909/mo0909-044.jpg"
+    ],
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-09-09"
   }
 ]

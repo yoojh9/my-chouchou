@@ -634,5 +634,32 @@
       }
     ],
     "mfg_date": "2026-09-07"
+  },
+  {
+    "id": "26090920480",
+    "brand": "이꼬베베",
+    "name": "이꼬베베.IK12뉴본슈즈(신생아)",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0910/mo0910-253.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0910/mo0910-253.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블룸(플라워)",
+        "add_price": 0
+      },
+      {
+        "name": "펄(레이스진주)",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-10"
   }
 ]
