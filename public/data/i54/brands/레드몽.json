@@ -142,5 +142,45 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26091020414",
+    "brand": "레드몽",
+    "name": "레드몽.골덴흰털꽃조끼",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-142.jpg",
+    "colors": [
+      {
+        "name": "아이레드꽃",
+        "add_price": 0
+      },
+      {
+        "name": "아이보라꽃",
+        "add_price": 0
+      },
+      {
+        "name": "핑크잔꽃",
+        "add_price": 0
+      },
+      {
+        "name": "진핑크큰꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
   }
 ]

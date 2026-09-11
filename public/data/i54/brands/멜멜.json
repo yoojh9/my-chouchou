@@ -1,33 +1,5 @@
 [
   {
-    "id": "2606100046",
-    "brand": "멜멜",
-    "name": "멜멜.논페이드숏블루머",
-    "price_sale": 16000,
-    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1781079467/1_5_9281781079467.jpg",
-    "colors": [
-      {
-        "name": "진청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XXS",
-        "add_price": 0
-      },
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-06-10"
-  },
-  {
     "id": "2606110050",
     "brand": "멜멜",
     "name": "멜멜.메리골드블루머",
@@ -1802,5 +1774,173 @@
       }
     ],
     "mfg_date": "2026-09-07"
+  },
+  {
+    "id": "26091020276",
+    "brand": "멜멜",
+    "name": "멜멜.소프트골덴숏블루머",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-004.jpg",
+    "colors": [
+      {
+        "name": "L베이지",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
+  },
+  {
+    "id": "26091020277",
+    "brand": "멜멜",
+    "name": "멜멜.골덴와이드팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-005.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "우드로즈",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
+  },
+  {
+    "id": "26091020352",
+    "brand": "멜멜",
+    "name": "멜멜.레이어드티",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-080.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
+  },
+  {
+    "id": "26091020353",
+    "brand": "멜멜",
+    "name": "멜멜.네프조거팬츠",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-081.jpg",
+    "colors": [
+      {
+        "name": "W멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "라벤더",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
   }
 ]

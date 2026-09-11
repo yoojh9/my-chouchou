@@ -1438,5 +1438,45 @@
       }
     ],
     "mfg_date": "2026-08-24"
+  },
+  {
+    "id": "26091020413",
+    "brand": "돌핀",
+    "name": "돌핀.테리스트라이프고쟁이",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-141.jpg",
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
   }
 ]

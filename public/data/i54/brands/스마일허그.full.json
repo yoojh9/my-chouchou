@@ -584,5 +584,40 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26091020415",
+    "brand": "스마일허그",
+    "name": "스마일허그.티아라공주드레스",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-143.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0911/mo0911-143.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "연두",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
   }
 ]

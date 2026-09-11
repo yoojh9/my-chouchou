@@ -78,5 +78,93 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26091020428",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.임금과왕비맨투맨티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-156.jpg",
+    "colors": [
+      {
+        "name": "왕비",
+        "add_price": 0
+      },
+      {
+        "name": "임금",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
+  },
+  {
+    "id": "26091020429",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.차맨투맨티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0911/mo0911-157.jpg",
+    "colors": [
+      {
+        "name": "소방차",
+        "add_price": 0
+      },
+      {
+        "name": "경찰차",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-11"
   }
 ]
