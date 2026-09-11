@@ -4,12 +4,14 @@
 #   - 커밋 메시지의 날짜는 run.sh의 page_crawl_YYYY-MM-DD.xlsx 에서 자동 추출
 #   - 변경사항이 없으면 커밋을 건너뛰고 현재 HEAD의 배포 상태만 확인
 #   - GITHUB_TOKEN 환경변수가 있으면 인증 요청(API rate limit 완화)
+#   - 커밋 서명(Co-Authored-By)은 CO_AUTHOR 환경변수로 변경 가능 (기본: Claude Opus 5)
 set -eo pipefail
 cd "$(dirname "$0")"
 
 REMOTE="origin"
 BRANCH="main"
 REPO="yoojh9/my-chouchou"
+CO_AUTHOR="${CO_AUTHOR:-Claude Opus 5 <noreply@anthropic.com>}"
 POLL_INTERVAL=20   # 초
 MAX_TRIES=30       # 20초 * 30 = 최대 10분 대기
 
@@ -36,7 +38,7 @@ if [ -n "$(git status --porcelain)" ]; then
   git add -A
   git commit -q -m "chore: ${CRAWL_DATE} 크롤링 데이터 반영
 
-Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
+Co-Authored-By: ${CO_AUTHOR}"
   git push "$REMOTE" "$BRANCH"
 else
   echo "ℹ 커밋할 변경사항이 없습니다. 현재 HEAD의 배포 상태만 확인합니다."
