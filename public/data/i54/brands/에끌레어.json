@@ -1174,5 +1174,81 @@
       }
     ],
     "mfg_date": "2026-09-09"
+  },
+  {
+    "id": "26091520160",
+    "brand": "에끌레어",
+    "name": "에끌레어.바니원피스",
+    "price_sale": 52800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0916/mo0916-116.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-16"
+  },
+  {
+    "id": "26091520161",
+    "brand": "에끌레어",
+    "name": "에끌레어.애니티",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0916/mo0916-117.jpg",
+    "colors": [
+      {
+        "name": "핑줄",
+        "add_price": 0
+      },
+      {
+        "name": "블줄",
+        "add_price": 0
+      },
+      {
+        "name": "꽃",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-16"
   }
 ]
