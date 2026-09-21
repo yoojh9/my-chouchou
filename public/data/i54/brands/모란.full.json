@@ -12833,5 +12833,91 @@
       }
     ],
     "mfg_date": "2026-07-23"
+  },
+  {
+    "id": "26092020107",
+    "brand": "모란",
+    "name": "모란.초이멀티T",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0921/mo0921-107.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0921/mo0921-107.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-21"
+  },
+  {
+    "id": "26092020108",
+    "brand": "모란",
+    "name": "모란.코끼리mtm",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0921/mo0921-108.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0921/mo0921-108.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-21"
   }
 ]
