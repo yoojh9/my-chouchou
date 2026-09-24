@@ -264,7 +264,7 @@ def main():
     product_nos = collect_product_nos(session, url, start_page, end_page)
     print(f"총 {len(product_nos)}개 상품 발견")
 
-    CONSECUTIVE_OLD_LIMIT = 10
+    CONSECUTIVE_OLD_LIMIT = 30
 
     products = []
     no_brand = 0
