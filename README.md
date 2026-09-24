@@ -5,7 +5,7 @@
 ## 실행
 
 ```bash
-npm run dev      # 개발 서버 → http://localhost:5173/my-chouchou
+npm run dev      # 개발 서버 → http://localhost:5173
 npm run build    # dist/ 빌드
 npm run preview  # 빌드 결과 미리보기
 ```
@@ -43,7 +43,9 @@ python3 crawl_page.py "https://i54.co.kr/product/list.html?cate_no=2513" --end-p
 
 - `--start-page` : 시작 페이지 (생략 시 URL의 `page` 값, 없으면 1)
 - `--end-page` : 끝 페이지 (생략 시 `--start-page`와 동일, 즉 한 페이지만 수집)
-- `--since YYYY-MM-DD` : 해당 날짜보다 오래된 상품을 만나면 즉시 중단 (이후 상품은 수집하지 않음)
+- `--since YYYY-MM-DD` : 해당 날짜보다 오래된 상품은 제외한다. 오래된 상품이 **연속 30개**(`CONSECUTIVE_OLD_LIMIT`) 나오면 그 지점에서 수집을 중단한다
+  > 목록은 제조일자가 아니라 **상품 등록순(`product_no`)** 으로 정렬돼 있어 제조일자가 역전되는 구간이 있다.
+  > 브랜드 블록 통째로 과거 날짜인 경우가 있어, 연속 한도가 낮으면 수집돼야 할 상품이 누락될 수 있다.
 - 로그인 계정: 프로젝트 루트 `.env`의 `I54_ID` / `I54_PW`
 - 상품명에 `.`이 없어 브랜드를 식별할 수 없는 상품은 제외한다.
 - 결과: `data/page_crawl_<오늘날짜>.xlsx` (마지막 인자로 출력파일명을 지정하면 `data/<지정한이름>_<오늘날짜>.xlsx`)
@@ -109,6 +111,7 @@ python3 convert_excel.py data/2026-05-27.xlsx --duplicate never
 - `public/data/i54/brands/{브랜드}.json` — 브랜드별 상품 목록 (빠른 로드용, `detail_images` 제외)
 - `public/data/i54/brands/{브랜드}.full.json` — 브랜드별 상품 전체 데이터 (`detail_images` 포함)
 - `public/data/brands.json` — 브랜드 목록 자동 갱신
+- `public/data/search_index.json` — 검색용 통합 인덱스 자동 갱신
 - **같은 `브랜드.상품명` + 색상 + 사이즈 조합이 이미 있으면 `mfg_date`가 더 최신인 데이터로 교체된다.** (이전 데이터가 더 최신이면 스킵)
 - **(세일) 상품 가격 처리**: 이름·색상·사이즈가 동일한 일반 상품이 있으면 일반 상품 가격으로 대체. 일치하는 일반 상품이 없으면 가격을 25% 인상해 저장한다.
 
@@ -121,6 +124,36 @@ dev 서버가 실행 중이라면 **새로고침만 해도 반영**된다.
 ```bash
 python3 convert_excel.py --rebuild
 ```
+
+---
+
+## 일괄 실행 & 배포
+
+### run.sh — 크롤링 데이터 반영 파이프라인
+
+```bash
+./run.sh
+```
+
+크롤 결과 엑셀 변환 → 오래된 상품 purge → 깨진 이미지 정리를 순서대로 실행한다.
+크롤링 명령 자체는 파일 맨 위에 주석으로 남겨두고, 크롤 날짜가 바뀌면 파일 안의 날짜를 직접 수정해서 쓴다.
+
+### push_and_deploy.sh — 커밋·푸시·배포 확인
+
+```bash
+./push_and_deploy.sh
+```
+
+변경된 파일을 전부 커밋해 `main`에 푸시하고, GitHub Actions 배포가 끝날 때까지 기다린다.
+
+- 커밋 메시지의 날짜는 `run.sh`의 `page_crawl_YYYY-MM-DD.xlsx`에서 자동 추출한다 (`chore: 2026-09-24 크롤링 데이터 반영`)
+- `main` 브랜치에서만 실행된다
+- 변경사항이 없으면 커밋을 건너뛰고 현재 HEAD의 배포 상태만 확인한다
+- 최대 10분(20초 × 30회)까지 배포 상태를 폴링한다
+- `GITHUB_TOKEN` 환경변수를 설정하면 GitHub API rate limit이 완화된다
+- 커밋 서명은 `CO_AUTHOR` 환경변수로 바꿀 수 있다
+
+배포 주소는 https://my-chouchou.com 이며, `main`에 푸시하면 GitHub Actions(`.github/workflows/deploy.yml`)가 자동 배포한다.
 
 ---
 
@@ -172,7 +205,7 @@ python3 check_broken_thumbnails.py --mode thumbnail
 python3 check_broken_thumbnails.py --mode thumbnail --dry-run
 ```
 
-삭제 시 `brands/{브랜드}.json`, `brands/{브랜드}.full.json`, `brands.json`, `soldout.json`이 모두 함께 갱신된다. 브랜드의 모든 상품이 삭제되면 `brands.json`에서 해당 브랜드도 제거된다.
+삭제 시 `brands/{브랜드}.json`, `brands/{브랜드}.full.json`, `brands.json`, `search_index.json`, `soldout.json`이 모두 함께 갱신된다. 브랜드의 모든 상품이 삭제되면 `brands.json`에서 해당 브랜드도 제거된다.
 
 동시 요청 수는 `--workers`로 조정할 수 있다 (기본 10).
 
