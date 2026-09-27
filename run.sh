@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 echo
 echo "====================="
 echo
-python3 convert_excel.py data/page_crawl_2026-09-25.xlsx --clean-thumbnails --duplicate never
+python3 convert_excel.py data/page_crawl_2026-09-26.xlsx --clean-thumbnails --duplicate never
 echo
 echo "====================="
 echo
@@ -15,7 +15,7 @@ echo
 echo
 echo "====================="
 echo
-python3 convert_excel.py --purge 2026-06-25
+python3 convert_excel.py --purge 2026-06-26
 echo
 echo "====================="
 echo
