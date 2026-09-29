@@ -2165,5 +2165,56 @@
       }
     ],
     "mfg_date": "2026-09-21"
+  },
+  {
+    "id": "26092821497",
+    "brand": "멜멜",
+    "name": "멜멜.폼폼셋업",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0929/mo0929-001.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0929/mo0929-001.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-29"
   }
 ]
