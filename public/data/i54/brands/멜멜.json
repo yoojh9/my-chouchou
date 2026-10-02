@@ -2078,5 +2078,49 @@
       }
     ],
     "mfg_date": "2026-09-29"
+  },
+  {
+    "id": "26100121624",
+    "brand": "멜멜",
+    "name": "멜멜.골지데님팬츠",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1002/mo1002-068.jpg",
+    "colors": [
+      {
+        "name": "다크블루",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-02"
   }
 ]

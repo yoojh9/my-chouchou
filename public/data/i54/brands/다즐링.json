@@ -806,5 +806,49 @@
       }
     ],
     "mfg_date": "2026-08-26"
+  },
+  {
+    "id": "26100121644",
+    "brand": "다즐링",
+    "name": "다즐링.뽀글이점퍼",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1002/mo1002-088.jpg",
+    "colors": [
+      {
+        "name": "들꽃",
+        "add_price": 0
+      },
+      {
+        "name": "호피",
+        "add_price": 0
+      },
+      {
+        "name": "사과",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-02"
   }
 ]

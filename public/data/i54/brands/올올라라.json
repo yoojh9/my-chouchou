@@ -2934,5 +2934,41 @@
       }
     ],
     "mfg_date": "2026-09-23"
+  },
+  {
+    "id": "26100121432",
+    "brand": "올올라라",
+    "name": "올올라라.보니덤블원피스",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0930/mo0930-206.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-30"
   }
 ]

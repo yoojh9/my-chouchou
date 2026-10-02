@@ -1,820 +1,953 @@
 [
-    {
-        "id": "2608010226",
-        "brand": "리카",
-        "name": "리카.갓",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-001.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-001.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010227",
-        "brand": "리카",
-        "name": "리카.궁전머리띠",
-        "price_sale": 28800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-002.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-002.jpg"
-        ],
-        "colors": [
-            {
-                "name": "옐로우",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010228",
-        "brand": "리카",
-        "name": "리카.도령모",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-003.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-003.jpg"
-        ],
-        "colors": [
-            {
-                "name": "네이비",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010229",
-        "brand": "리카",
-        "name": "리카.잔꽃조끼",
-        "price_sale": 40000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-004.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-004.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010230",
-        "brand": "리카",
-        "name": "리카.족두리",
-        "price_sale": 51200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-005.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-005.jpg"
-        ],
-        "colors": [
-            {
-                "name": "레드",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010231",
-        "brand": "리카",
-        "name": "리카.추석남아한복",
-        "price_sale": 46400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-006.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-006.jpg"
-        ],
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010232",
-        "brand": "리카",
-        "name": "리카.추석색동한복",
-        "price_sale": 67200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-007.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-007.jpg"
-        ],
-        "colors": [
-            {
-                "name": "색동",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010233",
-        "brand": "리카",
-        "name": "리카.추석여아반팔한복",
-        "price_sale": 49600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-008.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-008.jpg"
-        ],
-        "colors": [
-            {
-                "name": "옐로우",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608010234",
-        "brand": "리카",
-        "name": "리카.홍시머리띠",
-        "price_sale": 25600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-009.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202607/mo0730/mo0730-009.jpg"
-        ],
-        "colors": [
-            {
-                "name": "다홍",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-30"
-    },
-    {
-        "id": "2608120106",
-        "brand": "리카",
-        "name": "리카.가디건",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-154.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-154.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120107",
-        "brand": "리카",
-        "name": "리카.꽃패치팬츠",
-        "price_sale": 19200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-155.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-155.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120108",
-        "brand": "리카",
-        "name": "리카.꽃한가득티",
-        "price_sale": 17600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-156.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-156.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "옐로우",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120109",
-        "brand": "리카",
-        "name": "리카.땡땡이볼륨팬츠",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-157.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-157.jpg"
-        ],
-        "colors": [
-            {
-                "name": "그레이",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120110",
-        "brand": "리카",
-        "name": "리카.몰리샤원피스",
-        "price_sale": 38400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-158.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-158.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "버건디",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120111",
-        "brand": "리카",
-        "name": "리카.새틴스커트",
-        "price_sale": 22400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-159.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-159.jpg"
-        ],
-        "colors": [
-            {
-                "name": "그린",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120112",
-        "brand": "리카",
-        "name": "리카.수채화청반바지",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-160.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-160.jpg"
-        ],
-        "colors": [
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120113",
-        "brand": "리카",
-        "name": "리카.아일렛티",
-        "price_sale": 12800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-161.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-161.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120114",
-        "brand": "리카",
-        "name": "리카.울세라티",
-        "price_sale": 19200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-162.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-162.jpg"
-        ],
-        "colors": [
-            {
-                "name": "카키",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "브라운",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120115",
-        "brand": "리카",
-        "name": "리카.유화꽃티",
-        "price_sale": 16000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-163.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-163.jpg"
-        ],
-        "colors": [
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120116",
-        "brand": "리카",
-        "name": "리카.잔꽃상하",
-        "price_sale": 49600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-164.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-164.jpg"
-        ],
-        "colors": [
-            {
-                "name": "연핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120117",
-        "brand": "리카",
-        "name": "리카.패치원피스",
-        "price_sale": 36800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-165.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-165.jpg"
-        ],
-        "colors": [
-            {
-                "name": "아이보리",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    },
-    {
-        "id": "2608120118",
-        "brand": "리카",
-        "name": "리카.핀코트팬츠",
-        "price_sale": 24000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-166.jpg",
-        "detail_images": [
-            "https://mamacool.diskn.com/202608/mo0811/mo0811-166.jpg"
-        ],
-        "colors": [
-            {
-                "name": "옐로우",
-                "add_price": 0
-            },
-            {
-                "name": "퍼플",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "5",
-                "add_price": 0
-            },
-            {
-                "name": "7",
-                "add_price": 0
-            },
-            {
-                "name": "9",
-                "add_price": 0
-            },
-            {
-                "name": "11",
-                "add_price": 0
-            },
-            {
-                "name": "13",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-08-11"
-    }
+  {
+    "id": "2608010226",
+    "brand": "리카",
+    "name": "리카.갓",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-001.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-001.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010227",
+    "brand": "리카",
+    "name": "리카.궁전머리띠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-002.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-002.jpg"
+    ],
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010228",
+    "brand": "리카",
+    "name": "리카.도령모",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-003.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-003.jpg"
+    ],
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010229",
+    "brand": "리카",
+    "name": "리카.잔꽃조끼",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-004.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-004.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010230",
+    "brand": "리카",
+    "name": "리카.족두리",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-005.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-005.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010231",
+    "brand": "리카",
+    "name": "리카.추석남아한복",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-006.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-006.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010232",
+    "brand": "리카",
+    "name": "리카.추석색동한복",
+    "price_sale": 67200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-007.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-007.jpg"
+    ],
+    "colors": [
+      {
+        "name": "색동",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010233",
+    "brand": "리카",
+    "name": "리카.추석여아반팔한복",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-008.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-008.jpg"
+    ],
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608010234",
+    "brand": "리카",
+    "name": "리카.홍시머리띠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0730/mo0730-009.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202607/mo0730/mo0730-009.jpg"
+    ],
+    "colors": [
+      {
+        "name": "다홍",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-30"
+  },
+  {
+    "id": "2608120106",
+    "brand": "리카",
+    "name": "리카.가디건",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-154.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-154.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120107",
+    "brand": "리카",
+    "name": "리카.꽃패치팬츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-155.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-155.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120108",
+    "brand": "리카",
+    "name": "리카.꽃한가득티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-156.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-156.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120109",
+    "brand": "리카",
+    "name": "리카.땡땡이볼륨팬츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-157.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-157.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120110",
+    "brand": "리카",
+    "name": "리카.몰리샤원피스",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-158.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-158.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120111",
+    "brand": "리카",
+    "name": "리카.새틴스커트",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-159.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-159.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120112",
+    "brand": "리카",
+    "name": "리카.수채화청반바지",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-160.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-160.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120113",
+    "brand": "리카",
+    "name": "리카.아일렛티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-161.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-161.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120114",
+    "brand": "리카",
+    "name": "리카.울세라티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-162.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-162.jpg"
+    ],
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120115",
+    "brand": "리카",
+    "name": "리카.유화꽃티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-163.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-163.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120116",
+    "brand": "리카",
+    "name": "리카.잔꽃상하",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-164.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-164.jpg"
+    ],
+    "colors": [
+      {
+        "name": "연핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120117",
+    "brand": "리카",
+    "name": "리카.패치원피스",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-165.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-165.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "2608120118",
+    "brand": "리카",
+    "name": "리카.핀코트팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0811/mo0811-166.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202608/mo0811/mo0811-166.jpg"
+    ],
+    "colors": [
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-08-11"
+  },
+  {
+    "id": "26100121582",
+    "brand": "리카",
+    "name": "리카.겨울고쟁이바지",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1002/mo1002-026.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1002/mo1002-026.jpg"
+    ],
+    "colors": [
+      {
+        "name": "토마토",
+        "add_price": 0
+      },
+      {
+        "name": "퍼즐",
+        "add_price": 0
+      },
+      {
+        "name": "동산",
+        "add_price": 0
+      },
+      {
+        "name": "햇님",
+        "add_price": 0
+      },
+      {
+        "name": "딸기",
+        "add_price": 0
+      },
+      {
+        "name": "고양이",
+        "add_price": 0
+      },
+      {
+        "name": "하트",
+        "add_price": 0
+      },
+      {
+        "name": "오리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26100121583",
+    "brand": "리카",
+    "name": "리카.꼬깔모자",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1002/mo1002-027.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1002/mo1002-027.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26100121584",
+    "brand": "리카",
+    "name": "리카.쥬얼리마녀원피스",
+    "price_sale": 49600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1002/mo1002-028.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1002/mo1002-028.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-02"
+  }
 ]

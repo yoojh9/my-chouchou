@@ -1115,5 +1115,40 @@
       }
     ],
     "mfg_date": "2026-09-28"
+  },
+  {
+    "id": "26100121433",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.텐션업점보TPU밴드",
+    "price_sale": 4800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0930/mo0930-207.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202609/mo0930/mo0930-207.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레인보우",
+        "add_price": 0
+      },
+      {
+        "name": "투명파스텔",
+        "add_price": 0
+      },
+      {
+        "name": "네온",
+        "add_price": 0
+      },
+      {
+        "name": "블랙&투명",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-09-30"
   }
 ]
