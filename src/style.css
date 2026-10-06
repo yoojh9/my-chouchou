@@ -1446,7 +1446,7 @@ html, body {
   height: 1px;
 }
 
-/* ── 품절 관리 (admin) ── */
+/* ── 품절·세일 관리 (admin) ── */
 .admin {
   padding-bottom: 88px;
 }
@@ -1456,6 +1456,33 @@ html, body {
   text-align: center;
   color: var(--gray);
   font-size: 14px;
+}
+
+.admin__tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.admin__tab {
+  flex: 1;
+  padding: 10px 0;
+  background: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--gray);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.admin__tab.is-active {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
 }
 
 .admin__toolbar {
@@ -1509,7 +1536,7 @@ html, body {
   border-radius: var(--radius);
 }
 
-.admin-row.is-soldout {
+.admin-row.is-on {
   background: var(--accent-bg);
   border-color: var(--accent);
 }
@@ -1573,6 +1600,11 @@ html, body {
   background: var(--accent);
   border-color: var(--accent);
   color: #fff;
+}
+
+.admin-row__toggle:disabled {
+  opacity: 0.45;
+  cursor: default;
 }
 
 .admin__more {

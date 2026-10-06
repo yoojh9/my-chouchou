@@ -15,6 +15,7 @@ Usage:
   python3 convert_excel.py --rebuild               # 기존 .json → listing/.full 분리 재생성
   python3 convert_excel.py --purge 2026-05-21      # 해당 날짜 이하 상품 전체 삭제
   python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"  # 특정 상품 삭제
+  python3 convert_excel.py --sale "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"    # 특정 상품을 (세일) 상품으로 변경
 """
 import sys
 import openpyxl
@@ -23,6 +24,7 @@ import re
 import os
 import shutil
 import urllib.request
+from datetime import date
 from pathlib import Path
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
@@ -36,6 +38,8 @@ SEARCH_INDEX_JSON = "public/data/search_index.json"
 ITEMS_DIR = "data"
 
 LISTING_FIELDS = {"id", "brand", "name", "price_sale", "thumbnail_url", "colors", "sizes", "mfg_date"}
+
+SALE_PREFIX = "(세일) "
 
 
 def get_id_prefix(xlsx_path: str) -> str:
@@ -309,6 +313,19 @@ def apply_normal_price_to_sale(new_products, all_products: list) -> tuple[int, i
     return replaced, inflated
 
 
+def product_key(p) -> tuple:
+    """중복 판정 키: 이름 + 색상 구성 + 사이즈 구성."""
+    colors = tuple(c["name"] for c in p.get("colors", []))
+    sizes = tuple(s["name"] for s in p.get("sizes", []))
+    return (p["name"], colors, sizes)
+
+
+def to_sale_name(name: str) -> str:
+    """'브랜드.상품명' → '브랜드.(세일) 상품명' (원본 쇼핑몰의 세일 표기와 같은 형식)."""
+    brand, sep, rest = name.partition(".")
+    return f"{brand}{sep}{SALE_PREFIX}{rest}" if sep else f"{SALE_PREFIX}{name}"
+
+
 def clean_soldout(delete_ids: set) -> None:
     """삭제된 상품 ID를 soldout.json에서 제거."""
     if not delete_ids or not os.path.exists(SOLDOUT_JSON):
@@ -378,6 +395,61 @@ def delete_items(names: list) -> None:
         rebuild_search_index()
         clean_soldout(delete_ids)
     print(f"\n완료: {removed_total}개 제거")
+
+
+def mark_sale(names: list) -> None:
+    """지정한 name 값을 가진 상품의 이름에 (세일)을 붙이고 mfg_date를 오늘로 바꾼다.
+    가격은 그대로 둔다. manual_sale 표시를 남겨, 이후 엑셀에 원래 이름으로 다시
+    들어와도 중복 추가되지 않게 한다.
+    python3 convert_excel.py --sale "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"
+    """
+    target = set()
+    for n in names:
+        if "(세일)" in n:
+            print(f"  건너뜀: '{n}' 는 이미 세일 상품입니다.")
+        else:
+            target.add(n)
+    not_found = set(target)
+    today = date.today().isoformat()
+    changed_total = 0
+
+    for fname in sorted(os.listdir(BRANDS_DIR)):
+        if not fname.endswith(".full.json"):
+            continue
+        brand = fname[:-10]
+        path = os.path.join(BRANDS_DIR, fname)
+        with open(path, encoding="utf-8") as f:
+            products = json.load(f)
+
+        keys = {product_key(p) for p in products}
+        changed = 0
+        for p in products:
+            if p.get("name") not in target:
+                continue
+            not_found.discard(p["name"])
+            sale_name = to_sale_name(p["name"])
+            # 원본 쇼핑몰이 올린 같은 옵션의 (세일) 상품이 이미 있으면 똑같은 상품이 둘이 된다
+            if (sale_name,) + product_key(p)[1:] in keys:
+                print(f"  건너뜀: '{p['name']}' 는 같은 옵션의 (세일) 상품이 이미 있습니다.")
+                continue
+            p["name"] = sale_name
+            p["mfg_date"] = today
+            p["manual_sale"] = True
+            changed += 1
+
+        if changed:
+            save_brand(brand, products)
+            print(f"  {brand}: {changed}개 (세일) 변경")
+            changed_total += changed
+
+    if not_found:
+        for n in sorted(not_found):
+            print(f"  경고: '{n}' 를 찾지 못했습니다.")
+
+    if changed_total:
+        rebuild_brands_json()
+        rebuild_search_index()
+    print(f"\n완료: {changed_total}개 (세일) 변경 (mfg_date → {today})")
 
 
 def purge_before(cutoff_date: str) -> None:
@@ -457,6 +529,10 @@ def main():
         delete_items(args[1:])
         return
 
+    if len(args) > 1 and args[0] == "--sale":
+        mark_sale(args[1:])
+        return
+
     xlsx_path = args[0] if len(args) > 0 else pick_xlsx(ITEMS_DIR)
 
     if not os.path.exists(xlsx_path):
@@ -508,17 +584,15 @@ def main():
 
     os.makedirs(BRANDS_DIR, exist_ok=True)
     added_total = updated_total = skipped_total = sale_replaced_total = sale_inflated_total = 0
+    manual_sale_skipped_total = 0
 
     for brand, new_products in new_by_brand.items():
         existing = load_brand(brand)
         result = list(existing)
 
-        def product_key(p):
-            colors = tuple(c["name"] for c in p.get("colors", []))
-            sizes = tuple(s["name"] for s in p.get("sizes", []))
-            return (p["name"], colors, sizes)
-
         name_to_index = {product_key(p): i for i, p in enumerate(result)}
+        # --sale 로 이름을 바꾼 상품. 원래 이름으로 다시 들어오면 추가하지 않는다
+        manual_sale_keys = {product_key(p) for p in result if p.get("manual_sale")}
 
         # 파일 내 중복은 mfg_date가 더 최신인 쪽만 남긴다
         latest_by_key = {}
@@ -528,10 +602,12 @@ def main():
             if prev is None or p.get("mfg_date", "") > prev.get("mfg_date", ""):
                 latest_by_key[key] = p
 
-        added = updated = skipped = 0
+        added = updated = skipped = manual_sale_skipped = 0
         products_in_result = []
         for key, p in latest_by_key.items():
-            if key in name_to_index:
+            if (to_sale_name(key[0]),) + key[1:] in manual_sale_keys:
+                manual_sale_skipped += 1
+            elif key in name_to_index:
                 idx = name_to_index[key]
                 old = result[idx]
                 if duplicate_mode == "always":
@@ -560,6 +636,7 @@ def main():
         added_total += added
         updated_total += updated
         skipped_total += skipped
+        manual_sale_skipped_total += manual_sale_skipped
         sale_replaced_total += sale_replaced
         sale_inflated_total += sale_inflated
         status = f"+{added}개 추가"
@@ -568,6 +645,8 @@ def main():
         if skipped:
             skip_reason = "스킵(강제)" if duplicate_mode == "never" else "스킵(이전 데이터)"
             status += f", {skipped}개 {skip_reason}"
+        if manual_sale_skipped:
+            status += f", {manual_sale_skipped}개 스킵(수동 세일)"
         if sale_replaced:
             status += f", {sale_replaced}개 (세일)→일반가 대체"
         if sale_inflated:
@@ -577,6 +656,8 @@ def main():
     rebuild_brands_json()
     rebuild_search_index()
     summary = f"\n완료: +{added_total}개 추가, {updated_total}개 갱신, {skipped_total}개 스킵"
+    if manual_sale_skipped_total:
+        summary += f", {manual_sale_skipped_total}개 스킵(수동 세일)"
     if sale_replaced_total:
         summary += f", {sale_replaced_total}개 (세일)→일반가 대체"
     if sale_inflated_total:

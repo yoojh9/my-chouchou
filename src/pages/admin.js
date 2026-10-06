@@ -3,6 +3,37 @@ const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" str
 const CONCURRENCY = 24
 const RENDER_CAP = 80
 
+function shellQuote(s) {
+  return `'${s.replace(/'/g, `'\\''`)}'`
+}
+
+// 품절: 토글 결과를 soldout.json(상품 ID 배열)으로 내보낸다.
+// 세일: 고른 상품을 (세일) 상품으로 바꾸는 convert_excel.py 명령어를 내보낸다.
+//       정적 사이트라 데이터 파일을 직접 고칠 수 없어, 명령어를 터미널에서 실행해야 반영된다.
+const MODES = {
+  soldout: {
+    tab: '품절',
+    onLabel: '품절',
+    offLabel: '판매중',
+    onlyLabel: '품절만 보기',
+    countLabel: '품절',
+    copyLabel: 'soldout.json 복사',
+    file: 'soldout.json',
+    keyOf: (p) => p.id,
+    output: (keys) => JSON.stringify(keys, null, 2),
+  },
+  sale: {
+    tab: '세일로 변경',
+    onLabel: '선택',
+    offLabel: '일반',
+    onlyLabel: '선택만 보기',
+    countLabel: '선택',
+    copyLabel: '명령어 복사',
+    keyOf: (p) => p.rawName,
+    output: (keys) => `python3 convert_excel.py --sale ${keys.map(shellQuote).join(' ')}`,
+  },
+}
+
 async function loadAllProducts(onProgress) {
   const brandsRes = await fetch('data/brands.json')
   if (!brandsRes.ok) throw new Error(`brands.json HTTP ${brandsRes.status}`)
@@ -25,6 +56,9 @@ async function loadAllProducts(onProgress) {
             id: String(p.id),
             brand: b.id,
             name: displayName,
+            rawName,
+            // 이름에 이미 (세일)이 붙은 상품은 세일로 바꿀 대상이 아니다
+            nativeSale: rawName.includes('(세일)'),
             search: `${b.id} ${displayName} ${p.id}`.toLowerCase(),
             thumb: p.thumbnail_url || '',
           })
@@ -35,6 +69,7 @@ async function loadAllProducts(onProgress) {
     }))
   }
 
+  index.forEach((p, i) => { p.idx = i })
   return index
 }
 
@@ -46,7 +81,7 @@ export async function renderAdmin(app) {
         <button class="header__back" id="back-btn" aria-label="뒤로가기">
           ${BACK_SVG}홈
         </button>
-        <span class="header__title">품절 관리</span>
+        <span class="header__title">품절·세일 관리</span>
       </div>
     </div>
     <div class="page admin">
@@ -73,39 +108,61 @@ export async function renderAdmin(app) {
     return
   }
 
-  const soldout = new Set(soldoutArr.map(String))
+  const sets = {
+    soldout: new Set(soldoutArr.map(String)),
+    sale: new Set(),
+  }
+  let mode = 'soldout'
 
   page.innerHTML = `
+    <div class="admin__tabs" id="admin-tabs">
+      ${Object.entries(MODES).map(([key, m]) =>
+        `<button class="admin__tab${key === mode ? ' is-active' : ''}" data-mode="${key}">${m.tab}</button>`).join('')}
+    </div>
     <div class="admin__toolbar">
       <input class="admin__search" id="admin-search" type="search"
         placeholder="브랜드·상품명·ID로 검색" autocomplete="off">
       <label class="admin__filter">
-        <input type="checkbox" id="admin-only-soldout"> 품절만 보기
+        <input type="checkbox" id="admin-only-on"> <span id="admin-only-label"></span>
       </label>
     </div>
     <div class="admin__list" id="admin-list"></div>
     <div class="admin__bar" id="admin-bar">
       <span class="admin__count" id="admin-count"></span>
       <div class="admin__actions">
-        <button class="admin__btn" id="admin-copy">soldout.json 복사</button>
+        <button class="admin__btn" id="admin-copy"></button>
         <button class="admin__btn admin__btn--primary" id="admin-download">다운로드</button>
       </div>
     </div>`
 
+  const tabsEl = document.getElementById('admin-tabs')
   const listEl = document.getElementById('admin-list')
   const searchEl = document.getElementById('admin-search')
-  const onlySoldoutEl = document.getElementById('admin-only-soldout')
+  const onlyOnEl = document.getElementById('admin-only-on')
+  const onlyLabelEl = document.getElementById('admin-only-label')
   const countEl = document.getElementById('admin-count')
+  const copyEl = document.getElementById('admin-copy')
+  const downloadEl = document.getElementById('admin-download')
 
-  function outputJSON() {
-    const arr = [...soldout].sort()
-    return JSON.stringify(arr, null, 2)
+  function isOn(p) {
+    return sets[mode].has(MODES[mode].keyOf(p))
+  }
+
+  function isLocked(p) {
+    return mode === 'sale' && p.nativeSale
+  }
+
+  function output() {
+    return MODES[mode].output([...sets[mode]].sort())
   }
 
   function rowHTML(p) {
-    const on = soldout.has(p.id)
+    const m = MODES[mode]
+    const on = isOn(p)
+    const locked = isLocked(p)
+    const shownOn = on || locked
     return `
-      <div class="admin-row${on ? ' is-soldout' : ''}" data-id="${p.id}">
+      <div class="admin-row${on ? ' is-on' : ''}" data-idx="${p.idx}">
         <div class="admin-row__thumb-wrap">
           ${p.thumb ? `<img class="admin-row__thumb" src="${p.thumb}" alt="" loading="lazy" onerror="this.style.opacity=0">` : ''}
         </div>
@@ -113,20 +170,19 @@ export async function renderAdmin(app) {
           <div class="admin-row__name">${p.name}</div>
           <div class="admin-row__meta">${p.brand} · ${p.id}</div>
         </div>
-        <button class="admin-row__toggle${on ? ' is-on' : ''}" data-id="${p.id}" role="switch" aria-checked="${on}">
-          <span class="admin-row__toggle-label">${on ? '품절' : '판매중'}</span>
+        <button class="admin-row__toggle${shownOn ? ' is-on' : ''}" data-idx="${p.idx}" role="switch" aria-checked="${shownOn}"${locked ? ' disabled' : ''}>
+          <span class="admin-row__toggle-label">${locked ? '세일' : on ? m.onLabel : m.offLabel}</span>
         </button>
       </div>`
   }
 
   function currentFilter() {
     const q = searchEl.value.trim().toLowerCase()
-    const onlySoldout = onlySoldoutEl.checked
     let list = allProducts
-    if (onlySoldout) list = list.filter((p) => soldout.has(p.id))
+    if (onlyOnEl.checked) list = list.filter(isOn)
     if (q) list = list.filter((p) => p.search.includes(q))
-    // 품절 상품을 위로
-    return list.slice().sort((a, b) => (soldout.has(b.id) ? 1 : 0) - (soldout.has(a.id) ? 1 : 0))
+    // 지정된 상품을 위로
+    return list.slice().sort((a, b) => (isOn(b) ? 1 : 0) - (isOn(a) ? 1 : 0))
   }
 
   function renderList() {
@@ -144,29 +200,52 @@ export async function renderAdmin(app) {
   }
 
   function updateCount() {
-    countEl.textContent = `품절 ${soldout.size}개`
+    countEl.textContent = `${MODES[mode].countLabel} ${sets[mode].size}개`
   }
 
-  function toggle(id) {
-    if (soldout.has(id)) soldout.delete(id)
-    else soldout.add(id)
-    const on = soldout.has(id)
-    // 같은 id를 가진 상품이 여러 개일 수 있으므로 해당 행을 모두 갱신
-    listEl.querySelectorAll(`.admin-row[data-id="${id}"]`).forEach((row) => {
-      row.classList.toggle('is-soldout', on)
-    })
-    listEl.querySelectorAll(`.admin-row__toggle[data-id="${id}"]`).forEach((btn) => {
+  function toggle(p) {
+    const m = MODES[mode]
+    const key = m.keyOf(p)
+    const set = sets[mode]
+    if (set.has(key)) set.delete(key)
+    else set.add(key)
+    const on = set.has(key)
+    // 같은 id·name을 가진 상품이 여러 개일 수 있으므로 해당 행을 모두 갱신
+    listEl.querySelectorAll('.admin-row').forEach((row) => {
+      if (m.keyOf(allProducts[row.dataset.idx]) !== key) return
+      row.classList.toggle('is-on', on)
+      const btn = row.querySelector('.admin-row__toggle')
       btn.classList.toggle('is-on', on)
       btn.setAttribute('aria-checked', String(on))
-      btn.querySelector('.admin-row__toggle-label').textContent = on ? '품절' : '판매중'
+      btn.querySelector('.admin-row__toggle-label').textContent = on ? m.onLabel : m.offLabel
     })
     updateCount()
   }
 
+  function setMode(next) {
+    mode = next
+    const m = MODES[mode]
+    tabsEl.querySelectorAll('.admin__tab').forEach((tab) => {
+      tab.classList.toggle('is-active', tab.dataset.mode === mode)
+    })
+    onlyLabelEl.textContent = m.onlyLabel
+    onlyOnEl.checked = false
+    copyEl.textContent = m.copyLabel
+    downloadEl.hidden = !m.file
+    updateCount()
+    renderList()
+  }
+
+  tabsEl.addEventListener('click', (e) => {
+    const tab = e.target.closest('.admin__tab')
+    if (!tab || tab.dataset.mode === mode) return
+    setMode(tab.dataset.mode)
+  })
+
   listEl.addEventListener('click', (e) => {
     const btn = e.target.closest('.admin-row__toggle')
-    if (!btn) return
-    toggle(btn.dataset.id)
+    if (!btn || btn.disabled) return
+    toggle(allProducts[btn.dataset.idx])
   })
 
   let searchTimer
@@ -174,34 +253,37 @@ export async function renderAdmin(app) {
     clearTimeout(searchTimer)
     searchTimer = setTimeout(renderList, 150)
   })
-  onlySoldoutEl.addEventListener('change', renderList)
+  onlyOnEl.addEventListener('change', renderList)
 
-  document.getElementById('admin-copy').addEventListener('click', async (e) => {
+  copyEl.addEventListener('click', async () => {
+    if (mode === 'sale' && !sets.sale.size) {
+      flashCopy('선택한 상품 없음')
+      return
+    }
     try {
-      await navigator.clipboard.writeText(outputJSON())
-      flash(e.target, '복사됨 ✓')
+      await navigator.clipboard.writeText(output())
+      flashCopy('복사됨 ✓')
     } catch (_) {
-      flash(e.target, '복사 실패')
+      flashCopy('복사 실패')
     }
   })
 
-  document.getElementById('admin-download').addEventListener('click', () => {
-    const blob = new Blob([outputJSON()], { type: 'application/json' })
+  downloadEl.addEventListener('click', () => {
+    const blob = new Blob([output()], { type: 'application/json' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
     a.href = url
-    a.download = 'soldout.json'
+    a.download = MODES[mode].file
     a.click()
     URL.revokeObjectURL(url)
   })
 
-  function flash(btn, text) {
-    const orig = btn.textContent
-    btn.textContent = text
-    btn.disabled = true
-    setTimeout(() => { btn.textContent = orig; btn.disabled = false }, 1200)
+  function flashCopy(text) {
+    copyEl.textContent = text
+    copyEl.disabled = true
+    // 그 사이 탭이 바뀌었을 수 있으므로 현재 모드의 라벨로 되돌린다
+    setTimeout(() => { copyEl.textContent = MODES[mode].copyLabel; copyEl.disabled = false }, 1200)
   }
 
-  updateCount()
-  renderList()
+  setMode(mode)
 }

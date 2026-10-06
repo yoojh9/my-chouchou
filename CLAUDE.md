@@ -8,7 +8,7 @@
 - `src/pages/brand.js` — 브랜드별 상품 목록, 20개씩 무한 스크롤 로딩(IntersectionObserver)
 - `src/pages/product.js` — 상품 상세 + 색상·사이즈·수량 선택 + 장바구니 담기
 - `src/pages/cart.js` — 장바구니 페이지 + 구글 폼 주문서 연동
-- `src/pages/admin.js` — 품절 관리 페이지 (`#/admin`, URL 직접 진입). 전체 상품 검색 + 품절 토글 → soldout.json 복사/다운로드. 백엔드 없어 결과는 직접 커밋·푸시해야 반영
+- `src/pages/admin.js` — 품절·세일 관리 페이지 (`#/admin`, URL 직접 진입). 상단 탭으로 모드 전환. **품절**: 전체 상품 검색 + 품절 토글 → soldout.json 복사/다운로드. **세일로 변경**: 상품 선택 → `convert_excel.py --sale` 명령어 복사. 백엔드 없어 결과는 직접 반영·커밋·푸시해야 한다
 - `public/data/` — 정적 JSON 데이터 (`convert_excel.py`로 갱신)
 
 ## 데이터 파일
@@ -82,6 +82,13 @@
 ## 품절 처리
 
 `soldout.json`의 ID 배열을 `brand.js` / `product.js` 양쪽에서 `Promise.all`로 병렬 로드. `Set`으로 변환해 O(1) 조회. 카드에는 `.soldout-badge` 오버레이, 상세에는 `.soldout-label` 표시.
+
+## 세일 처리
+
+세일 여부를 나타내는 별도 필드는 없고, 상품 `name`에 `(세일)`이 포함되면 세일이다 (`브랜드명.(세일) 상품명`, 괄호 뒤 공백 한 칸). 카드에는 `.sale-badge`, 상세에는 `.sale-label`, 장바구니에는 `.sale-tag` 표시.
+
+- 원본 쇼핑몰이 붙인 `(세일)` 상품은 엑셀 변환 시 `apply_normal_price_to_sale`로 가격을 보정한다 (같은 옵션의 일반 상품 가격으로 대체, 없으면 25% 인상).
+- `convert_excel.py --sale "브랜드명.상품명"`은 기존 상품을 수동으로 세일 상품으로 바꾼다: 이름에 `(세일) ` 삽입, `mfg_date`를 오늘로 변경, 가격은 그대로. `.full.json`에만 `manual_sale: true`를 남기며, 이후 엑셀에 원래 이름·같은 옵션으로 다시 들어오면 `--duplicate` 모드와 무관하게 추가하지 않는다.
 
 ## 사용법
 
