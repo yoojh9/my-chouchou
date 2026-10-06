@@ -734,5 +734,145 @@
       }
     ],
     "mfg_date": "2026-09-01"
+  },
+  {
+    "id": "26100521529",
+    "brand": "오라비",
+    "name": "오라비.푸루티체크베스트",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1005/mo1005-125.jpg",
+    "colors": [
+      {
+        "name": "애플레드",
+        "add_price": 0
+      },
+      {
+        "name": "레몬옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-05"
+  },
+  {
+    "id": "26100521530",
+    "brand": "오라비",
+    "name": "오라비.푸루티패치맨투맨",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1005/mo1005-126.jpg",
+    "colors": [
+      {
+        "name": "브릭레드",
+        "add_price": 0
+      },
+      {
+        "name": "오커옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-05"
+  },
+  {
+    "id": "26100521531",
+    "brand": "오라비",
+    "name": "오라비.푸루티패치베이비수트(보넷포함)",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1005/mo1005-127.jpg",
+    "colors": [
+      {
+        "name": "브릭레드",
+        "add_price": 0
+      },
+      {
+        "name": "오커옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-05"
+  },
+  {
+    "id": "26100521532",
+    "brand": "오라비",
+    "name": "오라비.푸루티패치조거팬츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1005/mo1005-128.jpg",
+    "colors": [
+      {
+        "name": "브릭레드",
+        "add_price": 0
+      },
+      {
+        "name": "오커옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      },
+      {
+        "name": "JM",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-05"
   }
 ]
