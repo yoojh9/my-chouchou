@@ -3,12 +3,8 @@ const BACK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" str
 const CONCURRENCY = 24
 const RENDER_CAP = 80
 
-function shellQuote(s) {
-  return `'${s.replace(/'/g, `'\\''`)}'`
-}
-
 // 품절: 토글 결과를 soldout.json(상품 ID 배열)으로 내보낸다.
-// 세일: 고른 상품을 (세일) 상품으로 바꾸는 convert_excel.py 명령어를 내보낸다.
+// 세일: 고른 상품(ID)을 (세일) 상품으로 바꾸는 convert_excel.py 명령어를 내보낸다.
 //       정적 사이트라 데이터 파일을 직접 고칠 수 없어, 명령어를 터미널에서 실행해야 반영된다.
 const MODES = {
   soldout: {
@@ -29,8 +25,8 @@ const MODES = {
     onlyLabel: '선택만 보기',
     countLabel: '선택',
     copyLabel: '명령어 복사',
-    keyOf: (p) => p.rawName,
-    output: (keys) => `python3 convert_excel.py --sale ${keys.map(shellQuote).join(' ')}`,
+    keyOf: (p) => p.id,
+    output: (keys) => `python3 convert_excel.py --sale ${keys.join(' ')}`,
   },
 }
 
@@ -56,7 +52,6 @@ async function loadAllProducts(onProgress) {
             id: String(p.id),
             brand: b.id,
             name: displayName,
-            rawName,
             // 이름에 이미 (세일)이 붙은 상품은 세일로 바꿀 대상이 아니다
             nativeSale: rawName.includes('(세일)'),
             search: `${b.id} ${displayName} ${p.id}`.toLowerCase(),
@@ -144,12 +139,13 @@ export async function renderAdmin(app) {
   const copyEl = document.getElementById('admin-copy')
   const downloadEl = document.getElementById('admin-download')
 
-  function isOn(p) {
-    return sets[mode].has(MODES[mode].keyOf(p))
-  }
-
   function isLocked(p) {
     return mode === 'sale' && p.nativeSale
+  }
+
+  // 잠긴 상품은 같은 id의 다른 상품이 선택돼 있어도 선택된 것으로 보지 않는다
+  function isOn(p) {
+    return !isLocked(p) && sets[mode].has(MODES[mode].keyOf(p))
   }
 
   function output() {
@@ -210,9 +206,10 @@ export async function renderAdmin(app) {
     if (set.has(key)) set.delete(key)
     else set.add(key)
     const on = set.has(key)
-    // 같은 id·name을 가진 상품이 여러 개일 수 있으므로 해당 행을 모두 갱신
+    // 같은 id를 가진 상품이 여러 개일 수 있으므로 해당 행을 모두 갱신
     listEl.querySelectorAll('.admin-row').forEach((row) => {
-      if (m.keyOf(allProducts[row.dataset.idx]) !== key) return
+      const rp = allProducts[row.dataset.idx]
+      if (m.keyOf(rp) !== key || isLocked(rp)) return
       row.classList.toggle('is-on', on)
       const btn = row.querySelector('.admin-row__toggle')
       btn.classList.toggle('is-on', on)

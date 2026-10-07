@@ -15,7 +15,7 @@ Usage:
   python3 convert_excel.py --rebuild               # 기존 .json → listing/.full 분리 재생성
   python3 convert_excel.py --purge 2026-05-21      # 해당 날짜 이하 상품 전체 삭제
   python3 convert_excel.py --delete "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"  # 특정 상품 삭제
-  python3 convert_excel.py --sale "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"    # 특정 상품을 (세일) 상품으로 변경
+  python3 convert_excel.py --sale 26072410193 2608020438   # 특정 상품(id)을 (세일) 상품으로 변경
 """
 import sys
 import openpyxl
@@ -397,18 +397,14 @@ def delete_items(names: list) -> None:
     print(f"\n완료: {removed_total}개 제거")
 
 
-def mark_sale(names: list) -> None:
-    """지정한 name 값을 가진 상품의 이름에 (세일)을 붙이고 mfg_date를 오늘로 바꾼다.
+def mark_sale(ids: list) -> None:
+    """지정한 id 를 가진 상품의 이름에 (세일)을 붙이고 mfg_date를 오늘로 바꾼다.
     가격은 그대로 둔다. manual_sale 표시를 남겨, 이후 엑셀에 원래 이름으로 다시
     들어와도 중복 추가되지 않게 한다.
-    python3 convert_excel.py --sale "러빈.브리즈줄팬츠" "슈크림.소다팝줄티"
+    id 가 같은 상품이 여러 개면 모두 바뀌므로, 바뀐 상품명을 하나씩 출력한다.
+    python3 convert_excel.py --sale 26072410193 2608020438
     """
-    target = set()
-    for n in names:
-        if "(세일)" in n:
-            print(f"  건너뜀: '{n}' 는 이미 세일 상품입니다.")
-        else:
-            target.add(n)
+    target = {str(i) for i in ids}
     not_found = set(target)
     today = date.today().isoformat()
     changed_total = 0
@@ -424,14 +420,19 @@ def mark_sale(names: list) -> None:
         keys = {product_key(p) for p in products}
         changed = 0
         for p in products:
-            if p.get("name") not in target:
+            pid = str(p.get("id"))
+            if pid not in target:
                 continue
-            not_found.discard(p["name"])
+            not_found.discard(pid)
+            if "(세일)" in p["name"]:
+                print(f"  건너뜀: {pid} '{p['name']}' 는 이미 세일 상품입니다.")
+                continue
             sale_name = to_sale_name(p["name"])
             # 원본 쇼핑몰이 올린 같은 옵션의 (세일) 상품이 이미 있으면 똑같은 상품이 둘이 된다
             if (sale_name,) + product_key(p)[1:] in keys:
-                print(f"  건너뜀: '{p['name']}' 는 같은 옵션의 (세일) 상품이 이미 있습니다.")
+                print(f"  건너뜀: {pid} '{p['name']}' 는 같은 옵션의 (세일) 상품이 이미 있습니다.")
                 continue
+            print(f"  {pid} {p['name']} → {sale_name}")
             p["name"] = sale_name
             p["mfg_date"] = today
             p["manual_sale"] = True
@@ -439,12 +440,11 @@ def mark_sale(names: list) -> None:
 
         if changed:
             save_brand(brand, products)
-            print(f"  {brand}: {changed}개 (세일) 변경")
             changed_total += changed
 
     if not_found:
-        for n in sorted(not_found):
-            print(f"  경고: '{n}' 를 찾지 못했습니다.")
+        for i in sorted(not_found):
+            print(f"  경고: id '{i}' 를 찾지 못했습니다.")
 
     if changed_total:
         rebuild_brands_json()
