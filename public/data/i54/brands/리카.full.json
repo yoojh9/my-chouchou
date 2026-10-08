@@ -949,5 +949,56 @@
       }
     ],
     "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26100721414",
+    "brand": "리카",
+    "name": "리카.밍크기모고쟁이바지",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1007/mo1007-037.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1007/mo1007-037.jpg"
+    ],
+    "colors": [
+      {
+        "name": "거북이",
+        "add_price": 0
+      },
+      {
+        "name": "플라워",
+        "add_price": 0
+      },
+      {
+        "name": "강아지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-07"
   }
 ]

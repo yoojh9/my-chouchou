@@ -1661,5 +1661,95 @@
       }
     ],
     "mfg_date": "2026-09-28"
+  },
+  {
+    "id": "26100721378",
+    "brand": "레브",
+    "name": "레브.레더카라데님자켓",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1007/mo1007-001.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1007/mo1007-001.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-07"
+  },
+  {
+    "id": "26100721379",
+    "brand": "레브",
+    "name": "레브.2WAY헤비덕다운포켓패딩",
+    "price_sale": 89600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1007/mo1007-002.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1007/mo1007-002.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-07"
   }
 ]

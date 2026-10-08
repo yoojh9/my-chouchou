@@ -1,1 +1,262 @@
-[]
+[
+  {
+    "id": "26072710038",
+    "brand": "BBB",
+    "name": "BBB.아씨한복",
+    "price_sale": 43200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1785098019/1_9_9181785098019.jpg",
+    "colors": [
+      {
+        "name": "빨강",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710049",
+    "brand": "BBB",
+    "name": "BBB.보넷",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1785098019/1_8_5321785098019.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "빨강",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710060",
+    "brand": "BBB",
+    "name": "BBB.베베아씨한복",
+    "price_sale": 41600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1785098016/1_7_8821785098016.jpg",
+    "colors": [
+      {
+        "name": "빨강",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710071",
+    "brand": "BBB",
+    "name": "BBB.베베도령한복",
+    "price_sale": 41600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1785098015/1_6_3901785098015.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710083",
+    "brand": "BBB",
+    "name": "BBB.베베기본한복",
+    "price_sale": 40000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1785098015/1_5_4851785098015.jpg",
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710115",
+    "brand": "BBB",
+    "name": "BBB.도령한복",
+    "price_sale": 44800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1785098014/1_4_5711785098014.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710164",
+    "brand": "BBB",
+    "name": "BBB.기본한복",
+    "price_sale": 41600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1785098013/1_3_9821785098013.jpg",
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  },
+  {
+    "id": "26072710222",
+    "brand": "BBB",
+    "name": "BBB.귀도리",
+    "price_sale": 14400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1785098013/1_2_6521785098013.jpg",
+    "colors": [
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "빨강",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(S~M)",
+        "add_price": 0
+      },
+      {
+        "name": "M(L~XL)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-27"
+  }
+]
