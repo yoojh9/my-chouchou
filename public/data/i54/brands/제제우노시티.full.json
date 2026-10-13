@@ -4038,5 +4038,63 @@
       }
     ],
     "mfg_date": "2026-10-01"
+  },
+  {
+    "id": "26101221398",
+    "brand": "제제우노시티",
+    "name": "제제우노시티.이리야베스트베베",
+    "price_sale": 62400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-170.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1012/mo1012-170.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-12"
+  },
+  {
+    "id": "26101221399",
+    "brand": "제제우노시티",
+    "name": "제제우노시티.조별바디수트-베베",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-171.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1012/mo1012-171.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "12M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-12"
   }
 ]

@@ -1480,5 +1480,95 @@
       }
     ],
     "mfg_date": "2026-10-07"
+  },
+  {
+    "id": "26101221230",
+    "brand": "플라워제이",
+    "name": "플라워제이.마몽셋업",
+    "price_sale": 68800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-002.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1012/mo1012-002.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-12"
+  },
+  {
+    "id": "26101221232",
+    "brand": "플라워제이",
+    "name": "플라워제이.요요셋업",
+    "price_sale": 60800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-004.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1012/mo1012-004.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-12"
   }
 ]

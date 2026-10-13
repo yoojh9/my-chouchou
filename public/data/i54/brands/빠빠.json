@@ -18,5 +18,61 @@
       }
     ],
     "mfg_date": "2026-07-13"
+  },
+  {
+    "id": "26101221343",
+    "brand": "빠빠",
+    "name": "빠빠.베어뽀글이슈트",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-115.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-12"
+  },
+  {
+    "id": "26101221344",
+    "brand": "빠빠",
+    "name": "빠빠.라네즈누빔슈트세트",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1012/mo1012-116.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-12"
   }
 ]
