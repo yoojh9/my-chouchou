@@ -368,90 +368,6 @@
     "mfg_date": "2026-07-20"
   },
   {
-    "id": "2607160049",
-    "brand": "오조드파파",
-    "name": "오조드파파.하라팬츠(M)",
-    "price_sale": 27200,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1784182682/1_4_6651784182682.jpg",
-    "colors": [
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "실버",
-        "add_price": 0
-      },
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160051",
-    "brand": "오조드파파",
-    "name": "오조드파파.테리프릴숏팬츠(M)",
-    "price_sale": 30400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1784182681/3_3_2881784182681.jpg",
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "카멜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
-    "id": "2607160053",
-    "brand": "오조드파파",
-    "name": "오조드파파.발렌시아티(M)",
-    "price_sale": 49600,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1784182680/1_2_6771784182680.jpg",
-    "colors": [
-      {
-        "name": "아이",
-        "add_price": 0
-      },
-      {
-        "name": "카멜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE(맘사이즈)",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-16"
-  },
-  {
     "id": "26100121490",
     "brand": "오조드파파",
     "name": "오조드파파.자가드셔츠자켓adult",
@@ -686,5 +602,105 @@
       }
     ],
     "mfg_date": "2026-10-01"
+  },
+  {
+    "id": "26101621312",
+    "brand": "오조드파파",
+    "name": "오조드파파.몽쉘블라우스adult",
+    "price_sale": 59200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-052.jpg",
+    "colors": [
+      {
+        "name": "카멜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101621313",
+    "brand": "오조드파파",
+    "name": "오조드파파.프랭키퍼자켓adult",
+    "price_sale": 120000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-053.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101621314",
+    "brand": "오조드파파",
+    "name": "오조드파파.세일러체크셔츠adult",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-054.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101621315",
+    "brand": "오조드파파",
+    "name": "오조드파파.씨드원피스adult",
+    "price_sale": 83200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-055.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
   }
 ]

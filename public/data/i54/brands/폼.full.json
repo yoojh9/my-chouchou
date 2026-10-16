@@ -1,302 +1,5 @@
 [
   {
-    "id": "2607140001",
-    "brand": "폼",
-    "name": "폼.치토스티셔츠",
-    "price_sale": 12800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-001.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-001.jpg"
-    ],
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140002",
-    "brand": "폼",
-    "name": "폼.몬스터티셔츠",
-    "price_sale": 14400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-002.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-002.jpg"
-    ],
-    "colors": [
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "스카이블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140003",
-    "brand": "폼",
-    "name": "폼.레몬팬츠",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-003.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-003.jpg"
-    ],
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140004",
-    "brand": "폼",
-    "name": "폼.패스트티셔츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-004.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-004.jpg"
-    ],
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      },
-      {
-        "name": "딥블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140005",
-    "brand": "폼",
-    "name": "폼.나시블라우스세트",
-    "price_sale": 35200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-005.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-005.jpg"
-    ],
-    "colors": [
-      {
-        "name": "크림",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140006",
-    "brand": "폼",
-    "name": "폼.7부티셔츠",
-    "price_sale": 11200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-006.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-006.jpg"
-    ],
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "2XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
-    "id": "2607140007",
-    "brand": "폼",
-    "name": "폼.웨이브티셔츠",
-    "price_sale": 16000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-007.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202607/mo0714/mo0714-007.jpg"
-    ],
-    "colors": [
-      {
-        "name": "화이트",
-        "add_price": 0
-      },
-      {
-        "name": "민트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "XS",
-        "add_price": 0
-      },
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-07-14"
-  },
-  {
     "id": "26100121434",
     "brand": "폼",
     "name": "폼.단가라골지티셔츠",
@@ -788,5 +491,373 @@
       }
     ],
     "mfg_date": "2026-10-01"
+  },
+  {
+    "id": "26101621253",
+    "brand": "폼",
+    "name": "폼.나그랑맨투맨",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-150.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-150.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621254",
+    "brand": "폼",
+    "name": "폼.버블골덴팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-151.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-151.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621255",
+    "brand": "폼",
+    "name": "폼.스타조거팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-152.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-152.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621256",
+    "brand": "폼",
+    "name": "폼.스트라이프조거팬츠",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-153.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-153.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드핑크",
+        "add_price": 0
+      },
+      {
+        "name": "민트브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621257",
+    "brand": "폼",
+    "name": "폼.오버암원피스",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-154.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-154.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621258",
+    "brand": "폼",
+    "name": "폼.캣도그티셔츠",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-155.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-155.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621259",
+    "brand": "폼",
+    "name": "폼.포니맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-156.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-156.jpg"
+    ],
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621260",
+    "brand": "폼",
+    "name": "폼.포니카라티셔츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-157.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1014/mo1014-157.jpg"
+    ],
+    "colors": [
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "6M",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
   }
 ]

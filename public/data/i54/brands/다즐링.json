@@ -850,5 +850,93 @@
       }
     ],
     "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26101621210",
+    "brand": "다즐링",
+    "name": "다즐링.골지레깅스",
+    "price_sale": 8800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-107.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621211",
+    "brand": "다즐링",
+    "name": "다즐링.골지토션나팔",
+    "price_sale": 12000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-108.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
   }
 ]

@@ -1,346 +1,562 @@
 [
-    {
-        "id": "2607140032",
-        "brand": "마마스파파",
-        "name": "마마스파파.마르미듐백",
-        "price_sale": 41600,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-032.jpg",
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "오렌지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607140033",
-        "brand": "마마스파파",
-        "name": "마마스파파.마르스몰백",
-        "price_sale": 35200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-033.jpg",
-        "colors": [
-            {
-                "name": "오렌지",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607140034",
-        "brand": "마마스파파",
-        "name": "마마스파파.참참세트",
-        "price_sale": 19200,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-034.jpg",
-        "colors": [
-            {
-                "name": "9개1세트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607140035",
-        "brand": "마마스파파",
-        "name": "마마스파파.플라워링",
-        "price_sale": 4000,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-035.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "오렌지",
-                "add_price": 0
-            },
-            {
-                "name": "라벤더",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607140036",
-        "brand": "마마스파파",
-        "name": "마마스파파.플라워목걸이",
-        "price_sale": 6400,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-036.jpg",
-        "colors": [
-            {
-                "name": "라벤더",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607140037",
-        "brand": "마마스파파",
-        "name": "마마스파파.호브아목걸이",
-        "price_sale": 4800,
-        "thumbnail_url": "https://www.i54.co.kr/web/product/big/202607/mo0714/mo0714-037.jpg",
-        "colors": [
-            {
-                "name": "누드스킨",
-                "add_price": 0
-            },
-            {
-                "name": "파스텔",
-                "add_price": 0
-            },
-            {
-                "name": "비비드",
-                "add_price": 0
-            },
-            {
-                "name": "크리스탈",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "FREE",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-14"
-    },
-    {
-        "id": "2607200084",
-        "brand": "마마스파파",
-        "name": "마마스파파.호브아목걸이",
-        "price_sale": 4800,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784486758/1_7_7111784486758.jpg",
-        "colors": [
-            {
-                "name": "누드스킨",
-                "add_price": 0
-            },
-            {
-                "name": "파스텔",
-                "add_price": 0
-            },
-            {
-                "name": "비비드",
-                "add_price": 0
-            },
-            {
-                "name": "크리스탈",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    },
-    {
-        "id": "2607200096",
-        "brand": "마마스파파",
-        "name": "마마스파파.플라워목걸이",
-        "price_sale": 6400,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784486758/1_6_8731784486758.jpg",
-        "colors": [
-            {
-                "name": "라벤더",
-                "add_price": 0
-            },
-            {
-                "name": "노랑",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    },
-    {
-        "id": "2607200112",
-        "brand": "마마스파파",
-        "name": "마마스파파.플라워링",
-        "price_sale": 4000,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784486758/1_5_2891784486758.jpg",
-        "colors": [
-            {
-                "name": "화이트",
-                "add_price": 0
-            },
-            {
-                "name": "소라",
-                "add_price": 0
-            },
-            {
-                "name": "오렌지",
-                "add_price": 0
-            },
-            {
-                "name": "라벤더",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    },
-    {
-        "id": "2607200130",
-        "brand": "마마스파파",
-        "name": "마마스파파.참참세트",
-        "price_sale": 19200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784486758/1_4_1181784486758.jpg",
-        "colors": [
-            {
-                "name": "9개1세트",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    },
-    {
-        "id": "2607200156",
-        "brand": "마마스파파",
-        "name": "마마스파파.마르스몰백",
-        "price_sale": 35200,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784486758/1_3_3671784486758.jpg",
-        "colors": [
-            {
-                "name": "오렌지",
-                "add_price": 0
-            },
-            {
-                "name": "블루",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    },
-    {
-        "id": "2607200190",
-        "brand": "마마스파파",
-        "name": "마마스파파.마르미듐백",
-        "price_sale": 41600,
-        "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784486758/1_2_1461784486758.jpg",
-        "colors": [
-            {
-                "name": "블랙",
-                "add_price": 0
-            },
-            {
-                "name": "핑크",
-                "add_price": 0
-            },
-            {
-                "name": "오렌지",
-                "add_price": 0
-            }
-        ],
-        "sizes": [
-            {
-                "name": "free",
-                "add_price": 0
-            }
-        ],
-        "mfg_date": "2026-07-20"
-    }
+  {
+    "id": "2607200084",
+    "brand": "마마스파파",
+    "name": "마마스파파.호브아목걸이",
+    "price_sale": 4800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/7C1784486758/1_7_7111784486758.jpg",
+    "colors": [
+      {
+        "name": "누드스킨",
+        "add_price": 0
+      },
+      {
+        "name": "파스텔",
+        "add_price": 0
+      },
+      {
+        "name": "비비드",
+        "add_price": 0
+      },
+      {
+        "name": "크리스탈",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200096",
+    "brand": "마마스파파",
+    "name": "마마스파파.플라워목걸이",
+    "price_sale": 6400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/6C1784486758/1_6_8731784486758.jpg",
+    "colors": [
+      {
+        "name": "라벤더",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200112",
+    "brand": "마마스파파",
+    "name": "마마스파파.플라워링",
+    "price_sale": 4000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/5C1784486758/1_5_2891784486758.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지",
+        "add_price": 0
+      },
+      {
+        "name": "라벤더",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200130",
+    "brand": "마마스파파",
+    "name": "마마스파파.참참세트",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/4C1784486758/1_4_1181784486758.jpg",
+    "colors": [
+      {
+        "name": "9개1세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200156",
+    "brand": "마마스파파",
+    "name": "마마스파파.마르스몰백",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/3C1784486758/1_3_3671784486758.jpg",
+    "colors": [
+      {
+        "name": "오렌지",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "2607200190",
+    "brand": "마마스파파",
+    "name": "마마스파파.마르미듐백",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/2C1784486758/1_2_1461784486758.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "오렌지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "free",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-07-20"
+  },
+  {
+    "id": "26101621467",
+    "brand": "마마스파파",
+    "name": "마마스파파.그딜롱패딩",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-026.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621468",
+    "brand": "마마스파파",
+    "name": "마마스파파.도우맨투맨",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-027.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "J1",
+        "add_price": 0
+      },
+      {
+        "name": "J2",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621469",
+    "brand": "마마스파파",
+    "name": "마마스파파.드로잉가디건",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-028.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "J1",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621470",
+    "brand": "마마스파파",
+    "name": "마마스파파.멜로우티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-029.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621471",
+    "brand": "마마스파파",
+    "name": "마마스파파.모아패딩조끼",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-030.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621472",
+    "brand": "마마스파파",
+    "name": "마마스파파.미미캐미",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-031.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621473",
+    "brand": "마마스파파",
+    "name": "마마스파파.브루아자켓",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-032.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621474",
+    "brand": "마마스파파",
+    "name": "마마스파파.에이프런팬츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-033.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621475",
+    "brand": "마마스파파",
+    "name": "마마스파파.타크패딩조끼",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-034.jpg",
+    "colors": [
+      {
+        "name": "머스",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621476",
+    "brand": "마마스파파",
+    "name": "마마스파파.피노패딩",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-035.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26101621477",
+    "brand": "마마스파파",
+    "name": "마마스파파.호호자켓",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1016/mo1016-036.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "J1",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-16"
+  }
 ]

@@ -366,5 +366,145 @@
       }
     ],
     "mfg_date": "2026-08-21"
+  },
+  {
+    "id": "26101621212",
+    "brand": "메이드블루",
+    "name": "메이드블루.밍크골덴조거",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-109.jpg",
+    "colors": [
+      {
+        "name": "아이보리눈사람",
+        "add_price": 0
+      },
+      {
+        "name": "베이지곰",
+        "add_price": 0
+      },
+      {
+        "name": "그레이베어",
+        "add_price": 0
+      },
+      {
+        "name": "브라운자동차",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621213",
+    "brand": "메이드블루",
+    "name": "메이드블루.뽀글이점퍼",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1014/mo1014-110.jpg",
+    "colors": [
+      {
+        "name": "사과",
+        "add_price": 0
+      },
+      {
+        "name": "리본",
+        "add_price": 0
+      },
+      {
+        "name": "8도",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-14"
+  },
+  {
+    "id": "26101621296",
+    "brand": "메이드블루",
+    "name": "메이드블루.포근이반폴라",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-036.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
   }
 ]

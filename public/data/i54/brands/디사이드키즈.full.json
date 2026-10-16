@@ -469,5 +469,162 @@
       }
     ],
     "mfg_date": "2026-10-01"
+  },
+  {
+    "id": "26101621286",
+    "brand": "디사이드키즈",
+    "name": "디사이드키즈.아미후드",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-026.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1015/mo1015-026.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 5000
+      },
+      {
+        "name": "15",
+        "add_price": 5000
+      },
+      {
+        "name": "17",
+        "add_price": 5000
+      },
+      {
+        "name": "19",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101621287",
+    "brand": "디사이드키즈",
+    "name": "디사이드키즈.파이오후드",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-027.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1015/mo1015-027.jpg"
+    ],
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 5000
+      },
+      {
+        "name": "15",
+        "add_price": 5000
+      },
+      {
+        "name": "17",
+        "add_price": 5000
+      },
+      {
+        "name": "19",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101621288",
+    "brand": "디사이드키즈",
+    "name": "디사이드키즈.new어블릭지퍼바지",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-028.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1015/mo1015-028.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 5000
+      },
+      {
+        "name": "15",
+        "add_price": 5000
+      },
+      {
+        "name": "17",
+        "add_price": 5000
+      },
+      {
+        "name": "19",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-15"
   }
 ]

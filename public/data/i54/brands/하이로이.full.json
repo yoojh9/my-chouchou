@@ -41,5 +41,48 @@
       }
     ],
     "mfg_date": "2026-10-12"
+  },
+  {
+    "id": "26101621441",
+    "brand": "하이로이",
+    "name": "하이로이.포그니벨로아",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1015/mo1015-181.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1015/mo1015-181.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-15"
   }
 ]
