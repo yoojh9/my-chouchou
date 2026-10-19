@@ -33,5 +33,67 @@
       }
     ],
     "mfg_date": "2026-09-30"
+  },
+  {
+    "id": "26101821044",
+    "brand": "겟썸플래버",
+    "name": "겟썸플래버.다가백참",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-259.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-259.jpg"
+    ],
+    "colors": [
+      {
+        "name": "반다나블랙",
+        "add_price": 0
+      },
+      {
+        "name": "반다나화이트",
+        "add_price": 0
+      },
+      {
+        "name": "호피블랙",
+        "add_price": 0
+      },
+      {
+        "name": "호피브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
+  },
+  {
+    "id": "26101821045",
+    "brand": "겟썸플래버",
+    "name": "겟썸플래버.모찌가방(패딩가방)",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-260.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-260.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
   }
 ]

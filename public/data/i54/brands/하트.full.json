@@ -3004,5 +3004,83 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26101821352",
+    "brand": "하트",
+    "name": "하트.(정품)베티붑상하",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-567.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-567.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
+  },
+  {
+    "id": "26101821353",
+    "brand": "하트",
+    "name": "하트.(정품)베티붑수트",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-568.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-568.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
   }
 ]

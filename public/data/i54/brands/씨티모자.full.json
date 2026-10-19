@@ -3679,5 +3679,67 @@
       }
     ],
     "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26101821217",
+    "brand": "씨티모자",
+    "name": "씨티모자.양뿔비니",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-432.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-432.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
+  },
+  {
+    "id": "26101821218",
+    "brand": "씨티모자",
+    "name": "씨티모자.퀄팅베어귀달이",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-433.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-433.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
   }
 ]

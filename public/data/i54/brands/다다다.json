@@ -1,21 +1,101 @@
 [
   {
-    "id": "2608120350",
+    "id": "26101821354",
     "brand": "다다다",
-    "name": "다다다.HIP카모팬츠",
-    "price_sale": 41600,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-098.jpg",
+    "name": "다다다.gogo상하세트",
+    "price_sale": 78400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-001.jpg",
     "colors": [
       {
-        "name": "카모",
+        "name": "그레이",
         "add_price": 0
       }
     ],
     "sizes": [
       {
-        "name": "S",
+        "name": "M",
         "add_price": 0
       },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821355",
+    "brand": "다다다",
+    "name": "다다다.ONE-SET(top+sk+머플러)",
+    "price_sale": 67200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-002.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821356",
+    "brand": "다다다",
+    "name": "다다다.나이트진",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-003.jpg",
+    "colors": [
+      {
+        "name": "진청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
       {
         "name": "M",
         "add_price": 0
@@ -41,17 +121,21 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120351",
+    "id": "26101821357",
     "brand": "다다다",
-    "name": "다다다.네모니트골지티세트",
-    "price_sale": 48000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-099.jpg",
+    "name": "다다다.라떼베스트",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-004.jpg",
     "colors": [
       {
-        "name": "골지그레이",
+        "name": "연베이지",
+        "add_price": 0
+      },
+      {
+        "name": "진밤",
         "add_price": 0
       }
     ],
@@ -81,17 +165,17 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120352",
+    "id": "26101821358",
     "brand": "다다다",
-    "name": "다다다.리슨자켓",
-    "price_sale": 54400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-100.jpg",
+    "name": "다다다.마롱케이프코트",
+    "price_sale": 76800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-005.jpg",
     "colors": [
       {
-        "name": "차콜",
+        "name": "오트밀",
         "add_price": 0
       }
     ],
@@ -121,15 +205,19 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120353",
+    "id": "26101821359",
     "brand": "다다다",
-    "name": "다다다.리틀덕니트",
-    "price_sale": 48000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-101.jpg",
+    "name": "다다다.멜로우카고팬츠",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-006.jpg",
     "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
       {
         "name": "퍼플",
         "add_price": 0
@@ -161,22 +249,150 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120354",
+    "id": "26101821360",
     "brand": "다다다",
-    "name": "다다다.모모가디건",
-    "price_sale": 44800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-102.jpg",
+    "name": "다다다.모노랩팬츠(벨트세트)",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-007.jpg",
     "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821361",
+    "brand": "다다다",
+    "name": "다다다.몽실자켓",
+    "price_sale": 62400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-008.jpg",
+    "colors": [
+      {
+        "name": "연베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821362",
+    "brand": "다다다",
+    "name": "다다다.베리블루니트",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-009.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821363",
+    "brand": "다다다",
+    "name": "다다다.스너그골지니트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-010.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "라임",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
       {
         "name": "오렌지",
         "add_price": 0
-      },
-      {
-        "name": "차콜",
-        "add_price": 0
       }
     ],
     "sizes": [
@@ -205,522 +421,18 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120355",
+    "id": "26101821364",
     "brand": "다다다",
-    "name": "다다다.바이브진",
-    "price_sale": 46400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-103.jpg",
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120356",
-    "brand": "다다다",
-    "name": "다다다.벨로니트뷔스티에세트",
-    "price_sale": 46400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-104.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120357",
-    "brand": "다다다",
-    "name": "다다다.샌드니트",
-    "price_sale": 44800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-105.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120358",
-    "brand": "다다다",
-    "name": "다다다.시그니처벨트진",
-    "price_sale": 43200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-106.jpg",
-    "colors": [
-      {
-        "name": "진중청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120359",
-    "brand": "다다다",
-    "name": "다다다.씨티스트라이프팬츠레깅스세트",
-    "price_sale": 44800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-107.jpg",
-    "colors": [
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120360",
-    "brand": "다다다",
-    "name": "다다다.에이드남방",
-    "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-108.jpg",
-    "colors": [
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120361",
-    "brand": "다다다",
-    "name": "다다다.이지데님(벨트세트)",
-    "price_sale": 43200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-109.jpg",
-    "colors": [
-      {
-        "name": "연청",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "S",
-        "add_price": 0
-      },
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120362",
-    "brand": "다다다",
-    "name": "다다다.카라st니트맨투맨",
-    "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-110.jpg",
-    "colors": [
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120363",
-    "brand": "다다다",
-    "name": "다다다.코어티뷔스티에세트",
-    "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-111.jpg",
-    "colors": [
-      {
-        "name": "차콜퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120364",
-    "brand": "다다다",
-    "name": "다다다.클래식팬츠(벨트세트)",
-    "price_sale": 44800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-112.jpg",
-    "colors": [
-      {
-        "name": "차콜",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120365",
-    "brand": "다다다",
-    "name": "다다다.트리플세트(3피스)",
-    "price_sale": 67200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-113.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 3000
-      },
-      {
-        "name": "JM",
-        "add_price": 3000
-      },
-      {
-        "name": "JL",
-        "add_price": 3000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120366",
-    "brand": "다다다",
-    "name": "다다다.포켓조거팬츠",
-    "price_sale": 38400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-114.jpg",
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "M",
-        "add_price": 0
-      },
-      {
-        "name": "L",
-        "add_price": 0
-      },
-      {
-        "name": "XL",
-        "add_price": 0
-      },
-      {
-        "name": "JS",
-        "add_price": 2000
-      },
-      {
-        "name": "JM",
-        "add_price": 2000
-      },
-      {
-        "name": "JL",
-        "add_price": 2000
-      }
-    ],
-    "mfg_date": "2026-08-12"
-  },
-  {
-    "id": "2608120367",
-    "brand": "다다다",
-    "name": "다다다.퐁퐁베스트",
-    "price_sale": 43200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-115.jpg",
+    "name": "다다다.스노우니트",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-011.jpg",
     "colors": [
       {
         "name": "아이보리",
         "add_price": 0
-      },
-      {
-        "name": "블루",
-        "add_price": 0
       }
     ],
     "sizes": [
@@ -749,14 +461,14 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
   },
   {
-    "id": "2608120368",
+    "id": "26101821365",
     "brand": "다다다",
-    "name": "다다다.픽레더자켓",
-    "price_sale": 68800,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202608/mo0812/mo0812-116.jpg",
+    "name": "다다다.시크레더자켓",
+    "price_sale": 62400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-012.jpg",
     "colors": [
       {
         "name": "블랙",
@@ -778,6 +490,46 @@
       },
       {
         "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821366",
+    "brand": "다다다",
+    "name": "다다다.아가니트",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-013.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
         "add_price": 2000
       },
       {
@@ -789,6 +541,250 @@
         "add_price": 2000
       }
     ],
-    "mfg_date": "2026-08-12"
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821367",
+    "brand": "다다다",
+    "name": "다다다.아방팬츠",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-014.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821368",
+    "brand": "다다다",
+    "name": "다다다.요거트점퍼",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-015.jpg",
+    "colors": [
+      {
+        "name": "블루단가라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821369",
+    "brand": "다다다",
+    "name": "다다다.윈터체크팬츠",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-016.jpg",
+    "colors": [
+      {
+        "name": "체크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821370",
+    "brand": "다다다",
+    "name": "다다다.커브데님팬츠",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-017.jpg",
+    "colors": [
+      {
+        "name": "중청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821371",
+    "brand": "다다다",
+    "name": "다다다.코코아니트+판초세트",
+    "price_sale": 62400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-018.jpg",
+    "colors": [
+      {
+        "name": "코코아",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26101821372",
+    "brand": "다다다",
+    "name": "다다다.헬렌퍼점퍼(탈부착)",
+    "price_sale": 76800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-019.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-20"
   }
 ]
