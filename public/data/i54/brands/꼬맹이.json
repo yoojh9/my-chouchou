@@ -1078,5 +1078,125 @@
       }
     ],
     "mfg_date": "2026-08-27"
+  },
+  {
+    "id": "26102021411",
+    "brand": "꼬맹이",
+    "name": "꼬맹이.아웃도어상하(기모)",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-001.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 5000
+      },
+      {
+        "name": "FREE",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-21"
+  },
+  {
+    "id": "26102021412",
+    "brand": "꼬맹이",
+    "name": "꼬맹이.파라다이스상하(기모)",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-002.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 5000
+      },
+      {
+        "name": "FREE",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-21"
   }
 ]

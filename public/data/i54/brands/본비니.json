@@ -142,5 +142,57 @@
       }
     ],
     "mfg_date": "2026-10-15"
+  },
+  {
+    "id": "26102021567",
+    "brand": "본비니",
+    "name": "본비니.더베이직이너웜",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-157.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "카멜",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-21"
   }
 ]

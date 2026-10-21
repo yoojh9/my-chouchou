@@ -513,5 +513,78 @@
       }
     ],
     "mfg_date": "2026-10-13"
+  },
+  {
+    "id": "26102021573",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.미니도트삼색똑딱핀3판세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-163.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1021/mo1021-163.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-21"
+  },
+  {
+    "id": "26102021574",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.벨벳왕리본헤어밴드3개세트",
+    "price_sale": 12000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-164.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1021/mo1021-164.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-21"
+  },
+  {
+    "id": "26102021575",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.하트가득집게핀12개세트(낱개수량이예요)",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1021/mo1021-165.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1021/mo1021-165.jpg"
+    ],
+    "colors": [
+      {
+        "name": "12개",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-21"
   }
 ]

@@ -1231,5 +1231,48 @@
       }
     ],
     "mfg_date": "2026-10-20"
+  },
+  {
+    "id": "26102021343",
+    "brand": "돌핀",
+    "name": "돌핀.노르딕가디건",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1020/mo1020-230.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1020/mo1020-230.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "딥레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-20"
   }
 ]

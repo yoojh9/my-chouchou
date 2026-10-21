@@ -1011,5 +1011,32 @@
       }
     ],
     "mfg_date": "2026-10-19"
+  },
+  {
+    "id": "26102020599",
+    "brand": "리틀하이",
+    "name": "리틀하이.소프트니삭스",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1019/mo1019-054.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1019/mo1019-054.jpg"
+    ],
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-19"
   }
 ]
