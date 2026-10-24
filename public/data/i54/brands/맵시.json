@@ -78,5 +78,237 @@
       }
     ],
     "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26102321012",
+    "brand": "맵시",
+    "name": "맵시.랩하렘세트",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-235.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 4000
+      },
+      {
+        "name": "JM",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102321013",
+    "brand": "맵시",
+    "name": "맵시.아코슬림팬츠",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-236.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102321014",
+    "brand": "맵시",
+    "name": "맵시.아코윈터베스트",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-237.jpg",
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102321015",
+    "brand": "맵시",
+    "name": "맵시.아코플리츠라그랑",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-238.jpg",
+    "colors": [
+      {
+        "name": "블루차콜",
+        "add_price": 0
+      },
+      {
+        "name": "카키머스타드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102321016",
+    "brand": "맵시",
+    "name": "맵시.코쿤하렘팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-239.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102321017",
+    "brand": "맵시",
+    "name": "맵시.하이넥웜후드티(맘)",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1022/mo1022-240.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-22"
   }
 ]

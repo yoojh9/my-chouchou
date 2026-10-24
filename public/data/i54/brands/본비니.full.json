@@ -209,5 +209,60 @@
       }
     ],
     "mfg_date": "2026-10-21"
+  },
+  {
+    "id": "26102321260",
+    "brand": "본비니",
+    "name": "본비니.인터스텔라팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1023/mo1023-113.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1023/mo1023-113.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "라벤더퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "피치핑크",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
   }
 ]

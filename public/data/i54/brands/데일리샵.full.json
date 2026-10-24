@@ -1496,5 +1496,67 @@
       }
     ],
     "mfg_date": "2026-10-02"
+  },
+  {
+    "id": "26102321236",
+    "brand": "데일리샵",
+    "name": "데일리샵.세가닥땋은머리끈",
+    "price_sale": 4160,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1023/mo1023-089.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1023/mo1023-089.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102321237",
+    "brand": "데일리샵",
+    "name": "데일리샵.안경가발집게핀 세트",
+    "price_sale": 4800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1023/mo1023-090.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1023/mo1023-090.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
   }
 ]

@@ -1,1 +1,894 @@
-[]
+[
+  {
+    "id": "26102310001",
+    "brand": "에이미",
+    "name": "에이미.(세일) 절개청팬츠",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Z000LD1792698303/1_16_8101786897266.jpg",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310002",
+    "brand": "에이미",
+    "name": "에이미.(세일) 다트골지청팬츠",
+    "price_sale": 41600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Z000ED1792698302/1_7_5491786897266.jpg",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310003",
+    "brand": "에이미",
+    "name": "에이미.(세일) 청카펜터팬츠",
+    "price_sale": 38400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Y000ND1792698303/1_18_7951786897266.jpg",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310005",
+    "brand": "에이미",
+    "name": "에이미.(세일) CN카고팬츠",
+    "price_sale": 44800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/X000BD1792698302/1_3_7161786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310011",
+    "brand": "에이미",
+    "name": "에이미.(세일) 카치온쌍침팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/V000PD1792698303/1_21_4331786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310017",
+    "brand": "에이미",
+    "name": "에이미.(세일) 에버박스티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000KD1792698303/1_14_3281786897266.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310018",
+    "brand": "에이미",
+    "name": "에이미.(세일) 어반피그티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/T000JD1792698303/1_13_7911786897266.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310020",
+    "brand": "에이미",
+    "name": "에이미.(세일) 미니포켓청팬츠",
+    "price_sale": 36800,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/S000HD1792698302/1_10_2641786897266.jpg",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310022",
+    "brand": "에이미",
+    "name": "에이미.(세일) 단가라박스티",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/R000GD1792698302/1_9_7231786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310023",
+    "brand": "에이미",
+    "name": "에이미.(세일) 67단가라레이티",
+    "price_sale": 19200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Q000AD1792698301/1_2_2761786897266.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310025",
+    "brand": "에이미",
+    "name": "에이미.(세일) CP쭈리팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/P000CD1792698302/1_4_241786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310026",
+    "brand": "에이미",
+    "name": "에이미.(세일) 빅포켓팬츠",
+    "price_sale": 40000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000ID1792698303/1_12_6121786897266.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310027",
+    "brand": "에이미",
+    "name": "에이미.(세일) 단가라레이후드티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/O000FD1792698302/1_8_5821786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310030",
+    "brand": "에이미",
+    "name": "에이미.(세일) 절개피그팬츠",
+    "price_sale": 43200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/J000MD1792698303/1_17_1401786897266.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310033",
+    "brand": "에이미",
+    "name": "에이미.(세일) 체크남방",
+    "price_sale": 32000,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/I000OD1792698303/1_19_6071786897266.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310039",
+    "brand": "에이미",
+    "name": "에이미.(세일) 코치자켓",
+    "price_sale": 62400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/G000BD1792698379/1_23_1591786897266.jpg",
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310042",
+    "brand": "에이미",
+    "name": "에이미.(세일) 카펜터캥거루맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/F000AD1792698379/1_22_3561786897266.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310053",
+    "brand": "에이미",
+    "name": "에이미.(세일) 프리덤피그티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/C000CD1792698379/1_25_2071786897266.jpg",
+    "colors": [
+      {
+        "name": "겨자",
+        "add_price": 0
+      },
+      {
+        "name": "회색",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310061",
+    "brand": "에이미",
+    "name": "에이미.(세일) 논페이드절개팬츠",
+    "price_sale": 33600,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/A000DD1792698302/1_6_4421786897266.jpg",
+    "colors": [
+      {
+        "name": "청색",
+        "add_price": 0
+      },
+      {
+        "name": "흑청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310064",
+    "brand": "에이미",
+    "name": "에이미.(세일) 피그캥거루맨투맨",
+    "price_sale": 35200,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/A000AD1792698432/1_26_8961786897266.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  }
+]

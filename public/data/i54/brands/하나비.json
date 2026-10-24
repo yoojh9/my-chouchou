@@ -2034,5 +2034,125 @@
       }
     ],
     "mfg_date": "2026-09-09"
+  },
+  {
+    "id": "26102310246",
+    "brand": "하나비",
+    "name": "하나비.토끼뽀글이자켓",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1792737606/1_4_9041792737606.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310308",
+    "brand": "하나비",
+    "name": "하나비.체크뽀글이자켓",
+    "price_sale": 27200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1792737605/1_3_3421792737605.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102310396",
+    "brand": "하나비",
+    "name": "하나비.멍뭉이뽀글이자켓",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1792737604/1_2_6031792737604.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
   }
 ]

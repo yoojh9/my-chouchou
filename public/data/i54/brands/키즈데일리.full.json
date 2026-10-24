@@ -178,5 +178,52 @@
       }
     ],
     "mfg_date": "2026-09-11"
+  },
+  {
+    "id": "26102321321",
+    "brand": "키즈데일리",
+    "name": "키즈데일리.골지조거바지",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1023/mo1023-174.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1023/mo1023-174.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-23"
   }
 ]

@@ -2254,5 +2254,68 @@
       }
     ],
     "mfg_date": "2026-10-16"
+  },
+  {
+    "id": "26102321259",
+    "brand": "더고구마",
+    "name": "더고구마.포겟라벨티",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1023/mo1023-112.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1023/mo1023-112.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      },
+      {
+        "name": "JL",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-23"
   }
 ]
