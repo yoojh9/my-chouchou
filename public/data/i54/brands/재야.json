@@ -562,5 +562,97 @@
       }
     ],
     "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102521196",
+    "brand": "재야",
+    "name": "재야.돼끼토끼슈트(보넷세트)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-367.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521197",
+    "brand": "재야",
+    "name": "재야.메리상하세트",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-368.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521199",
+    "brand": "재야",
+    "name": "재야.미니산타모자",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-370.jpg",
+    "colors": [
+      {
+        "name": "도트",
+        "add_price": 0
+      },
+      {
+        "name": "무지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-26"
   }
 ]

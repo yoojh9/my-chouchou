@@ -3722,5 +3722,533 @@
       }
     ],
     "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26102521348",
+    "brand": "고유",
+    "name": "고유.선물비니",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-519.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2",
+        "add_price": 0
+      },
+      {
+        "name": "3",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521349",
+    "brand": "고유",
+    "name": "고유.톡톡숏스패츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-520.jpg",
+    "colors": [
+      {
+        "name": "옥색",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521350",
+    "brand": "고유",
+    "name": "고유.일곱머플러",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-521.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "핫민트",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "연민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1",
+        "add_price": 0
+      },
+      {
+        "name": "2",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521354",
+    "brand": "고유",
+    "name": "고유.폴폴세뚜",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-525.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "연민트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 5000
+      },
+      {
+        "name": "JM",
+        "add_price": 5000
+      },
+      {
+        "name": "JL",
+        "add_price": 5000
+      },
+      {
+        "name": "ADULT",
+        "add_price": 12000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521360",
+    "brand": "고유",
+    "name": "고유.특별한팬츠",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-531.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 7000
+      },
+      {
+        "name": "JM",
+        "add_price": 7000
+      },
+      {
+        "name": "JL",
+        "add_price": 7000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521361",
+    "brand": "고유",
+    "name": "고유.매일입어팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-532.jpg",
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "진카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 4000
+      },
+      {
+        "name": "JM",
+        "add_price": 4000
+      },
+      {
+        "name": "JL",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521364",
+    "brand": "고유",
+    "name": "고유.모찌팬츠",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-535.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 8000
+      },
+      {
+        "name": "JM",
+        "add_price": 8000
+      },
+      {
+        "name": "JL",
+        "add_price": 8000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521369",
+    "brand": "고유",
+    "name": "고유.느좋맨투맨",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-540.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521370",
+    "brand": "고유",
+    "name": "고유.보들보들티",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-541.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 4000
+      },
+      {
+        "name": "JM",
+        "add_price": 4000
+      },
+      {
+        "name": "JL",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521371",
+    "brand": "고유",
+    "name": "고유.크리스맨투맨",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-542.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      },
+      {
+        "name": "JL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102521376",
+    "brand": "고유",
+    "name": "고유.돌돌말아티",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-547.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 5000
+      },
+      {
+        "name": "JM",
+        "add_price": 5000
+      },
+      {
+        "name": "JL",
+        "add_price": 5000
+      }
+    ],
+    "mfg_date": "2026-10-26"
   }
 ]
