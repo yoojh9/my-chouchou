@@ -1166,5 +1166,57 @@
       }
     ],
     "mfg_date": "2026-10-19"
+  },
+  {
+    "id": "26102920142",
+    "brand": "코코리",
+    "name": "코코리.내가선물이요목도리",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-099.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "노랑",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
+  },
+  {
+    "id": "26102920143",
+    "brand": "코코리",
+    "name": "코코리.크리스마스꼬깔핀",
+    "price_sale": 6400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-100.jpg",
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
   }
 ]

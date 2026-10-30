@@ -5941,5 +5941,111 @@
       }
     ],
     "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102820091",
+    "brand": "고유",
+    "name": "고유.알록달록가디건",
+    "price_sale": 60800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-554.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1026/mo1026-554.jpg"
+    ],
+    "colors": [
+      {
+        "name": "알록달록",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "xs",
+        "add_price": 0
+      },
+      {
+        "name": "s",
+        "add_price": 0
+      },
+      {
+        "name": "m",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 8000
+      },
+      {
+        "name": "JM",
+        "add_price": 8000
+      },
+      {
+        "name": "JL",
+        "add_price": 8000
+      }
+    ],
+    "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102820092",
+    "brand": "고유",
+    "name": "고유.하나뿐인집업",
+    "price_sale": 72000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1026/mo1026-555.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1026/mo1026-555.jpg"
+    ],
+    "colors": [
+      {
+        "name": "옥색",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "xs",
+        "add_price": 0
+      },
+      {
+        "name": "s",
+        "add_price": 8000
+      },
+      {
+        "name": "m",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 8000
+      },
+      {
+        "name": "JM",
+        "add_price": 8000
+      },
+      {
+        "name": "JL",
+        "add_price": 8000
+      }
+    ],
+    "mfg_date": "2026-10-26"
   }
 ]

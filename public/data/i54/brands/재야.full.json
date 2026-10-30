@@ -847,5 +847,113 @@
       }
     ],
     "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102920344",
+    "brand": "재야",
+    "name": "재야.크리스마스슈트(루돌프)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-301.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1028/mo1028-301.jpg"
+    ],
+    "colors": [
+      {
+        "name": "루돌프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3~6)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6~12)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
+  },
+  {
+    "id": "26102920345",
+    "brand": "재야",
+    "name": "재야.크리스마스슈트(산타)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-302.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1028/mo1028-302.jpg"
+    ],
+    "colors": [
+      {
+        "name": "산타",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3~6)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6~12)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
+  },
+  {
+    "id": "26102920346",
+    "brand": "재야",
+    "name": "재야.크리스마스슈트(울라프)",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-303.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1028/mo1028-303.jpg"
+    ],
+    "colors": [
+      {
+        "name": "울라프",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3~6)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6~12)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
+  },
+  {
+    "id": "26102920347",
+    "brand": "재야",
+    "name": "재야.크리스마스슈트(트리)",
+    "price_sale": 46400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-304.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1028/mo1028-304.jpg"
+    ],
+    "colors": [
+      {
+        "name": "트리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(3~6)",
+        "add_price": 0
+      },
+      {
+        "name": "M(6~12)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
   }
 ]

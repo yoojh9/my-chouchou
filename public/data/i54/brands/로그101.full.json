@@ -189,5 +189,134 @@
       }
     ],
     "mfg_date": "2026-08-31"
+  },
+  {
+    "id": "26102921612",
+    "brand": "로그101",
+    "name": "로그101.알록달록가디건",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-797.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1030/mo1030-797.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921613",
+    "brand": "로그101",
+    "name": "로그101.베이직무스탕자켓",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-798.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1030/mo1030-798.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921614",
+    "brand": "로그101",
+    "name": "로그101.보드리퍼자켓",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-799.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1030/mo1030-799.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "JS",
+        "add_price": 2000
+      },
+      {
+        "name": "JM",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-10-30"
   }
 ]

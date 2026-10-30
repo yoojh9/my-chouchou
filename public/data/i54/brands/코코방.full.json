@@ -1923,5 +1923,111 @@
       }
     ],
     "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26102920916",
+    "brand": "코코방",
+    "name": "코코방.마운틴세트",
+    "price_sale": 52800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-054.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1030/mo1030-054.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920917",
+    "brand": "코코방",
+    "name": "코코방.후드집업",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-055.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202610/mo1030/mo1030-055.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
   }
 ]

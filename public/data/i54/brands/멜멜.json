@@ -1202,5 +1202,757 @@
       }
     ],
     "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26102920918",
+    "brand": "멜멜",
+    "name": "멜멜.ST플레어팬츠",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-056.jpg",
+    "colors": [
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920920",
+    "brand": "멜멜",
+    "name": "멜멜.덤블점퍼",
+    "price_sale": 68800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-058.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920342",
+    "brand": "멜멜",
+    "name": "멜멜.마시멜로베베수트",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1028/mo1028-299.jpg",
+    "colors": [
+      {
+        "name": "웜그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S(XXS)",
+        "add_price": 0
+      },
+      {
+        "name": "M(XS)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
+  },
+  {
+    "id": "26102920926",
+    "brand": "멜멜",
+    "name": "멜멜.코지기모티셔츠",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-064.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "챠콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920738",
+    "brand": "멜멜",
+    "name": "멜멜.소프트반폴라",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1029/mo1029-215.jpg",
+    "colors": [
+      {
+        "name": "아이",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "윈터블루",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XXS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-29"
+  },
+  {
+    "id": "26102920739",
+    "brand": "멜멜",
+    "name": "멜멜.피그플라워팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1029/mo1029-216.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "챠콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XXS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-29"
+  },
+  {
+    "id": "26102920919",
+    "brand": "멜멜",
+    "name": "멜멜.기모골덴블루머",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-057.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "잉크블루",
+        "add_price": 0
+      },
+      {
+        "name": "N챠콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920921",
+    "brand": "멜멜",
+    "name": "멜멜.마시멜로베베수트",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-059.jpg",
+    "colors": [
+      {
+        "name": "웜그레이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920923",
+    "brand": "멜멜",
+    "name": "멜멜.모찌T",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-061.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920924",
+    "brand": "멜멜",
+    "name": "멜멜.소프트반폴라",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-062.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "윈터블루",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920925",
+    "brand": "멜멜",
+    "name": "멜멜.올드카긴팔T",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-063.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102920927",
+    "brand": "멜멜",
+    "name": "멜멜.피그플라워팬츠",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-065.jpg",
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "챠콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921444",
+    "brand": "멜멜",
+    "name": "멜멜.데이지T",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-582.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921445",
+    "brand": "멜멜",
+    "name": "멜멜.월리셋업",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-583.jpg",
+    "colors": [
+      {
+        "name": "코랄레드",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921446",
+    "brand": "멜멜",
+    "name": "멜멜.츄러스팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-584.jpg",
+    "colors": [
+      {
+        "name": "L베이지",
+        "add_price": 0
+      },
+      {
+        "name": "모스카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921447",
+    "brand": "멜멜",
+    "name": "멜멜.컷팅오버T",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-585.jpg",
+    "colors": [
+      {
+        "name": "W멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "버건디",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26102921448",
+    "brand": "멜멜",
+    "name": "멜멜.코티지오버롤",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202610/mo1030/mo1030-586.jpg",
+    "colors": [
+      {
+        "name": "L베이지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-30"
   }
 ]
