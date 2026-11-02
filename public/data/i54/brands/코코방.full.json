@@ -2029,5 +2029,52 @@
       }
     ],
     "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26110121109",
+    "brand": "코코방",
+    "name": "코코방.시보리쫄바지",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-407.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1102/mo1102-407.jpg"
+    ],
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
   }
 ]

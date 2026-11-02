@@ -1254,5 +1254,37 @@
       }
     ],
     "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26110121108",
+    "brand": "몽베베",
+    "name": "몽베베.골덴스모크슈트추가",
+    "price_sale": 48000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-406.jpg",
+    "colors": [
+      {
+        "name": "올리브",
+        "add_price": 0
+      },
+      {
+        "name": "브릭레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
   }
 ]

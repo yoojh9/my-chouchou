@@ -1954,5 +1954,53 @@
       }
     ],
     "mfg_date": "2026-10-30"
+  },
+  {
+    "id": "26110121107",
+    "brand": "멜멜",
+    "name": "멜멜.비버셋업",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-405.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      },
+      {
+        "name": "네이비차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
   }
 ]

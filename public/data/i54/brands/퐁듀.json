@@ -410,5 +410,93 @@
       }
     ],
     "mfg_date": "2026-09-10"
+  },
+  {
+    "id": "26110121409",
+    "brand": "퐁듀",
+    "name": "퐁듀.딸기쨈우주복",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-707.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(6M~18M)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
+  },
+  {
+    "id": "26110121410",
+    "brand": "퐁듀",
+    "name": "퐁듀.딸기쨈풋워머",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-708.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
+  },
+  {
+    "id": "26110121411",
+    "brand": "퐁듀",
+    "name": "퐁듀.딸기쨈핀",
+    "price_sale": 6400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-709.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
+  },
+  {
+    "id": "26110121412",
+    "brand": "퐁듀",
+    "name": "퐁듀.오!레오우주복",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1102/mo1102-710.jpg",
+    "colors": [
+      {
+        "name": "레오파드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(6M~18M)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-02"
   }
 ]
