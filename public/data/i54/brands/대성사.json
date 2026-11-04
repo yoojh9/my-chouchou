@@ -6678,5 +6678,97 @@
       }
     ],
     "mfg_date": "2026-10-31"
+  },
+  {
+    "id": "26110320910",
+    "brand": "대성사",
+    "name": "대성사.기모오로라튜튜치렝스",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1103/mo1103-290.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-03"
+  },
+  {
+    "id": "26110320931",
+    "brand": "대성사",
+    "name": "대성사.무지폴라티",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1103/mo1103-311.jpg",
+    "colors": [
+      {
+        "name": "화이트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "JL",
+        "add_price": 1000
+      },
+      {
+        "name": "JXL",
+        "add_price": 1000
+      }
+    ],
+    "mfg_date": "2026-11-03"
   }
 ]
