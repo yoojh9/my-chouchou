@@ -1,1 +1,622 @@
-[]
+[
+  {
+    "id": "26110520990",
+    "brand": "라쿠",
+    "name": "라쿠.W맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-258.jpg",
+    "colors": [
+      {
+        "name": "실버",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520991",
+    "brand": "라쿠",
+    "name": "라쿠.그래피티후드",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-259.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "진밤",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520992",
+    "brand": "라쿠",
+    "name": "라쿠.라벨절개맨투맨",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-260.jpg",
+    "colors": [
+      {
+        "name": "먹색",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520993",
+    "brand": "라쿠",
+    "name": "라쿠.러쉬맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-261.jpg",
+    "colors": [
+      {
+        "name": "민트",
+        "add_price": 0
+      },
+      {
+        "name": "벽돌",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520994",
+    "brand": "라쿠",
+    "name": "라쿠.브라보팬츠",
+    "price_sale": 60800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-262.jpg",
+    "colors": [
+      {
+        "name": "딥베이지",
+        "add_price": 0
+      },
+      {
+        "name": "딥카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520995",
+    "brand": "라쿠",
+    "name": "라쿠.스웨트팬츠",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-263.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520996",
+    "brand": "라쿠",
+    "name": "라쿠.스튜디오후드",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-264.jpg",
+    "colors": [
+      {
+        "name": "백염",
+        "add_price": 0
+      },
+      {
+        "name": "먹색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520997",
+    "brand": "라쿠",
+    "name": "라쿠.스트릿팬츠",
+    "price_sale": 41600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-265.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "먹색",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520998",
+    "brand": "라쿠",
+    "name": "라쿠.알파후드",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-266.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110520999",
+    "brand": "라쿠",
+    "name": "라쿠.윈터다트데님팬츠",
+    "price_sale": 51200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-267.jpg",
+    "colors": [
+      {
+        "name": "청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110521000",
+    "brand": "라쿠",
+    "name": "라쿠.인벤티드맨투맨",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-268.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110521001",
+    "brand": "라쿠",
+    "name": "라쿠.카모트렉팬츠",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-269.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "먹색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110521002",
+    "brand": "라쿠",
+    "name": "라쿠.카모후드",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-270.jpg",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "먹색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110521003",
+    "brand": "라쿠",
+    "name": "라쿠.하이집업",
+    "price_sale": 57600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1106/mo1106-271.jpg",
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 3000
+      },
+      {
+        "name": "19",
+        "add_price": 3000
+      },
+      {
+        "name": "21",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-06"
+  }
+]

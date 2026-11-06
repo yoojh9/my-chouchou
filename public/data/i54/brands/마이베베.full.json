@@ -1639,5 +1639,36 @@
       }
     ],
     "mfg_date": "2026-10-13"
+  },
+  {
+    "id": "26110520674",
+    "brand": "마이베베",
+    "name": "마이베베.단추슈트SET(슈트보넷)",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1105/mo1105-240.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1105/mo1105-240.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-05"
   }
 ]
