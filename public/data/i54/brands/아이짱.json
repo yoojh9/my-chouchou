@@ -1,45 +1,5 @@
 [
   {
-    "id": "26090620114",
-    "brand": "아이짱",
-    "name": "아이짱.어반진삭스",
-    "price_sale": 19200,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-114.jpg",
-    "colors": [
-      {
-        "name": "10p세트",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "1",
-        "add_price": 0
-      },
-      {
-        "name": "2",
-        "add_price": 0
-      },
-      {
-        "name": "3",
-        "add_price": 0
-      },
-      {
-        "name": "4",
-        "add_price": 0
-      },
-      {
-        "name": "5",
-        "add_price": 0
-      },
-      {
-        "name": "6",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-07"
-  },
-  {
     "id": "26101621317",
     "brand": "아이짱",
     "name": "아이짱.26누에보삭스세트",
@@ -1134,5 +1094,369 @@
       }
     ],
     "mfg_date": "2026-10-22"
+  },
+  {
+    "id": "26110810069",
+    "brand": "아이짱",
+    "name": "아이짱.26캐롤산타",
+    "price_sale": 10400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1794130799/1_9_4111794130799.jpg",
+    "colors": [
+      {
+        "name": "5P",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      },
+      {
+        "name": "6호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810081",
+    "brand": "아이짱",
+    "name": "아이짱.26칼라수면양말",
+    "price_sale": 13600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1794130799/1_8_6951794130799.jpg",
+    "colors": [
+      {
+        "name": "5P세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      },
+      {
+        "name": "6호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810093",
+    "brand": "아이짱",
+    "name": "아이짱.26이중골지양말",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1794130799/1_7_7571794130799.jpg",
+    "colors": [
+      {
+        "name": "6P세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      },
+      {
+        "name": "6호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810105",
+    "brand": "아이짱",
+    "name": "아이짱.26울링크스양말",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1794130798/1_6_311794130798.jpg",
+    "colors": [
+      {
+        "name": "5P",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      },
+      {
+        "name": "6호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810117",
+    "brand": "아이짱",
+    "name": "아이짱.26무지울양말",
+    "price_sale": 13600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1794130798/1_5_2771794130798.jpg",
+    "colors": [
+      {
+        "name": "5P",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810130",
+    "brand": "아이짱",
+    "name": "아이짱.26메리산타",
+    "price_sale": 13600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1794130798/1_4_9081794130798.jpg",
+    "colors": [
+      {
+        "name": "5P",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "1호",
+        "add_price": 0
+      },
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      },
+      {
+        "name": "6호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810143",
+    "brand": "아이짱",
+    "name": "아이짱.26램스울양말",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1794130797/1_3_7501794130797.jpg",
+    "colors": [
+      {
+        "name": "5P세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810158",
+    "brand": "아이짱",
+    "name": "아이짱.26눈사람수면양말",
+    "price_sale": 13600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1794130797/1_2_4931794130797.jpg",
+    "colors": [
+      {
+        "name": "5P",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810255",
+    "brand": "아이짱",
+    "name": "아이짱.26포그니수면양말",
+    "price_sale": 16000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1794130801/1_11_171794130801.jpg",
+    "colors": [
+      {
+        "name": "5P세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810266",
+    "brand": "아이짱",
+    "name": "아이짱.26포그니바니바니삭스",
+    "price_sale": 13600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1794130800/1_10_3461794130800.jpg",
+    "colors": [
+      {
+        "name": "5P세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2호",
+        "add_price": 0
+      },
+      {
+        "name": "3호",
+        "add_price": 0
+      },
+      {
+        "name": "4호",
+        "add_price": 0
+      },
+      {
+        "name": "5호",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-08"
   }
 ]

@@ -1,14 +1,22 @@
 [
   {
-    "id": "26090620130",
+    "id": "26110810072",
     "brand": "오씨아이",
-    "name": "오씨아이.합포삥줄바지",
-    "price_sale": 40000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-130.jpg",
+    "name": "오씨아이.앞주름기모바지",
+    "price_sale": 30400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1794149250/1_8_1901794149250.jpg",
     "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0907/mo0907-130.jpg"
+      "https://img2.kidsvillage.co.kr/8C1794149250/1_8_1901794149250.jpg",
+      "https://img2.kidsvillage.co.kr/8C1794149250/2_8_1731794149250.jpg",
+      "https://img2.kidsvillage.co.kr/8C1794149250/3_8_4701794149250.jpg",
+      "https://img2.kidsvillage.co.kr/8C1794149250/4_8_3131794149250.jpg",
+      "https://img2.kidsvillage.co.kr/8C1794149250/5_8_2491794149250.jpg"
     ],
     "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
       {
         "name": "블랙",
         "add_price": 0
@@ -37,31 +45,259 @@
       },
       {
         "name": "13",
-        "add_price": 3000
+        "add_price": 2000
       },
       {
         "name": "15",
-        "add_price": 3000
+        "add_price": 2000
       },
       {
         "name": "17",
-        "add_price": 3000
+        "add_price": 2000
       },
       {
         "name": "19",
-        "add_price": 3000
+        "add_price": 2000
       }
     ],
-    "mfg_date": "2026-09-07"
+    "mfg_date": "2026-11-08"
   },
   {
-    "id": "26090620131",
+    "id": "26110810134",
     "brand": "오씨아이",
-    "name": "오씨아이.합포삥줄후드잠바",
-    "price_sale": 54400,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0907/mo0907-131.jpg",
+    "name": "오씨아이.날개기모바지",
+    "price_sale": 30400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1794149248/1_3_8581794149248.jpg",
     "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0907/mo0907-131.jpg"
+      "https://img2.kidsvillage.co.kr/3C1794149248/1_3_8581794149248.jpg",
+      "https://img2.kidsvillage.co.kr/3C1794149248/2_3_1111794149248.jpg",
+      "https://img2.kidsvillage.co.kr/3C1794149248/3_3_7841794149248.jpg",
+      "https://img2.kidsvillage.co.kr/3C1794149248/4_3_7071794149248.jpg",
+      "https://img2.kidsvillage.co.kr/3C1794149248/5_3_7901794149248.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810060",
+    "brand": "오씨아이",
+    "name": "오씨아이.옆주름기모바지",
+    "price_sale": 30400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1794149250/1_9_5561794149250.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/9C1794149250/1_9_5561794149250.jpg",
+      "https://img2.kidsvillage.co.kr/9C1794149250/2_9_5761794149250.jpg",
+      "https://img2.kidsvillage.co.kr/9C1794149250/3_9_3961794149251.jpg",
+      "https://img2.kidsvillage.co.kr/9C1794149250/4_9_4151794149251.jpg",
+      "https://img2.kidsvillage.co.kr/9C1794149250/5_9_6871794149251.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110821207",
+    "brand": "오씨아이",
+    "name": "오씨아이.니트배색티",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-168.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-168.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821208",
+    "brand": "오씨아이",
+    "name": "오씨아이.라빠후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-169.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-169.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821209",
+    "brand": "오씨아이",
+    "name": "오씨아이.포근줄티",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-170.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-170.jpg"
     ],
     "colors": [
       {
@@ -70,6 +306,431 @@
       },
       {
         "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821210",
+    "brand": "오씨아이",
+    "name": "오씨아이.라벨포근티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-171.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-171.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821211",
+    "brand": "오씨아이",
+    "name": "오씨아이.나그랑티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-172.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-172.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821212",
+    "brand": "오씨아이",
+    "name": "오씨아이.단가라후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-173.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-173.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110810248",
+    "brand": "오씨아이",
+    "name": "오씨아이.이중골지티",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1794149251/1_11_3341794149251.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/11C1794149251/1_11_3341794149251.jpg",
+      "https://img2.kidsvillage.co.kr/11C1794149251/2_11_31794149251.jpg",
+      "https://img2.kidsvillage.co.kr/11C1794149251/3_11_6331794149251.jpg",
+      "https://img2.kidsvillage.co.kr/11C1794149251/4_11_1401794149251.jpg",
+      "https://img2.kidsvillage.co.kr/11C1794149251/5_11_9861794149251.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110821214",
+    "brand": "오씨아이",
+    "name": "오씨아이.이중골지후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-175.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-175.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110821215",
+    "brand": "오씨아이",
+    "name": "오씨아이.이중가디건티",
+    "price_sale": 35200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-176.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-176.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110810220",
+    "brand": "오씨아이",
+    "name": "오씨아이.피그먼트바지",
+    "price_sale": 43200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1794149252/1_14_1531794149252.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/14C1794149252/1_14_1531794149252.jpg",
+      "https://img2.kidsvillage.co.kr/14C1794149252/2_14_3601794149252.jpg",
+      "https://img2.kidsvillage.co.kr/14C1794149252/3_14_4681794149252.jpg",
+      "https://img2.kidsvillage.co.kr/14C1794149252/4_14_3731794149252.jpg",
+      "https://img2.kidsvillage.co.kr/14C1794149252/5_14_7121794149252.jpg",
+      "https://img2.kidsvillage.co.kr/14C1794149252/6_14_1071794149252.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110821217",
+    "brand": "오씨아이",
+    "name": "오씨아이.피그먼트후드집업",
+    "price_sale": 54400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-178.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-178.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
         "add_price": 0
       }
     ],
@@ -101,12 +762,532 @@
       {
         "name": "17",
         "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26110810084",
+    "brand": "오씨아이",
+    "name": "오씨아이.라빠후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1794149250/1_7_1651794149250.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/7C1794149250/1_7_1651794149250.jpg",
+      "https://img2.kidsvillage.co.kr/7C1794149250/2_7_2191794149250.jpg",
+      "https://img2.kidsvillage.co.kr/7C1794149250/3_7_3521794149250.jpg",
+      "https://img2.kidsvillage.co.kr/7C1794149250/4_7_6381794149250.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810096",
+    "brand": "오씨아이",
+    "name": "오씨아이.라벨포근티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1794149249/1_6_2741794149249.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/6C1794149249/1_6_2741794149249.jpg",
+      "https://img2.kidsvillage.co.kr/6C1794149249/2_6_6421794149249.jpg",
+      "https://img2.kidsvillage.co.kr/6C1794149249/3_6_5701794149249.jpg",
+      "https://img2.kidsvillage.co.kr/6C1794149249/4_6_1591794149249.jpg",
+      "https://img2.kidsvillage.co.kr/6C1794149249/5_6_851794149249.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810108",
+    "brand": "오씨아이",
+    "name": "오씨아이.단가라후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1794149249/1_5_8051794149249.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/5C1794149249/1_5_8051794149249.jpg",
+      "https://img2.kidsvillage.co.kr/5C1794149249/2_5_9821794149249.jpg",
+      "https://img2.kidsvillage.co.kr/5C1794149249/3_5_851794149249.jpg",
+      "https://img2.kidsvillage.co.kr/5C1794149249/4_5_4921794149249.jpg",
+      "https://img2.kidsvillage.co.kr/5C1794149249/5_5_7461794149249.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810121",
+    "brand": "오씨아이",
+    "name": "오씨아이.니트배색티",
+    "price_sale": 32000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1794149249/1_4_6321794149249.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/4C1794149249/1_4_6321794149249.jpg",
+      "https://img2.kidsvillage.co.kr/4C1794149249/2_4_2111794149249.jpg",
+      "https://img2.kidsvillage.co.kr/4C1794149249/3_4_5251794149249.jpg",
+      "https://img2.kidsvillage.co.kr/4C1794149249/4_4_8191794149249.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810149",
+    "brand": "오씨아이",
+    "name": "오씨아이.나그랑티",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1794149248/1_2_761794149248.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/2C1794149248/1_2_761794149248.jpg",
+      "https://img2.kidsvillage.co.kr/2C1794149248/2_2_851794149248.jpg",
+      "https://img2.kidsvillage.co.kr/2C1794149248/3_2_2621794149248.jpg",
+      "https://img2.kidsvillage.co.kr/2C1794149248/4_2_1471794149248.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "소라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810212",
+    "brand": "오씨아이",
+    "name": "오씨아이.피그먼트후드집업",
+    "price_sale": 54400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/15C1794149252/1_15_5631794149252.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/15C1794149252/1_15_5631794149252.jpg",
+      "https://img2.kidsvillage.co.kr/15C1794149252/2_15_8851794149252.jpg",
+      "https://img2.kidsvillage.co.kr/15C1794149252/3_15_5771794149252.jpg",
+      "https://img2.kidsvillage.co.kr/15C1794149252/4_15_8771794149252.jpg",
+      "https://img2.kidsvillage.co.kr/15C1794149252/5_15_1351794149252.jpg",
+      "https://img2.kidsvillage.co.kr/15C1794149252/6_15_1341794149252.jpg"
+    ],
+    "colors": [
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 3000
+      },
+      {
+        "name": "17",
+        "add_price": 3000
       },
       {
         "name": "19",
         "add_price": 3000
       }
     ],
-    "mfg_date": "2026-09-07"
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810228",
+    "brand": "오씨아이",
+    "name": "오씨아이.포근줄티",
+    "price_sale": 30400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1794149252/1_13_2741794149252.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/13C1794149252/1_13_2741794149252.jpg",
+      "https://img2.kidsvillage.co.kr/13C1794149252/2_13_3031794149252.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810238",
+    "brand": "오씨아이",
+    "name": "오씨아이.이중골지후드",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1794149252/1_12_7181794149252.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/12C1794149252/1_12_7181794149252.jpg",
+      "https://img2.kidsvillage.co.kr/12C1794149252/2_12_6321794149252.jpg",
+      "https://img2.kidsvillage.co.kr/12C1794149252/3_12_7331794149252.jpg",
+      "https://img2.kidsvillage.co.kr/12C1794149252/4_12_9931794149252.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26110810258",
+    "brand": "오씨아이",
+    "name": "오씨아이.이중가디건티",
+    "price_sale": 35200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1794149251/1_10_1811794149251.jpg",
+    "detail_images": [
+      "https://img2.kidsvillage.co.kr/10C1794149251/1_10_1811794149251.jpg",
+      "https://img2.kidsvillage.co.kr/10C1794149251/2_10_1231794149251.jpg",
+      "https://img2.kidsvillage.co.kr/10C1794149251/3_10_4781794149251.jpg",
+      "https://img2.kidsvillage.co.kr/10C1794149251/4_10_8141794149251.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-08"
   }
 ]

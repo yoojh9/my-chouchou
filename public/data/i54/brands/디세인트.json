@@ -4170,5 +4170,53 @@
       }
     ],
     "mfg_date": "2026-10-01"
+  },
+  {
+    "id": "26110810008",
+    "brand": "디세인트",
+    "name": "디세인트.(세일) ALT후드티",
+    "price_sale": 14080,
+    "thumbnail_url": "https://kidsvillage.co.kr/data/item/Z000AD1794143233/1_3_3191789081489.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "백메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 1600
+      },
+      {
+        "name": "15",
+        "add_price": 1600
+      },
+      {
+        "name": "17",
+        "add_price": 1600
+      }
+    ],
+    "mfg_date": "2026-11-08"
   }
 ]

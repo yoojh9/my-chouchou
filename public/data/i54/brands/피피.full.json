@@ -2572,5 +2572,36 @@
       }
     ],
     "mfg_date": "2026-11-06"
+  },
+  {
+    "id": "26110821107",
+    "brand": "피피",
+    "name": "피피.마이웜데님",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1109/mo1109-068.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1109/mo1109-068.jpg"
+    ],
+    "colors": [
+      {
+        "name": "청",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-09"
   }
 ]
