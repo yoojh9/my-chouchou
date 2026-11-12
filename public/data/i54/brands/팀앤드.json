@@ -1398,5 +1398,37 @@
       }
     ],
     "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26111021650",
+    "brand": "팀앤드",
+    "name": "팀앤드.포포레그워머",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1111/mo1111-531.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-11"
   }
 ]

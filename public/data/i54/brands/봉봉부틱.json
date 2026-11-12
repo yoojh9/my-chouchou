@@ -578,5 +578,37 @@
       }
     ],
     "mfg_date": "2026-11-03"
+  },
+  {
+    "id": "26111020495",
+    "brand": "봉봉부틱",
+    "name": "봉봉부틱.후드케이프",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/29a01414e2f0d0260c8fd08f3d045e07.png",
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-10-28"
   }
 ]

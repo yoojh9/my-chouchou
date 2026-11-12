@@ -1698,5 +1698,83 @@
       }
     ],
     "mfg_date": "2026-11-02"
+  },
+  {
+    "id": "26111020672",
+    "brand": "밀크밤",
+    "name": "밀크밤.밤밤맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1110/mo1110-177.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1110/mo1110-177.jpg"
+    ],
+    "colors": [
+      {
+        "name": "플라워",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-10"
+  },
+  {
+    "id": "26111020673",
+    "brand": "밀크밤",
+    "name": "밀크밤.밤밤맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1110/mo1110-178.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1110/mo1110-178.jpg"
+    ],
+    "colors": [
+      {
+        "name": "하트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-10"
   }
 ]

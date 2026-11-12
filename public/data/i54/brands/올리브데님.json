@@ -1702,5 +1702,89 @@
       }
     ],
     "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26111020576",
+    "brand": "올리브데님",
+    "name": "올리브데님.부클모자곰티",
+    "price_sale": 21600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1110/mo1110-081.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-10"
+  },
+  {
+    "id": "26111020577",
+    "brand": "올리브데님",
+    "name": "올리브데님.부클사슴티",
+    "price_sale": 21600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1110/mo1110-082.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-10"
   }
 ]
