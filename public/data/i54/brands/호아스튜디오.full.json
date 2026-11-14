@@ -2493,5 +2493,48 @@
       }
     ],
     "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26111220889",
+    "brand": "호아스튜디오",
+    "name": "호아스튜디오.단가라호박팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1112/mo1112-048.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1112/mo1112-048.jpg"
+    ],
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      },
+      {
+        "name": "겨자",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-12"
   }
 ]

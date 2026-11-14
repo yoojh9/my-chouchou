@@ -1306,5 +1306,85 @@
       }
     ],
     "mfg_date": "2026-11-11"
+  },
+  {
+    "id": "26111221098",
+    "brand": "허그베베",
+    "name": "허그베베.리본골지겉기모레깅스",
+    "price_sale": 12000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1112/mo1112-257.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-12"
+  },
+  {
+    "id": "26111221099",
+    "brand": "허그베베",
+    "name": "허그베베.리본골지겉기모티셔츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1112/mo1112-258.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-12"
   }
 ]

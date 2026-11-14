@@ -1093,5 +1093,56 @@
       }
     ],
     "mfg_date": "2026-11-08"
+  },
+  {
+    "id": "26111220890",
+    "brand": "레이커",
+    "name": "레이커.물결mtm",
+    "price_sale": 28800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1112/mo1112-049.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1112/mo1112-049.jpg"
+    ],
+    "colors": [
+      {
+        "name": "올리브그린",
+        "add_price": 0
+      },
+      {
+        "name": "팥색",
+        "add_price": 0
+      },
+      {
+        "name": "오트밀",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-12"
   }
 ]

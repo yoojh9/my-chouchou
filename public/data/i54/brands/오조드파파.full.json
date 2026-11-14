@@ -835,5 +835,44 @@
       }
     ],
     "mfg_date": "2026-11-10"
+  },
+  {
+    "id": "26111221446",
+    "brand": "오조드파파",
+    "name": "오조드파파.레인보우점퍼",
+    "price_sale": 78400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1113/mo1113-108.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1113/mo1113-108.jpg"
+    ],
+    "colors": [
+      {
+        "name": "멀티",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 4000
+      }
+    ],
+    "mfg_date": "2026-11-13"
   }
 ]
