@@ -144,7 +144,7 @@ python3 convert_excel.py --rebuild
 ./push_and_deploy.sh
 ```
 
-변경된 파일을 전부 커밋해 `main`에 푸시하고, GitHub Actions 배포가 끝날 때까지 기다린다.
+변경된 파일을 전부 커밋해 `main`에 푸시하고, GitHub Actions 배포가 끝날 때까지 기다린 뒤 라이브 사이트 반영까지 검증한다.
 
 - 커밋 메시지의 날짜는 `run.sh`의 `page_crawl_YYYY-MM-DD.xlsx`에서 자동 추출한다 (`chore: 2026-09-24 크롤링 데이터 반영`)
 - `main` 브랜치에서만 실행된다
@@ -152,6 +152,8 @@ python3 convert_excel.py --rebuild
 - 최대 10분(20초 × 30회)까지 배포 상태를 폴링한다
 - `GITHUB_TOKEN` 환경변수를 설정하면 GitHub API rate limit이 완화된다
 - 커밋 서명은 `CO_AUTHOR` 환경변수로 바꿀 수 있다
+- 배포가 성공하면 `verify_live.py`가 이어서 실행된다: 이번 커밋에서 바뀐 `public/` 파일을 라이브에서 받아 sha256으로 비교하고(삭제된 파일은 404여야 정상, CDN 일시 오류에 대비해 안 맞는 파일은 10초 간격으로 최대 4번 다시 확인), 신규 브랜드와 빠진 브랜드(이전 상품의 제조일)를 보여준다. 불일치가 남으면 종료 코드 1
+- 라이브 검증만 따로 하려면: `python3 verify_live.py {이전 커밋} [대상 커밋]`
 
 배포 주소는 https://my-chouchou.com 이며, `main`에 푸시하면 GitHub Actions(`.github/workflows/deploy.yml`)가 자동 배포한다.
 

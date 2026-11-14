@@ -1,8 +1,9 @@
 #!/bin/bash
 # push_and_deploy.sh
-# 수정한 파일 전부 커밋·푸시하고 GitHub Pages 배포 완료까지 확인한다.
+# 수정한 파일 전부 커밋·푸시하고 GitHub Pages 배포 완료까지 확인한 뒤, 라이브 사이트 반영까지 검증한다.
 #   - 커밋 메시지의 날짜는 run.sh의 page_crawl_YYYY-MM-DD.xlsx 에서 자동 추출
-#   - 변경사항이 없으면 커밋을 건너뛰고 현재 HEAD의 배포 상태만 확인
+#   - 변경사항이 없으면 커밋을 건너뛰고 현재 HEAD의 배포 상태만 확인 (라이브 검증은 직전 커밋 기준)
+#   - 배포 성공 뒤 verify_live.py로 바뀐 public/ 파일을 라이브와 비교하고 브랜드 증감을 보여준다
 #   - GITHUB_TOKEN 환경변수가 있으면 인증 요청(API rate limit 완화)
 #   - 커밋 서명(Co-Authored-By)은 CO_AUTHOR 환경변수로 변경 가능 (기본: Claude Opus 5)
 set -eo pipefail
@@ -32,6 +33,7 @@ if [ -z "$CRAWL_DATE" ]; then
 fi
 
 # --- 2. 커밋 & 푸시 ---
+PREV=$(git rev-parse HEAD)
 if [ -n "$(git status --porcelain)" ]; then
   COUNT=$(git status --porcelain | wc -l | tr -d ' ')
   echo "▶ 변경 파일 ${COUNT}개 커밋·푸시 (크롤 날짜: ${CRAWL_DATE})"
@@ -42,6 +44,7 @@ Co-Authored-By: ${CO_AUTHOR}"
   git push "$REMOTE" "$BRANCH"
 else
   echo "ℹ 커밋할 변경사항이 없습니다. 현재 HEAD의 배포 상태만 확인합니다."
+  PREV=$(git rev-parse HEAD~1)
 fi
 
 SHA=$(git rev-parse HEAD)
@@ -83,7 +86,9 @@ else:
       if [ "$CONCLUSION" = "success" ]; then
         echo "✅ 배포 완료: success"
         echo "   $URL"
-        exit 0
+        # --- 4. 라이브 사이트 반영 검증 ---
+        python3 verify_live.py "$PREV" "$SHA"
+        exit $?
       else
         echo "⚠️  배포 종료: $CONCLUSION (실패)"
         echo "   $URL"
