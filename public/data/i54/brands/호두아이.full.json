@@ -192,5 +192,36 @@
       }
     ],
     "mfg_date": "2026-10-29"
+  },
+  {
+    "id": "26111521303",
+    "brand": "호두아이",
+    "name": "호두아이.베베산타양곰실내복",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-257.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-257.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-16"
   }
 ]

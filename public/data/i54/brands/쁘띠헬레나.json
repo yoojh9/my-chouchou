@@ -734,5 +734,45 @@
       }
     ],
     "mfg_date": "2026-10-13"
+  },
+  {
+    "id": "26111521160",
+    "brand": "쁘띠헬레나",
+    "name": "쁘띠헬레나.포켓카고팬츠",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-114.jpg",
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-16"
   }
 ]

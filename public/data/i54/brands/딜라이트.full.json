@@ -1,1 +1,823 @@
-[]
+[
+  {
+    "id": "26111521410",
+    "brand": "딜라이트",
+    "name": "딜라이트.예티레인보우맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-364.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-364.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "크림오트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521411",
+    "brand": "딜라이트",
+    "name": "딜라이트.캘리포니아후드",
+    "price_sale": 32000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-365.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-365.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림오트",
+        "add_price": 0
+      },
+      {
+        "name": "머스타드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521412",
+    "brand": "딜라이트",
+    "name": "딜라이트.세이브베어맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-366.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-366.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림오트",
+        "add_price": 0
+      },
+      {
+        "name": "스카이",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521413",
+    "brand": "딜라이트",
+    "name": "딜라이트.라글란배색재즈티",
+    "price_sale": 27200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-367.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-367.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521414",
+    "brand": "딜라이트",
+    "name": "딜라이트.헬기맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-368.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-368.jpg"
+    ],
+    "colors": [
+      {
+        "name": "백오트",
+        "add_price": 0
+      },
+      {
+        "name": "카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521415",
+    "brand": "딜라이트",
+    "name": "딜라이트.데일리버거맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-369.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-369.jpg"
+    ],
+    "colors": [
+      {
+        "name": "체리핑크",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521416",
+    "brand": "딜라이트",
+    "name": "딜라이트.뉴오프로드맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-370.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-370.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림오트",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521417",
+    "brand": "딜라이트",
+    "name": "딜라이트.펭귄무드맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-371.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-371.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521418",
+    "brand": "딜라이트",
+    "name": "딜라이트.페인트웨일즈맨투맨",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-372.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-372.jpg"
+    ],
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521419",
+    "brand": "딜라이트",
+    "name": "딜라이트.덤블포켓풀집업",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-373.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-373.jpg"
+    ],
+    "colors": [
+      {
+        "name": "코발트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521420",
+    "brand": "딜라이트",
+    "name": "딜라이트.플리츠마름모풀집업",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-374.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-374.jpg"
+    ],
+    "colors": [
+      {
+        "name": "베이지",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521421",
+    "brand": "딜라이트",
+    "name": "딜라이트.플리츠바라클라바",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-375.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-375.jpg"
+    ],
+    "colors": [
+      {
+        "name": "카키",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521422",
+    "brand": "딜라이트",
+    "name": "딜라이트.플리츠마름모팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-376.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-376.jpg"
+    ],
+    "colors": [
+      {
+        "name": "머스타드",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "밤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521423",
+    "brand": "딜라이트",
+    "name": "딜라이트.N패치핀턱팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-377.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-377.jpg"
+    ],
+    "colors": [
+      {
+        "name": "백오트",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26111521424",
+    "brand": "딜라이트",
+    "name": "딜라이트.몬타나핀턱팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1116/mo1116-378.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1116/mo1116-378.jpg"
+    ],
+    "colors": [
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 2000
+      },
+      {
+        "name": "15",
+        "add_price": 2000
+      },
+      {
+        "name": "17",
+        "add_price": 2000
+      },
+      {
+        "name": "19",
+        "add_price": 2000
+      }
+    ],
+    "mfg_date": "2026-11-16"
+  }
+]
