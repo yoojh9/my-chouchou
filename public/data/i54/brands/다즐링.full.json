@@ -628,5 +628,48 @@
       }
     ],
     "mfg_date": "2026-11-03"
+  },
+  {
+    "id": "26111721386",
+    "brand": "다즐링",
+    "name": "다즐링.과일바지",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1117/mo1117-082.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1117/mo1117-082.jpg"
+    ],
+    "colors": [
+      {
+        "name": "토마토",
+        "add_price": 0
+      },
+      {
+        "name": "딸기",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-17"
   }
 ]
