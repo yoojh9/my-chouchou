@@ -758,5 +758,45 @@
       }
     ],
     "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26112221528",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.니트리본핀2판세트",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1123/mo1123-299.jpg",
+    "colors": [
+      {
+        "name": "2판",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-23"
+  },
+  {
+    "id": "26112221529",
+    "brand": "쵸코마루",
+    "name": "쵸코마루.뭉치고무줄20개3팩세트",
+    "price_sale": 7200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1123/mo1123-300.jpg",
+    "colors": [
+      {
+        "name": "3팩",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-23"
   }
 ]

@@ -714,5 +714,113 @@
       }
     ],
     "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26112221158",
+    "brand": "세븐틴JR",
+    "name": "세븐틴JR.몰리후드",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-063.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "진곤색",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221159",
+    "brand": "세븐틴JR",
+    "name": "세븐틴JR.벨로와이드바지",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-064.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221160",
+    "brand": "세븐틴JR",
+    "name": "세븐틴JR.벨로후드집업",
+    "price_sale": 56000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-065.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
   }
 ]

@@ -326,5 +326,125 @@
       }
     ],
     "mfg_date": "2026-11-11"
+  },
+  {
+    "id": "26112221230",
+    "brand": "꼬마비",
+    "name": "꼬마비.오브스폴라티",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1123/mo1123-001.jpg",
+    "colors": [
+      {
+        "name": "레몬",
+        "add_price": 0
+      },
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-23"
+  },
+  {
+    "id": "26112221231",
+    "brand": "꼬마비",
+    "name": "꼬마비.초코스트라이프티",
+    "price_sale": 16000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1123/mo1123-002.jpg",
+    "colors": [
+      {
+        "name": "네이비",
+        "add_price": 0
+      },
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-23"
+  },
+  {
+    "id": "26112221232",
+    "brand": "꼬마비",
+    "name": "꼬마비.플리츠세트",
+    "price_sale": 33600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1123/mo1123-003.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-23"
   }
 ]

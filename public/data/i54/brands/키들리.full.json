@@ -1,671 +1,5 @@
 [
   {
-    "id": "26092420250",
-    "brand": "키들리",
-    "name": "키들리.굿굿컬러비니",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-062.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-062.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420251",
-    "brand": "키들리",
-    "name": "키들리.디트로이트하트캡",
-    "price_sale": 10000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-063.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-063.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420252",
-    "brand": "키들리",
-    "name": "키들리.땡땡이배색머플러",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-064.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-064.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "올리브카키",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420253",
-    "brand": "키들리",
-    "name": "키들리.링스마일캡",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-065.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-065.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420254",
-    "brand": "키들리",
-    "name": "키들리.마일드소프트머플러",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-066.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-066.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "카키브라운",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420255",
-    "brand": "키들리",
-    "name": "키들리.모던네프보닛햇",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-067.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-067.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420256",
-    "brand": "키들리",
-    "name": "키들리.쁘띠꽈배기머플러",
-    "price_sale": 6000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-068.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-068.jpg"
-    ],
-    "colors": [
-      {
-        "name": "베이지",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420257",
-    "brand": "키들리",
-    "name": "키들리.스티치엣지보닛햇",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-069.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-069.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "올리브그린",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420258",
-    "brand": "키들리",
-    "name": "키들리.아가일패턴머플러",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-070.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-070.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그린",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420259",
-    "brand": "키들리",
-    "name": "키들리.어센틱니트귀달모자",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-071.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-071.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420260",
-    "brand": "키들리",
-    "name": "키들리.언노운골덴배색캡",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-072.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-072.jpg"
-    ],
-    "colors": [
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "오렌지",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420261",
-    "brand": "키들리",
-    "name": "키들리.워딩자카드비니",
-    "price_sale": 6000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-073.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-073.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "카키브라운",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420262",
-    "brand": "키들리",
-    "name": "키들리.크레용컬러비니",
-    "price_sale": 6000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-074.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-074.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "퍼플",
-        "add_price": 0
-      },
-      {
-        "name": "핑크",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420263",
-    "brand": "키들리",
-    "name": "키들리.트리플라인폼머플러",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-075.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-075.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "블랙",
-        "add_price": 0
-      },
-      {
-        "name": "옐로우",
-        "add_price": 0
-      },
-      {
-        "name": "스카이블루",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420264",
-    "brand": "키들리",
-    "name": "키들리.팝컬러st방울모자",
-    "price_sale": 7000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-076.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-076.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420265",
-    "brand": "키들리",
-    "name": "키들리.페어아일머플러",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-077.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-077.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "브라운레드",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      },
-      {
-        "name": "와인",
-        "add_price": 0
-      },
-      {
-        "name": "브라운그린",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420266",
-    "brand": "키들리",
-    "name": "키들리.하트페어아일귀달모자",
-    "price_sale": 9000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-078.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-078.jpg"
-    ],
-    "colors": [
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "레드",
-        "add_price": 0
-      },
-      {
-        "name": "브라운",
-        "add_price": 0
-      },
-      {
-        "name": "아이보리",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
-    "id": "26092420267",
-    "brand": "키들리",
-    "name": "키들리.핫보스톤머플러",
-    "price_sale": 8000,
-    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202609/mo0922/mo0922-079.jpg",
-    "detail_images": [
-      "https://mamacool.diskn.com/202609/mo0922/mo0922-079.jpg"
-    ],
-    "colors": [
-      {
-        "name": "그레이",
-        "add_price": 0
-      },
-      {
-        "name": "네이비",
-        "add_price": 0
-      },
-      {
-        "name": "베이지",
-        "add_price": 0
-      }
-    ],
-    "sizes": [
-      {
-        "name": "FREE",
-        "add_price": 0
-      }
-    ],
-    "mfg_date": "2026-09-22"
-  },
-  {
     "id": "26092821500",
     "brand": "키들리",
     "name": "키들리.백허그",
@@ -5980,5 +5314,485 @@
       }
     ],
     "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26112221096",
+    "brand": "키들리",
+    "name": "키들리.BOX)메리자수 4종세트",
+    "price_sale": 17600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-001.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-001.jpg"
+    ],
+    "colors": [
+      {
+        "name": "4종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(180~240mm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221097",
+    "brand": "키들리",
+    "name": "키들리.낱개)3D울라프메리삭스",
+    "price_sale": 4800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-002.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-002.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(30cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221098",
+    "brand": "키들리",
+    "name": "키들리.낱개)몬스터테슬골지삭스",
+    "price_sale": 4800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-003.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-003.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(30cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221099",
+    "brand": "키들리",
+    "name": "키들리.낱개)히어로케이프윈터삭스",
+    "price_sale": 4000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-004.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-004.jpg"
+    ],
+    "colors": [
+      {
+        "name": "배트차콜",
+        "add_price": 0
+      },
+      {
+        "name": "스파이더레드",
+        "add_price": 0
+      },
+      {
+        "name": "아이언옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "에일리언그린",
+        "add_price": 0
+      },
+      {
+        "name": "캡틴블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(28cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221100",
+    "brand": "키들리",
+    "name": "키들리.롱이어덤블윈터 보넷",
+    "price_sale": 11200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-005.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-005.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(46~50cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221101",
+    "brand": "키들리",
+    "name": "키들리.리틀다이노윈터 3종세트",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-006.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-006.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221102",
+    "brand": "키들리",
+    "name": "키들리.메리크리스마스기프트백",
+    "price_sale": 4000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-007.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-007.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그린",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(21X25)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221103",
+    "brand": "키들리",
+    "name": "키들리.메리클쓰 5종세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-008.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-008.jpg"
+    ],
+    "colors": [
+      {
+        "name": "5종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221104",
+    "brand": "키들리",
+    "name": "키들리.버니자수윈터후드워머",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-009.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-009.jpg"
+    ],
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(43~58cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221105",
+    "brand": "키들리",
+    "name": "키들리.산타쿠키 4종세트",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-010.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-010.jpg"
+    ],
+    "colors": [
+      {
+        "name": "4종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221106",
+    "brand": "키들리",
+    "name": "키들리.오버레이이어워머",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-011.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-011.jpg"
+    ],
+    "colors": [
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221107",
+    "brand": "키들리",
+    "name": "키들리.와펜체크덤블귀달햇",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-012.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-012.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레오파드",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      },
+      {
+        "name": "옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "와인",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(48~54cm)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221108",
+    "brand": "키들리",
+    "name": "키들리.울ST해피 3종세트",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-013.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-013.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221109",
+    "brand": "키들리",
+    "name": "키들리.캐릭터방한글러브",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-014.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-014.jpg"
+    ],
+    "colors": [
+      {
+        "name": "모카버니",
+        "add_price": 0
+      },
+      {
+        "name": "컬러도트",
+        "add_price": 0
+      },
+      {
+        "name": "크림도그",
+        "add_price": 0
+      },
+      {
+        "name": "핑크 래빗",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221110",
+    "brand": "키들리",
+    "name": "키들리.테디퀼팅터치포켓 방한워머",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-015.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-015.jpg"
+    ],
+    "colors": [
+      {
+        "name": "원컬러",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE(50X60)",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221111",
+    "brand": "키들리",
+    "name": "키들리.팝미니카윈터 3종세트",
+    "price_sale": 8000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-016.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-016.jpg"
+    ],
+    "colors": [
+      {
+        "name": "3종세트",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
   }
 ]

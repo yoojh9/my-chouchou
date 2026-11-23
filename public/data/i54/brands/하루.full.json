@@ -1423,5 +1423,130 @@
       }
     ],
     "mfg_date": "2026-10-26"
+  },
+  {
+    "id": "26112221163",
+    "brand": "하루",
+    "name": "하루.래빗고쟁이",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-068.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-068.jpg"
+    ],
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221164",
+    "brand": "하루",
+    "name": "하루.레이스맨투맨",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-069.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-069.jpg"
+    ],
+    "colors": [
+      {
+        "name": "진핑",
+        "add_price": 0
+      },
+      {
+        "name": "보라",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112221165",
+    "brand": "하루",
+    "name": "하루.진핑포니세트",
+    "price_sale": 43200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1120/mo1120-070.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1120/mo1120-070.jpg"
+    ],
+    "colors": [
+      {
+        "name": "진핑",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-20"
   }
 ]
