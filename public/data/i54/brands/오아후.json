@@ -1190,5 +1190,117 @@
       }
     ],
     "mfg_date": "2026-11-05"
+  },
+  {
+    "id": "26112521501",
+    "brand": "오아후",
+    "name": "오아후.겨울해브스트링팬츠(adult)",
+    "price_sale": 38400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-138.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "메란지",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-25"
+  },
+  {
+    "id": "26112521502",
+    "brand": "오아후",
+    "name": "오아후.디어맨투맨(adult)",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-139.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-25"
+  },
+  {
+    "id": "26112521503",
+    "brand": "오아후",
+    "name": "오아후.디어팬츠(adult)",
+    "price_sale": 36800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-140.jpg",
+    "colors": [
+      {
+        "name": "오트밀",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-25"
+  },
+  {
+    "id": "26112521504",
+    "brand": "오아후",
+    "name": "오아후.베어팬츠(adult)",
+    "price_sale": 44800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-141.jpg",
+    "colors": [
+      {
+        "name": "소라",
+        "add_price": 0
+      },
+      {
+        "name": "차콜",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "ADULTS",
+        "add_price": 0
+      },
+      {
+        "name": "ADULTL",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-25"
   }
 ]

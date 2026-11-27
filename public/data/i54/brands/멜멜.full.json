@@ -3203,5 +3203,48 @@
       }
     ],
     "mfg_date": "2026-11-16"
+  },
+  {
+    "id": "26112521620",
+    "brand": "멜멜",
+    "name": "멜멜.트리티",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1126/mo1126-116.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1126/mo1126-116.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-26"
   }
 ]

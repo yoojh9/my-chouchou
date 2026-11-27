@@ -822,5 +822,77 @@
       }
     ],
     "mfg_date": "2026-11-20"
+  },
+  {
+    "id": "26112521271",
+    "brand": "세븐틴JR",
+    "name": "세븐틴JR.더블헨리넥티셔츠",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1124/mo1124-106.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "멜란지",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-24"
+  },
+  {
+    "id": "26112521272",
+    "brand": "세븐틴JR",
+    "name": "세븐틴JR.버클리맨투맨",
+    "price_sale": 40000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1124/mo1124-107.jpg",
+    "colors": [
+      {
+        "name": "검정",
+        "add_price": 0
+      },
+      {
+        "name": "백염",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "11",
+        "add_price": 0
+      },
+      {
+        "name": "13",
+        "add_price": 0
+      },
+      {
+        "name": "15",
+        "add_price": 0
+      },
+      {
+        "name": "17",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-24"
   }
 ]

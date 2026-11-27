@@ -870,5 +870,53 @@
       }
     ],
     "mfg_date": "2026-11-12"
+  },
+  {
+    "id": "26112521382",
+    "brand": "코유코유",
+    "name": "코유코유.덤블후드워머",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-019.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-25"
+  },
+  {
+    "id": "26112521383",
+    "brand": "코유코유",
+    "name": "코유코유.덤블워머",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1125/mo1125-020.jpg",
+    "colors": [
+      {
+        "name": "퍼플",
+        "add_price": 0
+      },
+      {
+        "name": "연카키",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-25"
   }
 ]

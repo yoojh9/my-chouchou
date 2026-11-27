@@ -882,5 +882,48 @@
       }
     ],
     "mfg_date": "2026-11-05"
+  },
+  {
+    "id": "26112521587",
+    "brand": "아띠몽",
+    "name": "아띠몽.3종자동차티",
+    "price_sale": 14400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1126/mo1126-083.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1126/mo1126-083.jpg"
+    ],
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "스카이블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "3",
+        "add_price": 0
+      },
+      {
+        "name": "5",
+        "add_price": 0
+      },
+      {
+        "name": "7",
+        "add_price": 0
+      },
+      {
+        "name": "9",
+        "add_price": 0
+      },
+      {
+        "name": "11",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-26"
   }
 ]
