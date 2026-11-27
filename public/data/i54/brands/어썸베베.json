@@ -1774,5 +1774,65 @@
       }
     ],
     "mfg_date": "2026-11-09"
+  },
+  {
+    "id": "26112710022",
+    "brand": "어썸베베",
+    "name": "어썸베베.눈썰매패딩팬츠",
+    "price_sale": 24000,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1795750272/1_2_2891795750272.jpg",
+    "colors": [
+      {
+        "name": "블루",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "그레이",
+        "add_price": 0
+      },
+      {
+        "name": "화이트",
+        "add_price": 0
+      },
+      {
+        "name": "블랙",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      },
+      {
+        "name": "2XL",
+        "add_price": 3000
+      },
+      {
+        "name": "JS",
+        "add_price": 3000
+      },
+      {
+        "name": "JM",
+        "add_price": 3000
+      }
+    ],
+    "mfg_date": "2026-11-27"
   }
 ]

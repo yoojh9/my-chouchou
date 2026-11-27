@@ -1190,5 +1190,225 @@
       }
     ],
     "mfg_date": "2026-11-18"
+  },
+  {
+    "id": "26112721483",
+    "brand": "새로빈",
+    "name": "새로빈.딸기콕콕기모보넷",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-001.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721484",
+    "brand": "새로빈",
+    "name": "새로빈.딸기콕콕기모조끼",
+    "price_sale": 19200,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-002.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721485",
+    "brand": "새로빈",
+    "name": "새로빈.메리리본헤어밴드",
+    "price_sale": 9600,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-003.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721486",
+    "brand": "새로빈",
+    "name": "새로빈.메리프릴바디슈트상하",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-004.jpg",
+    "colors": [
+      {
+        "name": "크림",
+        "add_price": 0
+      },
+      {
+        "name": "모카",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721487",
+    "brand": "새로빈",
+    "name": "새로빈.메리프릴실내복",
+    "price_sale": 24000,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-005.jpg",
+    "colors": [
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721488",
+    "brand": "새로빈",
+    "name": "새로빈.크리스마스도트바디슈트상하",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-006.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721489",
+    "brand": "새로빈",
+    "name": "새로빈.크리스마스도트실내복",
+    "price_sale": 22400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-007.jpg",
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "그린",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
   }
 ]

@@ -3171,5 +3171,106 @@
       }
     ],
     "mfg_date": "2026-11-24"
+  },
+  {
+    "id": "26112721600",
+    "brand": "코엔코",
+    "name": "코엔코.메리머플러",
+    "price_sale": 12800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-118.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1127/mo1127-118.jpg"
+    ],
+    "colors": [
+      {
+        "name": "산타",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "FREE",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721601",
+    "brand": "코엔코",
+    "name": "코엔코.메리보아집업",
+    "price_sale": 30400,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-119.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1127/mo1127-119.jpg"
+    ],
+    "colors": [
+      {
+        "name": "산타",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112721602",
+    "brand": "코엔코",
+    "name": "코엔코.메리후리스조거",
+    "price_sale": 20800,
+    "thumbnail_url": "https://www.i54.co.kr/web/product/big/202611/mo1127/mo1127-120.jpg",
+    "detail_images": [
+      "https://mamacool.diskn.com/202611/mo1127/mo1127-120.jpg"
+    ],
+    "colors": [
+      {
+        "name": "레드",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "2XS",
+        "add_price": 0
+      },
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
   }
 ]

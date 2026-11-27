@@ -36,11 +36,11 @@
     "mfg_date": "2026-10-23"
   },
   {
-    "id": "26102310099",
+    "id": "26112710028",
     "brand": "오오오",
     "name": "오오오.어니언후드",
     "price_sale": 22400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1792736006/1_8_541792736006.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/13C1795764260/1_13_5811795764260.jpg",
     "colors": [
       {
         "name": "레드",
@@ -73,7 +73,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-10-23"
+    "mfg_date": "2026-11-27"
   },
   {
     "id": "26102310128",
@@ -116,11 +116,11 @@
     "mfg_date": "2026-10-23"
   },
   {
-    "id": "26102310162",
+    "id": "26112710034",
     "brand": "오오오",
     "name": "오오오.클라라프릴팬츠",
     "price_sale": 28800,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1792736003/1_6_2181792736003.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/10C1795764256/1_10_3621795764256.jpg",
     "colors": [
       {
         "name": "핑크",
@@ -153,7 +153,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-10-23"
+    "mfg_date": "2026-11-27"
   },
   {
     "id": "26102310201",
@@ -404,11 +404,11 @@
     "mfg_date": "2026-10-23"
   },
   {
-    "id": "26102310368",
+    "id": "26112710030",
     "brand": "오오오",
     "name": "오오오.쪼르르티셔츠",
     "price_sale": 14400,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/33C1792736047/1_33_9021792736047.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/12C1795764259/1_12_9271795764259.jpg",
     "colors": [
       {
         "name": "블랙브라운",
@@ -445,7 +445,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-10-23"
+    "mfg_date": "2026-11-27"
   },
   {
     "id": "26102310374",
@@ -628,11 +628,11 @@
     "mfg_date": "2026-10-23"
   },
   {
-    "id": "26102310423",
+    "id": "26112710026",
     "brand": "오오오",
     "name": "오오오.기본티",
     "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/29C1792736038/1_29_4271792736038.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/14C1795764262/1_14_4921795764262.jpg",
     "colors": [
       {
         "name": "아이보리",
@@ -669,7 +669,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-10-23"
+    "mfg_date": "2026-11-27"
   },
   {
     "id": "26102310432",
@@ -992,11 +992,11 @@
     "mfg_date": "2026-10-23"
   },
   {
-    "id": "26102310515",
+    "id": "26112710032",
     "brand": "오오오",
     "name": "오오오.별똥별라글란티셔츠",
     "price_sale": 16000,
-    "thumbnail_url": "https://img2.kidsvillage.co.kr/20C1792736024/1_20_5861792736024.jpg",
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/11C1795764258/1_11_7441795764258.jpg",
     "colors": [
       {
         "name": "아이보리",
@@ -1033,7 +1033,7 @@
         "add_price": 0
       }
     ],
-    "mfg_date": "2026-10-23"
+    "mfg_date": "2026-11-27"
   },
   {
     "id": "26102310527",
@@ -1454,5 +1454,329 @@
       }
     ],
     "mfg_date": "2026-10-23"
+  },
+  {
+    "id": "26112710020",
+    "brand": "오오오",
+    "name": "오오오.호피나팔팬츠",
+    "price_sale": 20800,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/2C1795764239/1_2_5541795764239.jpg",
+    "colors": [
+      {
+        "name": "브라운",
+        "add_price": 0
+      },
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710016",
+    "brand": "오오오",
+    "name": "오오오.보석딸기티셔츠",
+    "price_sale": 19200,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/3C1795764241/1_3_4771795764241.jpg",
+    "colors": [
+      {
+        "name": "버터옐로우",
+        "add_price": 0
+      },
+      {
+        "name": "레드",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710012",
+    "brand": "오오오",
+    "name": "오오오.하트뽀글이조거팬츠",
+    "price_sale": 25600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/4C1795764244/1_4_6581795764244.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "아이보리",
+        "add_price": 0
+      },
+      {
+        "name": "퍼플",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710010",
+    "brand": "오오오",
+    "name": "오오오.로하스맨투맨",
+    "price_sale": 22400,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/5C1795764246/1_5_9461795764246.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "블루",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710008",
+    "brand": "오오오",
+    "name": "오오오.베이직반목폴라",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/6C1795764249/1_6_4591795764249.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "검정",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710006",
+    "brand": "오오오",
+    "name": "오오오.캔디스트라이프티셔츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/7C1795764251/1_7_8661795764251.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710004",
+    "brand": "오오오",
+    "name": "오오오.애플도트조끼",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/8C1795764252/1_8_2051795764252.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
+  },
+  {
+    "id": "26112710002",
+    "brand": "오오오",
+    "name": "오오오.애플도트조거팬츠",
+    "price_sale": 17600,
+    "thumbnail_url": "https://img2.kidsvillage.co.kr/9C1795764254/1_9_8991795764254.jpg",
+    "colors": [
+      {
+        "name": "핑크",
+        "add_price": 0
+      },
+      {
+        "name": "네이비",
+        "add_price": 0
+      }
+    ],
+    "sizes": [
+      {
+        "name": "XS",
+        "add_price": 0
+      },
+      {
+        "name": "S",
+        "add_price": 0
+      },
+      {
+        "name": "M",
+        "add_price": 0
+      },
+      {
+        "name": "L",
+        "add_price": 0
+      },
+      {
+        "name": "XL",
+        "add_price": 0
+      }
+    ],
+    "mfg_date": "2026-11-27"
   }
 ]
